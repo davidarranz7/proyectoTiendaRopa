@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>ZARA - Intermediario de Moda</title>
+    <link rel="stylesheet" href="/estilos/menu.css">
+    <link rel="stylesheet" href="/estilos/zara.css">
+</head>
+<body>
+
+    {% include 'menu.html' %}
+
+    <main class="seccion-zara">
+        <header class="header-zara">
+            <h1>ZARA</h1>
+            <p>TU ESCAPARATE INTERMEDIARIO</p>
+        </header>
+
+        <div class="contenedor-grid">
+            {% for producto in articulos %}
+            <article class="tarjeta-zara">
+
+                {% if producto.descuento %}
+                    <div class="tag-zara tag-oferta">OFERTA {{ producto.descuento }}</div>
+                {% else %}
+                    <div class="tag-zara tag-nuevo">NUEVA COLECCIÓN</div>
+                {% endif %}
+
+                <div class="img-wrapper">
+                    <a href="{{ producto.url }}" target="_blank">
+                        <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}">
+                    </a>
+                </div>
+
+                <div class="info-zara">
+                    <h3 class="nombre">{{ producto.nombre }}</h3>
+
+                    <div class="precios">
+                        {% if producto.descuento %}
+                            <span class="old">{{ producto.precio_original }}</span>
+                            <span class="current sale">{{ producto.precio_nuevo }}</span>
+                        {% else %}
+                            <span class="current">{{ producto.precio_nuevo }}</span>
+                        {% endif %}
+                    </div>
+
+                    <a href="{{ producto.url }}" class="link-zara" target="_blank">
+                        COMPRAR EN ZARA.COM <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </main>
+
+    <script src="/script/menu.js"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+/* Estilos para el contenedor principal de Moda */
+.seccion-ofertas {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.cabecera-ofertas {
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+.cabecera-ofertas h2 {
+    font-size: 1.8rem;
+    color: #222;
+}
+
+.cabecera-ofertas p {
+    color: #888;
+    font-size: 0.9rem;
+}
+
+/* La Rejilla */
+.contenedor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 25px;
+}
+
+/* La Tarjeta Individual */
+.tarjeta-producto {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    position: relative;
+    transition: transform 0.2s;
+    border: 1px solid #eee;
+}
+
+.tarjeta-producto:hover {
+    transform: translateY(-5px);
+}
+
+/* Etiquetas flotantes */
+.etiqueta-tienda {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 4px 8px;
+    font-size: 0.75rem;
+    border-radius: 4px;
+    z-index: 10;
+}
+
+.porcentaje-descuento {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #e74c3c;
+    color: white;
+    padding: 4px 8px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    border-radius: 4px;
+    z-index: 10;
+}
+
+/* Imagen */
+.imagen-contenedor img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+}
+
+/* Detalles del texto */
+.detalles {
+    padding: 15px;
+}
+
+.marca {
+    font-size: 0.75rem;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.nombre-prenda {
+    font-size: 1rem;
+    margin: 5px 0;
+    color: #333;
+    height: 40px; /* Para que todos los nombres midan lo mismo */
+    overflow: hidden;
+}
+
+.precios {
+    margin: 10px 0;
+}
+
+.precio-viejo {
+    text-decoration: line-through;
+    color: #bbb;
+    margin-right: 8px;
+}
+
+.precio-nuevo {
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+/* Botón */
+.boton-ir {
+    display: block;
+    text-align: center;
+    background: #222;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    transition: background 0.3s;
+}
+
+.boton-ir:hover {
+    background: #e74c3c;
+}

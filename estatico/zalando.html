@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MODA - Zalando Exclusive</title>
+    <link rel="stylesheet" href="/estilos/menu.css">
+    <link rel="stylesheet" href="/estilos/zalando.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    {% include 'menu.html' %}
+
+    <main class="seccion-tienda">
+        <div class="banner-tienda">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zalando_logo.svg/1200px-Zalando_logo.svg.png" alt="Zalando Logo" class="logo-tienda">
+            <p>Marcas premium y las últimas tendencias en un solo lugar.</p>
+        </div>
+
+        <div class="contenedor-grid" id="grid-zalando">
+            {% for producto in articulos %}
+            <article class="tarjeta-producto">
+                <div class="porcentaje-descuento">{{ producto.descuento }}</div>
+
+                <div class="imagen-contenedor">
+                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}">
+                </div>
+
+                <div class="detalles">
+                    <span class="marca">{{ producto.marca }}</span>
+                    <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+
+                    <div class="precios">
+                        <span class="precio-viejo">{{ producto.precio_original }}</span>
+                        <span class="precio-nuevo">{{ producto.precio_nuevo }}</span>
+                    </div>
+
+                    <a href="{{ producto.url }}" class="boton-ir" target="_blank">Comprar en Zalando</a>
+                </div>
+            </article>
+            {% else %}
+            <div class="cargando">
+                <p><i class="fas fa-sync fa-spin"></i> Conectando con el almacén de Zalando...</p>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+
+    <script src="/script/menu.js"></script>
+    <script src="/script/zalando.js"></script>
+</body>
+</html>
