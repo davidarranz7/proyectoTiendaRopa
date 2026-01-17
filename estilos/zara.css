@@ -1,112 +1,133 @@
-/* Cabecera estilo Zara */
+/* --- CABECERA --- */
 .header-zara {
     text-align: center;
-    padding: 60px 0; /* Un poco más de aire arriba */
-    letter-spacing: 12px; /* Más espaciado entre letras para lujo */
+    padding: 60px 0;
+    letter-spacing: 12px;
 }
 
 .header-zara h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     font-family: 'Times New Roman', serif;
     font-weight: 900;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .header-zara p {
-    font-size: 0.8rem;
-    color: #666;
-    font-weight: 300;
+    font-size: 0.7rem;
+    color: #888;
+    letter-spacing: 4px;
+    text-transform: uppercase;
 }
 
-/* Ajuste de la cuadrícula */
+/* --- BOTONERA --- */
+.botonera-zara {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.btn-directo {
+    background: none;
+    border: none;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 5px 0;
+    border-bottom: 1px solid transparent;
+}
+
+.btn-directo:hover {
+    border-bottom: 1px solid #000;
+}
+
+.btn-filtro-main {
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 8px 18px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+/* --- PANEL DE FILTRO FLOTANTE --- */
+#panel-filtros {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 500px;
+    background: #fff;
+    border: 1px solid #000;
+    box-shadow: 0px 15px 40px rgba(0,0,0,0.1);
+    z-index: 1000;
+    padding: 30px;
+    display: none;
+}
+
+/* --- GRID Y TARJETAS (CORREGIDO) --- */
 .contenedor-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* Un pelín más grandes para que se vean bien los 3 precios */
-    gap: 30px;
-    padding: 0 5%;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* Columnas estables */
+    gap: 40px;
+    padding: 40px 5%;
+    max-width: 1600px;
+    margin: 0 auto;
 }
 
 .tarjeta-zara {
     background: #fff;
-    border: none;
-    position: relative;
-    margin-bottom: 30px;
+    width: 100%; /* Obliga a ocupar su hueco en el grid */
+    display: flex;
+    flex-direction: column;
 }
 
-/* Etiquetas estilo minimalista */
-.tag-zara {
-    position: absolute;
-    top: 10px; /* Separado del borde */
-    left: 10px;
-    z-index: 10;
-    font-size: 0.55rem;
-    padding: 3px 6px;
-    letter-spacing: 1px;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-.tag-oferta { background: #be0000; color: #fff; }
-.tag-nuevo { background: #000; color: #fff; }
-
-/* Contenedor de imagen */
 .img-wrapper {
     aspect-ratio: 2 / 3;
     overflow: hidden;
-    background: #f7f7f7;
+    background: #f0f0f0;
 }
 
 .img-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.8s cubic-bezier(0.2, 1, 0.3, 1); /* Transición más suave */
 }
 
-.tarjeta-zara:hover img {
-    transform: scale(1.03);
-}
-
-/* Información del producto */
 .info-zara {
-    padding: 12px 0;
-    text-transform: uppercase;
-    font-size: 0.7rem;
+    padding: 15px 0;
+    text-align: left;
 }
 
 .info-zara .nombre {
-    font-weight: 400;
-    margin-bottom: 6px;
-    color: #000;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    margin-bottom: 8px;
     letter-spacing: 0.5px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis; /* Para que nombres largos no rompan la fila */
 }
 
 .precios {
     display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-    align-items: center;
+    gap: 10px;
+    font-size: 0.85rem;
 }
 
-.current { font-weight: bold; color: #000; }
+.current { font-weight: bold; }
 .sale { color: #be0000; }
-.old { text-decoration: line-through; color: #999; font-size: 0.65rem; margin-right: 2px; }
+.old { text-decoration: line-through; color: #999; font-size: 0.75rem; }
 
-.link-zara {
-    display: inline-block;
-    margin-top: 12px;
-    border-bottom: 1px solid #000;
-    text-decoration: none;
-    color: #000;
-    font-size: 0.6rem;
-    padding-bottom: 2px;
+.btn-confirmar {
+    display: block;
+    width: 100%;
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 15px;
+    margin-top: 20px;
     font-weight: bold;
-    transition: opacity 0.3s;
-}
-
-.link-zara:hover {
-    opacity: 0.6;
+    cursor: pointer;
 }
