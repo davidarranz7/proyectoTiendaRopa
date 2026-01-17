@@ -7,7 +7,6 @@
 
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/principal.css">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
@@ -24,28 +23,38 @@
 
             {% for producto in articulos %}
             <article class="tarjeta-producto">
-                <div class="etiqueta-tienda">{{ producto.tienda }}</div>
+                <div class="etiqueta-tienda">Zara</div>
+
+                {% if producto.descuento %}
                 <div class="porcentaje-descuento">{{ producto.descuento }}</div>
+                {% endif %}
 
                 <div class="imagen-contenedor">
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}">
+                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                 </div>
 
                 <div class="detalles">
-                    <span class="marca">{{ producto.marca }}</span>
+                    <span class="marca">ZARA</span>
                     <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
 
                     <div class="precios">
-                        <span class="precio-viejo">{{ producto.precio_original }}</span>
-                        <span class="precio-nuevo">{{ producto.precio_nuevo }}</span>
+                        {% if producto.precio_original %}
+                            <span class="precio-viejo">{{ producto.precio_original }}</span>
+                        {% endif %}
+
+                        {% if producto.precio_rebajado %}
+                            <span class="precio-viejo">{{ producto.precio_rebajado }}</span>
+                        {% endif %}
+
+                        <div class="precio-nuevo">{{ producto.precio_final }}</div>
                     </div>
 
-                    <a href="{{ producto.url }}" class="boton-ir" target="_blank">Ver en tienda</a>
+                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Ver en tienda</a>
                 </div>
             </article>
             {% else %}
             <div class="mensaje-carga">
-                <p><i class="fas fa-spinner fa-spin"></i> Buscando nuevos productos en Zalando...</p>
+                <p><i class="fas fa-spinner fa-spin"></i> No se han encontrado productos.</p>
             </div>
             {% endfor %}
 

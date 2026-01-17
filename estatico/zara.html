@@ -27,7 +27,7 @@
                 {% endif %}
 
                 <div class="img-wrapper">
-                    <a href="{{ producto.url }}" target="_blank">
+                    <a href="{{ producto.url_producto }}" target="_blank">
                         <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}">
                     </a>
                 </div>
@@ -36,15 +36,20 @@
                     <h3 class="nombre">{{ producto.nombre }}</h3>
 
                     <div class="precios">
-                        {% if producto.descuento %}
+                        {% if producto.precio_original %}
                             <span class="old">{{ producto.precio_original }}</span>
-                            <span class="current sale">{{ producto.precio_nuevo }}</span>
-                        {% else %}
-                            <span class="current">{{ producto.precio_nuevo }}</span>
                         {% endif %}
+
+                        {% if producto.precio_rebajado %}
+                            <span class="old">{{ producto.precio_rebajado }}</span>
+                        {% endif %}
+
+                        <span class="current {% if producto.descuento %}sale{% endif %}">
+                            {{ producto.precio_final }}
+                        </span>
                     </div>
 
-                    <a href="{{ producto.url }}" class="link-zara" target="_blank">
+                    <a href="{{ producto.url_producto }}" class="link-zara" target="_blank">
                         COMPRAR EN ZARA.COM <i class="fas fa-external-link-alt"></i>
                     </a>
                 </div>
