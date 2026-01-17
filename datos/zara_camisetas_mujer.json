@@ -120,18 +120,8 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA LAVADA BOLSILLO",
-        "imagen": "https://static.zara.net/assets/public/5fdc/a94d/4e164895b881/0db81f7cc5e1/04424628250-p/04424628250-p.jpg?ts=1754659541856&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-bolsillo-p04424628.html",
-        "precio_original": "12,95 EUR",
-        "precio_rebajado": "7,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "6,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA CUELLO BARCO ASIMÉTRICA",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/9b0f/fcf4/1f0c425cb15e/541a5f2d2a69/03641725914-a2/03641725914-a2.jpg?ts=1759306202579&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-asimetrica-p03641725.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -150,9 +140,29 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA CUELLO BOBO",
+        "nombre": "CAMISETA LAVADA BOLSILLO",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-soft-rib-p05039848.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-bolsillo-p04424628.html",
+        "precio_original": "12,95 EUR",
+        "precio_rebajado": "7,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "6,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA FLORES DELANTERO",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-flores-delantero-p01131862.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA CUELLO BOBO",
+        "imagen": "https://static.zara.net/assets/public/b53f/4d29/db954d15a6a3/b1adcbe2733c/03253809250-a1/03253809250-a1.jpg?ts=1755688580216&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-bobo-p03253809.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -161,8 +171,8 @@
     },
     {
         "nombre": "CAMISETA CUELLO BARCO",
-        "imagen": "https://static.zara.net/assets/public/d01b/71a0/3608471a974a/d6eb2f5a7330/01198462800-p/01198462800-p.jpg?ts=1755533121779&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-bobo-p03253809.html",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-p01198462.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -172,7 +182,7 @@
     {
         "nombre": "CAMISETA TEXTO BRILLOS LUDOVIC DE SAINT SERNIN X ZARA",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-p01198462.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-texto-brillos-ludovic-de-saint-sernin-x-zara-p01165923.html",
         "precio_original": "25,95 EUR",
         "precio_rebajado": "15,57 EUR",
         "descuento": "-50%*",
@@ -180,9 +190,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA OVERSIZE PUNTO CORTADO",
+        "nombre": "CAMISETA PUNTO CORTADO COMBINADA",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-brillos-ludovic-de-saint-sernin-x-zara-p01165923.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-cortado-combinada-p08779630.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
@@ -190,8 +200,8 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA PUNTO CORTADO COMBINADA",
-        "imagen": "",
+        "nombre": "CAMISETA OVERSIZE PUNTO CORTADO",
+        "imagen": "https://static.zara.net/assets/public/58a0/4899/034f40389f00/2fb60b63aa7b/01198459712-a3/01198459712-a3.jpg?ts=1755186506543&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-oversize-punto-cortado-p01198459.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
@@ -202,7 +212,7 @@
     {
         "nombre": "CAMISETA RIB RANGLÁN",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-larga-p01067634.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-ranglan-p06912629.html",
         "precio_original": "9,95 EUR",
         "precio_rebajado": "5,97 EUR",
         "descuento": "-50%*",
@@ -212,7 +222,7 @@
     {
         "nombre": "CAMISETA OVERSIZE MANGA LARGA",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-ranglan-p06912629.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-oversize-manga-larga-p00858804.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
@@ -221,16 +231,6 @@
     },
     {
         "nombre": "CAMISETA EFECTO DOBLE SOFT",
-        "imagen": "https://static.zara.net/assets/public/4658/afec/a4cd4d6d8c6a/e23d25ff944b/00085836753-p/00085836753-p.jpg?ts=1757517554420&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-bolsillo-p04424628.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA HEAVY COTTON",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-efecto-doble-soft-p00085836.html",
         "precio_original": "19,95 EUR",
@@ -240,9 +240,29 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ALGODÓN LAVADA",
+        "nombre": "CAMISETA HEAVY COTTON",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-heavy-cotton-p00264447.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA MANGA LARGA LAVADA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-manga-larga-lavada-p04174846.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA ALGODÓN LAVADA",
+        "imagen": "https://static.zara.net/assets/public/d820/2ad0/61624c988e04/64215068637b/02335155742-016-p/02335155742-016-p.jpg?ts=1754654833437&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-lavada-p02335155.html",
         "precio_original": "9,95 EUR",
         "precio_rebajado": "5,97 EUR",
         "descuento": "-50%*",
@@ -251,8 +271,8 @@
     },
     {
         "nombre": "JERSEY COMBINADO CHALECO",
-        "imagen": "https://static.zara.net/assets/public/b2c7/4fb3/c8db445e877b/5e1d41e000e8/05644942712-p/05644942712-p.jpg?ts=1761147660523&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-ranglan-algodon-p00858456.html",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/jersey-combinado-chaleco-p05644942.html",
         "precio_original": "25,95 EUR",
         "precio_rebajado": "15,57 EUR",
         "descuento": "-50%*",
@@ -261,16 +281,6 @@
     },
     {
         "nombre": "CAMISETA DOBLE ASIMÉTRICA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/jersey-combinado-chaleco-p05644942.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA MANGA LARGA LAVADA",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-doble-asimetrica-p05644853.html",
         "precio_original": "15,95 EUR",
@@ -281,16 +291,6 @@
     },
     {
         "nombre": "CAMISETA RÚSTICA ALGODÓN",
-        "imagen": "https://static.zara.net/assets/public/01d4/609f/e0e94eec8287/98bdbb45e16a/01044632742-p/01044632742-p.jpg?ts=1758271111060&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-modal-p03641702.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA DOBLE TIRANTES",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rustica-algodon-p01044632.html",
         "precio_original": "15,95 EUR",
@@ -300,9 +300,19 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA CUELLO BOBO BORDADO",
+        "nombre": "CAMISETA DOBLE TIRANTES",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-doble-tirantes-p01067451.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA CUELLO BOBO BORDADO",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-bobo-bordado-p01165808.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -320,9 +330,19 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "TOP TEXTO BRILLOS LUDOVIC DE SAINT SERNIN X ZARA",
+        "imagen": "https://static.zara.net/assets/public/8469/ec70/826146d6b540/ad84dfd86306/00264921800-e1/00264921800-e1.jpg?ts=1762792567242&w=455",
+        "url_producto": "https://www.zara.com/es/es/top-texto-brillos-ludovic-de-saint-sernin-x-zara-p00264921.html",
+        "precio_original": "25,95 EUR",
+        "precio_rebajado": "15,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "12,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA CORTA EFECTO DOBLE",
-        "imagen": "https://static.zara.net/assets/public/9f8d/8c66/f6b34d4882f3/ff5c5825dc8e/03641887803-a3/03641887803-a3.jpg?ts=1760089891965&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-lavada-p02335152.html",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-corta-efecto-doble-p03641887.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
@@ -330,19 +350,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "TOP TEXTO BRILLOS LUDOVIC DE SAINT SERNIN X ZARA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-corta-efecto-doble-p03641887.html",
-        "precio_original": "25,95 EUR",
-        "precio_rebajado": "15,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "12,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA TACTO SUAVE",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/top-texto-brillos-ludovic-de-saint-sernin-x-zara-p00264921.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tacto-suave-p04174821.html",
         "precio_original": "9,95 EUR",
         "precio_rebajado": "5,97 EUR",
         "descuento": "-50%*",
@@ -350,19 +360,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "JERSEY CAPA PUNTO CORTADO",
-        "imagen": "https://static.zara.net/assets/public/8679/815c/4def40c1a39a/d3a4a60a4da7/08779628085-p/08779628085-p.jpg?ts=1755186534890&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-mercerizado-p03641701.html",
-        "precio_original": "25,95 EUR",
-        "precio_rebajado": "15,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "12,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA ALGODÓN MERCERIZADO",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tacto-suave-p04174821.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-mercerizado-p03641701.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
@@ -371,8 +371,8 @@
     },
     {
         "nombre": "CAMISETA EFECTO LAVADO TACHAS",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lyocell-con-top-interior-p05644519.html",
+        "imagen": "https://static.zara.net/assets/public/c4e0/cae3/24204144b721/30d691d31e3e/06050041811-a1/06050041811-a1.jpg?ts=1763025962112&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-tachas-p06050041.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
@@ -381,8 +381,8 @@
     },
     {
         "nombre": "CAMISETA DOBLE RAYAS",
-        "imagen": "https://static.zara.net/assets/public/ac5f/57c3/96e34637b3d5/a5ba6255b27c/05644827086-p/05644827086-p.jpg?ts=1754498201236&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-tachas-p06050041.html",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-doble-rayas-p05644827.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -391,8 +391,8 @@
     },
     {
         "nombre": "CAMISETA RIB CUELLO BARCO",
-        "imagen": "https://static.zara.net/assets/public/a1a3/4ce1/ab1f410f88ac/aa7e88682aed/04730248401-015-a2/04730248401-015-a2.jpg?ts=1761664208561&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-bolsillo-p04424628.html",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-cuello-barco-p03253842.html",
         "precio_original": "9,95 EUR",
         "precio_rebajado": "5,97 EUR",
         "descuento": "-50%*",
@@ -400,19 +400,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ESCOTE PICO",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-mercerizado-p01165453.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA SOFT MAGA CORTA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-escote-pico-p04786453.html",
+        "imagen": "https://static.zara.net/assets/public/fa44/61e2/b2c54e3eaeb2/542827a114cc/00264254803-p/00264254803-p.jpg?ts=1756394390164&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-soft-maga-corta-p00264254.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
@@ -420,19 +410,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA FLOR VOLUMEN",
-        "imagen": "https://static.zara.net/assets/public/80a1/4f56/7761486085fc/76e6811bc566/01131858700-e1/01131858700-e1.jpg?ts=1757511840697&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-lavada-p02335152.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA EFECTO DOBLE DRAPEADA",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-soft-maga-corta-p00264254.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-efecto-doble-drapeada-p05644945.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -440,9 +420,19 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA FLOR VOLUMEN",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-flor-volumen-p01131858.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA DOBLE ALGODÓN SUPIMA®",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-brillos-ludovic-de-saint-sernin-x-zara-p00264920.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-doble-algodon-supima--p00264603.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -452,7 +442,7 @@
     {
         "nombre": "CAMISETA GRINCH™ NAVIDAD MANGA LARGA",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-doble-algodon-supima--p00264603.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-grinch--navidad-manga-larga-p00085023.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
@@ -462,7 +452,7 @@
     {
         "nombre": "CAMISETA CAPA RÚSTICA",
         "imagen": "https://static.zara.net/assets/public/3663/776b/f76542c1a784/348eebf82bc8/01058161064-a2/01058161064-a2.jpg?ts=1750417562279&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-ranglan-p06912629.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-capa-rustica-p01058161.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -470,19 +460,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISA COMBINADA CUADROS",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-capa-rustica-p01058161.html",
-        "precio_original": "22,95 EUR",
-        "precio_rebajado": "13,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "11,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA COMBINADA POPELÍN",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camisa-combinada-cuadros-p00264660.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-combinada-popelin-p03253812.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -490,8 +470,18 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISA COMBINADA CUADROS",
+        "imagen": "https://static.zara.net/assets/public/9124/3608/944a4102931e/84e7f475b613/00264660700-p/00264660700-p.jpg?ts=1759421990444&w=455",
+        "url_producto": "https://www.zara.com/es/es/camisa-combinada-cuadros-p00264660.html",
+        "precio_original": "22,95 EUR",
+        "precio_rebajado": "13,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "11,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA LYOCELL-LANA",
-        "imagen": "https://static.zara.net/assets/public/bdda/b42c/0c954e09b166/a0d2c0265cbe/05584459300-p/05584459300-p.jpg?ts=1762273745692&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-lyocell-lana-p05584459.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
@@ -511,7 +501,7 @@
     },
     {
         "nombre": "CAMISETA RIB MANGA CORTA",
-        "imagen": "https://static.zara.net/assets/public/32e9/3270/73a34b4293b5/5d019897b6f0/02335633822-p/02335633822-p.jpg?ts=1754555503569&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rib-manga-corta-p02335633.html",
         "precio_original": "9,95 EUR",
         "precio_rebajado": "5,97 EUR",
@@ -541,32 +531,12 @@
     },
     {
         "nombre": "CAMISETA CUELLO BARCO RIB",
-        "imagen": "https://static.zara.net/assets/public/a19c/97b3/066b4a14af92/3ab7bb3ce4ae/04786455082-p/04786455082-p.jpg?ts=1758723039042&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-rib-p04786455.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
         "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA ENTALLADA MANGA CORTA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-entallada-manga-corta-p04174325.html",
-        "precio_original": "8,95 EUR",
-        "precio_rebajado": "5,37 EUR",
-        "descuento": "-50%*",
-        "precio_final": "4,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA ENCAJE MANGA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-encaje-manga-p05070629.html",
-        "precio_original": "12,95 EUR",
-        "precio_rebajado": "7,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "6,47 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -580,6 +550,16 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA ENTALLADA MANGA CORTA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-entallada-manga-corta-p04174325.html",
+        "precio_original": "8,95 EUR",
+        "precio_rebajado": "5,37 EUR",
+        "descuento": "-50%*",
+        "precio_final": "4,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA RÚSTICA",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rustica-p04174695.html",
@@ -590,8 +570,28 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA CON LANA MANGA CORTA",
+        "nombre": "CAMISETA ENCAJE MANGA",
         "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-encaje-manga-p05070629.html",
+        "precio_original": "12,95 EUR",
+        "precio_rebajado": "7,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "6,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA WAFFLE ETIQUETA",
+        "imagen": "https://static.zara.net/assets/public/3094/1136/44bc476d9eeb/b921010edacc/03431633251-p/03431633251-p.jpg?ts=1758271122835&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-waffle-etiqueta-p03431633.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA CON LANA MANGA CORTA",
+        "imagen": "https://static.zara.net/assets/public/9565/237d/6cd9481c89f8/77f1121c7eb0/04786456712-p/04786456712-p.jpg?ts=1756911243169&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-con-lana-manga-corta-p04786456.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
@@ -600,18 +600,8 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ROSAS RELIEVE",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rosas-relieve-p01131803.html",
-        "precio_original": "17,95 EUR",
-        "precio_rebajado": "10,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "8,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA CUELLO CONTRASTE LAZO",
-        "imagen": "https://static.zara.net/assets/public/88ad/ac25/3cc947ffa758/e6a4583dd9b4/05644923250-e1/05644923250-e1.jpg?ts=1758281072380&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-contraste-lazo-p05644923.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
@@ -630,8 +620,18 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA LAZO DELANTERO",
+        "nombre": "CAMISETA ROSAS RELIEVE",
         "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rosas-relieve-p01131803.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA LAZO DELANTERO",
+        "imagen": "https://static.zara.net/assets/public/061d/ecdc/6f164be19bbc/59553b8b7029/01165837250-p/01165837250-p.jpg?ts=1756462102273&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-lazo-delantero-p01165837.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
@@ -650,13 +650,13 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ESTAMPADO TEXTO",
-        "imagen": "https://static.zara.net/assets/public/e7b5/bf6f/45b54fdd9159/5817592b03e2/00085844500-p/00085844500-p.jpg?ts=1756890348599&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-texto-p00085844.html",
-        "precio_original": "17,95 EUR",
-        "precio_rebajado": "10,77 EUR",
+        "nombre": "CAMISETA PERLAS MANGA CORTA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-perlas-manga-corta-p01165865.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
-        "precio_final": "8,97 EUR",
+        "precio_final": "9,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -667,6 +667,16 @@
         "precio_rebajado": "11,16 EUR",
         "descuento": "-40%*",
         "precio_final": "9,57 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO TEXTO",
+        "imagen": "https://static.zara.net/assets/public/e7b5/bf6f/45b54fdd9159/5817592b03e2/00085844500-p/00085844500-p.jpg?ts=1756890348599&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-texto-p00085844.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -681,7 +691,7 @@
     },
     {
         "nombre": "CAMISETA ESCOTE CUADRADO",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/28d5/5e5a/663142bb9741/42eb8255a946/05584303800-p/05584303800-p.jpg?ts=1754999056560&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-escote-cuadrado-p05584303.html",
         "precio_original": "8,95 EUR",
         "precio_rebajado": "5,37 EUR",
@@ -701,7 +711,7 @@
     },
     {
         "nombre": "CAMISETA TEXTO BORDADO",
-        "imagen": "https://static.zara.net/assets/public/c849/d737/535341c89617/4635cb116820/04805803251-p/04805803251-p.jpg?ts=1760975551059&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-texto-bordado-p04805803.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -710,8 +720,18 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA CROP POLIAMIDA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-crop-poliamida-p03641875.html",
+        "precio_original": "9,95 EUR",
+        "precio_rebajado": "5,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "4,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA EFECTO LAVADO TEXTO",
-        "imagen": "https://static.zara.net/assets/public/7eac/27c9/11a24c0fa6df/827bb4a528f6/03253004400-a1/03253004400-a1.jpg?ts=1757058724109&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-texto-p03253004.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -730,23 +750,23 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA SEX & THE CITY™",
-        "imagen": "https://static.zara.net/assets/public/98a7/acf1/642b4aeab934/15c0e1beb527/06050035250-p/06050035250-p.jpg?ts=1759334424046&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-sex---the-city--p06050035.html",
-        "precio_original": "17,95 EUR",
-        "precio_rebajado": "10,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "8,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA LAVADA WEDNESDAY©",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/fa23/14ff/19dd4928a5fe/c82d6f992745/06050037807-p/06050037807-p.jpg?ts=1760629324689&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-lavada-wednesday--p06050037.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
         "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA METALIZADA MANGA CORTA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-metalizada-manga-corta-p00085845.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -760,6 +780,26 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA VISCOSA MANGA CORTA",
+        "imagen": "https://static.zara.net/assets/public/6d44/bee9/951f41698db3/6ca8455c9c94/05584315300-a1/05584315300-a1.jpg?ts=1744365993959&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-viscosa-manga-corta-p05584315.html",
+        "precio_original": "8,95 EUR",
+        "precio_rebajado": "5,37 EUR",
+        "descuento": "-50%*",
+        "precio_final": "4,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA PALABRA DE HONOR FRUNCES",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-palabra-de-honor-frunces-p05644855.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA EFECTO LAVADO BRITNEY SPEARS©",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-britney-spears--p01277005.html",
@@ -770,39 +810,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA VISCOSA MANGA CORTA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-viscosa-manga-corta-p05584315.html",
-        "precio_original": "8,95 EUR",
-        "precio_rebajado": "5,37 EUR",
-        "descuento": "-50%*",
-        "precio_final": "4,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA TRICOT PERLA",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/f4fc/d2bc/35e144cbbff4/9ac40fc0f5cd/05644939250-p/05644939250-p.jpg?ts=1760011147246&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-tricot-perla-p05644939.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA MANGA CORTA RIB",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-corta-rib-p04174584.html",
-        "precio_original": "12,95 EUR",
-        "precio_rebajado": "7,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "6,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA SUPERPOSICIÓN CONTRASTE",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-superposicion-contraste-p04786452.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -820,13 +830,33 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA MANGA CORTA INTERLOCK",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-manga-corta-interlock-p01131860.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA VOLANTES DELANTEROS",
-        "imagen": "https://static.zara.net/assets/public/b910/bf54/acee4cd887f5/c9aa8a53ec8f/01131208300-a1/01131208300-a1.jpg?ts=1751900300412&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-volantes-delanteros-p01131208.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
         "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA SUPERPOSICIÓN CONTRASTE",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-superposicion-contraste-p04786452.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -837,6 +867,16 @@
         "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
         "precio_final": "6,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA ALGODÓN ESTAMPADA",
+        "imagen": "https://static.zara.net/assets/public/ce8f/6359/124541db8610/62a456331be6/00264817712-a1/00264817712-a1.jpg?ts=1758812139686&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-estampada-p00264817.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -851,7 +891,7 @@
     },
     {
         "nombre": "CAMISETA RÚSTICA TEXTO",
-        "imagen": "https://static.zara.net/assets/public/6de2/9d0d/454644e4a878/5e7e109abfd5/05643806063-a1/05643806063-a1.jpg?ts=1755683812229&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rustica-texto-p05643806.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -861,7 +901,7 @@
     },
     {
         "nombre": "CAMISETA LAVADA TEXTO",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/c35f/bbdf/76d04c5d95a4/549b381d70e3/05643222807-p/05643222807-p.jpg?ts=1749567243716&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-lavada-texto-p05643222.html",
         "precio_original": "8,95 EUR",
         "precio_rebajado": "5,37 EUR",
@@ -880,36 +920,6 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA SOFT FLOR",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-soft-flor-p01131848.html",
-        "precio_original": "22,95 EUR",
-        "precio_rebajado": "13,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "11,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA STRETCH RIB",
-        "imagen": "https://static.zara.net/assets/public/7b2c/45ed/bc9944ffb3b2/38d8031ee8a8/00858605800-p/00858605800-p.jpg?ts=1754298700513&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-stretch-rib-p00858605.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA CROP POLIAMIDA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-crop-poliamida-p03641875.html",
-        "precio_original": "9,95 EUR",
-        "precio_rebajado": "5,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "4,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA ALGODÓN RÚSTICO MANGA CORTA",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-algodon-rustico-manga-corta-p00858441.html",
@@ -920,8 +930,18 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA SOFT FLOR",
+        "imagen": "https://static.zara.net/assets/public/cbe7/b71e/aa8543f99aeb/7875e14e3af6/01131848800-p/01131848800-p.jpg?ts=1758725017808&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-soft-flor-p01131848.html",
+        "precio_original": "22,95 EUR",
+        "precio_rebajado": "13,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "11,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA BETTY BOOP® EFECTO LAVADO",
-        "imagen": "https://static.zara.net/assets/public/a3e1/ffb8/73ba4bd3884f/fe23d63bb1bc/04644002620-a1/04644002620-a1.jpg?ts=1753261620784&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-betty-boop--efecto-lavado-p04644002.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
@@ -930,8 +950,18 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ESTAMPADO DON CLEMENTE®",
+        "nombre": "CAMISETA STRETCH RIB",
         "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-stretch-rib-p00858605.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO DON CLEMENTE®",
+        "imagen": "https://static.zara.net/assets/public/f5ed/0f5f/a4fd4fd9b7b4/c98a9108dfc9/00085832619-p/00085832619-p.jpg?ts=1758120671123&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-estampado-don-clemente--p00085832.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
@@ -951,7 +981,7 @@
     },
     {
         "nombre": "CAMISETA ESTAMPADA TEXTO",
-        "imagen": "https://static.zara.net/assets/public/f87c/59ae/0a054130a4bc/3e7d9d49902c/00085825420-a1/00085825420-a1.jpg?ts=1754407626714&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-estampada-texto-p00085825.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
@@ -971,7 +1001,7 @@
     },
     {
         "nombre": "CAMISETA HILO METALIZADO TRICOT",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/5343/179c/5bd346baa05e/3bdfffa8d176/05644883303-p/05644883303-p.jpg?ts=1756916769618&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-hilo-metalizado-tricot-p05644883.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -987,6 +1017,16 @@
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
         "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA MANGA CORTA ETIQUETA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-manga-corta-etiqueta-p01165835.html",
+        "precio_original": "12,95 EUR",
+        "precio_rebajado": "7,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "6,47 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1010,16 +1050,6 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA MANGA CORTA ETIQUETA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-corta-etiqueta-p01165835.html",
-        "precio_original": "12,95 EUR",
-        "precio_rebajado": "7,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "6,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA RIB",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rib-p03641720.html",
@@ -1031,7 +1061,7 @@
     },
     {
         "nombre": "CAMISETA RÚSTICA FRUNCES",
-        "imagen": "https://static.zara.net/assets/public/3409/1dfc/69b3464f9150/f0afabb32df2/06912627104-p/06912627104-p.jpg?ts=1754659366599&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rustica-frunces-p06912627.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -1041,22 +1071,12 @@
     },
     {
         "nombre": "CAMISETA PARCHE BOLSILLO 50TH ANNIVERSARY",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/6ec0/c902/7b8c4c60a03b/f755bd2de6bf/00085011406-e1/00085011406-e1.jpg?ts=1749121966541&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-parche-bolsillo-50th-anniversary-p00085011.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
         "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA EFECTO LAVADO TITANIC",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-titanic-p01165841.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1071,12 +1091,22 @@
     },
     {
         "nombre": "CAMISETA TEXTO RIB",
-        "imagen": "https://static.zara.net/assets/public/d212/e275/c8184fb5a1ba/4960c8deb19c/00085804048-e1/00085804048-e1.jpg?ts=1752564165760&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-texto-rib-p00085804.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
         "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA EFECTO LAVADO TITANIC",
+        "imagen": "https://static.zara.net/assets/public/1285/b9f8/2c904c2f96fe/29059df30c43/01165841807-p/01165841807-p.jpg?ts=1756286764812&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-titanic-p01165841.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1130,6 +1160,16 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA RAYAS BROCHE ZARA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rayas-broche-zara-p05644803.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA RIB CONTRASTE TEXTO HARRY LAMBERT FOR ZARA X DISNEY",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-rib-contraste-texto-harry-lambert-for-zara-x-disney-p00085814.html",
@@ -1140,19 +1180,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA RAYAS BROCHE ZARA",
-        "imagen": "https://static.zara.net/assets/public/6665/da90/dcc14691bf79/f1a4cf38f64e/05644803104-p/05644803104-p.jpg?ts=1753799660958&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rayas-broche-zara-p05644803.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA RIB TEXTO",
-        "imagen": "https://static.zara.net/assets/public/36e3/79a4/9531453c8e3e/e173ac856874/0264802731-p/0264802731-p.jpg?ts=1755104662567&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-texto-p00264802.html",
+        "nombre": "CAMISETA ENTALLADA LAVADA",
+        "imagen": "https://static.zara.net/assets/public/767f/cb53/8379436fbe6b/2fee68b90726/04424627630-p/04424627630-p.jpg?ts=1754659461444&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-entallada-lavada-p04424627.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1160,9 +1190,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ENTALLADA LAVADA",
+        "nombre": "CAMISETA RIB TEXTO",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-entallada-lavada-p04424627.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-texto-p00264802.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1201,7 +1231,7 @@
     },
     {
         "nombre": "CAMISETA BILLIE EILISH BRAVADO™",
-        "imagen": "https://static.zara.net/assets/public/6a87/d58c/fa12417a9fd2/4dba4b92d114/01277003400-a1/01277003400-a1.jpg?ts=1751455511885&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-billie-eilish-bravado--p01277003.html",
         "precio_original": "22,95 EUR",
         "precio_rebajado": "13,77 EUR",
@@ -1211,22 +1241,12 @@
     },
     {
         "nombre": "CAMISETA TEXTO CUELLO TRICOT",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/6790/a3f5/cf4e47aca673/0eba5fe3930a/05644814250-p/05644814250-p.jpg?ts=1754039439455&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-texto-cuello-tricot-p05644814.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
         "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA RIB SELENA GOMEZ",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-selena-gomez-p01277009.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1240,16 +1260,6 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA TEXTO HARRY LAMBERT FOR ZARA X DISNEY",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-harry-lambert-for-zara-x-disney-p00085815.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA FLAMÉ TEXTO",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-flame-texto-p04174112.html",
@@ -1257,6 +1267,26 @@
         "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
         "precio_final": "6,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA RIB SELENA GOMEZ",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-selena-gomez-p01277009.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA TEXTO HARRY LAMBERT FOR ZARA X DISNEY",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-texto-harry-lambert-for-zara-x-disney-p00085815.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1350,6 +1380,16 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "JERSEY CAPA PUNTO CORTADO",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/jersey-capa-punto-cortado-p08779628.html",
+        "precio_original": "25,95 EUR",
+        "precio_rebajado": "15,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "12,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA CUELLO ALTO",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-alto-p02335643.html",
@@ -1391,7 +1431,7 @@
     },
     {
         "nombre": "CAMISETA ALGODÓN MODAL FRUNCES",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/cc04/b8a5/88834bc4b451/fa0d8f26ef31/03253829712-p/03253829712-p.jpg?ts=1760693043981&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-algodon-modal-frunces-p03253829.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1401,7 +1441,7 @@
     },
     {
         "nombre": "CAMISETA DOBLE CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/b063/9815/575046d29773/ad3f69e243cf/03641628700-p/03641628700-p.jpg?ts=1760457447375&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-doble-contraste-p03641628.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1430,6 +1470,26 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA TACHAS MANGA MUERCIÉLAGO",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tachas-manga-muercielago-p05584808.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA RIB ENCAJE",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-encaje-p05644451.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA LAVADA MANGA CAPA",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-lavada-manga-capa-p04424154.html",
@@ -1440,33 +1500,13 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA RIB ENCAJE",
-        "imagen": "https://static.zara.net/assets/public/8dd0/6870/5c7f40398ea2/3410e408a981/05644451251-p/05644451251-p.jpg?ts=1752237985584&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-encaje-p05644451.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
+        "nombre": "TOP MANGA SISA",
+        "imagen": "https://static.zara.net/assets/public/248b/102b/02c34891843c/b1fd1dddfcef/02335151624-a1/02335151624-a1.jpg?ts=1750416803669&w=455",
+        "url_producto": "https://www.zara.com/es/es/top-manga-sisa-p02335151.html",
+        "precio_original": "9,95 EUR",
+        "precio_rebajado": "5,97 EUR",
         "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA FLORES DELANTERO",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-flores-delantero-p01131862.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA PERLAS MANGA CORTA",
-        "imagen": "https://static.zara.net/assets/public/3596/f641/501c434ebbde/ded4ac2a9ed5/01165865700-p/01165865700-p.jpg?ts=1761143287620&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-perlas-manga-corta-p01165865.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
+        "precio_final": "4,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1490,18 +1530,8 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "TOP MANGA SISA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/top-manga-sisa-p02335151.html",
-        "precio_original": "9,95 EUR",
-        "precio_rebajado": "5,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "4,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA RIB MANGA ACAMPANADA",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/2b79/4ff9/a10d417ea796/d46bae393dd1/01044633803-p/01044633803-p.jpg?ts=1760097675012&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-rib-manga-acampanada-p01044633.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1513,6 +1543,16 @@
         "nombre": "CAMISETA FLOR DELANTERO",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-flor-delantero-p01165839.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA INTERLOCK EFECTO LAVADO",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-interlock-efecto-lavado-p04174190.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -1550,16 +1590,6 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA WAFFLE ETIQUETA",
-        "imagen": "https://static.zara.net/assets/public/3094/1136/44bc476d9eeb/b921010edacc/03431633251-p/03431633251-p.jpg?ts=1758271122835&w=455",
-        "url_producto": "https://www.zara.com/es/es/camiseta-waffle-etiqueta-p03431633.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA HILO METALIZADO",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-hilo-metalizado-p05644872.html",
@@ -1571,7 +1601,7 @@
     },
     {
         "nombre": "CAMISETA EFECTO LAVADO",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/fbe1/00f7/0f944f52b95f/d22b6ce7c4e5/03253112620-p/03253112620-p.jpg?ts=1754655633899&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-p03253112.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1580,13 +1610,13 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA PAÑUELO MANGA LARGA",
+        "nombre": "CAMISETA MANGA CORTA RIB",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-panuelo-manga-larga-p00858713.html",
-        "precio_original": "17,95 EUR",
-        "precio_rebajado": "10,77 EUR",
+        "url_producto": "https://www.zara.com/es/es/camiseta-manga-corta-rib-p04174584.html",
+        "precio_original": "12,95 EUR",
+        "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
-        "precio_final": "8,97 EUR",
+        "precio_final": "6,47 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1601,7 +1631,7 @@
     },
     {
         "nombre": "CAMISETA MANGA VOLANTE",
-        "imagen": "https://static.zara.net/assets/public/0bb0/0943/b7e24cc1911e/6114c21d8f83/02335642800-p/02335642800-p.jpg?ts=1760011139150&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-manga-volante-p02335642.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1611,7 +1641,7 @@
     },
     {
         "nombre": "CAMISETA CUELLO PICO",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/c5ba/2022/55674ffcbc35/edd12080ef3f/04174761700-p/04174761700-p.jpg?ts=1761062087132&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-pico-p04174761.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -1620,9 +1650,29 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA TUL CUELLO PERKINS",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tul-cuello-perkins-p05039467.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA CON ALGODÓN TEXTO",
         "imagen": "https://static.zara.net/assets/public/8984/1d84/9780490b90c2/a6477c2f01c9/04174018803-a1/04174018803-a1.jpg?ts=1756220516804&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-con-algodon-texto-p04174018.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA JOYA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-joya-p01165821.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
@@ -1650,9 +1700,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA PALABRA DE HONOR FRUNCES",
+        "nombre": "CAMISETA ESCOTE PICO",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-palabra-de-honor-frunces-p05644855.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-escote-pico-p04786453.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1660,19 +1710,19 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA TUL CUELLO PERKINS",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tul-cuello-perkins-p05039467.html",
-        "precio_original": "17,95 EUR",
-        "precio_rebajado": "10,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "8,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA EFECTO LAVADO NIRVANA©",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-nirvana--p02160010.html",
+        "precio_original": "19,95 EUR",
+        "precio_rebajado": "11,97 EUR",
+        "descuento": "-50%*",
+        "precio_final": "9,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA MEANGIRLS™ MANGA LARGA",
+        "imagen": "https://static.zara.net/assets/public/251f/3500/d1e6427abf62/6dcbcc593242/06050048620-e1/06050048620-e1.jpg?ts=1762429034368&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-meangirls--manga-larga-p06050048.html",
         "precio_original": "19,95 EUR",
         "precio_rebajado": "11,97 EUR",
         "descuento": "-50%*",
@@ -1690,8 +1740,28 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "MANGUITOS FELPA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/manguitos-felpa-p04813806.html",
+        "precio_original": "22,95 EUR",
+        "precio_rebajado": "13,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "11,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA CUELLO BARCO ALGODÓN",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-algodon-p05644675.html",
+        "precio_original": "12,95 EUR",
+        "precio_rebajado": "7,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "6,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA CORAZÓN RELIEVE",
-        "imagen": "https://static.zara.net/assets/public/29be/3307/8d2a49d08287/b5e4b6ce8094/01131801250-p/01131801250-p.jpg?ts=1752163422482&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-corazon-relieve-p01131801.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -1710,28 +1780,8 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA CUELLO BARCO ALGODÓN",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-algodon-p05644675.html",
-        "precio_original": "12,95 EUR",
-        "precio_rebajado": "7,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "6,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA MANGA CORTA INTERLOCK",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-corta-interlock-p01131860.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA INTERLOCK MANGA CORTA",
-        "imagen": "https://static.zara.net/assets/public/549b/dc60/3fe8427982aa/ec344881d2d4/04174378540-p/04174378540-p.jpg?ts=1751900313909&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-interlock-manga-corta-p04174378.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1740,18 +1790,8 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA METALIZADA MANGA CORTA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-metalizada-manga-corta-p00085845.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "CAMISETA LAZO CONTRASTE",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/97ec/7c78/347a48deaab8/b7e46e226d45/01165802250-a1/01165802250-a1.jpg?ts=1751455510788&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-lazo-contraste-p01165802.html",
         "precio_original": "17,95 EUR",
         "precio_rebajado": "10,77 EUR",
@@ -1771,12 +1811,22 @@
     },
     {
         "nombre": "CAMISETA REGULAR ROTOS",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/fc33/b02a/de914605a9e4/3ebc96349ab2/00858813250-p/00858813250-p.jpg?ts=1754644967038&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-regular-rotos-p00858813.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
         "descuento": "-50%*",
         "precio_final": "6,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA SEX & THE CITY™",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-sex---the-city--p06050035.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
@@ -1790,8 +1840,18 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CHAQUETA CUELLO ALTO SOFT",
+        "imagen": "https://static.zara.net/assets/public/f8ed/4811/485f4f508022/226b3858d894/05070457807-a1/05070457807-a1.jpg?ts=1759322081258&w=455",
+        "url_producto": "https://www.zara.com/es/es/chaqueta-cuello-alto-soft-p05070457.html",
+        "precio_original": "22,95 EUR",
+        "precio_rebajado": "13,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "11,47 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA ALGODÓN CUELLO BARCO",
-        "imagen": "https://static.zara.net/assets/public/23b5/ae80/257e4faf97ed/aee530f20e0e/04174712712-p/04174712712-p.jpg?ts=1753184925659&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-algodon-cuello-barco-p04174712.html",
         "precio_original": "12,95 EUR",
         "precio_rebajado": "7,77 EUR",
@@ -1810,29 +1870,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "SUDADERA BÁSICA ALGODÓN",
+        "nombre": "CAMISETA ALGODÓN",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/sudadera-basica-algodon-p03199800.html",
-        "precio_original": "17,95 EUR",
-        "precio_rebajado": "10,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "8,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CHAQUETA CUELLO ALTO SOFT",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/chaqueta-cuello-alto-soft-p05070457.html",
-        "precio_original": "22,95 EUR",
-        "precio_rebajado": "13,77 EUR",
-        "descuento": "-50%*",
-        "precio_final": "11,47 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA FLOR CONTRASTE",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-flor-contraste-p01165884.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-p04174803.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1840,19 +1880,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA ALGODÓN ESTAMPADA",
+        "nombre": "CAMISETA FLOR CONTRASTE",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-algodon-estampada-p00264817.html",
-        "precio_original": "19,95 EUR",
-        "precio_rebajado": "11,97 EUR",
-        "descuento": "-50%*",
-        "precio_final": "9,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA BROCHE",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-broche-p01165197.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-flor-contraste-p01165884.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1900,9 +1930,19 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA OVERSIZE TEXTO",
+        "nombre": "CAMISETA CAPA",
+        "imagen": "https://static.zara.net/assets/public/8b6b/c7dc/39e74ea6ac45/b9c1504cbac2/00858814250-p/00858814250-p.jpg?ts=1754644967206&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-capa-p00858814.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
+        "descuento": "-50%*",
+        "precio_final": "8,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPACIÓN METALIZADA",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-oversize-texto-p00264801.html",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampacion-metalizada-p00264814.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1911,7 +1951,7 @@
     },
     {
         "nombre": "CAMISETA CUELLO BARCO ETIQUETA",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/167f/8e37/3a754c0abc83/30e366399b30/04424631250-p/04424631250-p.jpg?ts=1758209842963&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-barco-etiqueta-p04424631.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -1921,8 +1961,18 @@
     },
     {
         "nombre": "CAMISETA REGULAR FIT ETIQUETA",
-        "imagen": "https://static.zara.net/assets/public/88a0/cde8/e777459094cf/19e88b364165/01165844250-a1/01165844250-a1.jpg?ts=1755187408658&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-regular-fit-etiqueta-p01165844.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA OVERSIZE TEXTO",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-oversize-texto-p00264801.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -1940,6 +1990,16 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "CAMISETA RAYAS PARCHE HARRY LAMBERT FOR ZARA X DISNEY",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rayas-parche-harry-lambert-for-zara-x-disney-p00858816.html",
+        "precio_original": "25,95 EUR",
+        "precio_rebajado": "15,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "12,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "CAMISETA CANALÉ MANGA LARGA",
         "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-canale-manga-larga-p04174745.html",
@@ -1950,18 +2010,18 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA MANGA SISA EFECTO LAVADO",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-sisa-efecto-lavado-p03253347.html",
-        "precio_original": "9,95 EUR",
-        "precio_rebajado": "5,97 EUR",
+        "nombre": "CAMISETA CON ALGODÓN - LINO",
+        "imagen": "https://static.zara.net/assets/public/3dc3/c01c/b7f14253af27/cf6cff9fc51b/04174670822-p/04174670822-p.jpg?ts=1752656936525&w=455",
+        "url_producto": "https://www.zara.com/es/es/camiseta-con-algodon---lino-p04174670.html",
+        "precio_original": "17,95 EUR",
+        "precio_rebajado": "10,77 EUR",
         "descuento": "-50%*",
-        "precio_final": "4,97 EUR",
+        "precio_final": "8,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
         "nombre": "CAMISETA VIVOS BROCHE ZARA",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/118e/f949/dd8f4645a382/8006b6c1c77a/05644807250-p/05644807250-p.jpg?ts=1753799578374&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-vivos-broche-zara-p05644807.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
@@ -1991,8 +2051,18 @@
     },
     {
         "nombre": "CAMISETA ALGODÓN LAZADAS",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/9acc/d85e/4d35487f828c/e66ceef1559a/00264023250-p/00264023250-p.jpg?ts=1753200423450&w=455",
         "url_producto": "https://www.zara.com/es/es/camiseta-algodon-lazadas-p00264023.html",
+        "precio_original": "15,95 EUR",
+        "precio_rebajado": "9,57 EUR",
+        "descuento": "-50%*",
+        "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA LAZOS",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-lazos-p01165801.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
@@ -2011,7 +2081,7 @@
     },
     {
         "nombre": "CAMISETA ESCOTE REDONDO",
-        "imagen": "https://static.zara.net/assets/public/527a/83de/15874d7d94b1/688c02279534/04174320104-p/04174320104-p.jpg?ts=1745489735885&w=455",
+        "imagen": "",
         "url_producto": "https://www.zara.com/es/es/camiseta-escote-redondo-p04174320.html",
         "precio_original": "7,95 EUR",
         "precio_rebajado": "4,77 EUR",
@@ -2020,33 +2090,33 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "CAMISETA LAZOS",
+        "nombre": "CAMISETA RAYAS PARCHE DAISY DUCK HARRY LAMBERT FOR ZARA X DISNEY",
         "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lazos-p01165801.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rayas-parche-daisy-duck-harry-lambert-for-zara-x-disney-p00858817.html",
+        "precio_original": "25,95 EUR",
+        "precio_rebajado": "15,57 EUR",
         "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPACIÓN METALIZADA",
-        "imagen": "",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampacion-metalizada-p00264814.html",
-        "precio_original": "15,95 EUR",
-        "precio_rebajado": "9,57 EUR",
-        "descuento": "-50%*",
-        "precio_final": "7,97 EUR",
+        "precio_final": "12,97 EUR",
         "categoria": "camisetas_mujer"
     },
     {
         "nombre": "CAMISETA EFECTO LAVADO ROTOS",
-        "imagen": "",
+        "imagen": "https://static.zara.net/assets/public/a04d/79c0/ce41457087bf/aa10ea673b7c/T9901670542-p/T9901670542-p.jpg?ts=1756220991628&w=468",
         "url_producto": "https://www.zara.com/es/es/camiseta-efecto-lavado-rotos-p05643001.html",
         "precio_original": "15,95 EUR",
         "precio_rebajado": "9,57 EUR",
         "descuento": "-50%*",
         "precio_final": "7,97 EUR",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "CAMISETA CROP LISA",
+        "imagen": "",
+        "url_producto": "https://www.zara.com/es/es/camiseta-crop-lisa-p02335353.html",
+        "precio_original": "6,95 EUR",
+        "precio_rebajado": "4,17 EUR",
+        "descuento": "-50%*",
+        "precio_final": "3,47 EUR",
         "categoria": "camisetas_mujer"
     }
 ]

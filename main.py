@@ -8,19 +8,15 @@ import os
 
 app = FastAPI()
 
-# 1. Configuración de carpetas para recursos
 app.mount("/estilos", StaticFiles(directory="estilos"), name="estilos")
 app.mount("/script", StaticFiles(directory="script"), name="script")
 templates = Jinja2Templates(directory="estatico")
 
 
-# 2. Función para leer los JSON locales
 def cargar_datos_tienda(nombre_archivo):
     ruta = os.path.join("datos", nombre_archivo)
     if not os.path.exists(ruta):
-        print(f"⚠️ Advertencia: No se encontró el archivo {ruta}")
         return []
-
     try:
         with open(ruta, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -29,31 +25,60 @@ def cargar_datos_tienda(nombre_archivo):
         return []
 
 
-# --- RUTAS DE NAVEGACIÓN ---
+# --- NUEVA FUNCIÓN PARA AGREGAR TODAS LAS TIENDAS ---
+def cargar_todos_los_chollos():
+    todos_los_productos = []
+    CARPETA_DATOS = "datos"
+
+    if not os.path.exists(CARPETA_DATOS):
+        return []
+
+    # Busca cada archivo que termine en _total.json (zara_total, bershka_total, etc.)
+    for archivo in os.listdir(CARPETA_DATOS):
+        if archivo.endswith("_total.json"):
+            productos = cargar_datos_tienda(archivo)
+            todos_los_productos.extend(productos)
+
+    return todos_los_productos
+
+
+# --- RUTAS ---
 
 @app.get("/", response_class=HTMLResponse)
 async def inicio(request: Request):
-    """Muestra todo el contenido disponible (Zara total)."""
-    # Por ahora solo tienes Zara, cargamos el total
     articulos = cargar_datos_tienda("zara_total.json")
     return templates.TemplateResponse("principal.html", {"request": request, "articulos": articulos})
 
 
 @app.get("/zara", response_class=HTMLResponse)
 async def ver_zara(request: Request):
-    """Ruta específica para la tienda Zara."""
     articulos = cargar_datos_tienda("zara_total.json")
     return templates.TemplateResponse("zara.html", {"request": request, "articulos": articulos})
 
 
 @app.get("/ofertas", response_class=HTMLResponse)
 async def ofertas(request: Request):
-    """Filtra productos que tengan algún indicio de oferta."""
-    todos = cargar_datos_tienda("zara_total.json")
-    # Filtro básico: si el precio contiene algún símbolo o palabra de oferta
-    solo_chollos = [p for p in todos if "oferta" in p.get("nombre", "").lower()]
-    return templates.TemplateResponse("ofertas.html", {"request": request, "articulos": solo_chollos})
+    """Carga todos los chollos de cualquier tienda en la carpeta datos."""
+    solo_chollos = []
+    CARPETA_DATOS = "datos"
 
+    if os.path.exists(CARPETA_DATOS):
+        for archivo in os.listdir(CARPETA_DATOS):
+            if archivo.endswith("_total.json"):
+                productos = cargar_datos_tienda(archivo)
+                for p in productos:
+                    # Filtro: Solo si hay descuento escrito o el precio bajó
+                    desc = p.get("descuento")
+                    p_orig = p.get("precio_original")
+                    p_final = p.get("precio_final")
+
+                    if (desc and desc != "") or (p_orig and p_orig != p_final):
+                        # Detecta la tienda por el nombre del archivo
+                        if not p.get("tienda"):
+                            p["tienda"] = archivo.replace("_total.json", "").capitalize()
+                        solo_chollos.append(p)
+
+    return templates.TemplateResponse("ofertas.html", {"request": request, "articulos": solo_chollos})
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)

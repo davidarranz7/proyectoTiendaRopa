@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MODA - Solo Ofertas</title>
+    <title>MODA - Chollos Seleccionados</title>
 
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/principal.css">
@@ -15,43 +15,64 @@
     {% include 'menu.html' %}
 
     <main class="seccion-ofertas">
-        <div class="cabecera-ofertas" style="background: #ff4757; color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-            <h2><i class="fas fa-tag"></i> ¡Zona de Chollos Zalando!</h2>
-            <p>Aquí solo verás productos que tienen descuento aplicado.</p>
+        <div class="cabecera-ofertas" style="background: #1a1a1a; color: white; padding: 30px; border-radius: 8px; margin-bottom: 20px; text-align: center;">
+            <h2 style="letter-spacing: 2px; text-transform: uppercase;">
+                <i class="fas fa-fire"></i> Grandes Chollos
+            </h2>
+            <p style="opacity: 0.8;">Zara • Mango • Pull&Bear • Bershka • Stradivarius</p>
         </div>
 
-        <div class="contenedor-grid">
+        <div class="controles-ofertas" style="margin-bottom: 20px; display: flex; justify-content: flex-end; gap: 10px;">
+            <span style="align-self: center; font-size: 0.9rem; color: #666;">Ordenar por precio:</span>
+            <button id="btn-asc" class="btn-orden">
+                <i class="fas fa-sort-amount-down-alt"></i> Menor a Mayor
+            </button>
+            <button id="btn-desc" class="btn-orden">
+                <i class="fas fa-sort-amount-down"></i> Mayor a Menor
+            </button>
+        </div>
+
+        <div class="contenedor-grid" id="grid-ofertas">
             {% for producto in articulos %}
-            <article class="tarjeta-producto">
+            <article class="tarjeta-producto" data-precio="{{ producto.precio_final }}">
+
                 <div class="etiqueta-tienda">{{ producto.tienda }}</div>
+
+                {% if producto.descuento %}
                 <div class="porcentaje-descuento">{{ producto.descuento }}</div>
+                {% endif %}
 
                 <div class="imagen-contenedor">
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}">
+                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                 </div>
 
                 <div class="detalles">
-                    <span class="marca">{{ producto.marca }}</span>
+                    <span class="marca">{{ producto.marca if producto.marca else 'REBAJAS' }}</span>
                     <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
 
                     <div class="precios">
-                        <span class="precio-viejo">{{ producto.precio_original }}</span>
-                        <span class="precio-nuevo" style="color: #ff4757; font-weight: bold;">{{ producto.precio_nuevo }}</span>
+                        {% if producto.precio_original %}
+                            <span class="precio-viejo">{{ producto.precio_original }}</span>
+                        {% endif %}
+
+                        <span class="precio-nuevo" style="color: #eb001b; font-weight: bold;">
+                            {{ producto.precio_final }}
+                        </span>
                     </div>
 
-                    <a href="{{ producto.url }}" class="boton-ir" target="_blank">¡Lo quiero!</a>
+                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">¡Lo quiero!</a>
                 </div>
             </article>
             {% else %}
-            <div class="sin-datos">
-                <p><i class="fas fa-search-minus"></i> No hay ofertas disponibles en este momento...</p>
+            <div class="sin-datos" style="grid-column: 1 / -1; text-align: center; padding: 50px;">
+                <p><i class="fas fa-search-minus"></i> No se han encontrado chollos activos en este momento.</p>
             </div>
             {% endfor %}
         </div>
     </main>
 
     <script src="/script/menu.js"></script>
-    <script src="/script/ofertas.js"></script>
+    <script src="/script/ofertas_v2.js"></script>
 
 </body>
 </html>
