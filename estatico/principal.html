@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moda - Catálogo de Productos</title>
+    <title>MODA - Tu Inteligencia de Chollos</title>
 
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/principal.css">
@@ -13,56 +13,46 @@
 
     {% include 'menu.html' %}
 
-    <main class="seccion-ofertas">
-        <div class="cabecera-ofertas">
-            <h2>Todos los Productos</h2>
-            <p>Explora las últimas novedades y chollos de tus tiendas favoritas</p>
-        </div>
-
-        <div class="contenedor-grid" id="grid-productos">
-
-            {% for producto in articulos %}
-            <article class="tarjeta-producto">
-                <div class="etiqueta-tienda">Zara</div>
-
-                {% if producto.descuento %}
-                <div class="porcentaje-descuento">{{ producto.descuento }}</div>
-                {% endif %}
-
-                <div class="imagen-contenedor">
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                </div>
-
-                <div class="detalles">
-                    <span class="marca">ZARA</span>
-                    <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
-
-                    <div class="precios">
-                        {% if producto.precio_original %}
-                            <span class="precio-viejo">{{ producto.precio_original }}</span>
-                        {% endif %}
-
-                        {% if producto.precio_rebajado %}
-                            <span class="precio-viejo">{{ producto.precio_rebajado }}</span>
-                        {% endif %}
-
-                        <div class="precio-nuevo">{{ producto.precio_final }}</div>
-                    </div>
-
-                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Ver en tienda</a>
-                </div>
-            </article>
-            {% else %}
-            <div class="mensaje-carga">
-                <p><i class="fas fa-spinner fa-spin"></i> No se han encontrado productos.</p>
+    <header class="hero-section">
+        <div class="hero-content">
+            <h1>ENCUENTRA TU ESTILO AL MEJOR PRECIO</h1>
+            <p>Rastreamos las mejores tiendas de moda para que tú solo tengas que elegir.</p>
+            <div class="hero-buttons">
+                <a href="/ofertas" class="btn-principal">Ver Chollos de Hoy</a>
+                <a href="/zara" class="btn-secundario">Explorar Zara</a>
             </div>
-            {% endfor %}
-
         </div>
-    </main>
+    </header>
+
+    <section class="propuesta-valor">
+        <div class="info-card">
+            <i class="fas fa-search-dollar"></i>
+            <h3>Rastreo Inteligente</h3>
+            <p>Escaneamos Zara, Mango y Zalando cada hora buscando bajadas de precio reales.</p>
+        </div>
+        <div class="info-card">
+            <i class="fas fa-filter"></i>
+            <h3>Filtros Avanzados</h3>
+            <p>Encuentra exactamente lo que buscas por categoría, género o porcentaje de descuento.</p>
+        </div>
+        <div class="info-card">
+            <i class="fas fa-bolt"></i>
+            <h3>Actualización Instantánea</h3>
+            <p>Si está rebajado en la tienda oficial, lo verás aquí antes que nadie.</p>
+        </div>
+    </section>
+
+    <section class="tiendas-destacadas">
+        <h2>Tiendas Disponibles</h2>
+        <div class="grid-tiendas">
+            <a href="/zara" class="tienda-link">ZARA</a>
+            <a href="/zalando" class="tienda-link">ZALANDO</a>
+            <a href="/pullandbear" class="tienda-link">PULL & BEAR</a>
+            <a href="/mango" class="tienda-link">MANGO</a>
+        </div>
+    </section>
 
     <script src="/script/menu.js"></script>
     <script src="/script/principal.js"></script>
-
-</body>
+    </body>
 </html>

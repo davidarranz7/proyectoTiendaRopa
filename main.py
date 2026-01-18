@@ -46,8 +46,7 @@ def cargar_todos_los_chollos():
 
 @app.get("/", response_class=HTMLResponse)
 async def inicio(request: Request):
-    articulos = cargar_datos_tienda("zara_total.json")
-    return templates.TemplateResponse("principal.html", {"request": request, "articulos": articulos})
+    return templates.TemplateResponse("principal.html", {"request": request})
 
 
 @app.get("/zara", response_class=HTMLResponse)

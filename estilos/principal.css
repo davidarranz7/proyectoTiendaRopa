@@ -1,115 +1,148 @@
-/* Estilos para el contenedor principal */
-.seccion-ofertas {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 20px;
+/* --- LIMPIEZA Y FUENTES --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.cabecera-ofertas {
-    margin-bottom: 30px;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
-}
-
-/* La Rejilla */
-.contenedor-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 25px;
-}
-
-/* La Tarjeta */
-.tarjeta-producto {
-    background: white;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    position: relative;
-    transition: transform 0.2s;
-    border: 1px solid #eee;
-    display: flex;
-    flex-direction: column;
-}
-
-.tarjeta-producto:hover {
-    transform: translateY(-5px);
-}
-
-/* Descuento estilo Zara */
-.porcentaje-descuento {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background: #00ff5f; /* Verde brillante como en tu captura */
+body {
+    background-color: #ffffff;
+    font-family: 'Times New Roman', serif; /* Mantengo tu estilo Zara */
     color: #000;
-    padding: 4px 10px;
-    font-size: 0.85rem;
-    font-weight: bold;
-    z-index: 10;
 }
 
-/* Imagen */
-.imagen-contenedor img {
-    width: 100%;
-    height: 350px;
-    object-fit: cover;
-    display: block;
-}
-
-/* Detalles */
-.detalles {
-    padding: 15px;
-    flex-grow: 1;
+/* --- SECCIÓN HERO (Banner de entrada) --- */
+.hero-section {
+    height: 70vh; /* Ocupa el 70% de la pantalla */
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+                url('https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center;
     display: flex;
-    flex-direction: column;
-}
-
-.nombre-prenda {
-    font-size: 0.95rem;
-    margin-bottom: 10px;
-    color: #333;
-    text-transform: uppercase;
-    font-weight: 500;
-}
-
-/* Lógica de Precios */
-.precios {
-    margin-bottom: 15px;
-    display: flex;
-    flex-wrap: wrap;
     align-items: center;
-    gap: 5px;
-}
-
-.precio-viejo {
-    text-decoration: line-through;
-    color: #888;
-    font-size: 0.85rem;
-}
-
-.precio-nuevo {
-    width: 100%; /* El precio final ocupa su propia línea si es necesario */
-    color: #d9534f;
-    font-weight: bold;
-    font-size: 1.2rem;
-    margin-top: 2px;
-}
-
-/* Botón */
-.boton-ir {
-    display: block;
+    justify-content: center;
     text-align: center;
-    background: #1a1a1a;
     color: white;
-    text-decoration: none;
-    padding: 12px;
-    border-radius: 4px;
-    font-size: 0.9rem;
-    font-weight: bold;
-    transition: background 0.3s;
-    margin-top: auto;
 }
 
-.boton-ir:hover {
-    background: #eb001b;
+.hero-content h1 {
+    font-size: 3.5rem;
+    letter-spacing: 10px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.hero-content p {
+    font-size: 1rem;
+    letter-spacing: 3px;
+    margin-bottom: 40px;
+    font-weight: 300;
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.btn-principal, .btn-secundario {
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 0.7rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.btn-principal {
+    background: #fff;
+    color: #000;
+}
+
+.btn-secundario {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.btn-principal:hover { background: #000; color: #fff; }
+.btn-secundario:hover { background: #fff; color: #000; }
+
+/* --- SECCIÓN PROPUESTA DE VALOR (Iconos) --- */
+.propuesta-valor {
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 10%;
+    background: #fff;
+    gap: 50px;
+    text-align: center;
+}
+
+.info-card {
+    flex: 1;
+}
+
+.info-card i {
+    font-size: 2.5rem;
+    margin-bottom: 25px;
+    color: #000;
+}
+
+.info-card h3 {
+    font-size: 0.9rem;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.info-card p {
+    font-size: 0.85rem;
+    color: #666;
+    line-height: 1.8;
+    letter-spacing: 0.5px;
+}
+
+/* --- GRID DE TIENDAS --- */
+.tiendas-destacadas {
+    padding: 60px 5% 100px;
+    text-align: center;
+    border-top: 1px solid #eee;
+}
+
+.tiendas-destacadas h2 {
+    font-size: 1.2rem;
+    letter-spacing: 6px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.grid-tiendas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.tienda-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    border: 1px solid #000;
+    text-decoration: none;
+    color: #000;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 4px;
+    transition: all 0.4s cubic-bezier(0.2, 1, 0.3, 1);
+}
+
+.tienda-link:hover {
+    background: #000;
+    color: #fff;
 }
