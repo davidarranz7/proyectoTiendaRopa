@@ -1,2 +1,4 @@
 playwright==1.49.1
 python-dotenv
+uvicorn
+fastapi
