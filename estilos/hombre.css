@@ -1,0 +1,138 @@
+/* --- CONFIGURACIÓN GENERAL --- */
+.seccion-hombre {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 5% 80px;
+    font-family: 'Roboto', 'Inter', sans-serif; /* Tipografía más moderna/técnica */
+    background-color: #fcfcfc;
+}
+
+/* --- CABECERA (Estilo Industrial) --- */
+.cabecera-seccion {
+    text-align: left; /* Alineado a la izquierda para romper con la de mujer */
+    padding: 80px 0 40px;
+    border-bottom: 3px solid #000;
+    margin-bottom: 40px;
+}
+
+.cabecera-seccion h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -1px; /* Letras más juntas, estilo editorial masculina */
+    margin-bottom: 5px;
+    line-height: 1;
+}
+
+.cabecera-seccion p {
+    font-size: 0.85rem;
+    letter-spacing: 4px;
+    color: #444;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+/* --- SUBMENÚ DE CATEGORÍAS (Estilo Botones Rígidos) --- */
+.submenu-categorias {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-bottom: 40px;
+    overflow-x: auto;
+}
+
+.filtro-cat {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px 25px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.filtro-cat.active {
+    background: #000;
+    color: #fff;
+    border-color: #000;
+}
+
+/* --- GRID --- */
+.contenedor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); /* Un pelín más grandes */
+    gap: 20px; /* Huecos más estrechos para un look más compacto */
+}
+
+/* --- TARJETA DE PRODUCTO (Look Cuadrado) --- */
+.tarjeta-producto {
+    background: #fff;
+    border: 1px solid #eee; /* Añadimos un borde sutil */
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.tarjeta-producto:hover {
+    border-color: #000;
+    box-shadow: 10px 10px 0px #000; /* Sombra sólida estilo "brutalista" */
+}
+
+.imagen-contenedor {
+    aspect-ratio: 1 / 1; /* Fotos cuadradas para hombre, muy común en Streetwear */
+    overflow: hidden;
+}
+
+.imagen-contenedor img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* --- DETALLES --- */
+.detalles {
+    padding: 20px;
+}
+
+.marca {
+    background: #000;
+    color: #fff;
+    padding: 2px 6px;
+    font-size: 0.55rem;
+    font-weight: 900;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.nombre-prenda {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.precio-nuevo {
+    color: #000;
+    font-size: 1.1rem;
+    font-weight: 900;
+}
+
+.precio-viejo {
+    color: #999;
+    font-size: 0.8rem;
+    text-decoration: line-through;
+    margin-right: 5px;
+}
+
+.boton-ir {
+    margin-top: 15px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 12px;
+    font-size: 0.7rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}

@@ -1,0 +1,162 @@
+/* --- CONFIGURACIÓN GENERAL --- */
+.seccion-mujer {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 5% 80px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* --- CABECERA --- */
+.cabecera-seccion {
+    text-align: center;
+    padding: 60px 0 30px;
+}
+
+.cabecera-seccion h1 {
+    font-size: 2.5rem;
+    letter-spacing: 12px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.cabecera-seccion p {
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    color: #666;
+    text-transform: uppercase;
+}
+
+/* --- SUBMENÚ DE CATEGORÍAS --- */
+.submenu-categorias {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+
+.filtro-cat {
+    background: none;
+    border: 1px solid transparent;
+    padding: 8px 20px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: #888;
+}
+
+.filtro-cat:hover {
+    color: #000;
+}
+
+.filtro-cat.active {
+    border: 1px solid #000;
+    color: #000;
+    font-weight: bold;
+}
+
+/* --- GRID (3 PRODUCTOS POR FILA) --- */
+.contenedor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 40px;
+}
+
+/* --- TARJETA DE PRODUCTO --- */
+.tarjeta-producto {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background: #fff;
+}
+
+.imagen-contenedor {
+    aspect-ratio: 2 / 3;
+    overflow: hidden;
+    background: #f7f7f7;
+}
+
+.imagen-contenedor img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s ease;
+}
+
+.tarjeta-producto:hover img {
+    transform: scale(1.05);
+}
+
+.porcentaje-descuento {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #be0000;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    z-index: 5;
+}
+
+/* --- DETALLES --- */
+.detalles {
+    padding: 15px 0;
+    text-transform: uppercase;
+}
+
+.marca {
+    font-size: 0.6rem;
+    color: #999;
+    letter-spacing: 1px;
+}
+
+.nombre-prenda {
+    font-size: 0.75rem;
+    margin: 8px 0;
+    color: #000;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    /* Evita que nombres largos rompan el grid */
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.precios {
+    display: flex;
+    gap: 10px;
+    font-size: 0.8rem;
+    margin-bottom: 12px;
+}
+
+.precio-viejo {
+    text-decoration: line-through;
+    color: #aaa;
+}
+
+.precio-nuevo {
+    color: #be0000;
+    font-weight: bold;
+}
+
+.boton-ir {
+    display: inline-block;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+    color: #000;
+    font-size: 0.65rem;
+    font-weight: bold;
+    padding-bottom: 2px;
+    width: fit-content;
+}
+
+.boton-ir:hover {
+    color: #be0000;
+    border-color: #be0000;
+}

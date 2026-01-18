@@ -3,58 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MODA - Archive Sale</title>
-
+    <title>MODA - Colección Hombre</title>
     <link rel="stylesheet" href="/estilos/menu.css">
-    <link rel="stylesheet" href="/estilos/ofertas.css">
+    <link rel="stylesheet" href="/estilos/hombre.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-
     {% include 'menu.html' %}
 
-    <main class="seccion-ofertas">
-<div class="cabecera-editorial">
-    <p class="subtitle">Special Promotions</p>
-    <h2>Rebajas de Temporada</h2>
-    <p class="desc">Explora nuestra selección de artículos con descuentos exclusivos. Calidad y diseño a precios reducidos por tiempo limitado.</p>
-</div>
+    <main class="seccion-hombre">
+        <header class="cabecera-seccion">
+            <h1>HOMBRE</h1>
+            <p>Selección exclusiva de moda masculina</p>
+        </header>
 
-        <div class="controles-ofertas">
-            <button id="btn-asc" class="btn-orden">Precio: Bajo a Alto</button>
-            <button id="btn-desc" class="btn-orden">Precio: Alto a Bajo</button>
-        </div>
+        <nav class="submenu-categorias">
+            <button class="filtro-cat active" data-categoria="todos">Todo</button>
+            <button class="filtro-cat" data-categoria="camisetas">Camisetas</button>
+            <button class="filtro-cat" data-categoria="pantalones">Pantalones</button>
+            <button class="filtro-cat" data-categoria="sudaderas">Sudaderas</button>
+            <button class="filtro-cat" data-categoria="abrigos">Abrigos</button>
+            <button class="filtro-cat" data-categoria="zapatos">Zapatos</button>
+        </nav>
 
-        <div class="contenedor-grid" id="grid-ofertas">
+        <div class="contenedor-grid" id="grid-hombre">
             {% for producto in articulos %}
-            <article class="tarjeta-producto" data-precio="{{ producto.precio_final }}">
-                <div class="etiqueta-tienda">{{ producto.tienda }}</div>
-
+            <article class="tarjeta-producto" data-categoria="{{ producto.categoria }}">
                 {% if producto.descuento %}
                 <div class="porcentaje-descuento">{{ producto.descuento }}</div>
                 {% endif %}
-
                 <div class="imagen-contenedor">
                     <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                 </div>
-
                 <div class="detalles">
-                    <span class="marca">{{ producto.marca if producto.marca else 'SELECTED' }}</span>
+                    <span class="marca">{{ producto.tienda }}</span>
                     <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
-
                     <div class="precios">
                         {% if producto.precio_original %}
                             <span class="precio-viejo">{{ producto.precio_original }}</span>
                         {% endif %}
                         <span class="precio-nuevo">{{ producto.precio_final }}</span>
                     </div>
-
-                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Ver Producto</a>
+                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Ver más</a>
                 </div>
             </article>
             {% else %}
-            <div class="sin-datos">
-                <p>No se han encontrado artículos disponibles en este momento.</p>
+            <div class="sin-datos" style="grid-column: 1 / -1; text-align: center; padding: 50px;">
+                <p><i class="fas fa-clock"></i> Próximamente: Chollos de hombre en camino.</p>
             </div>
             {% endfor %}
         </div>
@@ -63,6 +58,6 @@
     {% include 'footer.html' %}
 
     <script src="/script/menu.js"></script>
-    <script src="/script/ofertas_v2.js"></script>
+    <script src="/script/hombre.js"></script>
 </body>
 </html>

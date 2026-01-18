@@ -82,5 +82,66 @@ async def ofertas(request: Request):
 
     return templates.TemplateResponse("ofertas.html", {"request": request, "articulos": solo_chollos})
 
+
+@app.get("/mujer", response_class=HTMLResponse)
+async def ver_mujer(request: Request):
+    """Carga y une todos los archivos que terminen en _mujer.json"""
+    articulos_mujer = []
+    CARPETA_DATOS = "datos"
+
+    if os.path.exists(CARPETA_DATOS):
+        for archivo in os.listdir(CARPETA_DATOS):
+            # Filtramos por el patrón: cualquier tienda, cualquier categoría, pero siempre mujer
+            if archivo.endswith("_mujer.json"):
+                productos = cargar_datos_tienda(archivo)
+
+                # Extraemos la tienda y categoría del nombre del archivo
+                # Ejemplo: "zara_camisetas_mujer.json" -> tienda="zara", categoria="camisetas"
+                partes = archivo.replace(".json", "").split("_")
+                tienda_nombre = partes[0].capitalize()
+                categoria_nombre = partes[1]
+
+                for p in productos:
+                    p["tienda"] = tienda_nombre
+                    p["categoria"] = categoria_nombre  # Esto es vital para que el JS filtre
+                    articulos_mujer.append(p)
+
+    # Mezclamos para que no salgan todas las camisetas juntas al principio
+    random.shuffle(articulos_mujer)
+
+    return templates.TemplateResponse("mujer.html", {
+        "request": request,
+        "articulos": articulos_mujer
+    })
+
+
+
+@app.get("/hombre", response_class=HTMLResponse)
+async def ver_hombre(request: Request):
+    """Carga y une todos los archivos que terminen en _hombre.json"""
+    articulos_hombre = []
+    CARPETA_DATOS = "datos"
+
+    if os.path.exists(CARPETA_DATOS):
+        for archivo in os.listdir(CARPETA_DATOS):
+            if archivo.endswith("_hombre.json"):
+                productos = cargar_datos_tienda(archivo)
+                partes = archivo.replace(".json", "").split("_")
+                tienda_nombre = partes[0].capitalize()
+                categoria_nombre = partes[1]
+
+                for p in productos:
+                    p["tienda"] = tienda_nombre
+                    p["categoria"] = categoria_nombre
+                    articulos_hombre.append(p)
+
+    random.shuffle(articulos_hombre)
+    return templates.TemplateResponse("hombre.html", {"request": request, "articulos": articulos_hombre})
+
+
+
+
+
+
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MODA - Colección Mujer</title>
+
+    <link rel="stylesheet" href="/estilos/menu.css">
+    <link rel="stylesheet" href="/estilos/mujer.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    {% include 'menu.html' %}
+
+    <main class="seccion-mujer">
+        <header class="cabecera-seccion">
+            <h1>MUJER</h1>
+            <p>Descubre las mejores ofertas en moda femenina</p>
+        </header>
+
+        <nav class="submenu-categorias">
+            <button class="filtro-cat active" data-categoria="todos">Todas las prendas</button>
+            <button class="filtro-cat" data-categoria="camisetas">Camisetas</button>
+            <button class="filtro-cat" data-categoria="pantalones">Pantalones</button>
+            <button class="filtro-cat" data-categoria="sudaderas">Sudaderas</button>
+            <button class="filtro-cat" data-categoria="vestidos">Vestidos</button>
+            <button class="filtro-cat" data-categoria="zapatos">Zapatos</button>
+        </nav>
+
+        <div class="contenedor-grid" id="grid-mujer">
+            {% for producto in articulos %}
+            <article class="tarjeta-producto" data-categoria="{{ producto.categoria }}">
+
+                {% if producto.descuento %}
+                <div class="porcentaje-descuento">{{ producto.descuento }}</div>
+                {% endif %}
+
+                <div class="imagen-contenedor">
+                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                </div>
+
+                <div class="detalles">
+                    <span class="marca">{{ producto.tienda if producto.tienda else 'TIENDA' }}</span>
+                    <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+
+                    <div class="precios">
+                        {% if producto.precio_original %}
+                            <span class="precio-viejo">{{ producto.precio_original }}</span>
+                        {% endif %}
+                        <span class="precio-nuevo">{{ producto.precio_final }}</span>
+                    </div>
+
+                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Comprar ahora</a>
+                </div>
+            </article>
+            {% else %}
+            <div class="sin-datos" style="grid-column: 1 / -1; text-align: center; padding: 50px;">
+                <p><i class="fas fa-search"></i> No hay productos disponibles en esta sección.</p>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+
+    {% include 'footer.html' %}
+
+    <script src="/script/menu.js"></script>
+    <script src="/script/mujer.js"></script>
+</body>
+</html>

@@ -3,154 +3,171 @@
     max-width: 1300px;
     margin: 0 auto;
     padding: 0 5%;
+    background-color: #fff;
 }
 
-.cabecera-ofertas-v3 {
-    background: #000;
-    color: #fff;
-    padding: 50px 20px;
+/* --- CABECERA EDITORIAL --- */
+.cabecera-editorial {
+    padding: 100px 20px 60px;
     text-align: center;
-    margin-bottom: 30px;
     text-transform: uppercase;
 }
 
-.cabecera-ofertas-v3 h2 {
-    font-family: 'Times New Roman', serif;
-    letter-spacing: 6px;
-    font-size: 1.8rem;
+.cabecera-editorial .subtitle {
+    font-size: 0.65rem;
+    letter-spacing: 5px;
+    color: #888;
+    margin-bottom: 15px;
 }
 
-/* --- GRID CONFIGURADO PARA 3 PRODUCTOS (220px) --- */
+.cabecera-editorial h2 {
+    font-family: 'Times New Roman', serif;
+    letter-spacing: 15px;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 25px;
+    color: #000;
+}
+
+.cabecera-editorial .desc {
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.8;
+    text-transform: none;
+}
+
+/* --- FILTROS DISCRETOS --- */
+.controles-ofertas {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 60px;
+    border-top: 1px solid #f2f2f2;
+    padding-top: 30px;
+}
+
+.btn-orden {
+    background: none;
+    border: none;
+    padding: 5px 15px;
+    font-size: 0.65rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #999;
+    transition: color 0.3s ease;
+}
+
+.btn-orden:hover {
+    color: #000;
+}
+
+/* --- GRID (3 PRODUCTOS) --- */
 .contenedor-grid {
     display: grid;
-    /* Al poner 220px nos aseguramos de que quepan 3 o más en la mayoría de monitores */
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 30px; /* Espacio equilibrado */
-    padding-bottom: 60px;
+    gap: 40px 25px;
+    padding-bottom: 100px;
 }
 
 /* --- TARJETA DE PRODUCTO --- */
 .tarjeta-producto {
-    display: flex;
-    flex-direction: column;
     position: relative;
     background: #fff;
-    transition: opacity 0.3s;
 }
 
-/* IMAGEN MÁS PEQUEÑA Y PROPORCIONADA */
 .imagen-contenedor {
     aspect-ratio: 2 / 3;
     overflow: hidden;
-    background: #f7f7f7;
+    background: #f9f9f9;
 }
 
 .imagen-contenedor img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.5s ease;
+    transition: opacity 0.4s ease;
 }
 
 .tarjeta-producto:hover img {
-    transform: scale(1.04);
+    opacity: 0.85;
 }
 
-/* --- ETIQUETAS --- */
+/* ETIQUETAS MÍNIMAS */
 .etiqueta-tienda {
     position: absolute;
-    top: 12px;
-    left: 12px;
-    background: #000;
-    color: #fff;
-    padding: 3px 8px;
+    top: 10px;
+    left: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+    padding: 2px 6px;
     font-size: 0.55rem;
     letter-spacing: 1px;
-    text-transform: uppercase;
     z-index: 5;
+    border: 0.5px solid #eee;
 }
 
 .porcentaje-descuento {
     position: absolute;
-    top: 12px;
-    right: 12px;
-    background: #be0000;
+    top: 10px;
+    right: 10px;
+    background: #000; /* Negro para el descuento es muy elegante */
     color: #fff;
-    padding: 3px 8px;
-    font-size: 0.65rem;
+    padding: 2px 6px;
+    font-size: 0.6rem;
     font-weight: bold;
     z-index: 5;
 }
 
-/* --- DETALLES AJUSTADOS --- */
+/* --- DETALLES --- */
 .detalles {
-    padding: 12px 0;
+    padding: 15px 0;
     text-transform: uppercase;
 }
 
 .marca {
     font-size: 0.6rem;
-    color: #888;
+    color: #999;
     letter-spacing: 1px;
 }
 
 .nombre-prenda {
-    font-size: 0.7rem; /* Fuente más pequeña para que no abulte */
+    font-size: 0.75rem;
     color: #000;
-    margin: 6px 0;
+    margin: 8px 0;
     font-weight: 400;
-    letter-spacing: 0.3px;
+    letter-spacing: 0.5px;
     overflow: hidden;
     white-space: nowrap;
-    text-overflow: ellipsis; /* Evita que el nombre rompa la fila */
+    text-overflow: ellipsis;
 }
 
 .precios {
     display: flex;
-    gap: 8px;
-    font-size: 0.75rem;
+    gap: 10px;
+    font-size: 0.8rem;
 }
 
 .precio-viejo {
     text-decoration: line-through;
-    color: #999;
+    color: #aaa;
 }
 
 .precio-nuevo {
     color: #be0000;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .boton-ir {
-    margin-top: 8px;
+    margin-top: 12px;
     display: inline-block;
     border-bottom: 1px solid #000;
     text-decoration: none;
     color: #000;
     font-size: 0.6rem;
     font-weight: bold;
-    padding-bottom: 1px;
-}
-
-/* --- BOTONES ORDENAR --- */
-.controles-ofertas {
-    display: flex;
-    justify-content: flex-end;
-    gap: 12px;
-    margin-bottom: 25px;
-}
-
-.btn-orden {
-    background: none;
-    border: 1px solid #ddd;
-    padding: 6px 12px;
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all 0.2s;
-}
-
-.btn-orden:hover {
-    border-color: #000;
-    background: #f9f9f9;
+    padding-bottom: 2px;
 }
