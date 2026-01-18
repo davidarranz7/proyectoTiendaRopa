@@ -5,6 +5,8 @@ from fastapi.templating import Jinja2Templates
 import uvicorn
 import json
 import os
+import random  # <--- Paso 1: Importar la librería para mezclar
+
 
 app = FastAPI()
 
@@ -57,7 +59,7 @@ async def ver_zara(request: Request):
 
 @app.get("/ofertas", response_class=HTMLResponse)
 async def ofertas(request: Request):
-    """Carga todos los chollos de cualquier tienda en la carpeta datos."""
+    """Carga todos los chollos de cualquier tienda y los mezcla aleatoriamente."""
     solo_chollos = []
     CARPETA_DATOS = "datos"
 
@@ -66,16 +68,17 @@ async def ofertas(request: Request):
             if archivo.endswith("_total.json"):
                 productos = cargar_datos_tienda(archivo)
                 for p in productos:
-                    # Filtro: Solo si hay descuento escrito o el precio bajó
                     desc = p.get("descuento")
                     p_orig = p.get("precio_original")
                     p_final = p.get("precio_final")
 
                     if (desc and desc != "") or (p_orig and p_orig != p_final):
-                        # Detecta la tienda por el nombre del archivo
                         if not p.get("tienda"):
                             p["tienda"] = archivo.replace("_total.json", "").capitalize()
                         solo_chollos.append(p)
+
+    # Paso 2: Mezclar la lista para que no salgan todos los de la misma tienda o categoría juntos
+    random.shuffle(solo_chollos)
 
     return templates.TemplateResponse("ofertas.html", {"request": request, "articulos": solo_chollos})
 
