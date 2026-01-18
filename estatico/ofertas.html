@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MODA - Archive Sale</title>
+    <title>MODA - Rebajas de Temporada</title>
 
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/ofertas.css">
@@ -14,11 +14,22 @@
     {% include 'menu.html' %}
 
     <main class="seccion-ofertas">
-<div class="cabecera-editorial">
-    <p class="subtitle">Special Promotions</p>
-    <h2>Rebajas de Temporada</h2>
-    <p class="desc">Explora nuestra selección de artículos con descuentos exclusivos. Calidad y diseño a precios reducidos por tiempo limitado.</p>
-</div>
+        <div class="cabecera-editorial">
+            <p class="subtitle">Special Promotions</p>
+            <h2>Rebajas de Temporada</h2>
+            <p class="desc">Explora nuestra selección de artículos con descuentos exclusivos. Calidad y diseño a precios reducidos por tiempo limitado.</p>
+        </div>
+
+        {% if termino_busqueda %}
+        <div class="contenedor-tag-busqueda">
+            <div class="tag-busqueda">
+                <span>Tu búsqueda: <strong>"{{ termino_busqueda }}"</strong></span>
+                <a href="/ofertas" class="cerrar-busqueda" title="Limpiar búsqueda">
+                    <i class="fas fa-times"></i>
+                </a>
+            </div>
+        </div>
+        {% endif %}
 
         <div class="controles-ofertas">
             <button id="btn-asc" class="btn-orden">Precio: Bajo a Alto</button>

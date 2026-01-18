@@ -8,7 +8,7 @@
 
 /* --- CABECERA EDITORIAL --- */
 .cabecera-editorial {
-    padding: 100px 20px 60px;
+    padding: 100px 20px 40px; /* Ajustado el padding inferior para el tag */
     text-align: center;
     text-transform: uppercase;
 }
@@ -37,6 +37,49 @@
     margin: 0 auto;
     line-height: 1.8;
     text-transform: none;
+}
+
+/* --- ETIQUETA DE BÚSQUEDA ACTIVA (NUEVO) --- */
+.contenedor-tag-busqueda {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    animation: fadeIn 0.5s ease; /* Pequeña animación de entrada */
+}
+
+.tag-busqueda {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 8px 16px;
+    border: 1px solid #eee; /* Borde suave */
+    background: #f9f9f9;
+    border-radius: 2px;
+}
+
+.tag-busqueda span {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #555;
+}
+
+.tag-busqueda strong {
+    color: #000;
+    font-weight: 600;
+}
+
+.cerrar-busqueda {
+    color: #999;
+    text-decoration: none;
+    font-size: 0.8rem;
+    transition: color 0.3s ease;
+    display: flex;
+    align-items: center;
+}
+
+.cerrar-busqueda:hover {
+    color: #be0000; /* Rojo suave al borrar */
 }
 
 /* --- FILTROS DISCRETOS --- */
@@ -114,7 +157,7 @@
     position: absolute;
     top: 10px;
     right: 10px;
-    background: #000; /* Negro para el descuento es muy elegante */
+    background: #000;
     color: #fff;
     padding: 2px 6px;
     font-size: 0.6rem;
@@ -170,4 +213,10 @@
     font-size: 0.6rem;
     font-weight: bold;
     padding-bottom: 2px;
+}
+
+/* Animación simple para el tag */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
 }

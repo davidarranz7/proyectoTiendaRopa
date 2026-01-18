@@ -1,38 +1,38 @@
-document.addEventListener('DOMContentLoaded', () => {
-    // 1. MARCAR ENLACE ACTIVO
-    const currentPath = window.location.pathname;
-    const navLinks = document.querySelectorAll('.nav-link');
+document.addEventListener("DOMContentLoaded", () => {
+    const botonBusqueda = document.getElementById("busqueda-btn");
+    const inputBusqueda = document.getElementById("busqueda-input");
 
-    navLinks.forEach(link => {
-        if (link.getAttribute('href') === currentPath) {
-            link.classList.add('active');
+    // Función para búsqueda global (Redirige a /buscar)
+    const buscarEnServidor = () => {
+        const query = inputBusqueda.value.trim();
+        if (query.length > 0) {
+            window.location.href = `/buscar?q=${encodeURIComponent(query)}`;
         }
-    });
-
-    // 2. LÓGICA DEL BUSCADOR
-    const inputBusqueda = document.getElementById('busqueda-input');
-    const btnBusqueda = document.getElementById('busqueda-btn');
-
-    const filtrarProductos = () => {
-        const texto = inputBusqueda.value.toLowerCase();
-        const productos = document.querySelectorAll('.tarjeta-producto');
-
-        productos.forEach(producto => {
-            // Buscamos dentro de la marca y el nombre del producto
-            const nombre = producto.querySelector('.nombre-prenda').textContent.toLowerCase();
-            const marca = producto.querySelector('.marca').textContent.toLowerCase();
-
-            if (nombre.includes(texto) || marca.includes(texto)) {
-                producto.style.display = 'flex'; // Muestra si coincide
-            } else {
-                producto.style.display = 'none'; // Oculta si no coincide
-            }
-        });
     };
 
-    // Filtrar al pulsar el botón o al escribir
-    btnBusqueda.addEventListener('click', filtrarProductos);
-    inputBusqueda.addEventListener('keyup', (e) => {
-        if (e.key === 'Enter') filtrarProductos();
-    });
+    if (inputBusqueda) {
+        inputBusqueda.addEventListener("input", (e) => {
+            const termino = e.target.value.toLowerCase().trim();
+            const productos = document.querySelectorAll(".tarjeta-producto");
+
+            // Si hay productos en pantalla (estamos en Mujer, Hombre u Ofertas)
+            if (productos.length > 0) {
+                productos.forEach(producto => {
+                    const nombre = producto.querySelector(".nombre-prenda").textContent.toLowerCase();
+                    producto.style.display = nombre.includes(termino) ? "flex" : "none";
+                });
+            }
+        });
+
+        // Al pulsar Enter, SIEMPRE hace búsqueda global en todos los JSON
+        inputBusqueda.addEventListener("keypress", (e) => {
+            if (e.key === "Enter") {
+                buscarEnServidor();
+            }
+        });
+    }
+
+    if (botonBusqueda) {
+        botonBusqueda.addEventListener("click", buscarEnServidor);
+    }
 });

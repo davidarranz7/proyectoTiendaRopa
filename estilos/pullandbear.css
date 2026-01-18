@@ -1,0 +1,202 @@
+/* --- CONFIGURACIÓN GENERAL PULL&BEAR --- */
+.seccion-pull {
+    max-width: 1400px;
+    margin: 0 auto;
+    /* ESTA ES LA CLAVE:
+       Añadimos un margin-top de 80px para dejar espacio fijo al menú superior.
+       Esto evita que el contenido "empuje" la barra hacia arriba.
+    */
+    margin-top: 80px !important;
+    padding: 20px 5% 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #fff;
+    display: block;
+}
+
+/* --- CABECERA --- */
+.header-pull {
+    text-align: center;
+    margin: 40px 0 30px;
+}
+
+.header-pull .tagline {
+    font-size: 0.65rem;
+    color: #999;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.header-pull h2 {
+    font-size: 2.8rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    margin: 0;
+}
+
+/* --- ESCAPARATE INTERMEDIO --- */
+.section-label {
+    font-size: 0.65rem;
+    color: #bbb;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #000; /* Borde sólido como el de tus capturas */
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.categorias-pull {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+.categorias-pull li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.categorias-pull li a.active {
+    border-bottom: 4px solid #000;
+    padding-bottom: 8px;
+}
+
+.btn-filtro-pull {
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 0.8rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* --- PANEL DE FILTROS AVANZADOS --- */
+.modal-pull {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background: rgba(255, 255, 255, 0.95);
+}
+
+.contenido-modal {
+    background: #fff;
+    margin: 5% auto;
+    padding: 40px;
+    width: 90%;
+    max-width: 550px;
+    border: 4px solid #000;
+}
+
+.modal-header {
+    border-bottom: 2px solid #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+}
+
+.modal-header h3 {
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+    font-weight: 900;
+}
+
+.filtro-secciones {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.seccion-col h4 {
+    font-size: 0.7rem;
+    color: #888;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+}
+
+.seccion-col label {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.btn-confirmar {
+    width: 100%;
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.btn-cerrar { background: none; border: none; font-size: 1.5rem; cursor: pointer; }
+
+/* --- GRID DE PRODUCTOS --- */
+.grid-pull {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 30px;
+    padding-bottom: 80px;
+}
+
+.card-pull { position: relative; }
+
+.img-wrapper {
+    position: relative;
+    aspect-ratio: 2 / 3;
+    background: #f4f4f4;
+    overflow: hidden;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.promo-tag {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #000;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 0.7rem;
+    font-weight: 900;
+    z-index: 10;
+}
+
+.info-pull { padding: 20px 0; }
+.name-pull { font-size: 0.85rem; font-weight: 700; margin-bottom: 10px; text-transform: uppercase; }
+.current-price { font-weight: 900; color: #000; font-size: 1.1rem; }
+.old-price { color: #999; text-decoration: line-through; margin-right: 10px; font-size: 0.9rem; }

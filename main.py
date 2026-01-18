@@ -7,6 +7,7 @@ import json
 import os
 import random  # <--- Paso 1: Importar la librería para mezclar
 
+from starlette.responses import RedirectResponse
 
 app = FastAPI()
 
@@ -139,7 +140,97 @@ async def ver_hombre(request: Request):
     return templates.TemplateResponse("hombre.html", {"request": request, "articulos": articulos_hombre})
 
 
+from fastapi import Query
 
+
+@app.get("/buscar", response_class=HTMLResponse)
+async def buscar_productos(request: Request, q: str = Query(None)):
+    resultados = []
+    CARPETA_DATOS = "datos"
+
+    if not q:
+        return RedirectResponse(url="/ofertas")
+
+    termino = q.lower().strip()
+    print(f"--- Iniciando búsqueda para: '{termino}' ---")  # Debug para consola
+
+    if os.path.exists(CARPETA_DATOS):
+        for archivo in os.listdir(CARPETA_DATOS):
+            if archivo.endswith(".json"):
+                # Cargamos los productos usando tu función existente
+                productos = cargar_datos_tienda(archivo)
+
+                # Extraemos la tienda del nombre del archivo (zara_pantalones_mujer.json -> Zara)
+                tienda_nombre = archivo.split("_")[0].capitalize()
+
+                for p in productos:
+                    # Buscamos en 'nombre' y también en 'categoria' o 'seccion' si existen
+                    nombre = str(p.get("nombre", "")).lower()
+                    categoria = str(p.get("categoria", "")).lower()
+
+                    if termino in nombre or termino in categoria or termino in archivo.lower():
+                        # Aseguramos que el producto tenga los campos necesarios para la card
+                        p["tienda"] = p.get("tienda", tienda_nombre)
+                        # Si no tiene categoría, le ponemos la del nombre del archivo
+                        if not p.get("categoria"):
+                            partes = archivo.split("_")
+                            if len(partes) > 1:
+                                p["categoria"] = partes[1]
+
+                        resultados.append(p)
+
+    print(f"--- Búsqueda finalizada: {len(resultados)} productos encontrados ---")
+
+    return templates.TemplateResponse("ofertas.html", {
+        "request": request,
+        "articulos": resultados,
+        "termino_busqueda": q  # Lo usamos para el título
+    })
+
+
+@app.get("/pullandbear", response_class=HTMLResponse)
+async def pagina_pullandbear(request: Request):
+    # Carga los datos del archivo JSON específico generado por el scraper
+    articulos = cargar_datos_tienda("pullandbear_total.json")
+
+    # Mezclamos los artículos para que la vista sea dinámica cada vez que se carga
+    random.shuffle(articulos)
+
+    return templates.TemplateResponse("pullandbear.html", {
+        "request": request,
+        "articulos": articulos,
+        "tienda": "Pull&Bear"
+    })
+
+
+@app.get("/bershka", response_class=HTMLResponse)
+async def pagina_bershka(request: Request):
+    # Carga los datos del archivo JSON específico generado por el scraper para esta tienda
+    articulos = cargar_datos_tienda("bershka_total.json")
+
+    # Mezclamos los artículos para que la vista sea dinámica en cada carga
+    random.shuffle(articulos)
+
+    return templates.TemplateResponse("bershka.html", {
+        "request": request,
+        "articulos": articulos,
+        "tienda": "Bershka"
+    })
+
+
+@app.get("/mango", response_class=HTMLResponse)
+async def pagina_mango(request: Request):
+    # Carga los datos del archivo JSON específico generado por el scraper para Mango
+    articulos = cargar_datos_tienda("mango_total.json")
+
+    # Mezclamos los artículos para que la vista sea dinámica y atractiva en cada carga
+    random.shuffle(articulos)
+
+    return templates.TemplateResponse("mango.html", {
+        "request": request,
+        "articulos": articulos,
+        "tienda": "Mango"
+    })
 
 
 

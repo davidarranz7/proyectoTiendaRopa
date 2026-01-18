@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MANGO - Elegancia Contemporánea</title>
+
+    <link rel="stylesheet" href="/estilos/menu.css">
+    <link rel="stylesheet" href="/estilos/mango.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    {% include 'menu.html' %}
+
+    <main class="seccion-mango">
+        <div class="header-mango">
+            <p class="tagline">MANGO COLLECTION</p>
+            <h2>ESSENTIALS</h2>
+        </div>
+
+        <nav class="escaparate-mango">
+            <p class="label-intermedio">TU ESCAPARATE INTERMEDIO</p>
+            <div class="nav-wrapper-mango">
+                <ul class="categorias-mango">
+                    <li><a href="#" class="active">TODAS LAS PRENDAS</a></li>
+                    <li><a href="#">REBAJAS</a></li>
+                    <li><a href="#">PANTALONES</a></li>
+                    <li><a href="#">CAMISETAS</a></li>
+                    <li><a href="#">SUDADERAS</a></li>
+                    <li><a href="#">ZAPATOS</a></li>
+                    <li><a href="#">HOMBRE</a></li>
+                    <li><a href="#">MUJER</a></li>
+                </ul>
+                <button class="btn-filtro-mango" id="abrir-filtros">
+                    <i class="fas fa-sliders-h"></i> FILTRO
+                </button>
+            </div>
+        </nav>
+
+        <div id="modal-filtros-mango" class="modal-mango">
+            <div class="contenido-modal-mango">
+                <div class="modal-header-mango">
+                    <h3>FILTROS AVANZADOS</h3>
+                    <button id="cerrar-filtros" class="btn-cerrar"><i class="fas fa-times"></i></button>
+                </div>
+
+                <div class="filtro-grid-mango">
+                    <div class="col-mango">
+                        <h4>GÉNERO</h4>
+                        <label><input type="checkbox"> Hombre</label>
+                        <label><input type="checkbox"> Mujer</label>
+                    </div>
+                    <div class="col-mango">
+                        <h4>CATEGORÍA</h4>
+                        <label><input type="checkbox"> Pantalones</label>
+                        <label><input type="checkbox"> Camisetas</label>
+                        <label><input type="checkbox"> Sudaderas</label>
+                        <label><input type="checkbox"> Zapatos</label>
+                    </div>
+                </div>
+
+                <div class="footer-mango">
+                    <label class="sale-check">
+                        <input type="checkbox"> SOLO PRODUCTOS EN <strong>REBAJAS</strong>
+                    </label>
+                    <button id="confirmar-filtros" class="btn-action-mango">CONFIRMAR FILTROS</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-mango" id="grid-articulos">
+            {% for producto in articulos %}
+            <article class="card-mango" data-precio="{{ producto.precio_final }}">
+                <div class="img-mango-box">
+                    {% if producto.descuento %}
+                        <div class="badge-mango">{{ producto.descuento }}</div>
+                    {% endif %}
+                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                </div>
+                <div class="info-mango">
+                    <h3 class="name-mango">{{ producto.nombre }}</h3>
+                    <div class="prices-mango">
+                        {% if producto.precio_original %}
+                            <span class="old-mango">{{ producto.precio_original }}</span>
+                        {% endif %}
+                        <span class="new-mango">{{ producto.precio_final }}</span>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </main>
+
+    {% include 'footer.html' %}
+
+    <script src="/script/menu.js"></script>
+    <script src="/script/mango.js"></script>
+</body>
+</html>
