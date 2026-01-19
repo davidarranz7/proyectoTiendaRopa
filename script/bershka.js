@@ -5,11 +5,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const btnConfirmar = document.getElementById("confirmar-filtros");
     const grid = document.getElementById("grid-articulos");
 
-    // 1. MANEJO DEL MODAL (Estilo Bershka)
     if (btnAbrir) {
         btnAbrir.addEventListener("click", () => {
             modal.style.display = "block";
-            document.body.style.overflow = "hidden"; // Bloquea el scroll al filtrar
+            document.body.style.overflow = "hidden";
         });
     }
 
@@ -21,12 +20,10 @@ document.addEventListener("DOMContentLoaded", () => {
     if (btnCerrar) btnCerrar.addEventListener("click", cerrarModal);
     if (btnConfirmar) btnConfirmar.addEventListener("click", cerrarModal);
 
-    // Cerrar si pulsa fuera del contenido
     window.onclick = (event) => {
         if (event.target == modal) cerrarModal();
     };
 
-    // 2. NAVEGACIÓN DE CATEGORÍAS
     const categorias = document.querySelectorAll(".categorias-bsk li a");
     categorias.forEach(cat => {
         cat.addEventListener("click", (e) => {
@@ -36,7 +33,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-    // 3. LÓGICA DE ORDENACIÓN (Si decides añadir botones de precio)
     const ordenarBershka = (orden) => {
         const productos = Array.from(grid.querySelectorAll(".card-bsk"));
 

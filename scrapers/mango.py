@@ -19,9 +19,6 @@ async def extraer_categoria_mango(url, nombre_tarea="desconocido"):
             await page.goto(url, wait_until="domcontentloaded")
             await asyncio.sleep(5)
 
-            # ======================
-            # ACEPTAR COOKIES
-            # ======================
             cookies_aceptadas = False
             try:
                 print("🍪 Método alternativo: TAB + ENTER...")
@@ -37,22 +34,17 @@ async def extraer_categoria_mango(url, nombre_tarea="desconocido"):
             if not cookies_aceptadas:
                 print("⚠️ NO se pudieron aceptar las cookies.")
 
-            # ======================
-            # SCRAPING PRINCIPAL
-            # ======================
             productos_lista = []
             vistos = set()
             intentos_sin_nuevos = 0
 
             print("⏳ Esperando productos de Mango...")
             while True:
-                # Ahora los productos están en role="listitem"
                 elementos = await page.query_selector_all("div[role='listitem']")
 
                 nuevos = 0
                 for el in elementos:
                     try:
-                        # Nombre
                         nombre_el = await el.query_selector("span[data-testid='product-name']")
                         if not nombre_el:
                             continue
@@ -62,14 +54,12 @@ async def extraer_categoria_mango(url, nombre_tarea="desconocido"):
                         vistos.add(nombre)
                         nuevos += 1
 
-                        # URL
                         link_el = await el.query_selector("a")
                         href = await link_el.get_attribute("href") if link_el else None
                         if not href:
                             continue
                         url_producto = href if href.startswith("http") else f"https://shop.mango.com{href}"
 
-                        # Imagen
                         imagen = ""
                         img_el = await el.query_selector("img")
                         if img_el:
@@ -80,7 +70,6 @@ async def extraer_categoria_mango(url, nombre_tarea="desconocido"):
                                     break
                                 await asyncio.sleep(0.3)
 
-                        # Precios
                         precio_original = None
                         precio_rebajado = None
                         precio_final = None
@@ -97,7 +86,6 @@ async def extraer_categoria_mango(url, nombre_tarea="desconocido"):
                         elif len(textos_precio) >= 3:
                             precio_original, precio_rebajado, precio_final = textos_precio[:3]
 
-                        # Descuento
                         badge_el = await el.query_selector("span[data-testid='product-discount']")
                         descuento = (await badge_el.inner_text()).strip() if badge_el else None
 
@@ -123,7 +111,6 @@ async def extraer_categoria_mango(url, nombre_tarea="desconocido"):
                 else:
                     intentos_sin_nuevos = 0
 
-                # Scroll lento
                 await page.evaluate("window.scrollBy(0, 600)")
                 await asyncio.sleep(2)
 

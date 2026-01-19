@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
 
-    // Configuración inicial de las tarjetas
     infoCards.forEach(card => {
         card.style.opacity = '0';
         card.style.transform = 'translateY(30px)';
@@ -22,5 +21,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     window.addEventListener('scroll', mostrarCards);
-    mostrarCards(); // Ejecutar una vez al cargar
+    mostrarCards();
 });

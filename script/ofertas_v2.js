@@ -20,7 +20,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
         grid.innerHTML = "";
         items.forEach(i => {
-            // Aseguramos que el display no sea 'flex' directo sino que respete el grid
             i.style.display = "block";
             grid.appendChild(i);
         });

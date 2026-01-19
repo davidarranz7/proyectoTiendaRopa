@@ -4,14 +4,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const panel = document.getElementById("panel-filtros");
     const btnConfirmar = document.getElementById("btn-confirmar-filtro");
 
-    // 1. ABRIR Y CERRAR EL PANEL DE FILTRO
     if (btnAbrir && panel) {
         btnAbrir.onclick = () => {
             panel.style.display = (panel.style.display === "none" || panel.style.display === "") ? "block" : "none";
         };
     }
 
-    // 2. LÓGICA DE LA BOTONERA PRINCIPAL
     document.querySelectorAll(".btn-directo").forEach(btn => {
         btn.onclick = () => {
             const filtro = btn.getAttribute("data-filter").toLowerCase();
@@ -21,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const esOferta = t.getAttribute("data-es-oferta") === "si";
 
                 if (filtro === "todas") {
-                    t.style.display = "block"; // Cambiado de flex a block
+                    t.style.display = "block";
                 } else if (filtro === "rebajas") {
                     t.style.display = esOferta ? "block" : "none";
                 } else {
@@ -31,7 +29,6 @@ document.addEventListener("DOMContentLoaded", () => {
         };
     });
 
-    // 3. LÓGICA DEL PANEL AVANZADO (CONFIRMAR)
     if (btnConfirmar) {
         btnConfirmar.onclick = () => {
             const generosMarcados = Array.from(document.querySelectorAll('input[name="f-genero"]:checked')).map(i => i.value);

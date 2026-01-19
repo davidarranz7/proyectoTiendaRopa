@@ -1,15 +1,13 @@
-/* --- CONFIGURACIÓN GENERAL --- */
+
 .seccion-hombre {
     max-width: 1300px;
     margin: 0 auto;
     padding: 0 5% 80px;
-    font-family: 'Roboto', 'Inter', sans-serif; /* Tipografía más moderna/técnica */
+    font-family: 'Roboto', 'Inter', sans-serif;
     background-color: #fcfcfc;
 }
-
-/* --- CABECERA (Estilo Industrial) --- */
 .cabecera-seccion {
-    text-align: left; /* Alineado a la izquierda para romper con la de mujer */
+    text-align: left;
     padding: 80px 0 40px;
     border-bottom: 3px solid #000;
     margin-bottom: 40px;
@@ -19,7 +17,7 @@
     font-size: 3.5rem;
     font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: -1px; /* Letras más juntas, estilo editorial masculina */
+    letter-spacing: -1px;
     margin-bottom: 5px;
     line-height: 1;
 }
@@ -32,7 +30,6 @@
     font-weight: 500;
 }
 
-/* --- SUBMENÚ DE CATEGORÍAS (Estilo Botones Rígidos) --- */
 .submenu-categorias {
     display: flex;
     justify-content: flex-start;
@@ -58,27 +55,25 @@
     border-color: #000;
 }
 
-/* --- GRID --- */
 .contenedor-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); /* Un pelín más grandes */
-    gap: 20px; /* Huecos más estrechos para un look más compacto */
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 20px;
 }
 
-/* --- TARJETA DE PRODUCTO (Look Cuadrado) --- */
 .tarjeta-producto {
     background: #fff;
-    border: 1px solid #eee; /* Añadimos un borde sutil */
+    border: 1px solid #eee;
     transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .tarjeta-producto:hover {
     border-color: #000;
-    box-shadow: 10px 10px 0px #000; /* Sombra sólida estilo "brutalista" */
+    box-shadow: 10px 10px 0px #000;
 }
 
 .imagen-contenedor {
-    aspect-ratio: 1 / 1; /* Fotos cuadradas para hombre, muy común en Streetwear */
+    aspect-ratio: 1 / 1;
     overflow: hidden;
 }
 
@@ -88,7 +83,6 @@
     object-fit: cover;
 }
 
-/* --- DETALLES --- */
 .detalles {
     padding: 20px;
 }

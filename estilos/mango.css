@@ -1,15 +1,12 @@
-/* --- CONFIGURACIÓN GENERAL MANGO --- */
 .seccion-mango {
     max-width: 1400px;
     margin: 0 auto;
-    /* Margen de seguridad para el menú superior */
     margin-top: 80px !important;
     padding: 20px 4%;
-    font-family: 'Optima', 'Candara', 'Segoe UI', sans-serif; /* Tipografía más elegante */
+    font-family: 'Optima', 'Candara', 'Segoe UI', sans-serif;
     background-color: #fff;
 }
 
-/* --- CABECERA --- */
 .header-mango {
     text-align: center;
     margin: 60px 0 40px;
@@ -25,13 +22,12 @@
 
 .header-mango h2 {
     font-size: 3rem;
-    font-weight: 300; /* Más fina y elegante */
+    font-weight: 300;
     letter-spacing: 10px;
     text-transform: uppercase;
     color: #000;
 }
 
-/* --- ESCAPARATE INTERMEDIO --- */
 .label-intermedio {
     font-size: 0.6rem;
     color: #aaa;
@@ -74,7 +70,6 @@
     padding-bottom: 5px;
 }
 
-/* BOTÓN FILTRO --- */
 .btn-filtro-mango {
     background: #000;
     color: #fff;
@@ -90,7 +85,6 @@
     text-transform: uppercase;
 }
 
-/* --- MODAL DE FILTROS AVANZADOS --- */
 .modal-mango {
     display: none;
     position: fixed;
@@ -168,7 +162,6 @@
     margin-top: 30px;
 }
 
-/* --- GRID Y PRODUCTOS --- */
 .grid-mango {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -210,7 +203,7 @@
 
 .info-mango {
     padding: 20px 0;
-    text-align: center; /* Mango suele centrar los detalles */
+    text-align: center;
 }
 
 .name-mango {

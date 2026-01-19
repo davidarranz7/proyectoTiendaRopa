@@ -1,7 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-
 async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
     async with async_playwright() as p:
         browser = await p.chromium.launch(
@@ -24,9 +23,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
             print(f"🌍 [BERSHKA] Entrando en: {url}")
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
-            # =====================================================
-            # COOKIES (YA LAS TENÍAS BIEN)
-            # =====================================================
             try:
                 await page.wait_for_selector("#onetrust-accept-btn-handler", timeout=10000)
                 await page.click("#onetrust-accept-btn-handler", force=True)
@@ -35,9 +31,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
             except Exception as e:
                 print(f"⚠️ Bershka: No se pudieron aceptar las cookies → {e}")
 
-            # =====================================================
-            # SCROLL LENTO + RECOLECCIÓN LIMPIA
-            # =====================================================
             print("🚜 Iniciando recolección de productos...")
 
             productos_lista = []
@@ -53,9 +46,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
 
                 for el in elementos:
                     try:
-                        # -------------------------------
-                        # NOMBRE
-                        # -------------------------------
                         nombre_el = await el.query_selector(
                             "h2, .product-text, .name, [class*='name']"
                         )
@@ -64,7 +54,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
 
                         nombre = (await nombre_el.inner_text()).strip()
 
-                        # ❌ FILTRO LOGOS / BANNERS
                         if len(nombre) < 5:
                             continue
                         if "bershka" in nombre.lower():
@@ -72,9 +61,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
                         if nombre in vistos:
                             continue
 
-                        # -------------------------------
-                        # LINK REAL
-                        # -------------------------------
                         link_el = await el.query_selector("a")
                         href = await link_el.get_attribute("href") if link_el else None
 
@@ -86,9 +72,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
                             else f"https://www.bershka.com{href}"
                         )
 
-                        # -------------------------------
-                        # IMAGEN (OBLIGATORIA)
-                        # -------------------------------
                         await el.scroll_into_view_if_needed()
 
                         imagen = None
@@ -104,9 +87,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
                         if not imagen:
                             continue
 
-                        # -------------------------------
-                        # PRECIOS
-                        # -------------------------------
                         precio_original = None
                         precio_rebajado = None
                         precio_final = None
@@ -134,18 +114,12 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
                         if not precio_final:
                             continue
 
-                        # -------------------------------
-                        # DESCUENTO
-                        # -------------------------------
                         badge = await el.query_selector(
                             ".itx-badge-label, .discount, [class*='%']"
                         )
                         if badge:
                             descuento = (await badge.inner_text()).strip()
 
-                        # -------------------------------
-                        # GUARDAR
-                        # -------------------------------
                         productos_lista.append({
                             "nombre": nombre,
                             "imagen": imagen,
@@ -171,7 +145,6 @@ async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
                 else:
                     intentos_sin_nuevos = 0
 
-                # Scroll humano lento (clave en Inditex)
                 await page.evaluate("window.scrollBy(0, 600)")
                 await asyncio.sleep(2)
 

@@ -1,7 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-
 async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
     async with async_playwright() as p:
         browser = await p.chromium.launch(
@@ -25,9 +24,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
             await asyncio.sleep(5)
 
-            # =====================================================
-            # COOKIES (MÉTODO MARTILLO + AVISO)
-            # =====================================================
             cookies_aceptadas = False
             try:
                 for _ in range(3):
@@ -43,9 +39,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
             if not cookies_aceptadas:
                 print("⚠️ NO se pudieron aceptar las cookies.")
 
-            # =====================================================
-            # SCRAPING PROGRESIVO CON FILTROS REALES
-            # =====================================================
             print("🚜 Iniciando recolección de productos...")
 
             productos_lista = []
@@ -61,9 +54,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
 
                 for el in elementos:
                     try:
-                        # -------------------------------
-                        # NOMBRE
-                        # -------------------------------
                         nombre_el = await el.query_selector(
                             "h2, .product-name, [class*='name']"
                         )
@@ -72,7 +62,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
 
                         nombre = (await nombre_el.inner_text()).strip()
 
-                        # ❌ LOGOS / BANNERS
                         if len(nombre) < 5:
                             continue
                         if "pull" in nombre.lower() or "bear" in nombre.lower():
@@ -80,9 +69,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
                         if nombre in vistos:
                             continue
 
-                        # -------------------------------
-                        # LINK REAL DE PRODUCTO
-                        # -------------------------------
                         link_el = await el.query_selector("a")
                         href = await link_el.get_attribute("href") if link_el else None
 
@@ -94,9 +80,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
                             else f"https://www.pullandbear.com{href}"
                         )
 
-                        # -------------------------------
-                        # IMAGEN (OBLIGATORIA)
-                        # -------------------------------
                         await el.scroll_into_view_if_needed()
 
                         imagen = None
@@ -112,9 +95,6 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
                         if not imagen:
                             continue
 
-                        # -------------------------------
-                        # PRECIOS
-                        # -------------------------------
                         precio_original = None
                         precio_rebajado = None
                         precio_final = None
@@ -139,22 +119,15 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
                         elif len(textos_precio) >= 3:
                             precio_original, precio_rebajado, precio_final = textos_precio[:3]
 
-                        # Si no hay precio final → NO ES PRODUCTO
                         if not precio_final:
                             continue
 
-                        # -------------------------------
-                        # DESCUENTO
-                        # -------------------------------
                         badge = await el.query_selector(
                             "[class*='discount'], [class*='rebaja'], [class*='%']"
                         )
                         if badge:
                             descuento = (await badge.inner_text()).strip()
 
-                        # -------------------------------
-                        # GUARDADO FINAL
-                        # -------------------------------
                         productos_lista.append({
                             "nombre": nombre,
                             "imagen": imagen,
@@ -198,4 +171,3 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
             print(f"❌ Error en Pull&Bear: {e}")
             await browser.close()
             return []
-

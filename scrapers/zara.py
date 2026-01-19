@@ -1,7 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-
 async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False, slow_mo=300)
@@ -14,7 +13,6 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
         try:
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
-            # Aceptar cookies
             try:
                 boton = await page.wait_for_selector("#onetrust-accept-btn-handler", timeout=5000)
                 await boton.click()
@@ -22,7 +20,6 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
             except:
                 pass
 
-            # Scroll infinito
             previous_count = 0
             while True:
                 elementos = await page.query_selector_all("li[class*='product']")
@@ -36,7 +33,6 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
 
             for el in elementos:
                 try:
-                    # 1. Asegurar que el producto entra en pantalla para cargar la imagen
                     await el.scroll_into_view_if_needed()
 
                     nombre_el = await el.query_selector("h2, .product-grid-product-info__name")
@@ -44,15 +40,12 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
                     nombre = (await nombre_el.inner_text()).strip()
                     if nombre in vistos: continue
 
-                    # 2. CAPTURA DEL ENLACE (URL del producto)
                     link_el = await el.query_selector("a")
                     href = await link_el.get_attribute("href") if link_el else ""
-                    # Si el link es relativo (/es/es/producto...), le pegamos el dominio
                     url_completa = href if href.startswith("http") else f"https://www.zara.com{href}"
 
-                    # 3. CAPTURA DE IMAGEN (Con espera de carga real)
                     imagen = ""
-                    for _ in range(8):  # Intentamos durante 4 segundos (8 * 0.5s)
+                    for _ in range(8):
                         img_el = await el.query_selector("img")
                         if img_el:
                             src = await img_el.get_attribute("src")
@@ -61,7 +54,6 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
                                 break
                         await asyncio.sleep(0.5)
 
-                    # 4. CAPTURA DE PRECIOS
                     nodos_precio = await el.query_selector_all(".money-amount__main")
                     textos_precio = [(await p.inner_text()).strip() for p in nodos_precio]
 
@@ -73,7 +65,6 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
                     elif len(textos_precio) >= 3:
                         p_original, p_intermedio, p_final = textos_precio[:3]
 
-                    # 5. DESCUENTO
                     badge = await el.query_selector("[class*='discount'], .discount-badge")
                     descuento = (await badge.inner_text()).strip() if badge else None
 

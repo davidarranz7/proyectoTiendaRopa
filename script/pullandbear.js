@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const btnCerrar = document.getElementById("cerrar-filtros");
     const btnConfirmar = document.getElementById("aplicar-filtros");
 
-    // Manejo del Modal de Filtros
     if (btnAbrir) {
         btnAbrir.addEventListener("click", () => {
             modal.style.display = "block";
@@ -20,7 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
         if (event.target == modal) cerrarModal();
     };
 
-    // Estética del menú de categorías
     const categorias = document.querySelectorAll(".categorias-pull li a");
     categorias.forEach(cat => {
         cat.addEventListener("click", (e) => {

@@ -5,11 +5,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const btnConfirmar = document.getElementById("confirmar-filtros");
     const grid = document.getElementById("grid-articulos");
 
-    // 1. GESTIÓN DEL MODAL DE FILTROS
     if (btnAbrir) {
         btnAbrir.addEventListener("click", () => {
             modal.style.display = "block";
-            // Bloqueamos el scroll del cuerpo para mejorar la experiencia de filtrado
             document.body.style.overflow = "hidden";
         });
     }
@@ -24,20 +22,17 @@ document.addEventListener("DOMContentLoaded", () => {
     if (btnCerrar) btnCerrar.addEventListener("click", cerrarModal);
     if (btnConfirmar) btnConfirmar.addEventListener("click", cerrarModal);
 
-    // Cerrar el modal si el usuario hace clic fuera del contenido
     window.onclick = (event) => {
         if (event.target == modal) {
             cerrarModal();
         }
     };
 
-    // 2. INTERACTIVIDAD DEL MENÚ DE CATEGORÍAS
     const categorias = document.querySelectorAll(".categorias-mango li a");
     categorias.forEach(cat => {
         cat.addEventListener("click", (e) => {
             if (cat.getAttribute("href") === "#") e.preventDefault();
 
-            // Cambiar estado visual
             categorias.forEach(c => c.classList.remove("active"));
             cat.classList.add("active");
 
@@ -45,7 +40,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-    // 3. LÓGICA DE ORDENACIÓN (Preparada para botones de precio)
     const ordenarPorPrecio = (orden) => {
         const productos = Array.from(grid.querySelectorAll(".card-mango"));
 
@@ -55,7 +49,6 @@ document.addEventListener("DOMContentLoaded", () => {
             return orden === 'asc' ? precioA - precioB : precioB - precioA;
         });
 
-        // Reinyectar productos ordenados
         grid.innerHTML = "";
         productos.forEach(p => grid.appendChild(p));
     };

@@ -4,16 +4,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     botonesFiltro.forEach(boton => {
         boton.addEventListener("click", () => {
-            // 1. Gestionar estado visual de los botones
             botonesFiltro.forEach(btn => btn.classList.remove("active"));
             boton.classList.add("active");
 
-            // 2. Obtener la categoría seleccionada
             const categoriaSeleccionada = boton.getAttribute("data-categoria");
 
-            // 3. Filtrar los productos
             productos.forEach(producto => {
-                // Obtenemos la categoría del producto (asegúrate de que venga en minúsculas)
                 const categoriaProducto = producto.getAttribute("data-categoria").toLowerCase();
 
                 if (categoriaSeleccionada === "todos") {

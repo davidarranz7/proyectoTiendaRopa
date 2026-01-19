@@ -1,4 +1,4 @@
-/* --- CONFIGURACIÓN GENERAL --- */
+
 .seccion-mujer {
     max-width: 1300px;
     margin: 0 auto;
@@ -6,7 +6,6 @@
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-/* --- CABECERA --- */
 .cabecera-seccion {
     text-align: center;
     padding: 60px 0 30px;
@@ -27,7 +26,6 @@
     text-transform: uppercase;
 }
 
-/* --- SUBMENÚ DE CATEGORÍAS --- */
 .submenu-categorias {
     display: flex;
     justify-content: center;
@@ -60,14 +58,12 @@
     font-weight: bold;
 }
 
-/* --- GRID (3 PRODUCTOS POR FILA) --- */
 .contenedor-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     gap: 40px;
 }
 
-/* --- TARJETA DE PRODUCTO --- */
 .tarjeta-producto {
     display: flex;
     flex-direction: column;
@@ -104,7 +100,6 @@
     z-index: 5;
 }
 
-/* --- DETALLES --- */
 .detalles {
     padding: 15px 0;
     text-transform: uppercase;
@@ -122,7 +117,6 @@
     color: #000;
     font-weight: 400;
     letter-spacing: 0.5px;
-    /* Evita que nombres largos rompan el grid */
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
