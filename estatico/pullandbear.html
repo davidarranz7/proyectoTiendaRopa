@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PULL&BEAR - Urban Style</title>
-
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/pullandbear.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -79,21 +78,26 @@
         <div class="grid-pull" id="grid-articulos">
             {% for producto in articulos %}
             <article class="card-pull" data-precio="{{ producto.precio_final }}">
-                <div class="img-wrapper">
-                    {% if producto.descuento %}
-                        <div class="promo-tag">{{ producto.descuento }}</div>
-                    {% endif %}
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                </div>
-                <div class="info-pull">
-                    <h3 class="name-pull">{{ producto.nombre }}</h3>
-                    <div class="price-wrapper">
-                        {% if producto.precio_original %}
-                            <span class="old-price">{{ producto.precio_original }}</span>
+                <a href="{{ producto.url_producto }}" target="_blank" style="text-decoration: none; color: inherit; display: block;">
+                    <div class="img-wrapper">
+                        {% if producto.descuento %}
+                            <div class="promo-tag">{{ producto.descuento }}</div>
                         {% endif %}
-                        <span class="current-price">{{ producto.precio_final }}</span>
+                        <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                     </div>
-                </div>
+                    <div class="info-pull">
+                        <h3 class="name-pull">{{ producto.nombre }}</h3>
+                        <div class="price-wrapper">
+                            {% if producto.precio_original %}
+                                <span class="old-price">{{ producto.precio_original }}</span>
+                            {% endif %}
+                            <span class="current-price">{{ producto.precio_final }}</span>
+                        </div>
+                        <div style="margin-top: 10px; font-size: 0.75rem; letter-spacing: 1px; font-weight: bold; color: #000; text-transform: uppercase;">
+                            Ver en tienda <i class="fas fa-external-link-alt" style="font-size: 0.7rem;"></i>
+                        </div>
+                    </div>
+                </a>
             </article>
             {% endfor %}
         </div>

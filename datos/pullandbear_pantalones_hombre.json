@@ -1,0 +1,502 @@
+[
+    {
+        "nombre": "Pantalón jogger cargo",
+        "imagen": "https://static.pullandbear.net/assets/public/5403/bd4f/7008467bb081/6be97fb7f0c3/07674901802-M/07674901802-M.jpg?ts=1752241361499&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/hombre-n6228",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal baggy básico",
+        "imagen": "https://static.pullandbear.net/assets/public/1478/c7c4/d8b5468bbf66/79df76bdcbb1/07675501501-A7M/07675501501-A7M.jpg?ts=1758022578248&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-baggy-basico-l07675501?cS=501&pelement=693840149",
+        "precio_original": "Precio original\n\n22,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_rebajado": "Precio original\n\n22,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_final": "22,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal interlock STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/dca6/3b86/57cf4abe97c0/eb212d0d8140/03680525807-M/03680525807-M.jpg?ts=1753696387396&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-interlock-stwd-l03680525?cS=807&pelement=694046099",
+        "precio_original": "Precio original\n\n22,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_rebajado": "Precio original\n\n22,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_final": "22,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/9d6b/e1a4/6bc84191845f/2e3ec49cdac4/03680508832-M/03680508832-M.jpg?ts=1740746826284&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680508?cS=832&pelement=692161537",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/f394/a325/2f884ba09430/2aa40d058aac/0767450470000-A7M/0767450470000-A7M.jpg?ts=1756132986174&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-baggy-l07674504?cS=700&pelement=695878849",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger estructura",
+        "imagen": "https://static.pullandbear.net/assets/public/f08e/2031/4b9b484f8320/7c9b40af442e/03680511746-M/03680511746-M.jpg?ts=1741003792319&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-estructura-l03680511?cS=746&pelement=692152266",
+        "precio_original": "25,99 € \n\nPrecio original\n\n15,99 € \n\nDescuentos\n\n-63%\n\nPrecio actual\n\n9,59 €",
+        "precio_rebajado": "25,99 €",
+        "descuento": "Descuentos\n\n-63%\n\nPrecio actual\n\n9,59 €",
+        "precio_final": "Precio original\n\n15,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal skater",
+        "imagen": "https://static.pullandbear.net/assets/public/7150/4010/aac246179dbc/cf9b601e9450/07675506712-M/07675506712-M.jpg?ts=1760348538693&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-skater-l07675506?cS=712&pelement=693840133",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger cuadros",
+        "imagen": "https://static.pullandbear.net/assets/public/b411/fc61/857044888f53/c1f6a73af095/03670501802-A7M/03670501802-A7M.jpg?ts=1764585676153&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-cuadros-l03670501?cS=802&pelement=734980682",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger comfort",
+        "imagen": "https://static.pullandbear.net/assets/public/ed6c/efbd/d39046fdbd9c/bc6f751fe6d3/07674501700-M/07674501700-M.jpg?ts=1754399032419&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-comfort-l07674501?cS=700&pelement=693518292",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/12a5/3e3b/158c4550b7da/8c8668330296/03680515710-M/03680515710-M.jpg?ts=1740493251841&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-l03680515?cS=710&pelement=692157454",
+        "precio_original": "Precio original\n\n22,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_rebajado": "Precio original\n\n22,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_final": "22,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal interlock",
+        "imagen": "https://static.pullandbear.net/assets/public/9002/7560/98be41498f86/fc195aca49fd/03680902803-M/03680902803-M.jpg?ts=1751875199402&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-interlock-l03680524?cS=803&pelement=701515229",
+        "precio_original": "Precio original\n\n22,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_rebajado": "Precio original\n\n22,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_final": "22,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal Stranger Things",
+        "imagen": "https://static.pullandbear.net/assets/public/d4c9/d4e9/c30c4386ae2e/d6db954a2b84/07675514803-M/07675514803-M.jpg?ts=1762254958634&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-stranger-things-l07675514?cS=803&pelement=718906454",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal punto",
+        "imagen": "https://static.pullandbear.net/assets/public/4b77/a75c/243941768678/e00e9d472687/07674519800-A7M/07674519800-A7M.jpg?ts=1760965182824&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-punto-l07674519?cS=800&pelement=710213811",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal chenilla",
+        "imagen": "https://static.pullandbear.net/assets/public/0e40/55a6/0d1644bab31b/e39748ba468d/07674526802-A7M/07674526802-A7M.jpg?ts=1762180138961&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-chenilla-l07674526?cS=802&pelement=718907869",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/ac0d/d004/21a74ae88dd2/c0b21c2024a8/07674528818-A7M/07674528818-A7M.jpg?ts=1763398249143&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-baggy-l07674528?cS=818&pelement=712816112",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/b097/fe51/cc7d4f938cf2/5c9baa6af972/07675500800-M/07675500800-M.jpg?ts=1747387101370&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-rustico-l07675500?cS=800&pelement=692161468",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal balloon pinzas",
+        "imagen": "https://static.pullandbear.net/assets/public/ebe4/b952/65cd4b6488e2/d840e07aadf8/0767452080300-A7M/0767452080300-A7M.jpg?ts=1761029987217&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-balloon-pinzas-l07674520?cS=803&pelement=712968438",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón wide leg cortes",
+        "imagen": "https://static.pullandbear.net/assets/public/1f5b/dd05/d96b444f9a28/2f39021b7199/07674527400-A7M/07674527400-A7M.jpg?ts=1762178134601&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-wide-leg-cortes-l07674527?cS=400&pelement=716245153",
+        "precio_original": "Precio original\n\n39,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n23,99 €",
+        "precio_rebajado": "Precio original\n\n39,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n23,99 €",
+        "precio_final": "39,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón wide leg paisley",
+        "imagen": "https://static.pullandbear.net/assets/public/874e/5f5c/3cf24efab757/f3a1068daca7/07674515700-A7M/07674515700-A7M.jpg?ts=1759239704254&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-wide-leg-paisley-l07674515?cS=700&pelement=711204961",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger lino",
+        "imagen": "https://static.pullandbear.net/assets/public/3a00/3781/2ed94ed69584/b8c96847dce0/03680510250-M/03680510250-M.jpg?ts=1740746831106&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-lino-l03680510?cS=250&pelement=692152162",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chino pinzas",
+        "imagen": "https://static.pullandbear.net/assets/public/5cbf/c33a/f95a4f359772/b684c713fdb5/03680533800-M/03680533800-M.jpg?ts=1752241155454&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chino-pinzas-l03680533?cS=800&pelement=694046106",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón recto textura",
+        "imagen": "https://static.pullandbear.net/assets/public/ec96/7dab/1d4448369ea6/df289250791f/07674522700-A7M/07674522700-A7M.jpg?ts=1760366271947&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-recto-textura-l07674522?cS=700&pelement=712074262",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal costuras",
+        "imagen": "https://static.pullandbear.net/assets/public/3032/8921/a65c4ac3ad70/a10b5ce0a8d2/07674521807-A7M/07674521807-A7M.jpg?ts=1760965181597&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-costuras-l07674521?cS=807&pelement=710213813",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón pana flare",
+        "imagen": "https://static.pullandbear.net/assets/public/f1cd/d5b5/8c1a446dbaad/03e09c30690e/07674523700-A7M/07674523700-A7M.jpg?ts=1762781229385&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-pana-flare-l07674523?cS=700&pelement=710213810",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón super baggy jacquard",
+        "imagen": "https://static.pullandbear.net/assets/public/eb2c/42ca/933f4972b397/ae4150575bd0/07674507802-A7M/07674507802-A7M.jpg?ts=1756116428070&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-super-baggy-jacquard-l07674507?cS=802&pelement=697861773",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo fatigue",
+        "imagen": "https://static.pullandbear.net/assets/public/c30c/f76d/0074493f9e81/1a954147b76e/07674511500-A7M/07674511500-A7M.jpg?ts=1757930291039&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-fatigue-l07674511?cS=500&pelement=701009634",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón tailoring cuadros",
+        "imagen": "https://static.pullandbear.net/assets/public/42d2/fd05/f9b04e6ab12e/ee313da8575f/07674508401-M/07674508401-M.jpg?ts=1764173640066&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-tailoring-cuadros-l07674508?cS=401&pelement=695245047",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger PlayStation x STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/b47d/e59e/ce5f4511bca7/b0d7bb857311/0767451725100-A7M/0767451725100-A7M.jpg?ts=1755864170710&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-playstation-x-stwd-l07674517?cS=251&pelement=702129733",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger baggy estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/2160/b0cf/15d8483f85e9/3e4f3a3c281c/07675509922-A7M/07675509922-A7M.jpg?ts=1756126352531&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-baggy-estampado-l07675509?cS=922&pelement=710556443",
+        "precio_original": "Precio original\n\n22,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_rebajado": "Precio original\n\n22,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_final": "22,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy cargo",
+        "imagen": "https://static.pullandbear.net/assets/public/488c/520a/2f2a43c299eb/66a59154cef9/07674505500-A7M/07674505500-A7M.jpg?ts=1754314958082&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-baggy-cargo-l07674505?cS=500&pelement=695878848",
+        "precio_original": "29,99 € \n\nPrecio original\n\n19,99 € \n\nDescuentos\n\n-60%\n\nPrecio actual\n\n11,99 €",
+        "precio_rebajado": "29,99 €",
+        "descuento": "Descuentos\n\n-60%\n\nPrecio actual\n\n11,99 €",
+        "precio_final": "Precio original\n\n19,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal STWD Community",
+        "imagen": "https://static.pullandbear.net/assets/public/96b7/2f8f/2e2242af8374/048016f4e1cf/03671503803-A7M/03671503803-A7M.jpg?ts=1763395861892&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-stwd-community-l03671503?cS=803&pelement=733464885",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal pinzas",
+        "imagen": "https://static.pullandbear.net/assets/public/a9bd/b927/95ac452dbc73/eb04fbe7f048/07674524803-A7M/07674524803-A7M.jpg?ts=1763371821484&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-pinzas-l07674524?cS=803&pelement=710213809",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans carpenter estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/f746/d702/2bea45aea3e9/0c4b476d3bfe/07674512063-A7M/07674512063-A7M.jpg?ts=1754914087267&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/jeans-carpenter-estampado-l07674512?cS=063&pelement=699518178",
+        "precio_original": "Precio original\n\n39,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n23,99 €",
+        "precio_rebajado": "Precio original\n\n39,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n23,99 €",
+        "precio_final": "39,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger rayas Lueder",
+        "imagen": "https://static.pullandbear.net/assets/public/c6ce/8c6e/0da149a683d4/0ef23d2a9ee3/07675510700-M/07675510700-M.jpg?ts=1758020683013&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-rayas-lueder-l07675510?cS=700&pelement=712074260",
+        "precio_original": "Precio original\n\n59,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n35,99 €",
+        "precio_rebajado": "Precio original\n\n59,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n35,99 €",
+        "precio_final": "59,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/3426/180a/3fb54938b507/3f288498f3e7/07679500803-A7M/07679500803-A7M.jpg?ts=1736441514208&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-baggy-l07679500?cS=803&pelement=700056168",
+        "precio_original": "Precio original\n\n22,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_rebajado": "Precio original\n\n22,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n13,79 €",
+        "precio_final": "22,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal técnico",
+        "imagen": "https://static.pullandbear.net/assets/public/74dc/6862/de2c47489daf/c57fe36c8f2c/07678503800-r/07678503800-r.jpg?ts=1742432022971&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-tecnico-l07678503?cS=800&pelement=700653381",
+        "precio_original": "Precio original\n\n19,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n11,99 €",
+        "precio_rebajado": "Precio original\n\n19,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n11,99 €",
+        "precio_final": "19,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal balloon interlock",
+        "imagen": "https://static.pullandbear.net/assets/public/0e24/968c/c2f049babcec/bb4c3ccea982/07674509803-A7M/07674509803-A7M.jpg?ts=1758536824061&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-balloon-interlock-l07674509?cS=803&pelement=704804423",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón tailoring wide leg",
+        "imagen": "https://static.pullandbear.net/assets/public/7f1b/7cc7/929d45eaae43/3a817489f3bc/07677509505-M/07677509505-M.jpg?ts=1723623645457&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-tailoring-wide-leg-l07677509?cS=505&pelement=693340451",
+        "precio_original": "Precio original\n\n29,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_rebajado": "Precio original\n\n29,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n17,99 €",
+        "precio_final": "29,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón tailoring jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/ddab/5157/6f5e49888e0b/50fbe66f8274/07674514832-A7M/07674514832-A7M.jpg?ts=1760362218845&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-tailoring-jogger-l07674514?cS=832&pelement=702129734",
+        "precio_original": "Precio original\n\n25,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_rebajado": "Precio original\n\n25,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n15,59 €",
+        "precio_final": "25,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo efecto encerado",
+        "imagen": "https://static.pullandbear.net/assets/public/5494/70b2/f36b4dc4bc30/460affdbcb21/07674533700-M/07674533700-M.jpg?ts=1762764802594&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-efecto-encerado-l07674533?cS=700&pelement=717212402",
+        "precio_original": "Precio original\n\n49,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n29,99 €",
+        "precio_rebajado": "Precio original\n\n49,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n29,99 €",
+        "precio_final": "49,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal aberturas",
+        "imagen": "https://static.pullandbear.net/assets/public/5a32/a0be/d6744dd28031/be63f0497bef/03681501251-M/03681501251-M.jpg?ts=1757674816140&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-aberturas-l03681501?cS=251&pelement=692161545",
+        "precio_original": "Precio original\n\n19,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n11,99 €",
+        "precio_rebajado": "Precio original\n\n19,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n11,99 €",
+        "precio_final": "19,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/563d/b2a1/0a6647c39033/e8722c191bad/07678506807-A7M/07678506807-A7M.jpg?ts=1724398570334&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-stwd-l07678506?cS=807&pelement=701515227",
+        "precio_original": "Precio original\n\n19,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n11,99 €",
+        "precio_rebajado": "Precio original\n\n19,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n11,99 €",
+        "precio_final": "19,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/84c3/1580/95a145c284a0/b504fdad3f54/07674506700-M/07674506700-M.jpg?ts=1756722603357&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-baggy-l07674506?cS=700&pelement=698993641",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pack 2 pantalones jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/171d/fc00/d67347f29a93/5158fc0bc26f/0767590480700-M/0767590480700-M.jpg?ts=1758639747412&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pack-2-pantalones-jogger-l07675904?cS=807&pelement=699354571",
+        "precio_original": "Precio original\n\n44,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n26,99 €",
+        "precio_rebajado": "Precio original\n\n44,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n26,99 €",
+        "precio_final": "44,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pack pantalón y sudadera chándal",
+        "imagen": "https://static.pullandbear.net/assets/public/0a36/fc76/30164532bdce/aa76f170b101/07562901803-M/07562901803-M.jpg?ts=1757073616867&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pack-pantalon-y-sudadera-chandal-l07562901?cS=803&pelement=694223823",
+        "precio_original": "47,99 € \n\nPrecio original\n\n33,59 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n28,79 €",
+        "precio_rebajado": "47,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n28,79 €",
+        "precio_final": "Precio original\n\n33,59 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pack pantalón sudadera capucha chándal",
+        "imagen": "https://static.pullandbear.net/assets/public/e265/080e/9e9d483ea68c/21d7caf9117f/07562913807-M/07562913807-M.jpg?ts=1757073618822&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pack-pantalon-sudadera-capucha-chandal-l07562913?cS=807&pelement=694223839",
+        "precio_original": "44,99 € \n\nPrecio original\n\n31,49 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n26,99 €",
+        "precio_rebajado": "44,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n26,99 €",
+        "precio_final": "Precio original\n\n31,49 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón wide leg flocado",
+        "imagen": "https://static.pullandbear.net/assets/public/bae3/afa3/085d4cdb9d52/96c7f16e4419/07674534802-M/07674534802-M.jpg?ts=1764156220237&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-wide-leg-flocado-l07674534?cS=802&pelement=720477188",
+        "precio_original": "Precio original\n\n59,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n35,99 €",
+        "precio_rebajado": "Precio original\n\n59,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n35,99 €",
+        "precio_final": "59,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans flocados",
+        "imagen": "https://static.pullandbear.net/assets/public/1b94/19fa/ba75498fbed4/1f3f6303c743/07674530800-A7M/07674530800-A7M.jpg?ts=1764339928967&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/jeans-flocados-l07674530?cS=800&pelement=718906456",
+        "precio_original": "Precio original\n\n45,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n27,59 €",
+        "precio_rebajado": "Precio original\n\n45,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n27,59 €",
+        "precio_final": "45,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón tailoring rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/3b6e/91e2/af8c4029bdd6/2cea7f39407f/03680545710-M/03680545710-M.jpg?ts=1745837182542&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-tailoring-rustico-l03680545?cS=710&pelement=692151869",
+        "precio_original": "Precio original\n\n35,99 € \n\nDescuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_rebajado": "Precio original\n\n35,99 €",
+        "descuento": "Descuentos\n\n-40%\n\nPrecio actual\n\n21,59 €",
+        "precio_final": "35,99 €",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo comfort",
+        "imagen": "https://static.pullandbear.net/assets/public/69a7/4d0a/f32c4aabbaed/1ca929750faf/07674503505-M/07674503505-M.jpg?ts=1754649719548&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-comfort-l07674503?cS=505&pelement=693518331",
+        "precio_original": "29,99 € \n\nPrecio original\n\n15,99 € \n\nDescuentos\n\n-68%\n\nPrecio actual\n\n9,59 €",
+        "precio_rebajado": "29,99 €",
+        "descuento": "Descuentos\n\n-68%\n\nPrecio actual\n\n9,59 €",
+        "precio_final": "Precio original\n\n15,99 €",
+        "categoria": "pantalones_hombre"
+    }
+]

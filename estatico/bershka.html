@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BERSHKA - Nueva Colección</title>
-
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/bershka.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -72,21 +71,26 @@
         <div class="grid-bershka" id="grid-articulos">
             {% for producto in articulos %}
             <article class="card-bsk" data-precio="{{ producto.precio_final }}">
-                <div class="img-bsk-box">
-                    {% if producto.descuento %}
-                        <div class="badge-bsk">{{ producto.descuento }}</div>
-                    {% endif %}
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                </div>
-                <div class="info-bsk">
-                    <h3 class="name-bsk">{{ producto.nombre }}</h3>
-                    <div class="prices-bsk">
-                        {% if producto.precio_original %}
-                            <span class="old-bsk">{{ producto.precio_original }}</span>
+                <a href="{{ producto.url_producto }}" target="_blank" style="text-decoration: none; color: inherit; display: block;">
+                    <div class="img-bsk-box">
+                        {% if producto.descuento %}
+                            <div class="badge-bsk">{{ producto.descuento }}</div>
                         {% endif %}
-                        <span class="new-bsk">{{ producto.precio_final }}</span>
+                        <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                     </div>
-                </div>
+                    <div class="info-bsk">
+                        <h3 class="name-bsk">{{ producto.nombre }}</h3>
+                        <div class="prices-bsk">
+                            {% if producto.precio_original %}
+                                <span class="old-bsk">{{ producto.precio_original }}</span>
+                            {% endif %}
+                            <span class="new-bsk">{{ producto.precio_final }}</span>
+                        </div>
+                        <div class="btn-bsk-shop" style="margin-top: 12px; font-size: 0.7rem; font-weight: 800; text-transform: uppercase; border-top: 1px solid #eee; padding-top: 10px;">
+                            COMPRAR EN BERSHKA <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </a>
             </article>
             {% endfor %}
         </div>

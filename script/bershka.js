@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const btnCerrar = document.getElementById("cerrar-filtros");
     const btnConfirmar = document.getElementById("confirmar-filtros");
     const grid = document.getElementById("grid-articulos");
+    const tarjetas = document.querySelectorAll(".card-bsk");
 
     if (btnAbrir) {
         btnAbrir.addEventListener("click", () => {
@@ -18,7 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     if (btnCerrar) btnCerrar.addEventListener("click", cerrarModal);
-    if (btnConfirmar) btnConfirmar.addEventListener("click", cerrarModal);
 
     window.onclick = (event) => {
         if (event.target == modal) cerrarModal();
@@ -28,21 +28,44 @@ document.addEventListener("DOMContentLoaded", () => {
     categorias.forEach(cat => {
         cat.addEventListener("click", (e) => {
             if (cat.getAttribute("href") === "#") e.preventDefault();
+
+            const filtroRapido = cat.textContent.trim().toLowerCase();
             categorias.forEach(c => c.classList.remove("active"));
             cat.classList.add("active");
+
+            tarjetas.forEach(t => {
+                const nombre = t.querySelector(".name-bsk").textContent.toLowerCase();
+                const esOferta = t.querySelector(".badge-bsk") !== null;
+
+                if (filtroRapido === "todas las prendas") {
+                    t.style.display = "block";
+                } else if (filtroRapido === "rebajas") {
+                    t.style.display = esOferta ? "block" : "none";
+                } else {
+                    t.style.display = nombre.includes(filtroRapido.replace(/s$/, '')) ? "block" : "none";
+                }
+            });
         });
     });
 
-    const ordenarBershka = (orden) => {
-        const productos = Array.from(grid.querySelectorAll(".card-bsk"));
+    if (btnConfirmar) {
+        btnConfirmar.onclick = () => {
+            const generos = Array.from(modal.querySelectorAll('.col-bsk:first-child input:checked')).map(i => i.parentElement.textContent.trim().toLowerCase());
+            const tipos = Array.from(modal.querySelectorAll('.col-bsk:nth-child(2) input:checked')).map(i => i.parentElement.textContent.trim().toLowerCase().replace(/s$/, ''));
+            const soloOferta = modal.querySelector('.sale-check input').checked;
 
-        productos.sort((a, b) => {
-            const precioA = parseFloat(a.dataset.precio.replace(',', '.'));
-            const precioB = parseFloat(b.dataset.precio.replace(',', '.'));
-            return orden === 'asc' ? precioA - precioB : precioB - precioA;
-        });
+            tarjetas.forEach(t => {
+                const nombre = t.querySelector(".name-bsk").textContent.toLowerCase();
+                const esOferta = t.querySelector(".badge-bsk") !== null;
 
-        grid.innerHTML = "";
-        productos.forEach(p => grid.appendChild(p));
-    };
+                const cumpleGenero = generos.length === 0 || generos.some(g => nombre.includes(g));
+                const cumpleTipo = tipos.length === 0 || tipos.some(tipo => nombre.includes(tipo));
+                const cumpleOferta = !soloOferta || esOferta;
+
+                t.style.display = (cumpleGenero && cumpleTipo && cumpleOferta) ? "block" : "none";
+            });
+
+            cerrarModal();
+        };
+    }
 });
