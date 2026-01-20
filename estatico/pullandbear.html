@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PULL&BEAR - Urban Style</title>
+    <title>PULL&BEAR - Official Website</title>
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/pullandbear.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -12,95 +12,69 @@
 
     {% include 'menu.html' %}
 
-    <main class="seccion-pull">
-        <div class="header-pull">
-            <p class="tagline">Young & Urban Culture</p>
-            <h2>New Collections</h2>
-        </div>
-
-        <nav class="escaparate-intermedio">
-            <p class="section-label">Tu escaparate intermedio</p>
-            <div class="nav-container">
-                <ul class="categorias-pull">
-                    <li><a href="#" class="active">Todas las prendas</a></li>
-                    <li><a href="#">Rebajas</a></li>
-                    <li><a href="#">Pantalones</a></li>
-                    <li><a href="#">Camisetas</a></li>
-                    <li><a href="#">Sudaderas</a></li>
-                    <li><a href="#">Zapatos</a></li>
+    <main class="pull-container">
+        <aside class="sidebar-filtros">
+            <div class="filtro-seccion">
+                <h3>GÉNERO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="genero" value="hombre"> HOMBRE</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="genero" value="mujer"> MUJER</label></li>
                 </ul>
-                <button class="btn-filtro-pull">
-                    <i class="fas fa-sliders-h"></i> Filtro
-                </button>
             </div>
-        </nav>
 
-        {% if termino_busqueda %}
-        <div class="contenedor-tag-pull">
-            <div class="tag-pull">
-                <span>Buscas: <strong>{{ termino_busqueda }}</strong></span>
-                <a href="/pullandbear" class="close-tag"><i class="fas fa-times"></i></a>
+            <div class="filtro-seccion">
+                <h3>CATEGORÍA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="abrigo"> ABRIGOS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="pantalon"> PANTALONES</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="camiseta"> CAMISETAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="sudadera"> SUDADERAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="zapato"> ZAPATOS</label></li>
+                </ul>
             </div>
-        </div>
-        {% endif %}
 
-        <div id="modal-filtros" class="modal-pull">
-            <div class="contenido-modal">
-                <div class="modal-header">
-                    <h3>FILTROS AVANZADOS</h3>
-                    <button id="cerrar-filtros" class="btn-cerrar"><i class="fas fa-times"></i></button>
-                </div>
-
-                <div class="filtro-secciones">
-                    <div class="seccion-col">
-                        <h4>GÉNERO</h4>
-                        <label><input type="checkbox"> Hombre</label>
-                        <label><input type="checkbox"> Mujer</label>
-                    </div>
-                    <div class="seccion-col">
-                        <h4>CATEGORÍA</h4>
-                        <label><input type="checkbox"> Pantalones</label>
-                        <label><input type="checkbox"> Camisetas</label>
-                        <label><input type="checkbox"> Sudaderas</label>
-                        <label><input type="checkbox"> Zapatos</label>
-                    </div>
-                </div>
-
-                <div class="filtro-footer">
-                    <label class="check-rebajas">
-                        <input type="checkbox"> Mostrar solo productos en <strong>REBAJAS</strong>
-                    </label>
-                    <button id="aplicar-filtros" class="btn-confirmar">CONFIRMAR FILTROS</button>
-                </div>
+            <div class="filtro-seccion">
+                <h3>PRECIO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" id="solo-rebajas"> SOLO REBAJAS</label></li>
+                </ul>
             </div>
-        </div>
+        </aside>
 
-        <div class="grid-pull" id="grid-articulos">
-            {% for producto in articulos %}
-            <article class="card-pull" data-precio="{{ producto.precio_final }}">
-                <a href="{{ producto.url_producto }}" target="_blank" style="text-decoration: none; color: inherit; display: block;">
-                    <div class="img-wrapper">
-                        {% if producto.descuento %}
-                            <div class="promo-tag">{{ producto.descuento }}</div>
-                        {% endif %}
-                        <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                    </div>
-                    <div class="info-pull">
-                        <h3 class="name-pull">{{ producto.nombre }}</h3>
-                        <div class="price-wrapper">
-                            {% if producto.precio_original %}
-                                <span class="old-price">{{ producto.precio_original }}</span>
+        <section class="contenido-productos">
+            <header class="pull-header">
+                <h1>PULL&BEAR</h1>
+                <p>EVERGREEN / {{ articulos|length }} PRODUCTOS</p>
+            </header>
+
+            <div class="grid-pull" id="grid-productos">
+                {% for producto in articulos %}
+                <article class="tarjeta-pull"
+                         data-nombre="{{ producto.nombre|lower }}"
+                         data-oferta="{{ 'true' if producto.descuento else 'false' }}">
+
+                    <a href="{{ producto.url_producto }}" target="_blank">
+                        <div class="img-wrapper">
+                            {% if producto.descuento %}
+                                <span class="tag-rebaja">{{ producto.descuento }}</span>
                             {% endif %}
-                            <span class="current-price">{{ producto.precio_final }}</span>
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                         </div>
-                        <div style="margin-top: 10px; font-size: 0.75rem; letter-spacing: 1px; font-weight: bold; color: #000; text-transform: uppercase;">
-                            Ver en tienda <i class="fas fa-external-link-alt" style="font-size: 0.7rem;"></i>
+
+                        <div class="info-producto">
+                            <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                            <div class="precios">
+                                {% if producto.precio_original %}
+                                    <span class="p-original">{{ producto.precio_original }}</span>
+                                {% endif %}
+                                <span class="p-final">{{ producto.precio_final }}</span>
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </article>
-            {% endfor %}
-        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
     </main>
 
     {% include 'footer.html' %}

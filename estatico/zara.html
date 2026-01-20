@@ -2,7 +2,8 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>ZARA - Escaparate de Moda</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZARA - Official Website</title>
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/zara.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -11,94 +12,71 @@
 
     {% include 'menu.html' %}
 
-    <main class="seccion-zara">
-        <header class="header-zara">
-            <h1>ZARA</h1>
-            <p>TU ESCAPARATE INTERMEDIARIO</p>
-
-            <div class="botonera-zara" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-                <button class="btn-directo" data-filter="todas">TODAS LAS PRENDAS</button>
-                <button class="btn-directo" data-filter="rebajas">REBAJAS</button>
-                <button class="btn-directo" data-filter="pantalon">PANTALONES</button>
-                <button class="btn-directo" data-filter="camiseta">CAMISETAS</button>
-                <button class="btn-directo" data-filter="sudadera">SUDADERAS</button>
-                <button class="btn-directo" data-filter="zapato">ZAPATOS</button>
-                <button class="btn-directo" data-filter="hombre">HOMBRE</button>
-                <button class="btn-directo" data-filter="mujer">MUJER</button>
-
-                <button id="btn-abrir-filtro" class="btn-filtro-main" style="background: #000; color: #fff; border: none; padding: 10px 20px; cursor: pointer; font-weight: bold;">
-                    <i class="fas fa-sliders-h"></i> FILTRO
-                </button>
+    <main class="zara-container">
+        <aside class="sidebar-filtros">
+            <div class="filtro-seccion">
+                <h3>GÉNERO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="genero" value="hombre"> HOMBRE</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="genero" value="mujer"> MUJER</label></li>
+                </ul>
             </div>
 
-            <div id="panel-filtros" class="panel-filtros-oculto" style="display: none; background: #f4f4f4; padding: 20px; border: 1px solid #ddd; margin-top: 15px; border-radius: 4px;">
-                <div class="contenido-filtro" style="max-width: 600px; margin: 0 auto; text-align: left;">
-                    <h3 style="border-bottom: 1px solid #000; padding-bottom: 10px; margin-bottom: 15px;">FILTROS AVANZADOS</h3>
-
-                    <div class="seccion-checkbox" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-                        <div>
-                            <p><strong>GÉNERO</strong></p>
-                            <label><input type="checkbox" name="f-genero" value="hombre"> Hombre</label><br>
-                            <label><input type="checkbox" name="f-genero" value="mujer"> Mujer</label>
-                        </div>
-                        <div>
-                            <p><strong>CATEGORÍA</strong></p>
-                            <label><input type="checkbox" name="f-tipo" value="pantalon"> Pantalones</label><br>
-                            <label><input type="checkbox" name="f-tipo" value="camiseta"> Camisetas</label><br>
-                            <label><input type="checkbox" name="f-tipo" value="sudadera"> Sudaderas</label><br>
-                            <label><input type="checkbox" name="f-tipo" value="zapato"> Zapatos</label>
-                        </div>
-                    </div>
-
-                    <div style="margin-top: 15px; padding-top: 10px; border-top: 1px dashed #ccc;">
-                        <label><input type="checkbox" id="f-solo-oferta"> Mostrar solo productos en <strong>REBAJAS</strong></label>
-                    </div>
-
-                    <button id="btn-confirmar-filtro" class="btn-confirmar" style="margin-top: 20px; width: 100%; background: #000; color: #fff; padding: 12px; border: none; cursor: pointer; font-weight: bold;">
-                        CONFIRMAR FILTROS
-                    </button>
-                </div>
+            <div class="filtro-seccion">
+                <h3>CATEGORÍA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="abrigo"> ABRIGOS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="pantalon"> PANTALONES</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="camiseta"> CAMISETAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="sudadera"> SUDADERAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="zapato"> ZAPATOS</label></li>
+                </ul>
             </div>
-        </header>
 
-        <div class="contenedor-grid" id="grid-zara">
-            {% for producto in articulos %}
-            <article class="tarjeta-zara"
-                     data-full-cat="{{ producto.categoria | lower if producto.categoria else '' }}"
-                     data-es-oferta="{{ 'si' if producto.descuento else 'no' }}">
+            <div class="filtro-seccion">
+                <h3>PRECIO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" id="solo-rebajas"> SOLO REBAJAS</label></li>
+                </ul>
+            </div>
+        </aside>
 
-                {% if producto.descuento %}
-                    <div class="tag-zara tag-oferta">OFERTA {{ producto.descuento }}</div>
-                {% else %}
-                    <div class="tag-zara tag-nuevo">NUEVA COLECCIÓN</div>
-                {% endif %}
+        <section class="contenido-productos">
+            <header class="zara-header">
+                <h1>ZARA</h1>
+                <p>NEW COLLECTION / {{ articulos|length }} PRODUCTOS</p>
+            </header>
 
-                <div class="img-wrapper">
+            <div class="grid-zara" id="grid-productos">
+                {% for producto in articulos %}
+                <article class="tarjeta-zara"
+                         data-nombre="{{ producto.nombre|lower }}"
+                         data-oferta="{{ 'true' if producto.descuento else 'false' }}">
+
                     <a href="{{ producto.url_producto }}" target="_blank">
-                        <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                        <div class="img-wrapper">
+                            {% if producto.descuento %}
+                                <span class="tag-rebaja">{{ producto.descuento }}</span>
+                            {% endif %}
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                        </div>
+
+                        <div class="info-producto">
+                            <div class="fila-superior">
+                                <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                                <div class="precios">
+                                    {% if producto.precio_original %}
+                                        <span class="p-original">{{ producto.precio_original }}</span>
+                                    {% endif %}
+                                    <span class="p-final">{{ producto.precio_final }}</span>
+                                </div>
+                            </div>
+                        </div>
                     </a>
-                </div>
-
-                <div class="info-zara">
-                    <h3 class="nombre">{{ producto.nombre }}</h3>
-
-                    <div class="precios">
-                        {% if producto.precio_original %}
-                            <span class="old">{{ producto.precio_original }}</span>
-                        {% endif %}
-
-                        <span class="current {% if producto.descuento %}sale{% endif %}">
-                            {{ producto.precio_final }}
-                        </span>
-                    </div>
-
-                    <a href="{{ producto.url_producto }}" class="link-zara" target="_blank">
-                        COMPRAR EN ZARA.COM <i class="fas fa-external-link-alt"></i>
-                    </a>
-                </div>
-            </article>
-            {% endfor %}
-        </div>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
     </main>
 
     {% include 'footer.html' %}

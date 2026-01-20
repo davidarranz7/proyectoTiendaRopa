@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MODA - Tu Inteligencia de Chollos</title>
-
+    <title>MODA - Home</title>
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/principal.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -13,48 +12,85 @@
 
     {% include 'menu.html' %}
 
-    <header class="hero-section">
-        <div class="hero-content">
-            <h1>ENCUENTRA TU ESTILO AL MEJOR PRECIO</h1>
-            <p>Rastreamos las mejores tiendas de moda para que tú solo tengas que elegir.</p>
-            <div class="hero-buttons">
-                <a href="/ofertas" class="btn-principal">Ver Chollos de Hoy</a>
-                <a href="/zara" class="btn-secundario">Explorar Zara</a>
+    <main class="home-container">
+        <section class="hero-zara">
+            <div class="hero-content">
+                <h1>NEW IN</h1>
+                <p>DESCUBRE LAS ÚLTIMAS TENDENCIAS DE LA TEMPORADA</p>
+                <div class="hero-links">
+                    <a href="/mujer" class="btn-hero">MUJER</a>
+                    <a href="/hombre" class="btn-hero">HOMBRE</a>
+                </div>
             </div>
-        </div>
-    </header>
+        </section>
 
-    <section class="propuesta-valor">
-        <div class="info-card">
-            <i class="fas fa-search-dollar"></i>
-            <h3>Rastreo Inteligente</h3>
-            <p>Escaneamos Zara, Mango y Zalando cada hora buscando bajadas de precio reales.</p>
-        </div>
-        <div class="info-card">
-            <i class="fas fa-filter"></i>
-            <h3>Filtros Avanzados</h3>
-            <p>Encuentra exactamente lo que buscas por categoría, género o porcentaje de descuento.</p>
-        </div>
-        <div class="info-card">
-            <i class="fas fa-bolt"></i>
-            <h3>Actualización Instantánea</h3>
-            <p>Si está rebajado en la tienda oficial, lo verás aquí antes que nadie.</p>
-        </div>
-    </section>
+        <section class="tiendas-grid">
+            <div class="tienda-card zara-bg">
+                <a href="/zara">
+                    <div class="tienda-info">
+                        <h2>ZARA</h2>
+                        <span>VER COLECCIÓN</span>
+                    </div>
+                </a>
+            </div>
+            <div class="tienda-card pull-bg">
+                <a href="/pullandbear">
+                    <div class="tienda-info">
+                        <h2>PULL&BEAR</h2>
+                        <span>EXPLORAR</span>
+                    </div>
+                </a>
+            </div>
+            <div class="tienda-card bershka-bg">
+                <a href="/bershka">
+                    <div class="tienda-info">
+                        <h2>BERSHKA</h2>
+                        <span>NEW STYLE</span>
+                    </div>
+                </a>
+            </div>
+            <div class="tienda-card mango-bg">
+                <a href="/mango">
+                    <div class="tienda-info">
+                        <h2>MANGO</h2>
+                        <span>ESSENTIALS</span>
+                    </div>
+                </a>
+            </div>
+        </section>
 
-    <section class="tiendas-destacadas">
-        <h2>Tiendas Disponibles</h2>
-        <div class="grid-tiendas">
-            <a href="/zara" class="tienda-link">ZARA</a>
-            <a href="/bershka" class="tienda-link">BERSHKA</a>
-            <a href="/pullandbear" class="tienda-link">PULL & BEAR</a>
-            <a href="/mango" class="tienda-link">MANGO</a>
-        </div>
-    </section>
+        <section class="seccion-destacada">
+            <div class="destacado-header">
+                <h3>OFERTAS DESTACADAS</h3>
+                <a href="/ofertas" class="ver-todo">VER TODO</a>
+            </div>
+
+            <div class="grid-productos-home">
+                {% for producto in articulos[:4] %}
+                <article class="tarjeta-home">
+                    <a href="{{ producto.url_producto }}" target="_blank">
+                        <div class="img-wrapper">
+                            {% if producto.descuento %}
+                                <span class="tag-rebaja">{{ producto.descuento }}</span>
+                            {% endif %}
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                        </div>
+                        <div class="info-producto">
+                            <span class="marca-tag">{{ producto.tienda }}</span>
+                            <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                            <div class="precios">
+                                <span class="p-final">{{ producto.precio_final }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
 
     {% include 'footer.html' %}
 
     <script src="/script/menu.js"></script>
-    <script src="/script/principal.js"></script>
-    </body>
+</body>
 </html>

@@ -9,50 +9,76 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
+
     {% include 'menu.html' %}
 
-    <main class="seccion-hombre">
-        <header class="cabecera-seccion">
-            <h1>HOMBRE</h1>
-            <p>Selección exclusiva de moda masculina</p>
-        </header>
-
-        <nav class="submenu-categorias">
-            <button class="filtro-cat active" data-categoria="todos">Todo</button>
-            <button class="filtro-cat" data-categoria="camisetas">Camisetas</button>
-            <button class="filtro-cat" data-categoria="pantalones">Pantalones</button>
-            <button class="filtro-cat" data-categoria="sudaderas">Sudaderas</button>
-            <button class="filtro-cat" data-categoria="abrigos">Abrigos</button>
-            <button class="filtro-cat" data-categoria="zapatos">Zapatos</button>
-        </nav>
-
-        <div class="contenedor-grid" id="grid-hombre">
-            {% for producto in articulos %}
-            <article class="tarjeta-producto" data-categoria="{{ producto.categoria }}">
-                {% if producto.descuento %}
-                <div class="porcentaje-descuento">{{ producto.descuento }}</div>
-                {% endif %}
-                <div class="imagen-contenedor">
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                </div>
-                <div class="detalles">
-                    <span class="marca">{{ producto.tienda }}</span>
-                    <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
-                    <div class="precios">
-                        {% if producto.precio_original %}
-                            <span class="precio-viejo">{{ producto.precio_original }}</span>
-                        {% endif %}
-                        <span class="precio-nuevo">{{ producto.precio_final }}</span>
-                    </div>
-                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Ver más</a>
-                </div>
-            </article>
-            {% else %}
-            <div class="sin-datos" style="grid-column: 1 / -1; text-align: center; padding: 50px;">
-                <p><i class="fas fa-clock"></i> Próximamente: Chollos de hombre en camino.</p>
+    <main class="hombre-container">
+        <aside class="sidebar-filtros">
+            <div class="filtro-seccion">
+                <h3>TIENDA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="zara"> ZARA</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="pullandbear"> PULL&BEAR</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="bershka"> BERSHKA</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="mango"> MANGO</label></li>
+                </ul>
             </div>
-            {% endfor %}
-        </div>
+
+            <div class="filtro-seccion">
+                <h3>CATEGORÍA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="abrigo"> ABRIGOS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="pantalon"> PANTALONES</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="camiseta"> CAMISETAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="sudadera"> SUDADERAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="zapato"> ZAPATOS</label></li>
+                </ul>
+            </div>
+
+            <div class="filtro-seccion">
+                <h3>PRECIO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" id="solo-rebajas"> SOLO REBAJAS</label></li>
+                </ul>
+            </div>
+        </aside>
+
+        <section class="contenido-hombre">
+            <header class="hombre-header">
+                <h1>HOMBRE</h1>
+                <p>MAN COLLECTION / {{ articulos|length }} PRODUCTOS</p>
+            </header>
+
+            <div class="grid-hombre" id="grid-productos">
+                {% for producto in articulos %}
+                <article class="tarjeta-hombre"
+                         data-tienda="{{ producto.tienda|lower }}"
+                         data-nombre="{{ producto.nombre|lower }}"
+                         data-oferta="{{ 'true' if producto.descuento else 'false' }}">
+
+                    <a href="{{ producto.url_producto }}" target="_blank">
+                        <div class="img-wrapper">
+                            {% if producto.descuento %}
+                                <span class="tag-rebaja">{{ producto.descuento }}</span>
+                            {% endif %}
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                        </div>
+
+                        <div class="info-producto">
+                            <span class="marca-tag">{{ producto.tienda }}</span>
+                            <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                            <div class="precios">
+                                {% if producto.precio_original %}
+                                    <span class="p-original">{{ producto.precio_original }}</span>
+                                {% endif %}
+                                <span class="p-final">{{ producto.precio_final }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
     </main>
 
     {% include 'footer.html' %}

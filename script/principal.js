@@ -1,25 +1,32 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const infoCards = document.querySelectorAll('.info-card');
+document.addEventListener("DOMContentLoaded", () => {
+    const hero = document.querySelector('.hero-zara');
 
-    const mostrarCards = () => {
-        const triggerBottom = window.innerHeight / 5 * 4;
-
-        infoCards.forEach(card => {
-            const cardTop = card.getBoundingClientRect().top;
-
-            if(cardTop < triggerBottom) {
-                card.style.opacity = '1';
-                card.style.transform = 'translateY(0)';
-            }
+    if (hero) {
+        window.addEventListener('scroll', () => {
+            const scrollValue = window.scrollY;
+            hero.style.backgroundPositionY = `${scrollValue * 0.5}px`;
         });
+    }
+
+    const tiendaCards = document.querySelectorAll('.tienda-card');
+
+    const observerOptions = {
+        threshold: 0.1
     };
 
-    infoCards.forEach(card => {
-        card.style.opacity = '0';
-        card.style.transform = 'translateY(30px)';
-        card.style.transition = 'all 0.6s ease-out';
-    });
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.opacity = "1";
+                entry.target.style.transform = "translateY(0)";
+            }
+        });
+    }, observerOptions);
 
-    window.addEventListener('scroll', mostrarCards);
-    mostrarCards();
+    tiendaCards.forEach(card => {
+        card.style.opacity = "0";
+        card.style.transform = "translateY(20px)";
+        card.style.transition = "all 0.8s ease-out";
+        observer.observe(card);
+    });
 });

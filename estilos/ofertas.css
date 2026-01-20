@@ -1,213 +1,185 @@
-.seccion-ofertas {
-    max-width: 1300px;
-    margin: 0 auto;
-    padding: 0 5%;
-    background-color: #fff;
-}
-
-.cabecera-editorial {
-    padding: 100px 20px 40px;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-.cabecera-editorial .subtitle {
-    font-size: 0.65rem;
-    letter-spacing: 5px;
-    color: #888;
-    margin-bottom: 15px;
-}
-
-.cabecera-editorial h2 {
-    font-family: 'Times New Roman', serif;
-    letter-spacing: 15px;
-    font-size: 3rem;
-    font-weight: 400;
-    margin-bottom: 25px;
-    color: #000;
-}
-
-.cabecera-editorial .desc {
-    font-size: 0.75rem;
-    letter-spacing: 1px;
-    color: #666;
-    max-width: 600px;
-    margin: 0 auto;
-    line-height: 1.8;
-    text-transform: none;
-}
-
-.contenedor-tag-busqueda {
+/* --- LAYOUT OFERTAS (ESTILO ZARA) --- */
+.ofertas-container {
     display: flex;
-    justify-content: center;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 40px;
+    gap: 40px;
+}
+
+/* --- SIDEBAR FILTROS --- */
+.sidebar-filtros {
+    width: 200px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 90px;
+    height: fit-content;
+}
+
+.filtro-seccion {
     margin-bottom: 40px;
-    animation: fadeIn 0.5s ease;
 }
 
-.tag-busqueda {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    padding: 8px 16px;
-    border: 1px solid #eee;
-    background: #f9f9f9;
-    border-radius: 2px;
-}
-
-.tag-busqueda span {
-    font-size: 0.65rem;
+.filtro-seccion h3 {
+    font-size: 0.7rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
     text-transform: uppercase;
-    letter-spacing: 1.5px;
-    color: #555;
-}
-
-.tag-busqueda strong {
     color: #000;
-    font-weight: 600;
 }
 
-.cerrar-busqueda {
-    color: #999;
-    text-decoration: none;
-    font-size: 0.8rem;
-    transition: color 0.3s ease;
+.filtro-seccion ul {
+    list-style: none;
+}
+
+.filtro-seccion ul li {
+    margin-bottom: 10px;
+}
+
+.filtro-seccion label {
+    font-size: 0.65rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
     display: flex;
     align-items: center;
+    gap: 10px;
+    color: #666;
+    transition: color 0.2s;
 }
 
-.cerrar-busqueda:hover {
-    color: #be0000;
+.filtro-seccion label:hover {
+    color: #000;
 }
 
-.controles-ofertas {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    margin-bottom: 60px;
-    border-top: 1px solid #f2f2f2;
-    padding-top: 30px;
+.filtro-check, .orden-check {
+    accent-color: #000;
+    cursor: pointer;
 }
 
-.btn-orden {
-    background: none;
-    border: none;
-    padding: 5px 15px;
+/* --- CONTENIDO --- */
+.contenido-ofertas {
+    flex-grow: 1;
+}
+
+.ofertas-header {
+    margin-bottom: 40px;
+}
+
+.ofertas-header h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 0.8;
+}
+
+.ofertas-header p {
     font-size: 0.65rem;
     letter-spacing: 2px;
-    text-transform: uppercase;
-    cursor: pointer;
+    margin-top: 15px;
     color: #999;
-    transition: color 0.3s ease;
 }
 
-.btn-orden:hover {
-    color: #000;
-}
-
-.contenedor-grid {
+/* --- GRID --- */
+.grid-ofertas {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 40px 25px;
-    padding-bottom: 100px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 40px 15px;
 }
 
-.tarjeta-producto {
-    position: relative;
-    background: #fff;
+/* --- TARJETA --- */
+.tarjeta-oferta {
+    text-decoration: none;
+    transition: opacity 0.3s ease;
 }
 
-.imagen-contenedor {
+.tarjeta-oferta a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.img-wrapper {
     aspect-ratio: 2 / 3;
     overflow: hidden;
-    background: #f9f9f9;
+    position: relative;
+    background-color: #f9f9f9;
 }
 
-.imagen-contenedor img {
+.img-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: opacity 0.4s ease;
 }
 
-.tarjeta-producto:hover img {
-    opacity: 0.85;
-}
-
-.etiqueta-tienda {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    background: rgba(255, 255, 255, 0.9);
-    color: #000;
-    padding: 2px 6px;
-    font-size: 0.55rem;
-    letter-spacing: 1px;
-    z-index: 5;
-    border: 0.5px solid #eee;
-}
-
-.porcentaje-descuento {
+.tag-porcentaje {
     position: absolute;
     top: 10px;
     right: 10px;
     background: #000;
     color: #fff;
-    padding: 2px 6px;
-    font-size: 0.6rem;
-    font-weight: bold;
-    z-index: 5;
+    padding: 3px 8px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    z-index: 10;
 }
 
-.detalles {
+.info-producto {
     padding: 15px 0;
-    text-transform: uppercase;
 }
 
-.marca {
-    font-size: 0.6rem;
-    color: #999;
-    letter-spacing: 1px;
+.meta-info {
+    margin-bottom: 5px;
+}
+
+.marca-nombre {
+    font-size: 0.55rem;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #888;
 }
 
 .nombre-prenda {
-    font-size: 0.75rem;
-    color: #000;
-    margin: 8px 0;
-    font-weight: 400;
+    font-size: 0.65rem;
     letter-spacing: 0.5px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-}
-
-.precios {
-    display: flex;
-    gap: 10px;
-    font-size: 0.8rem;
-}
-
-.precio-viejo {
-    text-decoration: line-through;
-    color: #aaa;
-}
-
-.precio-nuevo {
-    color: #be0000;
-    font-weight: 600;
-}
-
-.boton-ir {
-    margin-top: 12px;
-    display: inline-block;
-    border-bottom: 1px solid #000;
-    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 8px;
     color: #000;
-    font-size: 0.6rem;
-    font-weight: bold;
-    padding-bottom: 2px;
+    display: block;
 }
 
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
+.precios-oferta {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.p-final {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #be0000;
+}
+
+.p-original {
+    font-size: 0.7rem;
+    color: #999;
+    text-decoration: line-through;
+}
+
+/* --- RESPONSIVO --- */
+@media (max-width: 1024px) {
+    .ofertas-container {
+        flex-direction: column;
+    }
+    .sidebar-filtros {
+        width: 100%;
+        position: static;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        border-bottom: 1px solid #f2f2f2;
+        padding-bottom: 30px;
+    }
 }

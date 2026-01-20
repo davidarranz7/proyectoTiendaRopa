@@ -1,156 +1,173 @@
 
-.seccion-mujer {
-    max-width: 1300px;
-    margin: 0 auto;
-    padding: 0 5% 80px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.cabecera-seccion {
-    text-align: center;
-    padding: 60px 0 30px;
-}
-
-.cabecera-seccion h1 {
-    font-size: 2.5rem;
-    letter-spacing: 12px;
-    font-weight: 900;
-    text-transform: uppercase;
-    margin-bottom: 10px;
-}
-
-.cabecera-seccion p {
-    font-size: 0.9rem;
-    letter-spacing: 2px;
-    color: #666;
-    text-transform: uppercase;
-}
-
-.submenu-categorias {
+.mujer-container {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 15px;
-    margin-bottom: 50px;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 20px;
-}
-
-.filtro-cat {
-    background: none;
-    border: 1px solid transparent;
-    padding: 8px 20px;
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    color: #888;
-}
-
-.filtro-cat:hover {
-    color: #000;
-}
-
-.filtro-cat.active {
-    border: 1px solid #000;
-    color: #000;
-    font-weight: bold;
-}
-
-.contenedor-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 40px;
     gap: 40px;
 }
 
-.tarjeta-producto {
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    background: #fff;
+.sidebar-filtros {
+    width: 200px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 90px;
+    height: fit-content;
 }
 
-.imagen-contenedor {
-    aspect-ratio: 2 / 3;
-    overflow: hidden;
-    background: #f7f7f7;
+.filtro-seccion {
+    margin-bottom: 40px;
 }
 
-.imagen-contenedor img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.6s ease;
-}
-
-.tarjeta-producto:hover img {
-    transform: scale(1.05);
-}
-
-.porcentaje-descuento {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    background: #be0000;
-    color: #fff;
-    padding: 5px 10px;
+.filtro-seccion h3 {
     font-size: 0.7rem;
-    font-weight: bold;
-    z-index: 5;
-}
-
-.detalles {
-    padding: 15px 0;
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
-.marca {
+.filtro-seccion ul {
+    list-style: none;
+}
+
+.filtro-seccion ul li {
+    margin-bottom: 8px;
+}
+
+.filtro-seccion label {
+    font-size: 0.65rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #666;
+    transition: color 0.2s;
+}
+
+.filtro-seccion label:hover {
+    color: #000;
+}
+
+.filtro-check {
+    accent-color: #000;
+    cursor: pointer;
+}
+
+.contenido-mujer {
+    flex-grow: 1;
+}
+
+.mujer-header {
+    margin-bottom: 40px;
+}
+
+.mujer-header h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 0.8;
+}
+
+.mujer-header p {
+    font-size: 0.65rem;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    color: #999;
+}
+
+.grid-mujer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 40px 15px;
+}
+
+.tarjeta-mujer {
+    text-decoration: none;
+}
+
+.tarjeta-mujer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.img-wrapper {
+    aspect-ratio: 2 / 3;
+    overflow: hidden;
+    position: relative;
+    background-color: #f9f9f9;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.tag-rebaja {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: #000;
+    color: #fff;
+    padding: 2px 6px;
     font-size: 0.6rem;
+    font-weight: 700;
+    z-index: 10;
+}
+
+.info-producto {
+    padding-top: 15px;
+}
+
+.marca-tag {
+    font-size: 0.55rem;
     color: #999;
     letter-spacing: 1px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
 }
 
 .nombre-prenda {
-    font-size: 0.75rem;
-    margin: 8px 0;
-    color: #000;
+    font-size: 0.65rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
     font-weight: 400;
-    letter-spacing: 0.5px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
+    line-height: 1.4;
+    margin-bottom: 8px;
 }
 
 .precios {
     display: flex;
     gap: 10px;
-    font-size: 0.8rem;
-    margin-bottom: 12px;
+    align-items: baseline;
 }
 
-.precio-viejo {
-    text-decoration: line-through;
-    color: #aaa;
+.p-final {
+    font-size: 0.7rem;
+    font-weight: 600;
 }
 
-.precio-nuevo {
-    color: #be0000;
-    font-weight: bold;
-}
-
-.boton-ir {
-    display: inline-block;
-    border-bottom: 1px solid #000;
-    text-decoration: none;
-    color: #000;
+.p-original {
     font-size: 0.65rem;
-    font-weight: bold;
-    padding-bottom: 2px;
-    width: fit-content;
+    color: #999;
+    text-decoration: line-through;
 }
 
-.boton-ir:hover {
-    color: #be0000;
-    border-color: #be0000;
+@media (max-width: 1024px) {
+    .mujer-container {
+        flex-direction: column;
+    }
+    .sidebar-filtros {
+        width: 100%;
+        position: static;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 20px;
+        border-bottom: 1px solid #f2f2f2;
+        padding-bottom: 20px;
+    }
 }

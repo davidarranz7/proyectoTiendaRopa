@@ -12,14 +12,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (inputBusqueda) {
         inputBusqueda.addEventListener("input", (e) => {
             const termino = e.target.value.toLowerCase().trim();
-            const productos = document.querySelectorAll(".tarjeta-producto");
+            const productos = document.querySelectorAll(".tarjeta-producto, .card-pull, .card-bsk");
 
-            if (productos.length > 0) {
-                productos.forEach(producto => {
-                    const nombre = producto.querySelector(".nombre-prenda").textContent.toLowerCase();
-                    producto.style.display = nombre.includes(termino) ? "flex" : "none";
-                });
-            }
+            productos.forEach(producto => {
+                const nombreElemento = producto.querySelector(".nombre-prenda, .name-pull, .name-bsk");
+                if (nombreElemento) {
+                    const nombre = nombreElemento.textContent.toLowerCase();
+                    producto.style.display = nombre.includes(termino) ? "" : "none";
+                }
+            });
         });
 
         inputBusqueda.addEventListener("keypress", (e) => {
@@ -32,4 +33,13 @@ document.addEventListener("DOMContentLoaded", () => {
     if (botonBusqueda) {
         botonBusqueda.addEventListener("click", buscarEnServidor);
     }
+
+    const currentPath = window.location.pathname;
+    const navLinks = document.querySelectorAll(".nav-link");
+    navLinks.forEach(link => {
+        if (link.getAttribute("href") === currentPath) {
+            link.style.opacity = "0.5";
+            link.style.borderBottom = "1px solid #000";
+        }
+    });
 });

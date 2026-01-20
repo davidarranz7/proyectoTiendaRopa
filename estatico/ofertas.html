@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MODA - Rebajas de Temporada</title>
-
+    <title>MODA - Todas las Ofertas</title>
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/ofertas.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -13,67 +12,78 @@
 
     {% include 'menu.html' %}
 
-    <main class="seccion-ofertas">
-        <div class="cabecera-editorial">
-            <p class="subtitle">Special Promotions</p>
-            <h2>Rebajas de Temporada</h2>
-            <p class="desc">Explora nuestra selección de artículos con descuentos exclusivos. Calidad y diseño a precios reducidos por tiempo limitado.</p>
-        </div>
-
-        {% if termino_busqueda %}
-        <div class="contenedor-tag-busqueda">
-            <div class="tag-busqueda">
-                <span>Tu búsqueda: <strong>"{{ termino_busqueda }}"</strong></span>
-                <a href="/ofertas" class="cerrar-busqueda" title="Limpiar búsqueda">
-                    <i class="fas fa-times"></i>
-                </a>
+    <main class="ofertas-container">
+        <aside class="sidebar-filtros">
+            <div class="filtro-seccion">
+                <h3>TIENDA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="zara"> ZARA</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="pullandbear"> PULL&BEAR</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="bershka"> BERSHKA</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="mango"> MANGO</label></li>
+                </ul>
             </div>
-        </div>
-        {% endif %}
 
-        <div class="controles-ofertas">
-            <button id="btn-asc" class="btn-orden">Precio: Bajo a Alto</button>
-            <button id="btn-desc" class="btn-orden">Precio: Alto a Bajo</button>
-        </div>
-
-        <div class="contenedor-grid" id="grid-ofertas">
-            {% for producto in articulos %}
-            <article class="tarjeta-producto" data-precio="{{ producto.precio_final }}">
-                <div class="etiqueta-tienda">{{ producto.tienda }}</div>
-
-                {% if producto.descuento %}
-                <div class="porcentaje-descuento">{{ producto.descuento }}</div>
-                {% endif %}
-
-                <div class="imagen-contenedor">
-                    <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                </div>
-
-                <div class="detalles">
-                    <span class="marca">{{ producto.marca if producto.marca else 'SELECTED' }}</span>
-                    <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
-
-                    <div class="precios">
-                        {% if producto.precio_original %}
-                            <span class="precio-viejo">{{ producto.precio_original }}</span>
-                        {% endif %}
-                        <span class="precio-nuevo">{{ producto.precio_final }}</span>
-                    </div>
-
-                    <a href="{{ producto.url_producto }}" class="boton-ir" target="_blank">Ver Producto</a>
-                </div>
-            </article>
-            {% else %}
-            <div class="sin-datos">
-                <p>No se han encontrado artículos disponibles en este momento.</p>
+            <div class="filtro-seccion">
+                <h3>CATEGORÍA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="abrigo"> ABRIGOS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="pantalon"> PANTALONES</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="camiseta"> CAMISETAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="sudadera"> SUDADERAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="zapato"> ZAPATOS</label></li>
+                </ul>
             </div>
-            {% endfor %}
-        </div>
+
+            <div class="filtro-seccion">
+                <h3>ORDENAR</h3>
+                <ul>
+                    <li><label><input type="radio" name="orden" class="orden-check" value="desc"> MAYOR DESCUENTO</label></li>
+                    <li><label><input type="radio" name="orden" class="orden-check" value="precio-asc"> PRECIO MÁS BAJO</label></li>
+                </ul>
+            </div>
+        </aside>
+
+        <section class="contenido-ofertas">
+            <header class="ofertas-header">
+                <h1>OFFERS</h1>
+                <p>SPECIAL PRICES / {{ articulos|length }} CHOLLOS ENCONTRADOS</p>
+            </header>
+
+            <div class="grid-ofertas" id="grid-productos">
+                {% for producto in articulos %}
+                <article class="tarjeta-oferta"
+                         data-tienda="{{ producto.tienda|lower }}"
+                         data-nombre="{{ producto.nombre|lower }}"
+                         data-precio="{{ producto.precio_final_num }}"
+                         data-descuento="{{ producto.descuento_num }}">
+
+                    <a href="{{ producto.url_producto }}" target="_blank">
+                        <div class="img-wrapper">
+                            <span class="tag-porcentaje">{{ producto.descuento }}</span>
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                        </div>
+
+                        <div class="info-producto">
+                            <div class="meta-info">
+                                <span class="marca-nombre">{{ producto.tienda }}</span>
+                            </div>
+                            <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                            <div class="precios-oferta">
+                                <span class="p-original">{{ producto.precio_original }}</span>
+                                <span class="p-final">{{ producto.precio_final }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
     </main>
 
     {% include 'footer.html' %}
 
     <script src="/script/menu.js"></script>
-    <script src="/script/ofertas_v2.js"></script>
+    <script src="/script/ofertas.js"></script>
 </body>
 </html>

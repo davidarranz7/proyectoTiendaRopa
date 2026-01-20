@@ -1,91 +1,107 @@
-.header-zara {
-    text-align: center;
-    padding: 60px 0;
-    letter-spacing: 12px;
+/* --- LAYOUT ZARA --- */
+.zara-container {
+    display: flex;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 40px;
+    gap: 40px;
 }
 
-.header-zara h1 {
-    font-size: 5rem;
-    font-family: 'Times New Roman', serif;
-    font-weight: 900;
-    margin-bottom: 5px;
+/* --- SIDEBAR FILTROS --- */
+.sidebar-filtros {
+    width: 200px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 90px;
+    height: fit-content;
 }
 
-.header-zara p {
+.filtro-seccion {
+    margin-bottom: 40px;
+}
+
+.filtro-seccion h3 {
     font-size: 0.7rem;
-    color: #888;
-    letter-spacing: 4px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
-.botonera-zara {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    margin-bottom: 30px;
+.filtro-seccion ul {
+    list-style: none;
 }
 
-.btn-directo {
-    background: none;
-    border: none;
-    font-size: 0.75rem;
+.filtro-seccion ul li {
+    margin-bottom: 8px;
+}
+
+.filtro-seccion label {
+    font-size: 0.65rem;
     letter-spacing: 1px;
     cursor: pointer;
     text-transform: uppercase;
-    padding: 5px 0;
-    border-bottom: 1px solid transparent;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #666;
+    transition: color 0.2s;
 }
 
-.btn-directo:hover {
-    border-bottom: 1px solid #000;
+.filtro-seccion label:hover {
+    color: #000;
 }
 
-.btn-filtro-main {
-    background: #000;
-    color: #fff;
-    border: none;
-    padding: 8px 18px;
-    font-size: 0.7rem;
-    font-weight: bold;
+.filtro-check {
+    accent-color: #000;
     cursor: pointer;
-    text-transform: uppercase;
 }
 
-#panel-filtros {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 90%;
-    max-width: 500px;
-    background: #fff;
-    border: 1px solid #000;
-    box-shadow: 0px 15px 40px rgba(0,0,0,0.1);
-    z-index: 1000;
-    padding: 30px;
-    display: none;
+/* --- CONTENIDO --- */
+.contenido-productos {
+    flex-grow: 1;
 }
 
-.contenedor-grid {
+.zara-header {
+    margin-bottom: 40px;
+}
+
+.zara-header h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 0.8;
+}
+
+.zara-header p {
+    font-size: 0.65rem;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    color: #999;
+}
+
+/* --- GRID --- */
+.grid-zara {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 40px;
-    padding: 40px 5%;
-    max-width: 1600px;
-    margin: 0 auto;
+    gap: 40px 15px;
 }
 
+/* --- TARJETA --- */
 .tarjeta-zara {
-    background: #fff;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+    text-decoration: none;
+}
+
+.tarjeta-zara a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .img-wrapper {
     aspect-ratio: 2 / 3;
     overflow: hidden;
-    background: #f0f0f0;
+    position: relative;
+    background-color: #f9f9f9;
 }
 
 .img-wrapper img {
@@ -94,36 +110,70 @@
     object-fit: cover;
 }
 
-.info-zara {
-    padding: 15px 0;
-    text-align: left;
+.tag-rebaja {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: #000;
+    color: #fff;
+    padding: 2px 6px;
+    font-size: 0.6rem;
+    font-weight: 700;
+    z-index: 10;
 }
 
-.info-zara .nombre {
-    font-size: 0.8rem;
+.info-producto {
+    padding-top: 15px;
+}
+
+.fila-superior {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.nombre-prenda {
+    font-size: 0.65rem;
+    letter-spacing: 1px;
     text-transform: uppercase;
-    margin-bottom: 8px;
-    letter-spacing: 0.5px;
+    font-weight: 400;
+    line-height: 1.4;
+    max-width: 70%;
 }
 
 .precios {
     display: flex;
-    gap: 10px;
-    font-size: 0.85rem;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
-.current { font-weight: bold; }
-.sale { color: #be0000; }
-.old { text-decoration: line-through; color: #999; font-size: 0.75rem; }
+.p-final {
+    font-size: 0.7rem;
+    font-weight: 600;
+}
 
-.btn-confirmar {
-    display: block;
-    width: 100%;
-    background: #000;
-    color: #fff;
-    border: none;
-    padding: 15px;
-    margin-top: 20px;
-    font-weight: bold;
-    cursor: pointer;
+.p-original {
+    font-size: 0.65rem;
+    color: #999;
+    text-decoration: line-through;
+}
+
+/* --- RESPONSIVO --- */
+@media (max-width: 1024px) {
+    .zara-container {
+        flex-direction: column;
+    }
+    .sidebar-filtros {
+        width: 100%;
+        position: static;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        border-bottom: 1px solid #f2f2f2;
+        padding-bottom: 20px;
+    }
+    .filtro-seccion {
+        margin-bottom: 0;
+    }
 }

@@ -1,30 +1,51 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const grid = document.getElementById("grid-ofertas");
-    const btnAsc = document.getElementById("btn-asc");
-    const btnDesc = document.getElementById("btn-desc");
+    const filtrosCheck = document.querySelectorAll(".filtro-check");
+    const ordenChecks = document.querySelectorAll(".orden-check");
+    const grid = document.getElementById("grid-productos");
+    const productosInitial = Array.from(document.querySelectorAll(".tarjeta-oferta"));
 
-    const parsePrice = (v) => {
-        if (!v) return 0;
-        let limpio = v.toString().replace(',', '.').replace(/[^\d.]/g, '');
-        return parseFloat(limpio) || 0;
-    };
+    const aplicarFiltrosYOrden = () => {
+        const tiendasSeleccionadas = Array.from(document.querySelectorAll('.filtro-check[data-tipo="tienda"]:checked')).map(c => c.value);
+        const catsSeleccionadas = Array.from(document.querySelectorAll('.filtro-check[data-tipo="cat"]:checked')).map(c => c.value);
+        const ordenSeleccionado = Array.from(ordenChecks).find(r => r.checked)?.value;
 
-    const sortGrid = (asc) => {
-        const items = Array.from(grid.querySelectorAll('.tarjeta-producto'));
+        let productosFiltrados = productosInitial.filter(p => {
+            const tienda = p.getAttribute("data-tienda");
+            const nombre = p.getAttribute("data-nombre");
 
-        items.sort((a, b) => {
-            const pa = parsePrice(a.getAttribute('data-precio'));
-            const pb = parsePrice(b.getAttribute('data-precio'));
-            return asc ? pa - pb : pb - pa;
+            const cumpleTienda = tiendasSeleccionadas.length === 0 || tiendasSeleccionadas.includes(tienda);
+            const cumpleCat = catsSeleccionadas.length === 0 || catsSeleccionadas.some(c => {
+                const base = c.replace(/s$/, '');
+                return nombre.includes(base);
+            });
+
+            return cumpleTienda && cumpleCat;
         });
+
+        if (ordenSeleccionado === "precio-asc") {
+            productosFiltrados.sort((a, b) => {
+                return parseFloat(a.getAttribute("data-precio")) - parseFloat(b.getAttribute("data-precio"));
+            });
+        } else if (ordenSeleccionado === "desc") {
+            productosFiltrados.sort((a, b) => {
+                return parseInt(b.getAttribute("data-descuento")) - parseInt(a.getAttribute("data-descuento"));
+            });
+        }
 
         grid.innerHTML = "";
-        items.forEach(i => {
-            i.style.display = "block";
-            grid.appendChild(i);
+        productosInitial.forEach(p => p.style.display = "none");
+
+        productosFiltrados.forEach(p => {
+            p.style.display = "";
+            grid.appendChild(p);
         });
     };
 
-    if (btnAsc) btnAsc.onclick = () => sortGrid(true);
-    if (btnDesc) btnDesc.onclick = () => sortGrid(false);
+    filtrosCheck.forEach(check => {
+        check.addEventListener("change", aplicarFiltrosYOrden);
+    });
+
+    ordenChecks.forEach(radio => {
+        radio.addEventListener("change", aplicarFiltrosYOrden);
+    });
 });

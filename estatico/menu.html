@@ -1,11 +1,12 @@
 <nav class="navbar">
     <div class="nav-container">
-        <a href="/" class="logo">MODA<span>.</span></a>
+        <div class="nav-left">
+            <a href="/" class="logo">MODA<span>.</span></a>
+        </div>
 
         <ul class="nav-menu">
             <li><a href="/" class="nav-link">Inicio</a></li>
-            <li><a href="/ofertas" class="nav-link">Todas las Ofertas</a></li>
-
+            <li><a href="/ofertas" class="nav-link">Ofertas</a></li>
             <li class="dropdown">
                 <a href="#" class="nav-link">Tiendas <i class="fa fa-chevron-down"></i></a>
                 <ul class="dropdown-content">
@@ -15,16 +16,15 @@
                     <li><a href="/mango">Mango</a></li>
                 </ul>
             </li>
-
             <li><a href="/mujer" class="nav-link">Mujer</a></li>
             <li><a href="/hombre" class="nav-link">Hombre</a></li>
         </ul>
 
-        <div class="nav-search">
-            <input type="text" id="busqueda-input" placeholder="Buscar chollos...">
-            <button id="busqueda-btn"><i class="fa fa-search"></i></button>
+        <div class="nav-right">
+            <div class="nav-search">
+                <input type="text" id="busqueda-input" placeholder="BUSCAR...">
+                <button id="busqueda-btn"><i class="fa fa-search"></i></button>
+            </div>
         </div>
     </div>
 </nav>
-
-<script src="/script/menu.js"></script>

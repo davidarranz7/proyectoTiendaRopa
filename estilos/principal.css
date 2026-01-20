@@ -1,144 +1,202 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    background-color: #ffffff;
-    font-family: 'Times New Roman', serif; /* Mantengo tu estilo Zara */
-    color: #000;
-}
-
-.hero-section {
-    height: 70vh;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-                url('https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?auto=format&fit=crop&w=1920&q=80');
-    background-size: cover;
-    background-position: center;
+/* --- HERO SECTION --- */
+.hero-zara {
+    height: 90vh;
+    width: 100%;
+    background: url('https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?q=80&w=2070') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: white;
+    color: #fff;
 }
 
 .hero-content h1 {
-    font-size: 3.5rem;
-    letter-spacing: 10px;
+    font-size: 8rem;
     font-weight: 900;
-    margin-bottom: 20px;
-    text-transform: uppercase;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+    line-height: 0.8;
 }
 
 .hero-content p {
-    font-size: 1rem;
-    letter-spacing: 3px;
-    margin-bottom: 40px;
-    font-weight: 300;
+    font-size: 0.8rem;
+    letter-spacing: 4px;
+    margin-bottom: 30px;
 }
 
-.hero-buttons {
+.hero-links {
     display: flex;
     gap: 20px;
     justify-content: center;
 }
 
-.btn-principal, .btn-secundario {
-    padding: 15px 30px;
+.btn-hero {
     text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 12px 40px;
     font-size: 0.7rem;
-    font-weight: bold;
+    font-weight: 700;
     letter-spacing: 2px;
-    text-transform: uppercase;
     transition: all 0.3s ease;
 }
 
-.btn-principal {
+.btn-hero:hover {
     background: #fff;
     color: #000;
 }
 
-.btn-secundario {
-    background: transparent;
-    color: #fff;
-    border: 1px solid #fff;
-}
-
-.btn-principal:hover { background: #000; color: #fff; }
-.btn-secundario:hover { background: #fff; color: #000; }
-
-.propuesta-valor {
-    display: flex;
-    justify-content: space-around;
-    padding: 100px 10%;
-    background: #fff;
-    gap: 50px;
-    text-align: center;
-}
-
-.info-card {
-    flex: 1;
-}
-
-.info-card i {
-    font-size: 2.5rem;
-    margin-bottom: 25px;
-    color: #000;
-}
-
-.info-card h3 {
-    font-size: 0.9rem;
-    letter-spacing: 3px;
-    margin-bottom: 15px;
-    text-transform: uppercase;
-    font-weight: 900;
-}
-
-.info-card p {
-    font-size: 0.85rem;
-    color: #666;
-    line-height: 1.8;
-    letter-spacing: 0.5px;
-}
-
-.tiendas-destacadas {
-    padding: 60px 5% 100px;
-    text-align: center;
-    border-top: 1px solid #eee;
-}
-
-.tiendas-destacadas h2 {
-    font-size: 1.2rem;
-    letter-spacing: 6px;
-    margin-bottom: 60px;
-    text-transform: uppercase;
-    font-weight: 900;
-}
-
-.grid-tiendas {
+/* --- TIENDAS GRID --- */
+.tiendas-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
+    grid-template-columns: repeat(4, 1fr);
+    height: 400px;
+    width: 100%;
 }
 
-.tienda-link {
+.tienda-card {
+    position: relative;
+    overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100px;
-    border: 1px solid #000;
-    text-decoration: none;
-    color: #000;
-    font-size: 0.8rem;
-    font-weight: bold;
-    letter-spacing: 4px;
-    transition: all 0.4s cubic-bezier(0.2, 1, 0.3, 1);
+    transition: all 0.5s ease;
 }
 
-.tienda-link:hover {
+.tienda-card a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.tienda-info {
+    text-align: center;
+    color: #fff;
+    z-index: 2;
+}
+
+.tienda-info h2 {
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin-bottom: 5px;
+}
+
+.tienda-info span {
+    font-size: 0.6rem;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 2px;
+}
+
+/* Backgrounds */
+.zara-bg { background: #000; }
+.pull-bg { background: #1a1a1a; }
+.bershka-bg { background: #222; }
+.mango-bg { background: #333; }
+
+.tienda-card:hover {
+    filter: brightness(1.2);
+}
+
+/* --- SECCION DESTACADA --- */
+.seccion-destacada {
+    max-width: 1400px;
+    margin: 80px auto;
+    padding: 0 40px;
+}
+
+.destacado-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;
+}
+
+.destacado-header h3 {
+    font-size: 1.2rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.ver-todo {
+    color: #000;
+    text-decoration: none;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* --- GRID PRODUCTOS HOME --- */
+.grid-productos-home {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.tarjeta-home {
+    text-decoration: none;
+}
+
+.tarjeta-home a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.img-wrapper {
+    aspect-ratio: 2 / 3;
+    overflow: hidden;
+    position: relative;
+    background: #f7f7f7;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.tag-rebaja {
+    position: absolute;
+    top: 10px;
+    left: 10px;
     background: #000;
     color: #fff;
+    padding: 2px 6px;
+    font-size: 0.6rem;
+}
+
+.info-producto {
+    padding-top: 15px;
+}
+
+.marca-tag {
+    font-size: 0.55rem;
+    color: #999;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.nombre-prenda {
+    font-size: 0.7rem;
+    margin: 5px 0;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.p-final {
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+/* --- RESPONSIVO --- */
+@media (max-width: 1024px) {
+    .tiendas-grid { grid-template-columns: repeat(2, 1fr); height: auto; }
+    .tienda-card { height: 250px; }
+    .grid-productos-home { grid-template-columns: repeat(2, 1fr); }
+    .hero-content h1 { font-size: 4rem; }
 }

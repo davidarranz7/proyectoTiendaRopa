@@ -43,9 +43,10 @@ def cargar_todos_los_chollos():
     return todos_los_productos
 
 
-@app.get("/", response_class=HTMLResponse)
+@app.get("/")
 async def inicio(request: Request):
-    return templates.TemplateResponse("principal.html", {"request": request})
+    articulos = []
+    return templates.TemplateResponse("principal.html", {"request": request, "articulos": articulos})
 
 
 @app.get("/zara", response_class=HTMLResponse)

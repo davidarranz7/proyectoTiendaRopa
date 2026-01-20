@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BERSHKA - Nueva Colección</title>
+    <title>BERSHKA - Official Website</title>
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/bershka.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -12,88 +12,70 @@
 
     {% include 'menu.html' %}
 
-    <main class="seccion-bershka">
-        <div class="header-bershka">
-            <p class="now-trending">AHORA ES TENDENCIA</p>
-            <h2>BERSHKA <span class="highlight">STYLE</span></h2>
-        </div>
-
-        <nav class="escaparate-bsk">
-            <p class="label-intermedio">TU ESCAPARATE INTERMEDIO</p>
-            <div class="nav-wrapper-bsk">
-                <ul class="categorias-bsk">
-                    <li><a href="#" class="active">TODAS LAS PRENDAS</a></li>
-                    <li><a href="#">REBAJAS</a></li>
-                    <li><a href="#">PANTALONES</a></li>
-                    <li><a href="#">CAMISETAS</a></li>
-                    <li><a href="#">SUDADERAS</a></li>
-                    <li><a href="#">ZAPATOS</a></li>
-                    <li><a href="#">HOMBRE</a></li>
-                    <li><a href="#">MUJER</a></li>
+    <main class="bershka-container">
+        <aside class="sidebar-filtros">
+            <div class="filtro-seccion">
+                <h3>GÉNERO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="genero" value="hombre"> HOMBRE</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="genero" value="mujer"> MUJER</label></li>
                 </ul>
-                <button class="btn-filtro-bsk" id="abrir-filtros">
-                    <i class="fas fa-sliders-h"></i> FILTRO
-                </button>
             </div>
-        </nav>
 
-        <div id="modal-filtros-bsk" class="modal-bsk">
-            <div class="contenido-modal-bsk">
-                <div class="modal-header-bsk">
-                    <h3>FILTROS AVANZADOS</h3>
-                    <button id="cerrar-filtros" class="btn-x"><i class="fas fa-times"></i></button>
-                </div>
-
-                <div class="filtro-grid-bsk">
-                    <div class="col-bsk">
-                        <h4>GÉNERO</h4>
-                        <label><input type="checkbox"> Hombre</label>
-                        <label><input type="checkbox"> Mujer</label>
-                    </div>
-                    <div class="col-bsk">
-                        <h4>CATEGORÍA</h4>
-                        <label><input type="checkbox"> Pantalones</label>
-                        <label><input type="checkbox"> Camisetas</label>
-                        <label><input type="checkbox"> Sudaderas</label>
-                        <label><input type="checkbox"> Zapatos</label>
-                    </div>
-                </div>
-
-                <div class="footer-bsk">
-                    <label class="sale-check">
-                        <input type="checkbox"> MOSTRAR SOLO PRODUCTOS EN <strong>REBAJAS</strong>
-                    </label>
-                    <button id="confirmar-filtros" class="btn-action-bsk">CONFIRMAR FILTROS</button>
-                </div>
+            <div class="filtro-seccion">
+                <h3>CATEGORÍA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="abrigo"> ABRIGOS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="pantalon"> PANTALONES</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="camiseta"> CAMISETAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="sudadera"> SUDADERAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="zapato"> ZAPATOS</label></li>
+                </ul>
             </div>
-        </div>
 
-        <div class="grid-bershka" id="grid-articulos">
-            {% for producto in articulos %}
-            <article class="card-bsk" data-precio="{{ producto.precio_final }}">
-                <a href="{{ producto.url_producto }}" target="_blank" style="text-decoration: none; color: inherit; display: block;">
-                    <div class="img-bsk-box">
-                        {% if producto.descuento %}
-                            <div class="badge-bsk">{{ producto.descuento }}</div>
-                        {% endif %}
-                        <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
-                    </div>
-                    <div class="info-bsk">
-                        <h3 class="name-bsk">{{ producto.nombre }}</h3>
-                        <div class="prices-bsk">
-                            {% if producto.precio_original %}
-                                <span class="old-bsk">{{ producto.precio_original }}</span>
+            <div class="filtro-seccion">
+                <h3>PRECIO</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" id="solo-rebajas"> SOLO REBAJAS</label></li>
+                </ul>
+            </div>
+        </aside>
+
+        <section class="contenido-productos">
+            <header class="bershka-header">
+                <div class="trending-label">NOW TRENDING</div>
+                <h1>BERSHKA</h1>
+                <p>URBAN STYLE / {{ articulos|length }} PRODUCTOS</p>
+            </header>
+
+            <div class="grid-bershka" id="grid-productos">
+                {% for producto in articulos %}
+                <article class="tarjeta-bershka"
+                         data-nombre="{{ producto.nombre|lower }}"
+                         data-oferta="{{ 'true' if producto.descuento else 'false' }}">
+
+                    <a href="{{ producto.url_producto }}" target="_blank">
+                        <div class="img-wrapper">
+                            {% if producto.descuento %}
+                                <span class="tag-rebaja">{{ producto.descuento }}</span>
                             {% endif %}
-                            <span class="new-bsk">{{ producto.precio_final }}</span>
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                         </div>
-                        <div class="btn-bsk-shop" style="margin-top: 12px; font-size: 0.7rem; font-weight: 800; text-transform: uppercase; border-top: 1px solid #eee; padding-top: 10px;">
-                            COMPRAR EN BERSHKA <i class="fas fa-arrow-right"></i>
+
+                        <div class="info-producto">
+                            <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                            <div class="precios">
+                                {% if producto.precio_original %}
+                                    <span class="p-original">{{ producto.precio_original }}</span>
+                                {% endif %}
+                                <span class="p-final">{{ producto.precio_final }}</span>
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </article>
-            {% endfor %}
-        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
     </main>
 
     {% include 'footer.html' %}

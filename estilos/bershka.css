@@ -1,199 +1,116 @@
-.seccion-bershka {
-    max-width: 1400px;
+.bershka-container {
+    display: flex;
+    max-width: 100%;
     margin: 0 auto;
-    padding: 20px 4%;
-    font-family: 'Arial Black', 'Arial Bold', sans-serif; /* Tipografía muy pesada */
-    background-color: #fff;
+    padding: 20px 40px;
+    gap: 40px;
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
 }
 
-.header-bershka {
-    text-align: left;
-    margin: 60px 0 30px;
+.sidebar-filtros {
+    width: 200px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 90px;
+    height: fit-content;
 }
 
-.now-trending {
-    font-size: 0.7rem;
+.filtro-seccion {
+    margin-bottom: 40px;
+}
+
+.filtro-seccion h3 {
+    font-size: 0.75rem;
     font-weight: 900;
-    letter-spacing: 4px;
-    color: #000;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.filtro-seccion ul {
+    list-style: none;
+}
+
+.filtro-seccion ul li {
     margin-bottom: 10px;
 }
 
-.header-bershka h2 {
-    font-size: 3.5rem;
-    line-height: 0.9;
-    letter-spacing: -2px;
-    text-transform: uppercase;
-}
-
-.highlight {
-    -webkit-text-stroke: 1.5px #000;
-    color: transparent;
-}
-
-.label-intermedio {
-    font-size: 0.65rem;
-    color: #999;
-    letter-spacing: 4px;
-    text-align: center;
-    margin-bottom: 25px;
-    text-transform: uppercase;
-}
-
-.nav-wrapper-bsk {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 2px solid #000;
-    padding-bottom: 12px;
-    margin-bottom: 50px;
-}
-
-.categorias-bsk {
-    list-style: none;
-    display: flex;
-    gap: 25px;
-    padding: 0;
-    margin: 0;
-}
-
-.categorias-bsk li a {
-    text-decoration: none;
-    color: #000;
-    font-size: 0.8rem;
-    font-weight: 900;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    transition: all 0.3s ease;
-}
-
-.categorias-bsk li a.active {
-    border-bottom: 4px solid #000;
-    padding-bottom: 8px;
-}
-
-.btn-filtro-bsk {
-    background: #000;
-    color: #fff;
-    border: none;
-    padding: 12px 24px;
-    font-size: 0.85rem;
-    font-weight: 900;
+.filtro-seccion label {
+    font-size: 0.7rem;
+    letter-spacing: 1px;
     cursor: pointer;
+    text-transform: uppercase;
     display: flex;
     align-items: center;
     gap: 12px;
+    font-weight: 900;
+}
+
+.filtro-check {
+    accent-color: #000;
+    width: 16px;
+    height: 16px;
+}
+
+.contenido-productos {
+    flex-grow: 1;
+}
+
+.bershka-header {
+    margin-bottom: 50px;
+}
+
+.trending-label {
+    font-size: 0.6rem;
+    letter-spacing: 4px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.bershka-header h1 {
+    font-size: 5rem;
+    font-weight: 900;
+    letter-spacing: -3px;
+    line-height: 0.8;
     text-transform: uppercase;
 }
 
-.modal-bsk {
-    display: none;
-    position: fixed;
-    z-index: 2000;
-    left: 0; top: 0;
-    width: 100%; height: 100%;
-    background: rgba(255, 255, 255, 0.98);
-}
-
-.contenido-modal-bsk {
-    margin: 5% auto;
-    padding: 50px;
-    width: 90%;
-    max-width: 600px;
-    border: 4px solid #000;
-}
-
-.modal-header-bsk {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 40px;
-    border-bottom: 2px solid #000;
-    padding-bottom: 15px;
-}
-
-.modal-header-bsk h3 {
-    font-size: 1.4rem;
-    font-weight: 900;
+.bershka-header p {
+    font-size: 0.7rem;
     letter-spacing: 2px;
-}
-
-.btn-x {
-    background: none;
-    border: none;
-    font-size: 1.5rem;
-    cursor: pointer;
-}
-
-.filtro-grid-bsk {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
-}
-
-.col-bsk h4 {
-    font-size: 0.85rem;
-    margin-bottom: 20px;
-    color: #888;
-    letter-spacing: 1px;
-}
-
-.col-bsk label {
-    display: block;
-    font-size: 1.1rem;
-    margin-bottom: 15px;
-    cursor: pointer;
-    text-transform: uppercase;
-}
-
-.footer-bsk {
-    margin-top: 40px;
-    border-top: 1px dashed #ccc;
-    padding-top: 30px;
-}
-
-.sale-check {
-    display: block;
-    margin-bottom: 25px;
-    font-size: 1.1rem;
-}
-
-.btn-action-bsk {
-    width: 100%;
-    background: #000;
-    color: #fff;
-    padding: 20px;
-    font-size: 1.1rem;
-    font-weight: 900;
-    border: none;
-    cursor: pointer;
-    text-transform: uppercase;
+    margin-top: 15px;
+    color: #000;
 }
 
 .grid-bershka {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 30px;
+    gap: 50px 20px;
 }
 
-.card-bsk {
-    position: relative;
+.tarjeta-bershka {
+    text-decoration: none;
 }
 
-.img-bsk-box {
-    position: relative;
+.tarjeta-bershka a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.img-wrapper {
     aspect-ratio: 2 / 3;
     overflow: hidden;
-    background: #f4f4f4;
+    position: relative;
+    background-color: #eee;
 }
 
-.img-bsk-box img {
+.img-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
-.badge-bsk {
+.tag-rebaja {
     position: absolute;
     top: 20px;
     right: 20px;
@@ -205,34 +122,50 @@
     z-index: 10;
 }
 
-.info-bsk {
+.info-producto {
     padding: 20px 0;
 }
 
-.name-bsk {
-    font-size: 0.9rem;
+.nombre-prenda {
+    font-size: 0.85rem;
     font-weight: 900;
-    margin-bottom: 10px;
     text-transform: uppercase;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
 }
 
-.prices-bsk {
+.precios {
     display: flex;
     gap: 15px;
     align-items: center;
 }
 
-.new-bsk {
+.p-final {
     font-size: 1.1rem;
     font-weight: 900;
-    color: #d00000;
+    color: #000;
 }
 
-.old-bsk {
-    text-decoration: line-through;
-    color: #999;
+.p-original {
     font-size: 0.9rem;
+    color: #999;
+    text-decoration: line-through;
+}
+
+@media (max-width: 1024px) {
+    .bershka-container {
+        flex-direction: column;
+    }
+    .sidebar-filtros {
+        width: 100%;
+        position: static;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+        border-bottom: 2px solid #000;
+        padding-bottom: 30px;
+    }
+    .bershka-header h1 {
+        font-size: 3rem;
+    }
 }
