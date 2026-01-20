@@ -21,7 +21,7 @@ async def ejecutar_todo():
     CARPETA_DATOS = "datos"
     if not os.path.exists(CARPETA_DATOS):
         os.makedirs(CARPETA_DATOS)
-    """
+
     tareas_pull = [
         {"nombre": "camisetas_hombre", "url": "https://www.pullandbear.com/es/hombre/rebajas/ropa/camisetas-y-polos-n7087"},
         {"nombre": "sudaderas_hombre", "url": "https://www.pullandbear.com/es/hombre/rebajas/ropa/sudaderas-n7089"},
@@ -41,17 +41,17 @@ async def ejecutar_todo():
         {"nombre": "vestidos_mujer", "url": "https://www.bershka.com/es/mujer/sale/vestidos-y-monos-c1010850201.html"},
         {"nombre": "sudaderas_mujer", "url": "https://www.bershka.com/es/mujer/sale/jers%C3%A9is-y-sudaderas-c1010850198.html"}
     ]
-"""
+
     tareas_zara = [
-        #{"nombre": "camisetas_hombre", "url": "https://www.zara.com/es/es/s-hombre-camisetas-polos-l11480.html?v1=2636785"},
-        #{"nombre": "sudaderas_hombre", "url": "https://www.zara.com/es/es/s-hombre-sudaderas-l11281.html?v1=2637270"},
-        #{"nombre": "pantalones_hombre", "url": "https://www.zara.com/es/es/s-hombre-pantalones-vaqueros-l11446.html?v1=2109823"},
+        {"nombre": "camisetas_hombre", "url": "https://www.zara.com/es/es/s-hombre-camisetas-polos-l11480.html?v1=2636785"},
+        {"nombre": "sudaderas_hombre", "url": "https://www.zara.com/es/es/s-hombre-sudaderas-l11281.html?v1=2637270"},
+        {"nombre": "pantalones_hombre", "url": "https://www.zara.com/es/es/s-hombre-pantalones-vaqueros-l11446.html?v1=2109823"},
         {"nombre": "camisetas_mujer", "url": "https://www.zara.com/es/es/s-mujer-camisetas-l10252.html?v1=2580457"},
         {"nombre": "pantalones_mujer", "url": "https://www.zara.com/es/es/s-mujer-pantalones-l10194.html?v1=2581636"},
         {"nombre": "vestidos_mujer", "url": "https://www.zara.com/es/es/s-mujer-vestidos-l8887.html?v1=2580270"},
         {"nombre": "sudaderas_mujer", "url": "https://www.zara.com/es/es/s-mujer-sudaderas-l10036.html?v1=2581747"}
     ]
-    """
+
     total_pull = []
     for t in tareas_pull:
         print(f"\n🚀 [PULL&BEAR] {t['nombre']}...")
@@ -75,7 +75,7 @@ async def ejecutar_todo():
     if total_bershka:
         with open(os.path.join(CARPETA_DATOS, "bershka_total.json"), 'w', encoding='utf-8') as f:
             json.dump(total_bershka, f, indent=4, ensure_ascii=False)
-"""
+
     total_zara = []
     for t in tareas_zara:
         print(f"\n🚀 [ZARA] {t['nombre']}...")
