@@ -1,13 +1,27 @@
 import asyncio
+import re
 from playwright.async_api import async_playwright
+
+
+def limpiar_precio(texto):
+    """Extrae el precio numérico evitando pegar números de IDs cercanos."""
+    try:
+        match = re.search(r'(\d+[\.,]\d{2})', texto)
+        if match:
+            valor = match.group(1).replace(',', '.')
+            return float(valor)
+        return None
+    except:
+        return None
 
 
 async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
     async with async_playwright() as p:
+        print(f"\n🚀 [ZARA] Iniciando recolección para: {nombre_tarea}...")
         browser = await p.chromium.launch(headless=False, slow_mo=300)
         context = await browser.new_context(
             viewport={'width': 1920, 'height': 1080},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         )
         page = await context.new_page()
 
@@ -15,6 +29,7 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
             print(f"🌍 [ZARA] Entrando en: {url}")
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
+            # --- TU BLOQUE DE COOKIES ORIGINAL ---
             try:
                 boton = await page.wait_for_selector("#onetrust-accept-btn-handler", timeout=5000)
                 await boton.click()
@@ -27,88 +42,99 @@ async def extraer_categoria_zara(url, nombre_tarea="desconocido"):
             vistos = set()
             intentos_sin_nuevos = 0
 
-            print("🚜 Iniciando recolección progresiva estilo Pull/Bershka...")
-
             while True:
-                elementos = await page.query_selector_all("li[class*='product']")
-                nuevos = 0
+                # Selector de contenedores
+                elementos = await page.query_selector_all("article, li[class*='product']")
+                nuevos_en_esta_vuelta = 0
 
                 for el in elementos:
                     try:
-                        nombre_el = await el.query_selector("h2, .product-grid-product-info__name")
+                        # 1. Movimiento de ratón para activar precios (Lógica Escaneo Profundo)
+                        box = await el.bounding_box()
+                        if box:
+                            await page.mouse.move(box['x'] + box['width'] / 2, box['y'] + box['height'] / 2)
+
+                        nombre_el = await el.query_selector("h2, [class*='name']")
                         if not nombre_el: continue
 
                         nombre = (await nombre_el.inner_text()).strip()
-                        if nombre in vistos: continue
+                        if not nombre or nombre in vistos: continue
 
+                        # 2. Captura de Precios (Búsqueda por texto bruto)
+                        valores = []
+                        nodos_texto = await el.query_selector_all("span, div, p")
+                        for nodo in nodos_texto:
+                            txt = await nodo.inner_text()
+                            if "€" in txt or "EUR" in txt:
+                                val = limpiar_precio(txt)
+                                if val: valores.append(val)
+
+                        valores = list(dict.fromkeys(valores))
+
+                        # Intento final si falla lo anterior
+                        if not valores:
+                            full_text = await el.inner_text()
+                            match_precios = re.findall(r'(\d+[\.,]\d{2})\s*€', full_text)
+                            for m in match_precios:
+                                valores.append(float(m.replace(',', '.')))
+                            valores = list(dict.fromkeys(valores))
+
+                        if not valores: continue
+
+                        precio_original, precio_final, descuento_txt = None, None, None
+                        if len(valores) == 1:
+                            precio_final = valores[0]
+                        elif len(valores) >= 2:
+                            val_max, val_min = max(valores), min(valores)
+                            precio_original, precio_final = val_max, val_min
+                            pct = round(((precio_original - precio_final) / precio_original) * 100)
+                            descuento_txt = f"-{pct}%"
+
+                        # 3. Imagen y Link (CORREGIDO)
                         link_el = await el.query_selector("a")
                         href = await link_el.get_attribute("href") if link_el else ""
-                        url_completa = href if href.startswith("http") else f"https://www.zara.com{href}"
+                        # Generamos la URL individual real
+                        url_producto_real = href if href.startswith("http") else f"https://www.zara.com{href}"
 
-                        await el.scroll_into_view_if_needed()
+                        img_el = await el.query_selector("img")
+                        src = await img_el.get_attribute("src") if img_el else None
+                        if not src or "transparent" in src:
+                            src = await img_el.get_attribute("data-src")
 
-                        imagen = ""
-                        for _ in range(8):
-                            img_el = await el.query_selector("img")
-                            if img_el:
-                                src = await img_el.get_attribute("src")
-                                if src and "transparent-background" not in src and "http" in src:
-                                    imagen = src
-                                    break
-                            await asyncio.sleep(0.4)
-
-                        if not imagen: continue
-
-                        nodos_precio = await el.query_selector_all(".money-amount__main")
-                        textos_precio = [(await p.inner_text()).strip() for p in nodos_precio]
-
-                        p_original = p_intermedio = p_final = None
-                        if len(textos_precio) == 1:
-                            p_final = textos_precio[0]
-                        elif len(textos_precio) == 2:
-                            p_original, p_final = textos_precio
-                        elif len(textos_precio) >= 3:
-                            p_original, p_intermedio, p_final = textos_precio[:3]
-
-                        if not p_final: continue
-
-                        badge = await el.query_selector("[class*='discount'], .discount-badge")
-                        descuento = (await badge.inner_text()).strip() if badge else None
+                        if not src or not src.startswith("http"): continue
 
                         productos_lista.append({
                             "nombre": nombre,
-                            "imagen": imagen,
-                            "url_producto": url_completa,
-                            "precio_original": p_original,
-                            "precio_rebajado": p_intermedio,
-                            "descuento": descuento,
-                            "precio_final": p_final,
+                            "imagen": src,
+                            "url_producto": url_producto_real, # <--- CAMBIO AQUÍ PARA CAPTURAR LA URL REAL
+                            "precio_original": f"{precio_original:.2f}€" if precio_original else None,
+                            "precio_final": f"{precio_final:.2f}€",
+                            "descuento": descuento_txt,
                             "categoria": nombre_tarea
                         })
 
                         vistos.add(nombre)
-                        nuevos += 1
+                        nuevos_en_esta_vuelta += 1
 
-                        if len(productos_lista) % 10 == 0:
-                            print(f"📦 Procesados {len(productos_lista)} productos...")
+                        # --- TUS PRINTS ESTILO PULL&BEAR ---
+                        print(
+                            f"   📦 [{len(productos_lista)}] {nombre[:20]}.. | {precio_final}€ {'[OFERTA]' if descuento_txt else ''}")
 
                     except:
                         continue
 
-                if nuevos == 0:
+                # Control de scroll y salida
+                if nuevos_en_esta_vuelta == 0:
                     intentos_sin_nuevos += 1
+                    print(f"⚠️  Esperando nuevos productos... (Intento {intentos_sin_nuevos}/8)")
                 else:
                     intentos_sin_nuevos = 0
 
-                await page.evaluate("window.scrollBy(0, 600)")
-                await asyncio.sleep(2)
+                await page.mouse.wheel(0, 1000)
+                await asyncio.sleep(4)
 
-                fin_scroll = await page.evaluate(
-                    "window.innerHeight + window.scrollY >= document.body.scrollHeight"
-                )
-
-                if intentos_sin_nuevos >= 5 and fin_scroll:
-                    break
+                if intentos_sin_nuevos >= 8: break
+                if len(productos_lista) >= 120: break
 
             print(f"🏆 ZARA FINALIZADO: {len(productos_lista)} productos reales.")
             await browser.close()

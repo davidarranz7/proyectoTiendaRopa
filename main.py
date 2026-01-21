@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, Query
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
@@ -6,7 +6,6 @@ import uvicorn
 import json
 import os
 import random
-
 from starlette.responses import RedirectResponse
 
 app = FastAPI()
@@ -14,6 +13,23 @@ app = FastAPI()
 app.mount("/estilos", StaticFiles(directory="estilos"), name="estilos")
 app.mount("/script", StaticFiles(directory="script"), name="script")
 templates = Jinja2Templates(directory="estatico")
+
+# --- 1. DICCIONARIO DE SINÓNIMOS (Búsqueda Inteligente) ---
+MAPEO_CATEGORIAS = {
+    "camisetas": ["camiseta", "top", "tirantes", "polo", "t-shirt", "interlock", "manga corta"],
+    "pantalones": ["pantalon", "jeans", "vaquero", "shorts", "bermuda", "denim", "satinado"],
+    "sudaderas": ["sudadera", "hoodie", "jumper", "jersey", "punto"],
+    "vestidos": ["vestido", "mono", "tunic", "gown"]
+}
+
+
+def normalizar_texto(texto):
+    """Elimina tildes y pasa a minúsculas para una búsqueda justa."""
+    remplazos = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u"}
+    texto = str(texto).lower()
+    for tilde, limpia in remplazos.items():
+        texto = texto.replace(tilde, limpia)
+    return texto.strip()
 
 
 def cargar_datos_tienda(nombre_archivo):
@@ -31,15 +47,12 @@ def cargar_datos_tienda(nombre_archivo):
 def cargar_todos_los_chollos():
     todos_los_productos = []
     CARPETA_DATOS = "datos"
-
     if not os.path.exists(CARPETA_DATOS):
         return []
-
     for archivo in os.listdir(CARPETA_DATOS):
         if archivo.endswith("_total.json"):
             productos = cargar_datos_tienda(archivo)
             todos_los_productos.extend(productos)
-
     return todos_los_productos
 
 
@@ -59,7 +72,6 @@ async def ver_zara(request: Request):
 async def ofertas(request: Request):
     solo_chollos = []
     CARPETA_DATOS = "datos"
-
     if os.path.exists(CARPETA_DATOS):
         for archivo in os.listdir(CARPETA_DATOS):
             if archivo.endswith("_total.json"):
@@ -68,14 +80,11 @@ async def ofertas(request: Request):
                     desc = p.get("descuento")
                     p_orig = p.get("precio_original")
                     p_final = p.get("precio_final")
-
                     if (desc and desc != "") or (p_orig and p_orig != p_final):
                         if not p.get("tienda"):
                             p["tienda"] = archivo.replace("_total.json", "").capitalize()
                         solo_chollos.append(p)
-
     random.shuffle(solo_chollos)
-
     return templates.TemplateResponse("ofertas.html", {"request": request, "articulos": solo_chollos})
 
 
@@ -83,34 +92,25 @@ async def ofertas(request: Request):
 async def ver_mujer(request: Request):
     articulos_mujer = []
     CARPETA_DATOS = "datos"
-
     if os.path.exists(CARPETA_DATOS):
         for archivo in os.listdir(CARPETA_DATOS):
             if archivo.endswith("_mujer.json"):
                 productos = cargar_datos_tienda(archivo)
-
                 partes = archivo.replace(".json", "").split("_")
                 tienda_nombre = partes[0].capitalize()
                 categoria_nombre = partes[1]
-
                 for p in productos:
                     p["tienda"] = tienda_nombre
                     p["categoria"] = categoria_nombre
                     articulos_mujer.append(p)
-
     random.shuffle(articulos_mujer)
-
-    return templates.TemplateResponse("mujer.html", {
-        "request": request,
-        "articulos": articulos_mujer
-    })
+    return templates.TemplateResponse("mujer.html", {"request": request, "articulos": articulos_mujer})
 
 
 @app.get("/hombre", response_class=HTMLResponse)
 async def ver_hombre(request: Request):
     articulos_hombre = []
     CARPETA_DATOS = "datos"
-
     if os.path.exists(CARPETA_DATOS):
         for archivo in os.listdir(CARPETA_DATOS):
             if archivo.endswith("_hombre.json"):
@@ -118,17 +118,12 @@ async def ver_hombre(request: Request):
                 partes = archivo.replace(".json", "").split("_")
                 tienda_nombre = partes[0].capitalize()
                 categoria_nombre = partes[1]
-
                 for p in productos:
                     p["tienda"] = tienda_nombre
                     p["categoria"] = categoria_nombre
                     articulos_hombre.append(p)
-
     random.shuffle(articulos_hombre)
     return templates.TemplateResponse("hombre.html", {"request": request, "articulos": articulos_hombre})
-
-
-from fastapi import Query
 
 
 @app.get("/buscar", response_class=HTMLResponse)
@@ -139,21 +134,35 @@ async def buscar_productos(request: Request, q: str = Query(None)):
     if not q:
         return RedirectResponse(url="/ofertas")
 
-    termino = q.lower().strip()
-    print(f"--- Iniciando búsqueda para: '{termino}' ---")
+    # 2. LÓGICA DE BÚSQUEDA INTELIGENTE
+    termino_usuario = normalizar_texto(q)
+    print(f"--- Iniciando búsqueda inteligente para: '{termino_usuario}' ---")
+
+    # Expandir términos usando el diccionario de sinónimos
+    terminos_a_buscar = [termino_usuario]
+    for categoria_madre, sinonimos in MAPEO_CATEGORIAS.items():
+        # Si el usuario busca la categoría madre o un sinónimo, incluimos todo el grupo
+        if termino_usuario == categoria_madre or termino_usuario in sinonimos:
+            terminos_a_buscar.extend(sinonimos)
+            terminos_a_buscar.append(categoria_madre)
+
+    terminos_a_buscar = list(set(terminos_a_buscar))  # Eliminar duplicados
 
     if os.path.exists(CARPETA_DATOS):
+        # Buscamos en todos los archivos .json para asegurar cobertura
         for archivo in os.listdir(CARPETA_DATOS):
             if archivo.endswith(".json"):
                 productos = cargar_datos_tienda(archivo)
-
                 tienda_nombre = archivo.split("_")[0].capitalize()
 
                 for p in productos:
-                    nombre = str(p.get("nombre", "")).lower()
-                    categoria = str(p.get("categoria", "")).lower()
+                    nombre_prod = normalizar_texto(p.get("nombre", ""))
+                    categoria_prod = normalizar_texto(p.get("categoria", ""))
 
-                    if termino in nombre or termino in categoria or termino in archivo.lower():
+                    # Si alguno de nuestros términos expandidos coincide con el producto
+                    if any(term in nombre_prod for term in terminos_a_buscar) or \
+                            any(term in categoria_prod for term in terminos_a_buscar):
+
                         p["tienda"] = p.get("tienda", tienda_nombre)
                         if not p.get("categoria"):
                             partes = archivo.split("_")
@@ -162,11 +171,13 @@ async def buscar_productos(request: Request, q: str = Query(None)):
 
                         resultados.append(p)
 
-    print(f"--- Búsqueda finalizada: {len(resultados)} productos encontrados ---")
+    # Eliminar duplicados de productos (por si aparecen en categoría y total)
+    resultados_unicos = {p['imagen']: p for p in resultados}.values()
+    print(f"--- Búsqueda finalizada: {len(resultados_unicos)} productos encontrados ---")
 
     return templates.TemplateResponse("ofertas.html", {
         "request": request,
-        "articulos": resultados,
+        "articulos": list(resultados_unicos),
         "termino_busqueda": q
     })
 
@@ -174,40 +185,23 @@ async def buscar_productos(request: Request, q: str = Query(None)):
 @app.get("/pullandbear", response_class=HTMLResponse)
 async def pagina_pullandbear(request: Request):
     articulos = cargar_datos_tienda("pullandbear_total.json")
-
     random.shuffle(articulos)
-
-    return templates.TemplateResponse("pullandbear.html", {
-        "request": request,
-        "articulos": articulos,
-        "tienda": "Pull&Bear"
-    })
+    return templates.TemplateResponse("pullandbear.html",
+                                      {"request": request, "articulos": articulos, "tienda": "Pull&Bear"})
 
 
 @app.get("/bershka", response_class=HTMLResponse)
 async def pagina_bershka(request: Request):
     articulos = cargar_datos_tienda("bershka_total.json")
-
     random.shuffle(articulos)
-
-    return templates.TemplateResponse("bershka.html", {
-        "request": request,
-        "articulos": articulos,
-        "tienda": "Bershka"
-    })
+    return templates.TemplateResponse("bershka.html", {"request": request, "articulos": articulos, "tienda": "Bershka"})
 
 
 @app.get("/mango", response_class=HTMLResponse)
 async def pagina_mango(request: Request):
     articulos = cargar_datos_tienda("mango_total.json")
-
     random.shuffle(articulos)
-
-    return templates.TemplateResponse("mango.html", {
-        "request": request,
-        "articulos": articulos,
-        "tienda": "Mango"
-    })
+    return templates.TemplateResponse("mango.html", {"request": request, "articulos": articulos, "tienda": "Mango"})
 
 
 if __name__ == "__main__":

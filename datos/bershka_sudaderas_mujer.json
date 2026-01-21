@@ -3,870 +3,810 @@
         "nombre": "Jersey punto tachas",
         "imagen": "https://static.bershka.net/assets/public/8ef0/c09e/9d7b4a66b34f/881545b2f220/07054187712-p/07054187712-p.jpg?ts=1756996111624&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-punto-tachas-c0p199756255.html?colorId=712",
-        "precio_original": "Precio con descuento\n15,59 €\nDescuento del\n-40%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n15,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n15,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello alto oversize",
-        "imagen": "https://static.bershka.net/assets/public/32df/3211/a32443fabaf1/92f3c8d9d1a0/07157376400-p1/07157376400-p1.jpg?ts=1763993722312&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-oversize-c0p198650722.html?colorId=400",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera cremallera brillo",
-        "imagen": "https://static.bershka.net/assets/public/649e/a835/5c8c433ca8e8/983a72d68075/07176187462-p/07176187462-p.jpg?ts=1758012508396&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-brillo-c0p202103731.html?colorId=462",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Sudadera oversize bolsillos",
         "imagen": "https://static.bershka.net/assets/public/8c41/36cb/a609416b942f/b93a6aa091e4/07056700814-p/07056700814-p.jpg?ts=1758284703138&w=750",
         "url_producto": "https://www.bershka.com/es/sudadera-oversize-bolsillos-c0p193056309.html?colorId=814",
-        "precio_original": "Precio con descuento\n10,79 €\nDescuento del\n-40%\nAntes\n17,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n10,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n10,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan cremallera cuello efecto pelo",
-        "imagen": "https://static.bershka.net/assets/public/938a/a39a/97444b0fb7d0/b2cd0a08b873/06989686892-p/06989686892-p.jpg?ts=1761303069682&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cremallera-cuello-efecto-pelo-c0p194788934.html?colorId=892",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
+        "precio_original": "17.99€",
+        "precio_final": "8.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Sudadera oversize capucha",
         "imagen": "https://static.bershka.net/assets/public/8aff/766f/62cd424ebb37/027e866f547b/07057700807-p/07057700807-p.jpg?ts=1754897244724&w=750",
         "url_producto": "https://www.bershka.com/es/sudadera-oversize-capucha-c0p194669593.html?colorId=807",
-        "precio_original": "Precio con descuento\n16,79 €\nDescuento del\n-40%\nAntes\n27,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan cremallera rib",
-        "imagen": "https://static.bershka.net/assets/public/f0df/e1f1/067c4de1b70c/bd1e4a8092ac/06982645800-p/06982645800-p.jpg?ts=1755764731738&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cremallera-rib-c0p196958081.html?colorId=800",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan botones",
-        "imagen": "https://static.bershka.net/assets/public/b06c/900a/22f547b0957d/5e868edbb449/07172360754-p/07172360754-p.jpg?ts=1756888813823&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-botones-c0p198552051.html?colorId=754",
-        "precio_original": "Precio con descuento\n10,79 €\nDescuento del\n-40%\nAntes\n17,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n10,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n10,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan canalé corchetes",
-        "imagen": "https://static.bershka.net/assets/public/7181/edec/fb9740919f56/5d08c74e53fb/06983686800-p/06983686800-p.jpg?ts=1756910450678&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-canal%C3%A9-corchetes-c0p194030437.html?colorId=800",
-        "precio_original": "Precio con descuento\n16,09 €\nDescuento del\n-30%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,09 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,09 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey multirayas",
-        "imagen": "https://static.bershka.net/assets/public/7bc8/fe9c/9c6949e58119/268e99e1f7b8/07153376902-p/07153376902-p.jpg?ts=1758552374419&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-multirayas-c0p197716812.html?colorId=902",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan entallada rib",
-        "imagen": "https://static.bershka.net/assets/public/1bd8/e93f/6b5f4eb58a79/458ec30c1121/06991693406-p/06991693406-p.jpg?ts=1759999226853&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-entallada-rib-c0p196353589.html?colorId=406",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello polo",
-        "imagen": "https://static.bershka.net/assets/public/9575/ef57/9a204893a075/495b848deb59/07121686400-p/07121686400-p.jpg?ts=1756902083418&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-c0p195311754.html?colorId=400",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Jennie Ruby capucha print",
-        "imagen": "https://static.bershka.net/assets/public/20d3/04ad/dcc04b5eaed5/a40870af58ab/07094072800-p/07094072800-p.jpg?ts=1760532774056&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-jennie-ruby-capucha-print-c0p203392689.html?colorId=800",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan punto rayas",
-        "imagen": "https://static.bershka.net/assets/public/43bc/ddd8/4f6f47129c7f/59d1b2d8cb4c/00011097605-p/00011097605-p.jpg?ts=1763976858564&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-punto-rayas-c0p213313144.html?colorId=605",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey punto costuras",
-        "imagen": "https://static.bershka.net/assets/public/6fff/81d0/637a40d3864f/bbf820f6d180/00006686802-p/00006686802-p.jpg?ts=1763976308662&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-punto-costuras-c0p212744465.html?colorId=802",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello redondo",
-        "imagen": "https://static.bershka.net/assets/public/a2c3/6e85/66c5478388cf/d7fd879cbfd7/07262693605-p/07262693605-p.jpg?ts=1758806131221&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-redondo-c0p196353607.html?colorId=605",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha print",
-        "imagen": "https://static.bershka.net/assets/public/d437/8ce8/e3784b19afc9/c430215f9f95/07201700462-p/07201700462-p.jpg?ts=1759236931324&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p197716802.html?colorId=462",
-        "precio_original": "Precio con descuento\n15,59 €\nDescuento del\n-40%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n15,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n15,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello alto rib",
-        "imagen": "https://static.bershka.net/assets/public/0e65/9c69/62224444b487/5ef78cd04e30/07055727306-p/07055727306-p.jpg?ts=1759234478445&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-rib-c0p199756272.html?colorId=306",
-        "precio_original": "Precio con descuento\n11,99 €\nDescuento del\n-40%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey bardot trenzado",
-        "imagen": "https://static.bershka.net/assets/public/1529/2bbf/779f456987e8/cfb11d6138c8/06999376605-p/06999376605-p.jpg?ts=1759306969054&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-bardot-trenzado-c0p197454214.html?colorId=605",
-        "precio_original": "Precio con descuento\n11,99 €\nDescuento del\n-40%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey punto asimétrico soft",
-        "imagen": "https://static.bershka.net/assets/public/5c27/3205/f3bb404bbf18/b22e149da4fd/07082187700-p/07082187700-p.jpg?ts=1758626618747&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-punto-asim%C3%A9trico-soft-c0p199767272.html?colorId=700",
-        "precio_original": "Precio con descuento\n13,79 €\nDescuento del\n-40%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey felpa asimétrico tachas",
-        "imagen": "https://static.bershka.net/assets/public/c5e0/6e49/f02846de813c/0deedcfd4c32/00082173700-p/00082173700-p.jpg?ts=1764080314853&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-felpa-asim%C3%A9trico-tachas-c0p213313155.html?colorId=700",
-        "precio_original": "Precio con descuento\n16,79 €\nDescuento del\n-40%\nAntes\n27,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera cremallera capucha",
-        "imagen": "https://static.bershka.net/assets/public/cebf/8178/c1b349a88682/9ef5afaf8d71/07004478812-p/07004478812-p.jpg?ts=1753284413572&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-c0p190425475.html?colorId=812",
-        "precio_original": "Precio con descuento\n11,99 €\nDescuento del\n-40%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cazadora oversize efecto neopreno",
-        "imagen": "https://static.bershka.net/assets/public/9aae/5b3b/5a3341a3bc87/df9f1595ee6b/06974714462-p/06974714462-p.jpg?ts=1756200569199&w=750",
-        "url_producto": "https://www.bershka.com/es/cazadora-oversize-efecto-neopreno-c0p195834048.html?colorId=462",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey lazada",
-        "imagen": "https://static.bershka.net/assets/public/ef10/427d/50d345f2ad38/53c95a44cfe0/07107693712-p/07107693712-p.jpg?ts=1756892851213&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-lazada-c0p189276725.html?colorId=712",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey boxy cuello pico",
-        "imagen": "https://static.bershka.net/assets/public/8681/a630/878b4f46afd1/c985b8a996c7/07141686892-p/07141686892-p.jpg?ts=1762347409492&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-boxy-cuello-pico-c0p198656605.html?colorId=892",
-        "precio_original": "Precio con descuento\n15,59 €\nDescuento del\n-40%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n15,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n15,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey espalda descubierta",
-        "imagen": "https://static.bershka.net/assets/public/3054/20bb/80614089b4d3/028eb092c68c/07085187401-p/07085187401-p.jpg?ts=1756300851394&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-espalda-descubierta-c0p199756258.html?colorId=401",
-        "precio_original": "Precio con descuento\n16,79 €\nDescuento del\n-40%\nAntes\n27,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cropped cuello pico",
-        "imagen": "https://static.bershka.net/assets/public/352c/fb26/d8fe4dc0b3eb/d671368f5b67/07127686712-p/07127686712-p.jpg?ts=1760531921906&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cropped-cuello-pico-c0p194669574.html?colorId=712",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera cremallera",
-        "imagen": "https://static.bershka.net/assets/public/2dfe/3362/ac9443668f71/2ade2ae1a739/07006360401-p/07006360401-p.jpg?ts=1757409462119&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-c0p200795803.html?colorId=401",
-        "precio_original": "Precio con descuento\n15,59 €\nDescuento del\n-40%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n15,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n15,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Lady Gaga capucha print",
-        "imagen": "https://static.bershka.net/assets/public/1046/6bea/ff844ae586b0/38069081f6fb/07079160800-p/07079160800-p.jpg?ts=1758096489932&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-lady-gaga-capucha-print-c0p201304217.html?colorId=800",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Von Dutch cremallera print",
-        "imagen": "https://static.bershka.net/assets/public/ee99/e5ba/08624301a814/7f0211af6f43/07011210505-p/07011210505-p.jpg?ts=1754645199434&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-von-dutch-cremallera-print-c0p197381853.html?colorId=505",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Chaqueta bardot botón",
-        "imagen": "https://static.bershka.net/assets/public/5265/2828/e53443e5b3b7/4ad8a4ee3000/06987693802-p/06987693802-p.jpg?ts=1756969675115&w=750",
-        "url_producto": "https://www.bershka.com/es/chaqueta-bardot-bot%C3%B3n-c0p191849705.html?colorId=802",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan canalé",
-        "imagen": "https://static.bershka.net/assets/public/6d1d/6806/035f415d8cbd/08241e8b0028/06994693892-p/06994693892-p.jpg?ts=1760532284961&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-canal%C3%A9-c0p197475600.html?colorId=892",
-        "precio_original": "Precio con descuento\n16,09 €\nDescuento del\n-30%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,09 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,09 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey asimétrico trenzado",
-        "imagen": "https://static.bershka.net/assets/public/8217/e62b/0845488aa8b3/a89b00238ec5/00003693902-p/00003693902-p.jpg?ts=1764779117535&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-asim%C3%A9trico-trenzado-c0p210976667.html?colorId=902",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello polo rib",
-        "imagen": "https://static.bershka.net/assets/public/5e70/0487/512c4bd788bc/84ebe25db19f/07106653892-p/07106653892-p.jpg?ts=1755795062163&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-rib-c0p191867628.html?colorId=892",
-        "precio_original": "Precio con descuento\n12,59 €\nDescuento del\n-30%\nAntes\n17,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n12,59 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n12,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello pico lazada",
-        "imagen": "https://static.bershka.net/assets/public/c762/29fc/669341b7a8b7/af3a3494342f/06993686802-p/06993686802-p.jpg?ts=1756910255914&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-pico-lazada-c0p195184001.html?colorId=802",
-        "precio_original": "Precio con descuento\n16,09 €\nDescuento del\n-30%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,09 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,09 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey manga corta trenzado lazo",
-        "imagen": "https://static.bershka.net/assets/public/d348/f363/63da4aa68dd5/227d349408e6/07253686802-p/07253686802-p.jpg?ts=1753105684559&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-manga-corta-trenzado-lazo-c0p191989461.html?colorId=802",
-        "precio_original": "Precio con descuento\n11,19 €\nDescuento del\n-30%\nAntes\n15,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey trenzado bordado",
-        "imagen": "https://static.bershka.net/assets/public/d6c5/c93d/026142d49ea9/702ac39ed0ff/07256693892-p/07256693892-p.jpg?ts=1763477877052&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-trenzado-bordado-c0p202105050.html?colorId=892",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan botones rústica",
-        "imagen": "https://static.bershka.net/assets/public/6529/1a73/03d2490fad15/19ac8c3e6a84/01772623712-p/01772623712-p.jpg?ts=1752675160178&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-botones-r%C3%BAstica-c0p196958101.html?colorId=712",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan lazada",
-        "imagen": "https://static.bershka.net/assets/public/897c/1a4c/aef441468d7b/a5f3bf845b4c/06992376712-p/06992376712-p.jpg?ts=1761303079004&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-lazada-c0p195682622.html?colorId=712",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Jersey cuello barco tachas",
         "imagen": "https://static.bershka.net/assets/public/d8dc/58d5/a9d349c99249/3647fd7fd967/07147376892-p/07147376892-p.jpg?ts=1757409110361&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-tachas-c0p194669590.html?colorId=892",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello polo",
+        "imagen": "https://static.bershka.net/assets/public/9575/ef57/9a204893a075/495b848deb59/07121686400-p/07121686400-p.jpg?ts=1756902083418&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-c0p195311754.html?colorId=400",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan cremallera rib",
+        "imagen": "https://static.bershka.net/assets/public/f0df/e1f1/067c4de1b70c/bd1e4a8092ac/06982645800-p/06982645800-p.jpg?ts=1755764731738&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cremallera-rib-c0p196958081.html?colorId=800",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/d93f/7e07/fc754c5681a4/1a3c91ec18db/07059700611-p/07059700611-p.jpg?ts=1754474138227&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p195682637.html?colorId=611",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey lazada",
+        "imagen": "https://static.bershka.net/assets/public/ef10/427d/50d345f2ad38/53c95a44cfe0/07107693712-p/07107693712-p.jpg?ts=1756892851213&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-lazada-c0p189276725.html?colorId=712",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan cuello pico",
+        "imagen": "https://static.bershka.net/assets/public/df48/4dbc/09494980bc97/d42fc51f3de6/06984693892-p1/06984693892-p1.jpg?ts=1760524133637&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cuello-pico-c0p191983812.html?colorId=892",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Jersey oversize bajo rib",
         "imagen": "https://static.bershka.net/assets/public/9fa9/9f6b/fed247038884/d878c4673115/07110686902-p/07110686902-p.jpg?ts=1756903456524&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-oversize-bajo-rib-c0p194669571.html?colorId=902",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Emily the Strange",
-        "imagen": "https://static.bershka.net/assets/public/9c94/8b11/0b3f495bb074/91814595617c/07225604251-p/07225604251-p.jpg?ts=1760599298833&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-emily-the-strange-c0p201129539.html?colorId=251",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan punto cremallera bordado",
-        "imagen": "https://static.bershka.net/assets/public/dd13/2f2e/33e443958897/35bb26170cc8/07026693500-p/07026693500-p.jpg?ts=1761137357216&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-punto-cremallera-bordado-c0p198034869.html?colorId=500",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera cremallera oversize efecto neopreno",
-        "imagen": "https://static.bershka.net/assets/public/f9fc/b89e/5d6f4d3aa69c/aef85148000c/06973729605-p/06973729605-p.jpg?ts=1753884842774&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-oversize-efecto-neopreno-c0p195834042.html?colorId=605",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan lazada volantes",
-        "imagen": "https://static.bershka.net/assets/public/1b98/b5a4/95134d3a85c3/46583c62f942/06981645800-p/06981645800-p.jpg?ts=1753282490122&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-lazada-volantes-c0p196958256.html?colorId=800",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello pico",
-        "imagen": "https://static.bershka.net/assets/public/9927/231c/5c054cfabd42/74a6714ae0c6/07100653712-p/07100653712-p.jpg?ts=1755764392374&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-pico-c0p196958408.html?colorId=712",
-        "precio_original": "Precio con descuento\n11,19 €\nDescuento del\n-30%\nAntes\n15,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan pointelle print",
-        "imagen": "https://static.bershka.net/assets/public/6fab/35ef/426c4a41bbb8/b4a8a3e26797/07010443712-p/07010443712-p.jpg?ts=1754563241609&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-pointelle-print-c0p197322983.html?colorId=712",
-        "precio_original": "Precio con descuento\n10,79 €\nDescuento del\n-40%\nAntes\n17,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n10,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n10,79 €",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Cárdigan botones soft touch",
         "imagen": "https://static.bershka.net/assets/public/16c2/862d/130243e699bc/9844967291cd/06985693902-p/06985693902-p.jpg?ts=1756800294455&w=750",
         "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-botones-soft-touch-c0p195318230.html?colorId=902",
-        "precio_original": "Precio con descuento\n16,09 €\nDescuento del\n-30%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,09 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,09 €",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Jersey asimétrico frunce",
-        "imagen": "https://static.bershka.net/assets/public/2c36/edc2/834b4d85b241/bb9419ed9abb/07150376700-13-p/07150376700-13-p.jpg?ts=1760017544588&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-asim%C3%A9trico-frunce-c0p205025517.html?colorId=700&stylismId=13",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
+        "nombre": "Sudadera cremallera capucha",
+        "imagen": "https://static.bershka.net/assets/public/cebf/8178/c1b349a88682/9ef5afaf8d71/07004478812-p/07004478812-p.jpg?ts=1753284413572&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-c0p190425475.html?colorId=812",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello pico lazada",
+        "imagen": "https://static.bershka.net/assets/public/c762/29fc/669341b7a8b7/af3a3494342f/06993686802-p/06993686802-p.jpg?ts=1756910255914&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-pico-lazada-c0p195184001.html?colorId=802",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey punto costuras",
+        "imagen": "https://static.bershka.net/assets/public/f5b2/5b3e/3d0b4b15a51c/daed72a6e59e/00006686712-p/00006686712-p.jpg?ts=1764062757431&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-punto-costuras-c0p212744464.html?colorId=712",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey torzal cuello subido",
+        "imagen": "https://static.bershka.net/assets/public/355e/10c9/8e4249ee9a44/25be408fefb2/07136693671-p/07136693671-p.jpg?ts=1763458465511&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-torzal-cuello-subido-c0p198650724.html?colorId=671",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey felpa asimétrico tachas",
+        "imagen": "https://static.bershka.net/assets/public/add7/4382/773e4ab2ba00/0b696b001e94/00082173505-p/00082173505-p.jpg?ts=1764606760623&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-felpa-asim%C3%A9trico-tachas-c0p213313156.html?colorId=505",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey espalda descubierta",
+        "imagen": "https://static.bershka.net/assets/public/3054/20bb/80614089b4d3/028eb092c68c/07085187401-p/07085187401-p.jpg?ts=1756300851394&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-espalda-descubierta-c0p199756258.html?colorId=401",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan punto rayas",
+        "imagen": "https://static.bershka.net/assets/public/8732/c154/11f1416a84dd/a162025d950d/00011097700-p/00011097700-p.jpg?ts=1763976858492&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-punto-rayas-c0p213313143.html?colorId=700",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan lazada volantes",
+        "imagen": "https://static.bershka.net/assets/public/1b98/b5a4/95134d3a85c3/46583c62f942/06981645800-p/06981645800-p.jpg?ts=1753282490122&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-lazada-volantes-c0p196958256.html?colorId=800",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Cárdigan botones canalé",
         "imagen": "https://static.bershka.net/assets/public/6af3/20b2/77074805979f/8555138a886a/06986693250-p1/06986693250-p1.jpg?ts=1757074205234&w=750",
         "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-botones-canal%C3%A9-c0p191567226.html?colorId=250",
-        "precio_original": "Precio con descuento\n13,99 €\nDescuento del\n-30%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n13,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n13,99 €",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Jersey rib cuello subido",
         "imagen": "https://static.bershka.net/assets/public/1911/33d6/da9544d1a817/8192e7e9a079/07104645505-p/07104645505-p.jpg?ts=1759924811063&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-rib-cuello-subido-c0p191567222.html?colorId=505",
-        "precio_original": "Precio con descuento\n11,19 €\nDescuento del\n-30%\nAntes\n15,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha print out of core",
-        "imagen": "https://static.bershka.net/assets/public/e951/4eee/4cd84abdb0b6/b1379fa0b5e7/07089187802-p/07089187802-p.jpg?ts=1758637410220&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-out-of-core-c0p204042707.html?colorId=802&stylismId=1",
-        "precio_original": "Precio con descuento\n27,59 €\nDescuento del\n-40%\nAntes\n45,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n27,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n27,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey torzal cuello subido",
-        "imagen": "https://static.bershka.net/assets/public/4ad3/bf99/d7514d2f8590/ed30d1b5fceb/07136693892-p/07136693892-p.jpg?ts=1763458466207&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-torzal-cuello-subido-c0p198650725.html?colorId=892",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera The Grinch capucha print",
-        "imagen": "https://static.bershka.net/assets/public/5ecd/dda5/3e5b44478df1/c57edd9d37ee/00857213251-a4o/00857213251-a4o.jpg?ts=1761816083724&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-the-grinch-capucha-print-c0p206805013.html?colorId=251",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Lia Kali capucha",
-        "imagen": "https://static.bershka.net/assets/public/e063/5de3/e9e44fd3b86a/5a405f4ca740/07096187800-p/07096187800-p.jpg?ts=1761120463801&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-lia-kali-capucha-c0p202930642.html?colorId=800",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan cremallera capucha",
-        "imagen": "https://static.bershka.net/assets/public/517b/5bfa/2be145e1bed8/43f18ce876ee/07027376802-p/07027376802-p.jpg?ts=1760617908402&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cremallera-capucha-c0p197806410.html?colorId=802",
-        "precio_original": "Precio con descuento\n25,19 €\nDescuento del\n-30%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n25,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n25,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey Rilakkuma efecto pelo",
-        "imagen": "https://static.bershka.net/assets/public/9ef4/45e9/50704af1a88b/f87ead7e4699/07129693614-p/07129693614-p.jpg?ts=1760000280277&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-rilakkuma-efecto-pelo-c0p197146934.html?colorId=614",
-        "precio_original": "Precio con descuento\n25,19 €\nDescuento del\n-30%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n25,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n25,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello barco print",
-        "imagen": "https://static.bershka.net/assets/public/72fd/dfe5/7b754fa5ac41/77e2761f11ef/07125693400-p/07125693400-p.jpg?ts=1757409064714&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-print-c0p195183996.html?colorId=400",
-        "precio_original": "Precio con descuento\n16,09 €\nDescuento del\n-30%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,09 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,09 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera NTS Ela Minus glow in the dark oversize capucha print",
-        "imagen": "https://static.bershka.net/assets/public/f7dc/5ccc/47b6404ea2b3/6e1ae9471c3a/07095033810-p/07095033810-p.jpg?ts=1763110208932&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-nts-ela-minus-glow-in-the-dark-oversize-capucha-print-c0p203836702.html?colorId=810",
-        "precio_original": "Precio con descuento\n23,99 €\nDescuento del\n-40%\nAntes\n39,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n23,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n23,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey print",
-        "imagen": "https://static.bershka.net/assets/public/7f7e/89a1/59704667bb9c/70cd21ee89ec/07254376400-a4o/07254376400-a4o.jpg?ts=1754302061017&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-print-c0p191849715.html?colorId=400",
-        "precio_original": "Precio con descuento\n11,99 €\nDescuento del\n-40%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello barco trenzado",
-        "imagen": "https://static.bershka.net/assets/public/a4c1/bec0/5e0a48b9af89/438f1eeee077/07119097802-p/07119097802-p.jpg?ts=1760957265711&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-trenzado-c0p197716822.html?colorId=802",
-        "precio_original": "Precio con descuento\n15,59 €\nDescuento del\n-40%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n15,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n15,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan blonda",
-        "imagen": "https://static.bershka.net/assets/public/e933/8beb/2138420389bb/0c83ec448619/06978714406-p/06978714406-p.jpg?ts=1754558901139&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-blonda-c0p197322968.html?colorId=406",
-        "precio_original": "Precio con descuento\n8,99 €\nDescuento del\n-50%*\nAntes\n10,79 €\nAntes\n17,99 €",
-        "precio_rebajado": "Precio con descuento\n8,99 €\nDescuento del\n-50%*",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n8,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Wicked capucha print",
-        "imagen": "https://static.bershka.net/assets/public/c8df/6c4a/0a0e4f3183b9/28561d7e30dc/07232071800-a4o/07232071800-a4o.jpg?ts=1760974093237&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-wicked-capucha-print-c0p204106852.html?colorId=800",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Corpse Bride capucha print",
-        "imagen": "https://static.bershka.net/assets/public/ab24/26f9/e33a4e329ff3/12a83a304ed2/07013173807-p/07013173807-p.jpg?ts=1760014045824&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-corpse-bride-capucha-print-c0p203207911.html?colorId=807",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Buffy the Vampire Slayer print",
-        "imagen": "https://static.bershka.net/assets/public/936f/a371/042b460eb880/204d9bdea88f/07091033800-p/07091033800-p.jpg?ts=1760011806129&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-buffy-the-vampire-slayer-print-c0p201493014.html?colorId=800",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Black Pink capucha",
-        "imagen": "https://static.bershka.net/assets/public/924a/ceab/0f8640c28d4a/459850070e36/07087705251-p/07087705251-p.jpg?ts=1756199506486&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-black-pink-capucha-c0p200737558.html?colorId=251",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey capucha",
-        "imagen": "https://static.bershka.net/assets/public/a6a3/a30d/727241809f41/0226f5b671bb/00008693400-p/00008693400-p.jpg?ts=1763458792130&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-capucha-c0p210976654.html?colorId=400",
-        "precio_original": "Precio con descuento\n20,99 €\nDescuento del\n-30%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n20,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n20,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan cuello pico",
-        "imagen": "https://static.bershka.net/assets/public/5a28/cdaf/aac04e7e9cc4/602108165f8c/06984693711-p/06984693711-p.jpg?ts=1756200552488&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cuello-pico-c0p194030446.html?colorId=711",
-        "precio_original": "Precio con descuento\n20,99 €\nDescuento del\n-30%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n20,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n20,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey punto multicolor",
-        "imagen": "https://static.bershka.net/assets/public/38a3/3c80/615e4258bf45/3b54f1630842/07257097902-03-p/07257097902-03-p.jpg?ts=1761205371519&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-punto-multicolor-c0p206080659.html?colorId=902&stylismId=3",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
+        "precio_original": "15.99€",
+        "precio_final": "9.59€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Jersey manga larga print",
         "imagen": "https://static.bershka.net/assets/public/8907/40dd/f9ba4eae9b46/62aab292b140/07074732611-p/07074732611-p.jpg?ts=1753802219575&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-manga-larga-print-c0p195682631.html?colorId=611",
-        "precio_original": "Precio con descuento\n16,79 €\nDescuento del\n-40%\nAntes\n27,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,79 €",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Jersey punto print",
-        "imagen": "https://static.bershka.net/assets/public/2e64/fd8f/7ea041378ee6/5799f50066f8/00005693712-p/00005693712-p.jpg?ts=1763976204366&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-punto-print-c0p210976649.html?colorId=712",
-        "precio_original": "Precio con descuento\n16,09 €\nDescuento del\n-30%\nAntes\n22,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,09 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,09 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera cuello barco print",
-        "imagen": "https://static.bershka.net/assets/public/ecc3/011b/6cd44a778818/5da95e37699e/07221033902-p/07221033902-p.jpg?ts=1757410953088&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cuello-barco-print-c0p200830959.html?colorId=902",
-        "precio_original": "Precio con descuento\n15,59 €\nDescuento del\n-40%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n15,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n15,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera TinyTAN print",
-        "imagen": "https://static.bershka.net/assets/public/fd81/7815/28fc43f7afd9/bad26c91547f/07215033902-p/07215033902-p.jpg?ts=1755073814691&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-tinytan-print-c0p193885268.html?colorId=902",
-        "precio_original": "Precio con descuento\n23,99 €\nDescuento del\n-40%\nAntes\n39,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n23,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n23,99 €",
+        "nombre": "Cárdigan cremallera capucha",
+        "imagen": "https://static.bershka.net/assets/public/517b/5bfa/2be145e1bed8/43f18ce876ee/07027376802-p/07027376802-p.jpg?ts=1760617908402&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cremallera-capucha-c0p197806410.html?colorId=802",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Sudadera KPop Demon Hunters Huntr/x capucha filtro digital",
         "imagen": "https://static.bershka.net/assets/public/c6fb/0c4c/82ba44c2abc9/ead205dc8eec/00975033800-p/00975033800-p.jpg?ts=1763476604862&w=750",
         "url_producto": "https://www.bershka.com/es/x-capucha-filtro-digital-c0p210976653.html?colorId=800",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera KPop Demon Hunters Huntr/x capucha print",
-        "imagen": "https://static.bershka.net/assets/public/65ab/5bbe/367f4811a3b4/2157d9ddffda/00978033712-p/00978033712-p.jpg?ts=1763476460979&w=750",
-        "url_producto": "https://www.bershka.com/es/x-capucha-print-c0p210976647.html?colorId=712",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
+        "nombre": "Sudadera Von Dutch cremallera print",
+        "imagen": "https://static.bershka.net/assets/public/ee99/e5ba/08624301a814/7f0211af6f43/07011210505-p/07011210505-p.jpg?ts=1754645199434&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-von-dutch-cremallera-print-c0p197381853.html?colorId=505",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Jersey trenzado",
-        "imagen": "https://static.bershka.net/assets/public/4e94/dd97/69cf40c3962d/359b4fbfdb10/07122693712-p/07122693712-p.jpg?ts=1760529370368&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-trenzado-c0p195531363.html?colorId=712",
-        "precio_original": "Precio con descuento\n20,99 €\nDescuento del\n-30%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n20,99 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n20,99 €",
+        "nombre": "Jersey capucha",
+        "imagen": "https://static.bershka.net/assets/public/a6a3/a30d/727241809f41/0226f5b671bb/00008693400-p/00008693400-p.jpg?ts=1763458792130&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-capucha-c0p210976654.html?colorId=400",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey asimétrico trenzado",
+        "imagen": "https://static.bershka.net/assets/public/8217/e62b/0845488aa8b3/a89b00238ec5/00003693902-p/00003693902-p.jpg?ts=1764779117535&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-asim%C3%A9trico-trenzado-c0p210976667.html?colorId=902",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan lazada",
+        "imagen": "https://static.bershka.net/assets/public/7172/ee58/85f04244a8dd/af4be34badc1/06992376802-p/06992376802-p.jpg?ts=1757927390614&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-lazada-c0p195682623.html?colorId=802",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cropped cuello pico",
+        "imagen": "https://static.bershka.net/assets/public/352c/fb26/d8fe4dc0b3eb/d671368f5b67/07127686712-p/07127686712-p.jpg?ts=1760531921906&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cropped-cuello-pico-c0p194669574.html?colorId=712",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera cremallera",
+        "imagen": "https://static.bershka.net/assets/public/2dfe/3362/ac9443668f71/2ade2ae1a739/07006360401-p/07006360401-p.jpg?ts=1757409462119&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-c0p200795803.html?colorId=401",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cazadora oversize efecto neopreno",
+        "imagen": "https://static.bershka.net/assets/public/9aae/5b3b/5a3341a3bc87/df9f1595ee6b/06974714462-p/06974714462-p.jpg?ts=1756200569199&w=750",
+        "url_producto": "https://www.bershka.com/es/cazadora-oversize-efecto-neopreno-c0p195834048.html?colorId=462",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan canalé corchetes",
+        "imagen": "https://static.bershka.net/assets/public/d2b9/2527/bb3142b6b4eb/371200ec784a/06983686812-p/06983686812-p.jpg?ts=1758875827170&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-canal%C3%A9-corchetes-c0p194030438.html?colorId=812",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello alto cremallera",
+        "imagen": "https://static.bershka.net/assets/public/e020/b85d/89f54a4697c0/0d186f3bd791/07258376712-p/07258376712-p.jpg?ts=1761657731236&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-cremallera-c0p197716814.html?colorId=712",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera oversize capucha print",
+        "imagen": "https://static.bershka.net/assets/public/6a81/0537/e4b54aea87c7/179c318ddf5c/07093071812-p/07093071812-p.jpg?ts=1759217253978&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-oversize-capucha-print-c0p202680978.html?colorId=812",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera NTS Ela Minus glow in the dark oversize capucha print",
+        "imagen": "https://static.bershka.net/assets/public/f7dc/5ccc/47b6404ea2b3/6e1ae9471c3a/07095033810-p/07095033810-p.jpg?ts=1763110208932&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-nts-ela-minus-glow-in-the-dark-oversize-capucha-print-c0p203836702.html?colorId=810",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello barco print",
+        "imagen": "https://static.bershka.net/assets/public/05c5/6a4a/24be453d8f0f/540fcd93b032/07088660812-p/07088660812-p.jpg?ts=1757403562130&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-print-c0p200227981.html?colorId=812",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello redondo",
+        "imagen": "https://static.bershka.net/assets/public/b20f/330d/cf804058b239/6b5b88f94e0e/01917686040-p/01917686040-p.jpg?ts=1753282535339&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-redondo-c0p196958045.html?colorId=040",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha print out of core",
+        "imagen": "https://static.bershka.net/assets/public/e951/4eee/4cd84abdb0b6/b1379fa0b5e7/07089187802-p/07089187802-p.jpg?ts=1758637410220&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-out-of-core-c0p202043012.html?colorId=802",
+        "precio_original": "45.99€",
+        "precio_final": "22.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey trenzado bordado",
+        "imagen": "https://static.bershka.net/assets/public/d6c5/c93d/026142d49ea9/702ac39ed0ff/07256693892-p/07256693892-p.jpg?ts=1763477877052&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-trenzado-bordado-c0p202105050.html?colorId=892",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Jersey punto con top",
         "imagen": "https://static.bershka.net/assets/public/2943/0f17/e66a47879eb3/cec61d9121af/07128686754-p/07128686754-p.jpg?ts=1758629021713&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-punto-con-top-c0p197294205.html?colorId=754",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey Madagascar capucha",
-        "imagen": "https://static.bershka.net/assets/public/d4d1/9d50/64384fa2bec9/6e4e7764308d/07080173809-03-p/07080173809-03-p.jpg?ts=1756801437955&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-madagascar-capucha-c0p202226509.html?colorId=809&stylismId=3",
-        "precio_original": "Precio con descuento\n17,99 €\nDescuento del\n-40%\nAntes\n29,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n17,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n17,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey rústico",
-        "imagen": "https://static.bershka.net/assets/public/0d5a/686d/cd5b46cab85e/f701b5acd974/01907187712-p/01907187712-p.jpg?ts=1751901229744&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-r%C3%BAstico-c0p196958279.html?colorId=712",
-        "precio_original": "Precio con descuento\n16,79 €\nDescuento del\n-40%\nAntes\n27,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey manga corta cuello polo estructura",
-        "imagen": "https://static.bershka.net/assets/public/45d4/9093/a2a14fdeaef8/415e923d086d/07250623250-p/07250623250-p.jpg?ts=1751963636055&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-manga-corta-cuello-polo-estructura-c0p189276831.html?colorId=250",
-        "precio_original": "Precio con descuento\n12,59 €\nDescuento del\n-30%\nAntes\n17,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n12,59 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n12,59 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey textura cuello bardot",
-        "imagen": "https://static.bershka.net/assets/public/711a/e67a/02174e77ba79/b0e4f89de30f/07109693712-a4o/07109693712-a4o.jpg?ts=1749652282199&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-textura-cuello-bardot-c0p202226792.html?colorId=712&stylismId=3",
-        "precio_original": "Precio con descuento\n11,99 €\nDescuento del\n-40%\nAntes\n19,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n11,99 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n11,99 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan cropped",
-        "imagen": "https://static.bershka.net/assets/public/5b20/2242/a6e94d2297f8/0dd926fb42bd/07171143728-p/07171143728-p.jpg?ts=1759397969031&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cropped-c0p197806409.html?colorId=728",
-        "precio_original": "Precio con descuento\n10,79 €\nDescuento del\n-40%\nAntes\n17,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n10,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n10,79 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Jersey cuello barco",
-        "imagen": "https://static.bershka.net/assets/public/0de9/c0f9/a57946d1a785/3ced200b0a7a/07261693754-p/07261693754-p.jpg?ts=1758629352776&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-c0p204042656.html?colorId=754&stylismId=1",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Cárdigan cuello polo trenzado",
-        "imagen": "https://static.bershka.net/assets/public/6cea/6dab/4e22455fa230/129645f103da/07022693712-a4o/07022693712-a4o.jpg?ts=1757401668319&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cuello-polo-trenzado-c0p202798294.html?colorId=712&stylismId=3",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Sudadera Lisa capucha",
-        "imagen": "https://static.bershka.net/assets/public/1e1a/d55d/08d24f01a083/0165173bf28a/07081072800-03-p/07081072800-03-p.jpg?ts=1756801985553&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-lisa-capucha-c0p202797612.html?colorId=800&stylismId=1",
-        "precio_original": "Precio con descuento\n21,59 €\nDescuento del\n-40%\nAntes\n35,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n21,59 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n21,59 €",
+        "imagen": "https://static.bershka.net/assets/public/5b5c/af35/ec4049358ec8/582a20817e7d/07081072800-p/07081072800-p.jpg?ts=1756804085739&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-lisa-capucha-c0p200795799.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera cremallera capucha bordado",
-        "imagen": "https://static.bershka.net/assets/public/6233/7f1b/83f2425b8e72/871d76acb3be/06975478745-02-p/06975478745-02-p.jpg?ts=1756191179517&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-bordado-c0p201854788.html?colorId=745&stylismId=2",
-        "precio_original": "Precio con descuento\n16,79 €\nDescuento del\n-40%\nAntes\n27,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n16,79 €\nDescuento del\n-40%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n16,79 €",
+        "nombre": "Jersey cuello alto rib",
+        "imagen": "https://static.bershka.net/assets/public/bef1/886f/91744b6c9c0e/bc997b1730da/07055727816-p/07055727816-p.jpg?ts=1759389003816&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-rib-c0p199756273.html?colorId=816",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey trenzado",
+        "imagen": "https://static.bershka.net/assets/public/4e94/dd97/69cf40c3962d/359b4fbfdb10/07122693712-p/07122693712-p.jpg?ts=1760529370368&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-trenzado-c0p195531363.html?colorId=712",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan bailarina",
+        "imagen": "https://static.bershka.net/assets/public/97c6/3361/70e0487f9a94/99aaebe25464/00010376800-p/00010376800-p.jpg?ts=1763630270852&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-bailarina-c0p210976660.html?colorId=800",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan canalé",
+        "imagen": "https://static.bershka.net/assets/public/b254/7324/39914eeabd1c/929fcb0ca99d/06994693754-p/06994693754-p.jpg?ts=1760532339345&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-canal%C3%A9-c0p197475601.html?colorId=754",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey punto asimétrico soft",
+        "imagen": "https://static.bershka.net/assets/public/5c27/3205/f3bb404bbf18/b22e149da4fd/07082187700-p/07082187700-p.jpg?ts=1758626618747&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-punto-asim%C3%A9trico-soft-c0p199767272.html?colorId=700",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan cremallera",
+        "imagen": "https://static.bershka.net/assets/public/f18f/1f17/adee498cb447/7073eeaef9b1/07003376754-p/07003376754-p.jpg?ts=1759321663125&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cremallera-c0p204043374.html?colorId=754&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Jersey manga volumen",
         "imagen": "https://static.bershka.net/assets/public/fe54/84fc/0c8544598b67/e4fe5dc167a3/07144376982-p/07144376982-p.jpg?ts=1758527494118&w=750",
         "url_producto": "https://www.bershka.com/es/jersey-manga-volumen-c0p194669576.html?colorId=982",
-        "precio_original": "Precio con descuento\n18,19 €\nDescuento del\n-30%\nAntes\n25,99 €\nAntes",
-        "precio_rebajado": "Precio con descuento\n18,19 €\nDescuento del\n-30%",
-        "descuento": null,
-        "precio_final": "Precio con descuento\n18,19 €",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera cremallera oversize efecto neopreno",
+        "imagen": "https://static.bershka.net/assets/public/f9fc/b89e/5d6f4d3aa69c/aef85148000c/06973729605-p/06973729605-p.jpg?ts=1753884842774&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-oversize-efecto-neopreno-c0p195834042.html?colorId=605",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan blonda",
+        "imagen": "https://static.bershka.net/assets/public/e933/8beb/2138420389bb/0c83ec448619/06978714406-p/06978714406-p.jpg?ts=1754558901139&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-blonda-c0p197322968.html?colorId=406",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey asimétrico bajo rib",
+        "imagen": "https://static.bershka.net/assets/public/43e8/2b80/3a2c491a9299/7a00efba72f7/07120693812-p/07120693812-p.jpg?ts=1761303090107&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-asim%C3%A9trico-bajo-rib-c0p195114802.html?colorId=812",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello pico",
+        "imagen": "https://static.bershka.net/assets/public/9927/231c/5c054cfabd42/74a6714ae0c6/07100653712-p/07100653712-p.jpg?ts=1755764392374&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-pico-c0p196958408.html?colorId=712",
+        "precio_original": "15.99€",
+        "precio_final": "9.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello bardot rib",
+        "imagen": "https://static.bershka.net/assets/public/0676/f480/0c994d40ba0b/b74cc0d28f8f/07149693754-p/07149693754-p.jpg?ts=1758185511510&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-bardot-rib-c0p197573682.html?colorId=754",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello barco",
+        "imagen": "https://static.bershka.net/assets/public/abc4/35af/b1a348d1a24f/63f363db9860/07261693802-p/07261693802-p.jpg?ts=1758629084684&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-c0p196698626.html?colorId=802",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha rayas",
+        "imagen": "https://static.bershka.net/assets/public/0d71/0417/446a44aa886f/839878a4b075/06977190500-p/06977190500-p.jpg?ts=1756202791510&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-rayas-c0p197322953.html?colorId=500",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha bordado",
+        "imagen": "https://static.bershka.net/assets/public/4897/dbd5/3f204215bdcb/74fea25370ba/06975478745-p/06975478745-p.jpg?ts=1756191177972&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-bordado-c0p193200753.html?colorId=745",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan pointelle print",
+        "imagen": "https://static.bershka.net/assets/public/6fab/35ef/426c4a41bbb8/b4a8a3e26797/07010443712-p/07010443712-p.jpg?ts=1754563241609&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-pointelle-print-c0p197322983.html?colorId=712",
+        "precio_original": "17.99€",
+        "precio_final": "8.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Chaqueta bardot botón",
+        "imagen": "https://static.bershka.net/assets/public/5265/2828/e53443e5b3b7/4ad8a4ee3000/06987693802-p/06987693802-p.jpg?ts=1756969675115&w=750",
+        "url_producto": "https://www.bershka.com/es/chaqueta-bardot-bot%C3%B3n-c0p191849705.html?colorId=802",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello alto trenzado",
+        "imagen": "https://static.bershka.net/assets/public/d163/1b49/29b841b283db/9974750cea4e/07130686754-p/07130686754-p.jpg?ts=1761657764323&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-trenzado-c0p198282727.html?colorId=754",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Lia Kali capucha",
+        "imagen": "https://static.bershka.net/assets/public/e063/5de3/e9e44fd3b86a/5a405f4ca740/07096187800-p/07096187800-p.jpg?ts=1761120463801&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-lia-kali-capucha-c0p202930642.html?colorId=800",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey Madagascar capucha",
+        "imagen": "https://static.bershka.net/assets/public/f0b5/076b/e38240298be1/75d1d86c0fd9/07080173809-a4o/07080173809-a4o.jpg?ts=1755791935657&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-madagascar-capucha-c0p198777320.html?colorId=809",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello polo rib",
+        "imagen": "https://static.bershka.net/assets/public/aa97/4ec0/997b475ba2e2/d87ef0f34037/07106653700-p/07106653700-p.jpg?ts=1755679680311&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-rib-c0p191867629.html?colorId=700",
+        "precio_original": "17.99€",
+        "precio_final": "10.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey manga corta cuello polo estructura",
+        "imagen": "https://static.bershka.net/assets/public/45d4/9093/a2a14fdeaef8/415e923d086d/07250623250-p/07250623250-p.jpg?ts=1751963636055&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-manga-corta-cuello-polo-estructura-c0p189276831.html?colorId=250",
+        "precio_original": "17.99€",
+        "precio_final": "10.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey boxy cuello polo",
+        "imagen": "https://static.bershka.net/assets/public/8572/f895/4d784876baf9/e087a3ea22bf/07113097742-28-p/07113097742-28-p.jpg?ts=1764160929641&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-boxy-cuello-polo-c0p207373967.html?colorId=742&stylismId=28",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan cuello polo trenzado",
+        "imagen": "https://static.bershka.net/assets/public/6cea/6dab/4e22455fa230/129645f103da/07022693712-a4o/07022693712-a4o.jpg?ts=1757401668319&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-cuello-polo-trenzado-c0p202798294.html?colorId=712&stylismId=3",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan botones rústica",
+        "imagen": "https://static.bershka.net/assets/public/6529/1a73/03d2490fad15/19ac8c3e6a84/01772623712-p/01772623712-p.jpg?ts=1752675160178&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-botones-r%C3%BAstica-c0p196958101.html?colorId=712",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey estructura anilla",
+        "imagen": "https://static.bershka.net/assets/public/58a3/f47e/500746f4b79d/ac437f862379/07135376712-p/07135376712-p.jpg?ts=1751295862842&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-estructura-anilla-c0p189277141.html?colorId=712",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey rústico",
+        "imagen": "https://static.bershka.net/assets/public/0d5a/686d/cd5b46cab85e/f701b5acd974/01907187712-p/01907187712-p.jpg?ts=1751901229744&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-r%C3%BAstico-c0p196958279.html?colorId=712",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan lazo volantes",
+        "imagen": "https://static.bershka.net/assets/public/b3ce/173d/e46c4567a9cd/995577c33a28/06988693605-p/06988693605-p.jpg?ts=1752065920156&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-lazo-volantes-c0p193036794.html?colorId=605",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey Rilakkuma efecto pelo",
+        "imagen": "https://static.bershka.net/assets/public/9ef4/45e9/50704af1a88b/f87ead7e4699/07129693614-p/07129693614-p.jpg?ts=1760000280277&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-rilakkuma-efecto-pelo-c0p205025624.html?colorId=614&stylismId=3",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Wicked capucha print",
+        "imagen": "https://static.bershka.net/assets/public/c8df/6c4a/0a0e4f3183b9/28561d7e30dc/07232071800-a4o/07232071800-a4o.jpg?ts=1760974093237&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-wicked-capucha-print-c0p204106852.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Corpse Bride capucha print",
+        "imagen": "https://static.bershka.net/assets/public/ab24/26f9/e33a4e329ff3/12a83a304ed2/07013173807-p/07013173807-p.jpg?ts=1760014045824&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-corpse-bride-capucha-print-c0p203207911.html?colorId=807",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Buffy the Vampire Slayer print",
+        "imagen": "https://static.bershka.net/assets/public/936f/a371/042b460eb880/204d9bdea88f/07091033800-p/07091033800-p.jpg?ts=1760011806129&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-buffy-the-vampire-slayer-print-c0p201493014.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Lady Gaga capucha print",
+        "imagen": "https://static.bershka.net/assets/public/1046/6bea/ff844ae586b0/38069081f6fb/07079160800-p/07079160800-p.jpg?ts=1758096489932&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-lady-gaga-capucha-print-c0p201304217.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera The Grinch capucha print",
+        "imagen": "https://static.bershka.net/assets/public/eeee/f887/61c44971b56c/215d32544628/00857213251-03-p/00857213251-03-p.jpg?ts=1764151555493&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-the-grinch-capucha-print-c0p207373490.html?colorId=251&stylismId=3",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey punto print",
+        "imagen": "https://static.bershka.net/assets/public/2e64/fd8f/7ea041378ee6/5799f50066f8/00005693712-p/00005693712-p.jpg?ts=1763976204366&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-punto-print-c0p210976649.html?colorId=712",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey punto rayas",
+        "imagen": "https://static.bershka.net/assets/public/910c/90fe/222642249e5c/395b9c12b104/07084714889-p/07084714889-p.jpg?ts=1762768967571&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-punto-rayas-c0p207373708.html?colorId=889&stylismId=1",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera cuello cremallera print",
+        "imagen": "https://static.bershka.net/assets/public/b4ff/3c66/1c4d4c55b587/94509317f649/07072190250-p/07072190250-p.jpg?ts=1754989243333&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cuello-cremallera-print-c0p194030460.html?colorId=250",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera KPop Demon Hunters Huntr/x capucha print",
+        "imagen": "https://static.bershka.net/assets/public/65ab/5bbe/367f4811a3b4/2157d9ddffda/00978033712-p/00978033712-p.jpg?ts=1763476460979&w=750",
+        "url_producto": "https://www.bershka.com/es/x-capucha-print-c0p210976647.html?colorId=712",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera cuello barco print",
+        "imagen": "https://static.bershka.net/assets/public/dea5/1bbf/014b48719927/08abd3328c76/07221033902-03-p/07221033902-03-p.jpg?ts=1757419718474&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cuello-barco-print-c0p202798008.html?colorId=902&stylismId=3",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera TinyTAN print",
+        "imagen": "https://static.bershka.net/assets/public/587f/e18f/443e4bffb830/bfbea160491f/07215033902-24-p/07215033902-24-p.jpg?ts=1754566621218&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-tinytan-print-c0p201082273.html?colorId=902&stylismId=24",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Black Pink capucha",
+        "imagen": "https://static.bershka.net/assets/public/924a/ceab/0f8640c28d4a/459850070e36/07087705251-p/07087705251-p.jpg?ts=1756199506486&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-black-pink-capucha-c0p200737558.html?colorId=251",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello alto oversize",
+        "imagen": "https://static.bershka.net/assets/public/d9ab/7058/30ef4b1dafd8/c0b078658089/07157376712-p/07157376712-p.jpg?ts=1760531893862&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-oversize-c0p198650723.html?colorId=712",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey bardot trenzado",
+        "imagen": "https://static.bershka.net/assets/public/1529/2bbf/779f456987e8/cfb11d6138c8/06999376605-p/06999376605-p.jpg?ts=1759306969054&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-bardot-trenzado-c0p197454214.html?colorId=605",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Cárdigan punto cremallera bordado",
+        "imagen": "https://static.bershka.net/assets/public/dd13/2f2e/33e443958897/35bb26170cc8/07026693500-p/07026693500-p.jpg?ts=1761137357216&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-punto-cremallera-bordado-c0p198034869.html?colorId=500",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey boxy cuello pico",
+        "imagen": "https://static.bershka.net/assets/public/8681/a630/878b4f46afd1/c985b8a996c7/07141686892-p/07141686892-p.jpg?ts=1762347409492&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-boxy-cuello-pico-c0p198656605.html?colorId=892",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello barco trenzado",
+        "imagen": "https://static.bershka.net/assets/public/a4c1/bec0/5e0a48b9af89/438f1eeee077/07119097802-p/07119097802-p.jpg?ts=1760957265711&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-barco-trenzado-c0p197716822.html?colorId=802",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey textura cuello bardot",
+        "imagen": "https://static.bershka.net/assets/public/22d8/13e2/9a2742d6bcbe/6fb184e61361/07109693800-a4o/07109693800-a4o.jpg?ts=1749652283703&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-textura-cuello-bardot-c0p202226791.html?colorId=800&stylismId=3",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey cuello alto canalé",
+        "imagen": "https://static.bershka.net/assets/public/a03e/6625/37d04d90964d/3b6479804d5b/07117663892-p/07117663892-p.jpg?ts=1759914541553&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-alto-canal%C3%A9-c0p197454218.html?colorId=892",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Jersey print",
+        "imagen": "https://static.bershka.net/assets/public/6562/a0c5/437446e88112/477715f2c995/07254376605-a4o/07254376605-a4o.jpg?ts=1754317179978&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-print-c0p191849716.html?colorId=605",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
         "categoria": "sudaderas_mujer"
     }
 ]
