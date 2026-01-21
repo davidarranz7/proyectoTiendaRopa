@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MODA - Nueva Colección</title>
+    <link rel="stylesheet" href="/estilos/menu.css">
+    <link rel="stylesheet" href="/estilos/nuevacolecion.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    {% include 'menu.html' %}
+
+    <main class="ofertas-container">
+        <aside class="sidebar-filtros">
+            <div class="filtro-seccion">
+                <h3>TIENDA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="zara"> ZARA</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="pullandbear"> PULL&BEAR</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="tienda" value="bershka"> BERSHKA</label></li>
+                </ul>
+            </div>
+
+            <div class="filtro-seccion">
+                <h3>CATEGORÍA</h3>
+                <ul>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="abrigo"> ABRIGOS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="pantalon"> PANTALONES</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="camiseta"> CAMISETAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="sudadera"> SUDADERAS</label></li>
+                    <li><label><input type="checkbox" class="filtro-check" data-tipo="cat" value="zapato"> ZAPATOS</label></li>
+                </ul>
+            </div>
+        </aside>
+
+        <section class="contenido-ofertas">
+            <header class="ofertas-header">
+                <h1>NEW IN</h1>
+                <p>NUEVA TEMPORADA / {{ articulos|length }} PRODUCTOS ENCONTRADOS</p>
+            </header>
+
+            <div class="grid-ofertas" id="grid-productos">
+                {% for producto in articulos %}
+                <article class="tarjeta-oferta"
+                         data-tienda="{{ producto.tienda|lower }}"
+                         data-nombre="{{ producto.nombre|lower }}">
+
+                    <a href="{{ producto.url_producto }}" target="_blank">
+                        <div class="img-wrapper">
+                            <span class="tag-nuevo">NUEVO</span>
+                            <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
+                        </div>
+
+                        <div class="info-producto">
+                            <div class="meta-info">
+                                <span class="marca-nombre">{{ producto.tienda }}</span>
+                            </div>
+                            <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+                            <div class="precios-oferta">
+                                <span class="p-final">{{ producto.precio_final }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+
+    {% include 'footer.html' %}
+
+    <script src="/script/menu.js"></script>
+    <script src="/script/nuevacolecion.js"></script>
+</body>
+</html>

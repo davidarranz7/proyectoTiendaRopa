@@ -1,0 +1,135 @@
+/* --- LAYOUT NUEVA COLECCIÓN --- */
+.ofertas-container {
+    display: flex;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 40px;
+    gap: 40px;
+}
+
+.sidebar-filtros {
+    width: 200px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 90px;
+    height: fit-content;
+}
+
+.filtro-seccion {
+    margin-bottom: 40px;
+}
+
+.filtro-seccion h3 {
+    font-size: 0.7rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.filtro-seccion ul {
+    list-style: none;
+    padding: 0;
+}
+
+.filtro-seccion label {
+    font-size: 0.65rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+/* --- CONTENIDO --- */
+.contenido-ofertas {
+    flex-grow: 1;
+}
+
+.ofertas-header h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 0.8;
+}
+
+.grid-ofertas {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 40px 15px;
+}
+
+/* --- TARJETA --- */
+.tarjeta-oferta {
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+/* AQUÍ QUITAMOS EL AZUL Y EL SUBRAYADO */
+.tarjeta-oferta a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.img-wrapper {
+    aspect-ratio: 2 / 3;
+    overflow: hidden;
+    position: relative;
+    background-color: #f9f9f9;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.tag-nuevo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #000;
+    color: #fff;
+    padding: 3px 8px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    z-index: 10;
+}
+
+.info-producto {
+    padding: 15px 0;
+}
+
+.marca-nombre {
+    font-size: 0.55rem;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #888;
+}
+
+.nombre-prenda {
+    font-size: 0.65rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 8px;
+    color: #000;
+}
+
+.p-final {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #000; /* Negro para que no parezca oferta */
+}
+
+/* --- RESPONSIVO --- */
+@media (max-width: 1024px) {
+    .ofertas-container { flex-direction: column; }
+    .sidebar-filtros { width: 100%; position: static; display: grid; grid-template-columns: repeat(2, 1fr); }
+}

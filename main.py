@@ -72,21 +72,58 @@ async def ver_zara(request: Request):
 async def ofertas(request: Request):
     solo_chollos = []
     CARPETA_DATOS = "datos"
+
     if os.path.exists(CARPETA_DATOS):
         for archivo in os.listdir(CARPETA_DATOS):
-            if archivo.endswith("_total.json"):
+            # Solo analizamos archivos de productos totales o por categoría
+            if archivo.endswith(".json"):
                 productos = cargar_datos_tienda(archivo)
-                for p in productos:
-                    desc = p.get("descuento")
-                    p_orig = p.get("precio_original")
-                    p_final = p.get("precio_final")
-                    if (desc and desc != "") or (p_orig and p_orig != p_final):
-                        if not p.get("tienda"):
-                            p["tienda"] = archivo.replace("_total.json", "").capitalize()
-                        solo_chollos.append(p)
-    random.shuffle(solo_chollos)
-    return templates.TemplateResponse("ofertas.html", {"request": request, "articulos": solo_chollos})
+                tienda_nombre = archivo.split("_")[0].capitalize()
 
+                for p in productos:
+                    # FILTRO CRÍTICO: Solo si tiene descuento real
+                    tiene_descuento = p.get("descuento") is not None and p.get("descuento") != ""
+
+                    if tiene_descuento:
+                        # Aseguramos que el nombre de la tienda aparezca
+                        if not p.get("tienda"):
+                            p["tienda"] = tienda_nombre
+                        solo_chollos.append(p)
+
+    # Mezclamos para que no salgan siempre los mismos primero
+    random.shuffle(solo_chollos)
+
+    return templates.TemplateResponse("ofertas.html", {
+        "request": request,
+        "articulos": solo_chollos
+    })
+
+
+@app.get("/nueva-coleccion", response_class=HTMLResponse)
+async def nueva_coleccion(request: Request):
+    novedades = []
+    CARPETA_DATOS = "datos"
+
+    if os.path.exists(CARPETA_DATOS):
+        for archivo in os.listdir(CARPETA_DATOS):
+            if archivo.endswith(".json"):
+                productos = cargar_datos_tienda(archivo)
+                tienda_nombre = archivo.split("_")[0].capitalize()
+
+                for p in productos:
+                    # FILTRO: Solo si NO tiene descuento (es nueva colección)
+                    es_novedad = p.get("descuento") is None or p.get("descuento") == ""
+
+                    if es_novedad:
+                        if not p.get("tienda"):
+                            p["tienda"] = tienda_nombre
+                        novedades.append(p)
+
+    random.shuffle(novedades)
+    return templates.TemplateResponse("nuevacolecion.html", {
+        "request": request,
+        "articulos": novedades
+    })
 
 @app.get("/mujer", response_class=HTMLResponse)
 async def ver_mujer(request: Request):
