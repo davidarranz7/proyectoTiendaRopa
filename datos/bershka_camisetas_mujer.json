@@ -1,89 +1,8 @@
 [
     {
-        "nombre": "Top halter bengalina",
-        "imagen": "https://static.bershka.net/assets/public/5b9e/49d5/ecc64c9a8e99/c90094e3cd7a/08813710802-p/08813710802-p.jpg?ts=1756198832330&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-bengalina-c0p197146928.html?colorId=802",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "Top bandeau",
-        "imagen": "https://static.bershka.net/assets/public/5458/1ee0/2ed74218a362/a6609b2ca0e9/08816707800-p/08816707800-p.jpg?ts=1759912871252&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bandeau-c0p201172232.html?colorId=800",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter escote drapeado efecto brillo",
-        "imagen": "https://static.bershka.net/assets/public/6908/0854/4274400eb8a8/dca5b17acb8c/08705662401-p/08705662401-p.jpg?ts=1761745833653&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-escote-drapeado-efecto-brillo-c0p199767288.html?colorId=401",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bardot estructura brillo",
-        "imagen": "https://static.bershka.net/assets/public/78d0/95b8/d8a141259e15/a0ab7568c0fa/08785710700-p/08785710700-p.jpg?ts=1761204653897&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bardot-estructura-brillo-c0p201818674.html?colorId=700",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga larga asimétrico rayas brillo",
-        "imagen": "https://static.bershka.net/assets/public/eea1/8160/72b242cbbb15/b2bc6b480fba/00879218605-p/00879218605-p.jpg?ts=1763479373088&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trico-rayas-brillo-c0p212744469.html?colorId=605",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/4c00/9049/f072428493f3/fbdf9655ee5f/07822660251-p/07822660251-p.jpg?ts=1756299880761&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-c0p197716807.html?colorId=251",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga corta eyelets",
-        "imagen": "https://static.bershka.net/assets/public/4499/df9a/ca7942d18e0f/8cd5a751e38c/07623173717-p/07623173717-p.jpg?ts=1754642225045&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-eyelets-c0p198552049.html?colorId=717",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body bandeau blonda",
-        "imagen": "https://static.bershka.net/assets/public/a74d/2e2a/8d754041b149/eaccd64df406/03971173406-p/03971173406-p.jpg?ts=1750323527474&w=750",
-        "url_producto": "https://www.bershka.com/es/body-bandeau-blonda-c0p196958309.html?colorId=406",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga larga fruncido print",
-        "imagen": "https://static.bershka.net/assets/public/cd75/9562/b962400ea2d3/dee9ebcbadc3/00051152610-p/00051152610-p.jpg?ts=1763477926784&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-fruncido-print-c0p212744467.html?colorId=610",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top efecto piel tachas",
-        "imagen": "https://static.bershka.net/assets/public/8bd1/297e/0efa43109d6c/3375e7703fa3/08815710700-p/08815710700-p.jpg?ts=1768397681476&w=750",
-        "url_producto": "https://www.bershka.com/es/top-efecto-piel-tachas-c0p200420276.html?colorId=700",
+        "imagen": "https://static.bershka.net/assets/public/466b/c103/5bea4709b74a/a84e2cece02e/08816707889-p/08816707889-p.jpg?ts=1763993034274&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-c0p201172233.html?colorId=889",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
         "descuento": "-60%",
@@ -99,18 +18,72 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top halter con lino",
-        "imagen": "https://static.bershka.net/assets/public/5984/e367/252a41cb964c/59e676ba8b9c/03805741441-p/03805741441-p.jpg?ts=1744272340258&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-con-lino-c0p196951953.html?colorId=441",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
+        "nombre": "Camiseta manga larga boxy print",
+        "imagen": "https://static.bershka.net/assets/public/b183/1490/4ae747bf8474/365cf610164f/07546093251-p/07546093251-p.jpg?ts=1756804296778&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-boxy-print-c0p198552039.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camisa entallada abertura",
-        "imagen": "https://static.bershka.net/assets/public/0476/51da/917e4bc884f6/4d07df10344e/06269008607-p/06269008607-p.jpg?ts=1755005146960&w=750",
-        "url_producto": "https://www.bershka.com/es/camisa-entallada-abertura-c0p192004823.html?colorId=607",
+        "nombre": "Body bandeau blonda",
+        "imagen": "https://static.bershka.net/assets/public/3576/954c/5b2844609ef4/fbb05d6bc4ac/03971173712-p/03971173712-p.jpg?ts=1750325200890&w=750",
+        "url_producto": "https://www.bershka.com/es/body-bandeau-blonda-c0p196958308.html?colorId=712",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco largo escote cuadrado",
+        "imagen": "https://static.bershka.net/assets/public/ebbe/3bf0/003f4a94a39f/b5a449980bb9/03583168712-p/03583168712-p.jpg?ts=1747747809284&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-largo-escote-cuadrado-c0p196958059.html?colorId=712",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco largo escote cuadrado",
+        "imagen": "https://static.bershka.net/assets/public/1a49/5527/39644e9fb5c0/66d09baf8e99/03583692720-p/03583692720-p.jpg?ts=1747747809578&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-largo-escote-cuadrado-c0p196958058.html?colorId=720",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter bengalina",
+        "imagen": "https://static.bershka.net/assets/public/5b9e/49d5/ecc64c9a8e99/c90094e3cd7a/08813710802-p/08813710802-p.jpg?ts=1756198832330&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-bengalina-c0p197146928.html?colorId=802",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga fruncido print",
+        "imagen": "https://static.bershka.net/assets/public/4530/0f5e/88234713b2e3/b5272e5ede95/00051152462-p/00051152462-p.jpg?ts=1763477945699&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-fruncido-print-c0p212744466.html?colorId=462",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco cuello pico soft touch",
+        "imagen": "https://static.bershka.net/assets/public/647d/71a7/aa854148bbe8/fbd9f88f75d7/08587376400-p/08587376400-p.jpg?ts=1754572045846&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-cuello-pico-soft-touch-c0p197294203.html?colorId=400",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top efecto piel tachas",
+        "imagen": "https://static.bershka.net/assets/public/8bd1/297e/0efa43109d6c/3375e7703fa3/08815710700-p/08815710700-p.jpg?ts=1768397681476&w=750",
+        "url_producto": "https://www.bershka.com/es/top-efecto-piel-tachas-c0p200420276.html?colorId=700",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
         "descuento": "-60%",
@@ -126,281 +99,29 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta Mofusand manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/a8f7/4dac/0d684033b1dd/e4141413f77c/07821167251-p/07821167251-p.jpg?ts=1756192662688&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-mofusand-manga-corta-print-c0p197381852.html?colorId=251",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bandeau frunces",
-        "imagen": "https://static.bershka.net/assets/public/26e8/dbfc/5f4349879cef/889c067f80ef/08781080122-p/08781080122-p.jpg?ts=1760534937666&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bandeau-frunces-c0p197716835.html?colorId=122",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Cárdigan blonda",
-        "imagen": "https://static.bershka.net/assets/public/e933/8beb/2138420389bb/0c83ec448619/06978714406-p/06978714406-p.jpg?ts=1754558901139&w=750",
-        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-blonda-c0p197322968.html?colorId=406",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga larga tul print",
-        "imagen": "https://static.bershka.net/assets/public/7fdf/2bd9/d7a34904a82b/2d73d9b5c0cf/07639256800-p/07639256800-p.jpg?ts=1756199332270&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-tul-print-c0p200227982.html?colorId=800",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "Body halter drapeado",
-        "imagen": "https://static.bershka.net/assets/public/35bf/7ebb/a3ac4098b507/5e478db1e255/00920187829-p/00920187829-p.jpg?ts=1764233340223&w=750",
-        "url_producto": "https://www.bershka.com/es/body-halter-drapeado-c0p213313163.html?colorId=829",
+        "imagen": "https://static.bershka.net/assets/public/29c1/47d5/a739474993d5/718bc3646838/00920173800-p/00920173800-p.jpg?ts=1764242152195&w=750",
+        "url_producto": "https://www.bershka.com/es/body-halter-drapeado-c0p213313162.html?colorId=800",
         "precio_original": "17.99€",
         "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes blonda",
-        "imagen": "https://static.bershka.net/assets/public/4308/fbfe/3ded4095ae49/08cccd61886f/08766692800-p/08766692800-p.jpg?ts=1752742362279&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-blonda-c0p189558400.html?colorId=800",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camisa rústica fruncida",
-        "imagen": "https://static.bershka.net/assets/public/e873/7be8/2df7411cb3cc/3d8ad38e80b1/06258494406-p/06258494406-p.jpg?ts=1748358092427&w=750",
-        "url_producto": "https://www.bershka.com/es/camisa-r%C3%BAstica-fruncida-c0p192655089.html?colorId=406",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga larga cuello asimétrico",
-        "imagen": "https://static.bershka.net/assets/public/0000/23a9/0f6e474a8358/4e5f4e29c855/07603727251-p/07603727251-p.jpg?ts=1759924807981&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-cuello-asim%C3%A9trico-c0p198552042.html?colorId=251",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga corta oversize heavy cotton",
-        "imagen": "https://static.bershka.net/assets/public/05ac/89c5/58464a5895a6/076693241ae2/02333443800-p/02333443800-p.jpg?ts=1736432640769&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-heavy-cotton-c0p196958143.html?colorId=800",
-        "precio_original": "8.99€",
-        "precio_final": "3.59€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter contraste",
-        "imagen": "https://static.bershka.net/assets/public/9ed2/2917/27684505876d/f2995f89d564/03955663146-p/03955663146-p.jpg?ts=1746018793018&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-contraste-c0p196958276.html?colorId=146",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco canalé lazada",
-        "imagen": "https://static.bershka.net/assets/public/7d7b/a455/ccfa47b58b7a/d655d081da54/08586663250-p1/08586663250-p1.jpg?ts=1754383607355&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-canal%C3%A9-lazada-c0p191561712.html?colorId=250",
-        "precio_original": "19.99€",
-        "precio_final": "11.99€",
-        "descuento": "-40%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Mofusand manga larga print",
-        "imagen": "https://static.bershka.net/assets/public/f0ca/604e/a62a4a4c850a/cbe0d91ae6ef/07825167106-p/07825167106-p.jpg?ts=1756191268926&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-mofusand-manga-larga-print-c0p198347569.html?colorId=106",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga corta tul print",
-        "imagen": "https://static.bershka.net/assets/public/ffdf/964f/606b46e2bcc6/8f3ff560f582/07617360902-p/07617360902-p.jpg?ts=1755087927687&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-tul-print-c0p197716858.html?colorId=902",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Sabrina Carpenter manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/3b4e/6063/9d1c43a5b627/c75893929bda/02428705106-p/02428705106-p.jpg?ts=1748503111311&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-sabrina-carpenter-manga-corta-print-c0p196951965.html?colorId=106",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Corpse Bride manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/7eba/8d3c/281f4de9aed3/5e5a79635865/07848777401-p/07848777401-p.jpg?ts=1759225509466&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-corpse-bride-manga-corta-print-c0p202757033.html?colorId=401",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta sin mangas mesh asimétrica",
-        "imagen": "https://static.bershka.net/assets/public/6fc5/4e36/af374d84a743/85aea15dc38d/07618326251-p/07618326251-p.jpg?ts=1754379792991&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-sin-mangas-mesh-asim%C3%A9trica-c0p198282759.html?colorId=251",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bengalina cremallera",
-        "imagen": "https://static.bershka.net/assets/public/cc53/40f8/758a427db487/8d0eadc74204/08775692250-p/08775692250-p.jpg?ts=1752678991578&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bengalina-cremallera-c0p192487441.html?colorId=250",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco halter con lino",
-        "imagen": "https://static.bershka.net/assets/public/52c7/fa88/b8ab4ef7a0e7/7a83c4d051ba/08600692323-p/08600692323-p.jpg?ts=1752498028439&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-halter-con-lino-c0p196353608.html?colorId=323",
-        "precio_original": "19.99€",
-        "precio_final": "11.99€",
-        "descuento": "-40%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bandeau encaje",
-        "imagen": "https://static.bershka.net/assets/public/c029/e403/283a4b8998a9/1fb168dfab88/03682360605-p/03682360605-p.jpg?ts=1744182109938&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bandeau-encaje-c0p196957976.html?colorId=605",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camisa manga corta frunces lazada",
-        "imagen": "https://static.bershka.net/assets/public/694d/e0a5/6b2e46288164/13ed760f862b/01163494712-p/01163494712-p.jpg?ts=1748503247804&w=750",
-        "url_producto": "https://www.bershka.com/es/camisa-manga-corta-frunces-lazada-c0p196951949.html?colorId=712",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta manga larga tul cuadros",
-        "imagen": "https://static.bershka.net/assets/public/0afb/d831/3b304a46ad1b/56b56366a20e/07647326800-p/07647326800-p.jpg?ts=1761221354603&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-tul-cuadros-c0p201562408.html?colorId=800",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Cars manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/0364/eecf/8c0b4ac89f3a/4424d03fd278/07829777251-p/07829777251-p.jpg?ts=1753794980977&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-cars-manga-corta-print-c0p197716857.html?colorId=251",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camisa pinzas entallada",
-        "imagen": "https://static.bershka.net/assets/public/e40a/82fa/7551469caf8f/10d89b49c4ad/06265710406-p/06265710406-p.jpg?ts=1755005168701&w=750",
-        "url_producto": "https://www.bershka.com/es/camisa-pinzas-entallada-c0p190324334.html?colorId=406",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Rilakkuma manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/dac4/5a83/69ce426491dd/2bd1e84f51d4/07837256251-p/07837256251-p.jpg?ts=1760000273683&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-rilakkuma-manga-corta-print-c0p200766634.html?colorId=251",
+        "nombre": "Camiseta manga larga asimétrica tul",
+        "imagen": "https://static.bershka.net/assets/public/0184/1593/df3b4b298b38/fdeebcbe3d06/07651173401-p/07651173401-p.jpg?ts=1759760663172&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trica-tul-c0p202311384.html?colorId=401",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camisa manga corta rústica estructura",
-        "imagen": "https://static.bershka.net/assets/public/6c8f/92ee/b2824272a5e1/5f033c32df9e/01152710742-p/01152710742-p.jpg?ts=1748953987621&w=750",
-        "url_producto": "https://www.bershka.com/es/camisa-manga-corta-r%C3%BAstica-estructura-c0p196951943.html?colorId=742",
+        "nombre": "Body bandeau blonda",
+        "imagen": "https://static.bershka.net/assets/public/a74d/2e2a/8d754041b149/eaccd64df406/03971173406-p/03971173406-p.jpg?ts=1750323527474&w=750",
+        "url_producto": "https://www.bershka.com/es/body-bandeau-blonda-c0p196958309.html?colorId=406",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top cuello halter trenzado",
-        "imagen": "https://static.bershka.net/assets/public/036c/d108/ecac4dd0af9a/5949df75454e/08749623529-p/08749623529-p.jpg?ts=1750081521480&w=750",
-        "url_producto": "https://www.bershka.com/es/top-cuello-halter-trenzado-c0p190425494.html?colorId=529",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Shin Chan manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/45cf/68c6/63754a479563/9c9eee30f797/07611071800-a4o/07611071800-a4o.jpg?ts=1753973022700&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-shin-chan-manga-corta-print-c0p197716834.html?colorId=800",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Lia Kali manga corta oversize print",
-        "imagen": "https://static.bershka.net/assets/public/a2d6/634d/9f8d4d13aa51/af229f0cad64/07668187800-p/07668187800-p.jpg?ts=1761120631524&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-lia-kali-manga-corta-oversize-print-c0p202930644.html?colorId=800",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Lady Gaga manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/609d/bad5/1a734339aa22/577fe6060133/07620160251-p/07620160251-p.jpg?ts=1759760657867&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-lady-gaga-manga-corta-print-c0p199767247.html?colorId=251",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco largo escote cuadrado",
-        "imagen": "https://static.bershka.net/assets/public/1a49/5527/39644e9fb5c0/66d09baf8e99/03583692720-p/03583692720-p.jpg?ts=1747747809578&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-largo-escote-cuadrado-c0p196958058.html?colorId=720",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
-        "descuento": "-40%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Blusa textura print",
-        "imagen": "https://static.bershka.net/assets/public/4e7d/9c66/aec947cfb033/df48388e9105/06264207100-p/06264207100-p.jpg?ts=1750320347544&w=750",
-        "url_producto": "https://www.bershka.com/es/blusa-textura-print-c0p189277025.html?colorId=100",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
@@ -414,90 +135,135 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top halter rib",
-        "imagen": "https://static.bershka.net/assets/public/e90d/84f9/e5044da7b29e/db365052b32e/08751693802-p/08751693802-p.jpg?ts=1756969630909&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-rib-c0p191727947.html?colorId=802",
+        "nombre": "Top fluido ajustado arandelas",
+        "imagen": "https://static.bershka.net/assets/public/3f35/3fb8/29cf4ccc8e6f/818e609393d0/08790360610-p/08790360610-p.jpg?ts=1762964705549&w=750",
+        "url_producto": "https://www.bershka.com/es/top-fluido-ajustado-arandelas-c0p203008975.html?colorId=610",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau encaje",
+        "imagen": "https://static.bershka.net/assets/public/c029/e403/283a4b8998a9/1fb168dfab88/03682360605-p/03682360605-p.jpg?ts=1744182109938&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-encaje-c0p196957976.html?colorId=605",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter con lino",
+        "imagen": "https://static.bershka.net/assets/public/5984/e367/252a41cb964c/59e676ba8b9c/03805741441-p/03805741441-p.jpg?ts=1744272340258&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-con-lino-c0p196951953.html?colorId=441",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camisa rústica fruncida",
+        "imagen": "https://static.bershka.net/assets/public/b3a5/b1b6/997348dfb08e/962757e37ae2/06258494620-p/06258494620-p.jpg?ts=1747753994009&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-r%C3%BAstica-fruncida-c0p189276683.html?colorId=620",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter escote drapeado efecto brillo",
+        "imagen": "https://static.bershka.net/assets/public/6908/0854/4274400eb8a8/dca5b17acb8c/08705662401-p/08705662401-p.jpg?ts=1761745833653&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-escote-drapeado-efecto-brillo-c0p199767288.html?colorId=401",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top bordado nudo",
-        "imagen": "https://static.bershka.net/assets/public/b8a7/377e/96ef4bbfa827/e198e9d9cf4e/08778494712-p/08778494712-p.jpg?ts=1757421208916&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bordado-nudo-c0p195556775.html?colorId=712",
-        "precio_original": "25.99€",
-        "precio_final": "10.39€",
+        "nombre": "Top tirantes rústico",
+        "imagen": "https://static.bershka.net/assets/public/ea71/c47d/95c2498fa49e/1beec534d98c/03807741401-p/03807741401-p.jpg?ts=1744789343737&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-r%C3%BAstico-c0p196951796.html?colorId=401",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes mesh print",
-        "imagen": "https://static.bershka.net/assets/public/6653/897b/10f24ac7a975/276f64e6a4f3/08679727712-p/08679727712-p.jpg?ts=1752069481712&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-mesh-print-c0p193885263.html?colorId=712",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Camiseta manga corta eyelets",
+        "imagen": "https://static.bershka.net/assets/public/a9a7/0f48/654941c5adc3/0e97136d6e76/07623173200-p/07623173200-p.jpg?ts=1754468090104&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-eyelets-c0p198552048.html?colorId=200",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes tul bordados",
-        "imagen": "https://static.bershka.net/assets/public/7935/dddb/6dc5426d92cb/095f58ab28d1/08692662712-p/08692662712-p.jpg?ts=1756301571741&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-tul-bordados-c0p192519484.html?colorId=712",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Camiseta The Devil Wears Prada manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/bd98/c883/070c4dad88f6/2a7f5daea581/07630167251-p/07630167251-p.jpg?ts=1755685146110&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-the-devil-wears-prada-manga-corta-print-c0p200319619.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta print tachas",
-        "imagen": "https://static.bershka.net/assets/public/a8b6/1c64/b8d640b18052/c2c030ea7749/07823360807-p/07823360807-p.jpg?ts=1754913550303&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-tachas-c0p197831036.html?colorId=807",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Camiseta Mofusand manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/a8f7/4dac/0d684033b1dd/e4141413f77c/07821167251-p/07821167251-p.jpg?ts=1756192662688&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-mofusand-manga-corta-print-c0p197381852.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top bandeau blonda",
-        "imagen": "https://static.bershka.net/assets/public/4d5b/dbfb/b5654f70b1ad/4ab46d67d689/03670662800-28-p/03670662800-28-p.jpg?ts=1750859423978&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bandeau-blonda-c0p197308452.html?colorId=800&stylismId=28",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Chaleco halter con lino",
+        "imagen": "https://static.bershka.net/assets/public/a66f/4c1e/1c9548ad90b2/4fcce0785573/08600692251-p/08600692251-p.jpg?ts=1752746828134&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-halter-con-lino-c0p195318226.html?colorId=251",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga asimétrico rayas brillo",
+        "imagen": "https://static.bershka.net/assets/public/eea1/8160/72b242cbbb15/b2bc6b480fba/00879218605-p/00879218605-p.jpg?ts=1763479373088&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trico-rayas-brillo-c0p212744469.html?colorId=605",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top halter fruncido",
-        "imagen": "https://static.bershka.net/assets/public/570b/4aff/78b242e5b57b/51e185c747b8/03665173600-p/03665173600-p.jpg?ts=1744193345997&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-fruncido-c0p196951916.html?colorId=600",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Camiseta manga larga tul brillos",
+        "imagen": "https://static.bershka.net/assets/public/ee89/fa85/6fb24d359b9b/1934716a5355/07632714462-p/07632714462-p.jpg?ts=1757338063985&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-tul-brillos-c0p199767254.html?colorId=462",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta oversize print",
-        "imagen": "https://static.bershka.net/assets/public/58ba/52e4/b96547c69b64/eeac5916ebb6/07604033250-p/07604033250-p.jpg?ts=1754555446343&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-print-c0p196513950.html?colorId=250",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Blusa textura print",
+        "imagen": "https://static.bershka.net/assets/public/4e7d/9c66/aec947cfb033/df48388e9105/06264207100-p/06264207100-p.jpg?ts=1750320347544&w=750",
+        "url_producto": "https://www.bershka.com/es/blusa-textura-print-c0p189277025.html?colorId=100",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top asimétrico estructura",
-        "imagen": "https://static.bershka.net/assets/public/6d31/1186/7b1e4a7f8c57/6dc0fd0f1c83/08890663250-p/08890663250-p.jpg?ts=1751900759219&w=750",
-        "url_producto": "https://www.bershka.com/es/top-asim%C3%A9trico-estructura-c0p189276794.html?colorId=250",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Camiseta manga corta eyelets",
+        "imagen": "https://static.bershka.net/assets/public/4499/df9a/ca7942d18e0f/8cd5a751e38c/07623173717-p/07623173717-p.jpg?ts=1754642225045&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-eyelets-c0p198552049.html?colorId=717",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top rústico fruncido",
-        "imagen": "https://static.bershka.net/assets/public/c896/9b5c/2bae480aa2a4/009011503492/03803494100-p/03803494100-p.jpg?ts=1743764545435&w=750",
-        "url_producto": "https://www.bershka.com/es/top-r%C3%BAstico-fruncido-c0p196958046.html?colorId=100",
+        "nombre": "Top halter escote drapeado efecto brillo",
+        "imagen": "https://static.bershka.net/assets/public/68be/955c/b1904fa3b61d/09c9e49edad5/08705662303-p/08705662303-p.jpg?ts=1760533107801&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-escote-drapeado-efecto-brillo-c0p199767289.html?colorId=303",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
         "descuento": "-60%",
@@ -513,83 +279,11 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes tul drapeado print strass",
-        "imagen": "https://static.bershka.net/assets/public/83fc/6437/9bdf42038470/6b8c993cdbac/08792187100-p/08792187100-p.jpg?ts=1763028864769&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-tul-drapeado-print-strass-c0p202818375.html?colorId=100",
+        "nombre": "Camisa rústica fruncida",
+        "imagen": "https://static.bershka.net/assets/public/e873/7be8/2df7411cb3cc/3d8ad38e80b1/06258494406-p/06258494406-p.jpg?ts=1748358092427&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-r%C3%BAstica-fruncida-c0p192655089.html?colorId=406",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bandeau textura volante",
-        "imagen": "https://static.bershka.net/assets/public/aa94/9613/72154054ac0f/2e95dcce30be/03801207800-p/03801207800-p.jpg?ts=1748868681617&w=750",
-        "url_producto": "https://www.bershka.com/es/top-bandeau-textura-volante-c0p196957983.html?colorId=800",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Jennie manga corta",
-        "imagen": "https://static.bershka.net/assets/public/1b5b/6503/f759410cb0ba/c33d8868a635/07595072251-p/07595072251-p.jpg?ts=1749811482828&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-jennie-manga-corta-c0p193353407.html?colorId=251",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes textura print",
-        "imagen": "https://static.bershka.net/assets/public/0a42/bf3d/97524befaf91/c78651db613a/08805692100-p/08805692100-p.jpg?ts=1749811356886&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-textura-print-c0p189486677.html?colorId=100",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes lace lazada",
-        "imagen": "https://static.bershka.net/assets/public/6e6c/d409/4bb04af28923/081f84e5e1a8/03758105250-p/03758105250-p.jpg?ts=1749021382629&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-lace-lazada-c0p189276890.html?colorId=250",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes cut-out tiras contraste",
-        "imagen": "https://static.bershka.net/assets/public/13a5/e339/911a45659738/c744c7d6fb6d/03711623712-p/03711623712-p.jpg?ts=1740387180986&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-cut-out-tiras-contraste-c0p196958236.html?colorId=712",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Frankenstein manga corta oversize print",
-        "imagen": "https://static.bershka.net/assets/public/2711/5017/f6a94a03befb/5538fc56d43f/07667033800-p/07667033800-p.jpg?ts=1763110271979&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-frankenstein-manga-corta-oversize-print-c0p203302142.html?colorId=800",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta The Devil Wears Prada manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/bd98/c883/070c4dad88f6/2a7f5daea581/07630167251-p/07630167251-p.jpg?ts=1755685146110&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-the-devil-wears-prada-manga-corta-print-c0p200319619.html?colorId=251",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes quick dry & breathable",
-        "imagen": "https://static.bershka.net/assets/public/0d2a/2f82/929a43ffbaaa/b8e15ba1940e/08695143722-p/08695143722-p.jpg?ts=1756191167327&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-quick-dry-%26-breathable-c0p192783779.html?colorId=722",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
@@ -603,29 +297,236 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta print out of core",
-        "imagen": "https://static.bershka.net/assets/public/39fb/7781/76a3471a9ee0/7850f76ca84c/07645187321-p/07645187321-p.jpg?ts=1758637410766&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-out-of-core-c0p200795807.html?colorId=321",
+        "nombre": "Camiseta Emily the Strange manga larga print",
+        "imagen": "https://static.bershka.net/assets/public/9157/8952/54744c698230/07393a437ef0/07840604251-p/07840604251-p.jpg?ts=1760599299010&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-emily-the-strange-manga-larga-print-c0p202846087.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top drapeado tirantes cadena",
+        "imagen": "https://static.bershka.net/assets/public/3a60/d85a/e8664e9db9f8/a0fe488bd8a3/08784187800-p/08784187800-p.jpg?ts=1761225119951&w=750",
+        "url_producto": "https://www.bershka.com/es/top-drapeado-tirantes-cadena-c0p199756274.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Kewpie manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/b01f/8003/699846c0a585/90c44358f3ed/07588167250-p/07588167250-p.jpg?ts=1749811576331&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-kewpie-manga-corta-print-c0p192519457.html?colorId=250",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top cuello halter trenzado",
+        "imagen": "https://static.bershka.net/assets/public/036c/d108/ecac4dd0af9a/5949df75454e/08749623529-p/08749623529-p.jpg?ts=1750081521480&w=750",
+        "url_producto": "https://www.bershka.com/es/top-cuello-halter-trenzado-c0p190425494.html?colorId=529",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Cárdigan botones",
+        "imagen": "https://static.bershka.net/assets/public/b06c/900a/22f547b0957d/5e868edbb449/07172360754-p/07172360754-p.jpg?ts=1756888813823&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-botones-c0p198552051.html?colorId=754",
+        "precio_original": "17.99€",
+        "precio_final": "8.99€",
+        "descuento": "-50%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Rilakkuma manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/dac4/5a83/69ce426491dd/2bd1e84f51d4/07837256251-p/07837256251-p.jpg?ts=1760000273683&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-rilakkuma-manga-corta-print-c0p200766634.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes volantes",
+        "imagen": "https://static.bershka.net/assets/public/6c11/7cc5/a29a43fd81c7/dca6e02b247a/08748663712-p/08748663712-p.jpg?ts=1752057513064&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-volantes-c0p189277183.html?colorId=712",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Cárdigan blonda",
+        "imagen": "https://static.bershka.net/assets/public/e933/8beb/2138420389bb/0c83ec448619/06978714406-p/06978714406-p.jpg?ts=1754558901139&w=750",
+        "url_producto": "https://www.bershka.com/es/c%C3%A1rdigan-blonda-c0p197322968.html?colorId=406",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco cuello halter",
+        "imagen": "https://static.bershka.net/assets/public/7325/d420/d5fb4750b873/8621b078e08c/08585693800-p/08585693800-p.jpg?ts=1753693312446&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-cuello-halter-c0p191567190.html?colorId=800",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga asimétrico rayas brillo",
+        "imagen": "https://static.bershka.net/assets/public/031b/7287/358c4e7592c4/2e06dc798abe/00879218802-p/00879218802-p.jpg?ts=1763479323632&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trico-rayas-brillo-c0p212744468.html?colorId=802",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes jacquard",
-        "imagen": "https://static.bershka.net/assets/public/51f9/715e/4157428ab1ad/f6f892cc0e89/08773028250-p/08773028250-p.jpg?ts=1754320670012&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-jacquard-c0p191722643.html?colorId=250",
+        "nombre": "Camisa manga campana entallada",
+        "imagen": "https://static.bershka.net/assets/public/3e69/efce/87264590a9d1/f0e7959c149e/06278692686-p/06278692686-p.jpg?ts=1767093907721&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-manga-campana-entallada-c0p203597896.html?colorId=686",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/07b1/efa5/24d4462b9852/128853690aab/07624187251-p/07624187251-p.jpg?ts=1753445421907&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-print-c0p197716859.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body halter drapeado",
+        "imagen": "https://static.bershka.net/assets/public/35bf/7ebb/a3ac4098b507/5e478db1e255/00920187829-p/00920187829-p.jpg?ts=1764233340223&w=750",
+        "url_producto": "https://www.bershka.com/es/body-halter-drapeado-c0p213313163.html?colorId=829",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta KPop Demon Hunters Huntr/x manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/44ac/9b30/07da46e9af06/23adff97f786/00877256906-p/00877256906-p.jpg?ts=1763476701983&w=750",
+        "url_producto": "https://www.bershka.com/es/x-manga-corta-print-c0p210976658.html?colorId=906",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Billie Eilish manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/425b/a0cc/26f34b49ab89/397c6350230a/02438160251-p/02438160251-p.jpg?ts=1744107781663&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-billie-eilish-manga-corta-print-c0p196957978.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter con lino",
+        "imagen": "https://static.bershka.net/assets/public/e625/2cc5/e4cf4f4d8120/4aa704796014/03805741250-p/03805741250-p.jpg?ts=1744726914859&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-con-lino-c0p196951955.html?colorId=250",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes tul drapeado print strass",
+        "imagen": "https://static.bershka.net/assets/public/83fc/6437/9bdf42038470/6b8c993cdbac/08792187100-p/08792187100-p.jpg?ts=1763028864769&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-tul-drapeado-print-strass-c0p202818375.html?colorId=100",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta print strass",
-        "imagen": "https://static.bershka.net/assets/public/b1ea/a357/1d9348f4a67a/7ccf4b846484/00853169251-03-p/00853169251-03-p.jpg?ts=1764158166200&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-strass-c0p213616305.html?colorId=251&stylismId=3",
-        "precio_original": "12.99€",
-        "precio_final": "5.19€",
+        "nombre": "Camiseta Lady Gaga manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/b7cc/7095/e67b4df79c4c/71b635cba981/07621160800-p/07621160800-p.jpg?ts=1759760660296&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-lady-gaga-manga-corta-print-c0p200672114.html?colorId=800",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camisa manga corta rústica estructura",
+        "imagen": "https://static.bershka.net/assets/public/6c8f/92ee/b2824272a5e1/5f033c32df9e/01152710742-p/01152710742-p.jpg?ts=1748953987621&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-manga-corta-r%C3%BAstica-estructura-c0p196951943.html?colorId=742",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Lady Gaga manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/609d/bad5/1a734339aa22/577fe6060133/07620160251-p/07620160251-p.jpg?ts=1759760657867&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-lady-gaga-manga-corta-print-c0p199767247.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Post Malone print",
+        "imagen": "https://static.bershka.net/assets/public/63d6/4b5d/eb09460f949a/9cc6351542df/07628160810-p/07628160810-p.jpg?ts=1754903602932&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-post-malone-print-c0p198282733.html?colorId=810",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top cremallera",
+        "imagen": "https://static.bershka.net/assets/public/157c/0b13/0afa44ba97a9/3de7fb6e75d9/08814008829-p/08814008829-p.jpg?ts=1761303142661&w=750",
+        "url_producto": "https://www.bershka.com/es/top-cremallera-c0p197716797.html?colorId=829",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camisa manga corta frunces lazada",
+        "imagen": "https://static.bershka.net/assets/public/694d/e0a5/6b2e46288164/13ed760f862b/01163494712-p/01163494712-p.jpg?ts=1748503247804&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-manga-corta-frunces-lazada-c0p196951949.html?colorId=712",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camisa pinzas entallada",
+        "imagen": "https://static.bershka.net/assets/public/3982/3c93/a6c14ff6b6bc/157a8bdab691/06265710711-p/06265710711-p.jpg?ts=1755088126572&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-pinzas-entallada-c0p190324333.html?colorId=711",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta KPop Demon Hunters Saja Boys manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/e429/7a8e/92b1492d8dfa/d73c9a0f1251/00870071902-p/00870071902-p.jpg?ts=1763466672668&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-kpop-demon-hunters-saja-boys-manga-corta-print-c0p210976664.html?colorId=902",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bordado nudo",
+        "imagen": "https://static.bershka.net/assets/public/b8a7/377e/96ef4bbfa827/e198e9d9cf4e/08778494712-p/08778494712-p.jpg?ts=1757421208916&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bordado-nudo-c0p195556775.html?colorId=712",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
@@ -639,36 +540,198 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top drapeado tirantes cadena",
-        "imagen": "https://static.bershka.net/assets/public/09e8/1812/3116413a958f/fef0a8a166e3/08784187607-p/08784187607-p.jpg?ts=1761224731802&w=750",
-        "url_producto": "https://www.bershka.com/es/top-drapeado-tirantes-cadena-c0p201972899.html?colorId=607",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter efecto piel",
-        "imagen": "https://static.bershka.net/assets/public/1076/01da/6adf4d929eca/a1803441e6a2/08786710808-p/08786710808-p.jpg?ts=1761225564696&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-efecto-piel-c0p199767244.html?colorId=808",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body manga larga",
-        "imagen": "https://static.bershka.net/assets/public/2900/ca94/07534e40bf0d/ee3eef9d8b67/08905714800-p/08905714800-p.jpg?ts=1756205129290&w=750",
-        "url_producto": "https://www.bershka.com/es/body-manga-larga-c0p197322957.html?colorId=800",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "Camiseta Billie Eilish manga corta print",
         "imagen": "https://static.bershka.net/assets/public/5e64/8550/aabf4fc4b977/8b2e9a26ee21/02430160251-p/02430160251-p.jpg?ts=1744107948251&w=750",
         "url_producto": "https://www.bershka.com/es/camiseta-billie-eilish-manga-corta-print-c0p196958209.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Blusa manga corta cropped",
+        "imagen": "https://static.bershka.net/assets/public/6c6f/92da/b6db49e1b102/24317750f8bd/08804741251-p/08804741251-p.jpg?ts=1753175818627&w=750",
+        "url_producto": "https://www.bershka.com/es/blusa-manga-corta-cropped-c0p191239083.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Blusa manga corta estructura lazadas",
+        "imagen": "https://static.bershka.net/assets/public/5267/345f/f17a4e0db1cc/9c8801eaec1d/06259105250-p/06259105250-p.jpg?ts=1752746349274&w=750",
+        "url_producto": "https://www.bershka.com/es/blusa-manga-corta-estructura-lazadas-c0p190665035.html?colorId=250",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes lace lazada",
+        "imagen": "https://static.bershka.net/assets/public/fc4b/43d9/55694398a7e3/190b24a95ca5/03758105800-p/03758105800-p.jpg?ts=1749021341461&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-lace-lazada-c0p189276889.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Monchhichi manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/4ed0/b8fc/a0bb45068f8a/0cb992fec032/07819360251-a4o/07819360251-a4o.jpg?ts=1756795227855&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-monchhichi-manga-corta-print-c0p199942360.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top rústico fruncido",
+        "imagen": "https://static.bershka.net/assets/public/c896/9b5c/2bae480aa2a4/009011503492/03803494100-p/03803494100-p.jpg?ts=1743764545435&w=750",
+        "url_producto": "https://www.bershka.com/es/top-r%C3%BAstico-fruncido-c0p196958046.html?colorId=100",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco halter con lino",
+        "imagen": "https://static.bershka.net/assets/public/52c7/fa88/b8ab4ef7a0e7/7a83c4d051ba/08600692323-p/08600692323-p.jpg?ts=1752498028439&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-halter-con-lino-c0p196353608.html?colorId=323",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco canalé lazada",
+        "imagen": "https://static.bershka.net/assets/public/992f/e7b7/d5d945889dbe/e9e6dc110d45/08586663800-p/08586663800-p.jpg?ts=1751025177360&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-canal%C3%A9-lazada-c0p191561711.html?colorId=800",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta KPop Demon Hunters Saja Boys manga corta print filtro digital",
+        "imagen": "https://static.bershka.net/assets/public/a749/7b9a/a8fd44758688/acac14052669/00979167800-p/00979167800-p.jpg?ts=1763466822527&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-kpop-demon-hunters-saja-boys-manga-corta-print-filtro-digital-c0p210976665.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta KPop Demon Hunters Huntr/x manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/313c/95ce/ad5a420e846c/0f2fe3cf844e/00877256251-p/00877256251-p.jpg?ts=1763476471843&w=750",
+        "url_producto": "https://www.bershka.com/es/x-manga-corta-print-c0p210976657.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta WNBA manga corta oversize",
+        "imagen": "https://static.bershka.net/assets/public/c5e3/70ff/7cba42699086/82c70c687866/07598173250-p/07598173250-p.jpg?ts=1753716082422&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-wnba--manga-corta-oversize-c0p200309604.html?colorId=250&stylismId=1",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Sabrina Carpenter manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/91d9/4263/cd214aa2a9de/7d1a307410bf/02427705321-p/02427705321-p.jpg?ts=1748503134255&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-sabrina-carpenter-manga-corta-print-c0p196951890.html?colorId=321",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta WNBA manga corta con filtro digital",
+        "imagen": "https://static.bershka.net/assets/public/4680/e135/56c14c618a63/563fd2f1032a/07590167251-p/07590167251-p.jpg?ts=1753716057626&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-wnba-manga-corta-con-filtro-digital-c0p194030442.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta KPop Demon Hunters Huntr/x manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/d1c0/dbdf/6673471aa830/411fc125a06f/00870071812-p/00870071812-p.jpg?ts=1763476820531&w=750",
+        "url_producto": "https://www.bershka.com/es/x-manga-corta-print-c0p210976663.html?colorId=812",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Home Alone manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/49db/d5ad/ce11458e9130/de90121dc166/07664167251-a4o/07664167251-a4o.jpg?ts=1760974095793&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-home-alone-manga-corta-oversize-print-c0p204544055.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Rilakkuma manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/5f43/c18b/b1d94b79955c/e77ebeaf9dac/07838256700-p/07838256700-p.jpg?ts=1760000279867&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-rilakkuma-manga-corta-print-c0p200766635.html?colorId=700",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter lentejuelas",
+        "imagen": "https://static.bershka.net/assets/public/d216/8150/0ef245608696/626c8baca949/08878323805-p/08878323805-p.jpg?ts=1756990708543&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-lentejuelas-c0p195184016.html?colorId=805",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter cremallera efecto piel",
+        "imagen": "https://static.bershka.net/assets/public/18eb/3069/67f6491bb90d/2bfca4a501d6/08812710700-p/08812710700-p.jpg?ts=1756287315770&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-cremallera-efecto-piel-c0p196830012.html?colorId=700",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga corta print strass",
+        "imagen": "https://static.bershka.net/assets/public/e639/f3cd/7cc645e7b19f/c02725cbc1e0/00853169200-03-p/00853169200-03-p.jpg?ts=1764158268673&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-strass-c0p213615807.html?colorId=200&stylismId=3",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/a2b8/31b9/8a564c3c904a/bb7101f30b90/07643360902-p/07643360902-p.jpg?ts=1757423112222&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-print-c0p200227994.html?colorId=902",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/89fa/48f8/22804e23bfe4/5c9142d40ff2/07643360800-p/07643360800-p.jpg?ts=1757423111687&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-print-c0p200227993.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau frunces",
+        "imagen": "https://static.bershka.net/assets/public/26e8/dbfc/5f4349879cef/889c067f80ef/08781080122-p/08781080122-p.jpg?ts=1760534937666&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-frunces-c0p197716835.html?colorId=122",
         "precio_original": "17.99€",
         "precio_final": "7.19€",
         "descuento": "-60%",
@@ -693,20 +756,128 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes encaje",
-        "imagen": "https://static.bershka.net/assets/public/117a/9fa3/6438404285f0/c6bce5165817/08688360321-p/08688360321-p.jpg?ts=1747996581923&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-encaje-c0p189276776.html?colorId=321",
+        "nombre": "Top tirantes textura print",
+        "imagen": "https://static.bershka.net/assets/public/0a42/bf3d/97524befaf91/c78651db613a/08805692100-p/08805692100-p.jpg?ts=1749811356886&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-textura-print-c0p189486677.html?colorId=100",
         "precio_original": "17.99€",
         "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta cuello redondo",
-        "imagen": "https://static.bershka.net/assets/public/8cf7/64bd/490440fa8e88/891827091955/02666031300-p/02666031300-p.jpg?ts=1751963130741&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p196951738.html?colorId=300",
-        "precio_original": "5.99€",
-        "precio_final": "2.39€",
+        "nombre": "Camiseta manga larga botones",
+        "imagen": "https://static.bershka.net/assets/public/aa12/2aca/ed7f40f883a7/165afdbce8e0/06969727800-p/06969727800-p.jpg?ts=1756279389289&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-botones-c0p197322980.html?colorId=800",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta sin mangas lazada",
+        "imagen": "https://static.bershka.net/assets/public/d412/6b41/45734f27bc54/1e9efed126c4/07735360902-p/07735360902-p.jpg?ts=1752738992648&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-sin-mangas-lazada-c0p195987781.html?colorId=902",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top cuello halter trenzado",
+        "imagen": "https://static.bershka.net/assets/public/252a/b4c5/a57f43b889ac/708f9ffffa48/08749623800-p1/08749623800-p1.jpg?ts=1754383437138&w=750",
+        "url_producto": "https://www.bershka.com/es/top-cuello-halter-trenzado-c0p190425493.html?colorId=800",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes cut-out tiras contraste",
+        "imagen": "https://static.bershka.net/assets/public/13a5/e339/911a45659738/c744c7d6fb6d/03711623712-p/03711623712-p.jpg?ts=1740387180986&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-cut-out-tiras-contraste-c0p196958236.html?colorId=712",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camisa manga campana entallada",
+        "imagen": "https://static.bershka.net/assets/public/60e8/f644/62eb44f58610/68c62e42cff8/06278692717-01-p/06278692717-01-p.jpg?ts=1760017312880&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-manga-campana-entallada-c0p205025515.html?colorId=717&stylismId=1",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top WNBA tirantes lazada",
+        "imagen": "https://static.bershka.net/assets/public/a77a/1b31/73b44d8e9df4/9ff664de64b4/08746686400-p/08746686400-p.jpg?ts=1753716420746&w=750",
+        "url_producto": "https://www.bershka.com/es/top-wnba-tirantes-lazada-c0p189276680.html?colorId=400",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes hilo metalizado",
+        "imagen": "https://static.bershka.net/assets/public/de9a/bf52/d7074ebc87f9/c0a6c0c02253/08903326906-p/08903326906-p.jpg?ts=1760443495171&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-hilo-metalizado-c0p202892607.html?colorId=906",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Lia Kali manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/a2d6/634d/9f8d4d13aa51/af229f0cad64/07668187800-p/07668187800-p.jpg?ts=1761120631524&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-lia-kali-manga-corta-oversize-print-c0p202930644.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Lisa manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/7ca6/c962/d5794014bf60/c2c26241a6ed/07633193251-p/07633193251-p.jpg?ts=1755680525956&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-lisa-manga-corta-print-c0p200319617.html?colorId=251",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau textura volante",
+        "imagen": "https://static.bershka.net/assets/public/aa94/9613/72154054ac0f/2e95dcce30be/03801207800-p/03801207800-p.jpg?ts=1748868681617&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-textura-volante-c0p196957983.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter con lino",
+        "imagen": "https://static.bershka.net/assets/public/365f/bbcc/a78b43e18522/beee2df4b393/03805692300-p/03805692300-p.jpg?ts=1747904446012&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-con-lino-c0p196951954.html?colorId=300",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camisa manga corta frunces lazada",
+        "imagen": "https://static.bershka.net/assets/public/bfa7/0d19/8d3746b69a0b/8996f475f126/01163494122-p/01163494122-p.jpg?ts=1747051354779&w=750",
+        "url_producto": "https://www.bershka.com/es/camisa-manga-corta-frunces-lazada-c0p196951948.html?colorId=122",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Billie Eilish manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/6796/03df/c4a449ba8d41/77c7e9f02d7e/02431160800-p/02431160800-p.jpg?ts=1744296498758&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-billie-eilish-manga-corta-print-c0p196951795.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
@@ -720,110 +891,47 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top asimétrico anilla strass",
-        "imagen": "https://static.bershka.net/assets/public/8c9f/0b37/ead74215ae51/c333e431fd0e/08783360712-p/08783360712-p.jpg?ts=1757427908676&w=750",
-        "url_producto": "https://www.bershka.com/es/top-asim%C3%A9trico-anilla-strass-c0p199767282.html?colorId=712",
+        "nombre": "Camiseta manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/b021/abc0/ac6842d3881c/f13bf492f283/07640360251-p/07640360251-p.jpg?ts=1757344824936&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-c0p200227980.html?colorId=251",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top calados",
-        "imagen": "https://static.bershka.net/assets/public/0f2c/aa15/59f741a3a327/c9a0159ee7cd/08745623250-p/08745623250-p.jpg?ts=1751901156068&w=750",
-        "url_producto": "https://www.bershka.com/es/top-calados-c0p189276691.html?colorId=250",
+        "nombre": "Top halter rib",
+        "imagen": "https://static.bershka.net/assets/public/e90d/84f9/e5044da7b29e/db365052b32e/08751693802-p/08751693802-p.jpg?ts=1756969630909&w=750",
+        "url_producto": "https://www.bershka.com/es/top-halter-rib-c0p191727947.html?colorId=802",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta básica",
-        "imagen": "https://static.bershka.net/assets/public/248a/f201/25eb4475bed7/80dfe8f97f05/02377443800-p/02377443800-p.jpg?ts=1766482678725&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-b%C3%A1sica-c0p196958067.html?colorId=800",
-        "precio_original": "9.99€",
-        "precio_final": "3.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta sin mangas rib",
-        "imagen": "https://static.bershka.net/assets/public/35d4/224d/1c4b4525b0d3/a65b17e34c8c/02338152300-p/02338152300-p.jpg?ts=1738145103615&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-sin-mangas-rib-c0p196951810.html?colorId=300",
-        "precio_original": "5.99€",
-        "precio_final": "2.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco cuello halter",
-        "imagen": "https://static.bershka.net/assets/public/7325/d420/d5fb4750b873/8621b078e08c/08585693800-p/08585693800-p.jpg?ts=1753693312446&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-cuello-halter-c0p191567190.html?colorId=800",
-        "precio_original": "19.99€",
-        "precio_final": "11.99€",
-        "descuento": "-40%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes",
-        "imagen": "https://static.bershka.net/assets/public/6690/cbb7/b80b4b518d95/13405bdd4d08/03660662800-p/03660662800-p.jpg?ts=1739356974178&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-c0p197299844.html?colorId=800&stylismId=9",
-        "precio_original": "8.99€",
-        "precio_final": "3.59€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Madagascar manga corta",
-        "imagen": "https://static.bershka.net/assets/public/443d/4a5d/410f4e6c8e5b/b4dca2dfda04/07831071251-03-p/07831071251-03-p.jpg?ts=1756801233886&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-madagascar-manga-corta-c0p202797931.html?colorId=251&stylismId=1",
+        "nombre": "Camiseta manga corta print strass",
+        "imagen": "https://static.bershka.net/assets/public/b1ea/a357/1d9348f4a67a/7ccf4b846484/00853169251-03-p/00853169251-03-p.jpg?ts=1764158166200&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-print-strass-c0p213616305.html?colorId=251&stylismId=3",
         "precio_original": "12.99€",
         "precio_final": "5.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes pointelle print",
-        "imagen": "https://static.bershka.net/assets/public/f4a4/7543/e9bd450cb715/3a3716efba27/08900326712-p/08900326712-p.jpg?ts=1752746713329&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-pointelle-print-c0p197246000.html?colorId=712",
+        "nombre": "Camiseta manga corta tachas",
+        "imagen": "https://static.bershka.net/assets/public/72a0/7ad5/d485474899a5/67a701bbf037/07816187427-p/07816187427-p.jpg?ts=1752067272147&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-tachas-c0p196513946.html?colorId=427",
         "precio_original": "12.99€",
         "precio_final": "5.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top cropped collar",
-        "imagen": "https://static.bershka.net/assets/public/e6a6/4443/c9704dc7bed3/595df42fa68e/08768187507-28-p/08768187507-28-p.jpg?ts=1751382877549&w=750",
-        "url_producto": "https://www.bershka.com/es/top-cropped-collar-c0p197309088.html?colorId=507&stylismId=28",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter lentejuelas",
-        "imagen": "https://static.bershka.net/assets/public/d216/8150/0ef245608696/626c8baca949/08878323805-p/08878323805-p.jpg?ts=1756990708543&w=750",
-        "url_producto": "https://www.bershka.com/es/top-halter-lentejuelas-c0p195184016.html?colorId=805",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes rústico tachas",
-        "imagen": "https://static.bershka.net/assets/public/bcf0/625b/307e4997b613/fe885e430e1a/08809323122-p/08809323122-p.jpg?ts=1753175886947&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-r%C3%BAstico-tachas-c0p194822935.html?colorId=122",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta KPop Demon Hunters Saja Boys manga corta print filtro digital",
-        "imagen": "https://static.bershka.net/assets/public/a749/7b9a/a8fd44758688/acac14052669/00979167800-p/00979167800-p.jpg?ts=1763466822527&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-kpop-demon-hunters-saja-boys-manga-corta-print-filtro-digital-c0p210976665.html?colorId=800",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
+        "nombre": "Camiseta tul asimétrica",
+        "imagen": "https://static.bershka.net/assets/public/d479/9a36/d56c49c39ecd/f29e52882268/00934169800-p/00934169800-p.jpg?ts=1763560968089&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-tul-asim%C3%A9trica-c0p213313164.html?colorId=800",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
@@ -837,92 +945,209 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top volantes tul print",
-        "imagen": "https://static.bershka.net/assets/public/d8c4/84a1/7da24927889f/76b203e688f8/08780360100-p/08780360100-p.jpg?ts=1754310958981&w=750",
-        "url_producto": "https://www.bershka.com/es/top-volantes-tul-print-c0p195710380.html?colorId=100",
+        "nombre": "Camiseta NTS Ela Minus glow in the dark manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/5ad7/7fbf/034a46c588a3/88b2c2d1f13d/07666033810-p/07666033810-p.jpg?ts=1763110209176&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-nts-ela-minus-glow-in-the-dark-manga-corta-oversize-print-c0p207374392.html?colorId=810&stylismId=1",
         "precio_original": "17.99€",
         "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta WNBA manga corta con filtro digital",
-        "imagen": "https://static.bershka.net/assets/public/4680/e135/56c14c618a63/563fd2f1032a/07590167251-p/07590167251-p.jpg?ts=1753716057626&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-wnba-manga-corta-con-filtro-digital-c0p194030442.html?colorId=251",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta WNBA manga corta oversize",
-        "imagen": "https://static.bershka.net/assets/public/c5e3/70ff/7cba42699086/82c70c687866/07598173250-p/07598173250-p.jpg?ts=1753716082422&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-wnba--manga-corta-oversize-c0p193877410.html?colorId=250",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Sabrina Carpenter manga corta",
-        "imagen": "https://static.bershka.net/assets/public/2b77/146d/52c0456598da/43e3841f898c/07587705250-p/07587705250-p.jpg?ts=1748444145861&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-sabrina-carpenter-manga-corta-c0p192516517.html?colorId=250",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Blusa manga corta estructura lazadas",
-        "imagen": "https://static.bershka.net/assets/public/5267/345f/f17a4e0db1cc/9c8801eaec1d/06259105250-p/06259105250-p.jpg?ts=1752746349274&w=750",
-        "url_producto": "https://www.bershka.com/es/blusa-manga-corta-estructura-lazadas-c0p190665035.html?colorId=250",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta KPop Demon Hunters Saja Boys manga corta print",
-        "imagen": "https://static.bershka.net/assets/public/e429/7a8e/92b1492d8dfa/d73c9a0f1251/00870071902-p/00870071902-p.jpg?ts=1763466672668&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-kpop-demon-hunters-saja-boys-manga-corta-print-c0p210976664.html?colorId=902",
+        "nombre": "Camiseta manga larga asimétrica tul",
+        "imagen": "https://static.bershka.net/assets/public/4f74/b2d3/e7d74dcb82ad/1845946a7d51/07651173700-28-p/07651173700-28-p.jpg?ts=1761747611283&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trica-tul-c0p206080475.html?colorId=700&stylismId=28",
         "precio_original": "15.99€",
         "precio_final": "6.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes rústico bandeau",
-        "imagen": "https://static.bershka.net/assets/public/f3d6/d150/1b2b42cfb269/d54a4073a9d9/08693218500-p/08693218500-p.jpg?ts=1749557246445&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-r%C3%BAstico-bandeau-c0p192519475.html?colorId=500",
+        "nombre": "Camiseta manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/65cb/a379/6ae340bc950f/df6670c53280/07659187200-28-p/07659187200-28-p.jpg?ts=1761297499077&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-print-c0p206080224.html?colorId=200&stylismId=28",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga blonda nudo",
+        "imagen": "https://static.bershka.net/assets/public/2a81/773d/8c004dd4b30d/4cea00883757/07654360401-p/07654360401-p.jpg?ts=1759222565825&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-blonda-nudo-c0p205024952.html?colorId=401&stylismId=1",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga asimétrica frunce",
+        "imagen": "https://static.bershka.net/assets/public/c7c6/ea63/1fd9494eb742/b297f7f6a63c/07845173712-p/07845173712-p.jpg?ts=1761056272068&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trica-frunce-c0p203207906.html?colorId=712",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau pañuelo",
+        "imagen": "https://static.bershka.net/assets/public/9385/de71/86e74227aff5/1233fabe9045/08702326060-p/08702326060-p.jpg?ts=1760616681126&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-pa%C3%B1uelo-c0p202812586.html?colorId=060",
         "precio_original": "12.99€",
         "precio_final": "5.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top Kewpie tirantes print",
-        "imagen": "https://static.bershka.net/assets/public/b966/db09/1b8d4b899ba7/d53e8fecd8d1/08886167401-p/08886167401-p.jpg?ts=1749811451291&w=750",
-        "url_producto": "https://www.bershka.com/es/top-kewpie-tirantes-print-c0p192519458.html?colorId=401",
+        "nombre": "Camiseta manga larga botones",
+        "imagen": "https://static.bershka.net/assets/public/557e/b6a3/e3d24923b95a/c25df406a197/06969727422-28-p/06969727422-28-p.jpg?ts=1758106800184&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-botones-c0p202797788.html?colorId=422&stylismId=28",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga pañuelo",
+        "imagen": "https://static.bershka.net/assets/public/1f1d/759d/66e04b1d9070/fce792e85d16/07656326610-p/07656326610-p.jpg?ts=1760535790932&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-pa%C3%B1uelo-c0p202483905.html?colorId=610",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga corta oversize print",
+        "imagen": "https://static.bershka.net/assets/public/098f/e517/3a2046d692c7/1f835a1fcd69/07644187712-p/07644187712-p.jpg?ts=1762167278167&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-oversize-print-c0p200795805.html?colorId=712",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Black Pink manga corta",
+        "imagen": "https://static.bershka.net/assets/public/937f/4268/72304beb91ef/18b00dab7b41/07637705800-p/07637705800-p.jpg?ts=1756199597217&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-black-pink-manga-corta-c0p200737559.html?colorId=800",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta WNBA sin mangas asimétrica",
+        "imagen": "https://static.bershka.net/assets/public/1c4d/6832/62f647189713/601e7f207c61/07605360812-p/07605360812-p.jpg?ts=1753716548765&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-wnba-sin-mangas-asim%C3%A9trica-c0p200309608.html?colorId=812&stylismId=2",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body WNBA tirantes",
+        "imagen": "https://static.bershka.net/assets/public/eb67/d794/84d644858707/4107994a483b/08915173800-p/08915173800-p.jpg?ts=1753716384699&w=750",
+        "url_producto": "https://www.bershka.com/es/body-wnba-tirantes-c0p200309607.html?colorId=800&stylismId=2",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes cropped bordado",
+        "imagen": "https://static.bershka.net/assets/public/d9c7/0e81/09e041278823/17a6453b9c7c/08774404142-p/08774404142-p.jpg?ts=1752568818615&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-cropped-bordado-c0p199105157.html?colorId=142&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes encaje",
+        "imagen": "https://static.bershka.net/assets/public/a133/91b2/45a74d738896/8a0ab1c09189/0868836025111-p/0868836025111-p.jpg?ts=1749135367492&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-encaje-c0p197308189.html?colorId=251&stylismId=11",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau crepé bajo asimétrico",
+        "imagen": "https://static.bershka.net/assets/public/73be/9494/1f58432a8e40/a5be138d856a/03673189800-p/03673189800-p.jpg?ts=1739867265091&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-crep%C3%A9-bajo-asim%C3%A9trico-c0p196958154.html?colorId=800",
         "precio_original": "12.99€",
         "precio_final": "5.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes cut-out",
-        "imagen": "https://static.bershka.net/assets/public/7f32/df1e/aadb468fba22/4f1ccfea7be2/08743645800-p/08743645800-p.jpg?ts=1752759477992&w=750",
-        "url_producto": "https://www.bershka.com/es/top-tirantes-cut-out-c0p189276792.html?colorId=800",
+        "nombre": "Top bandeau crepé bajo asimétrico",
+        "imagen": "https://static.bershka.net/assets/public/c47b/003f/c34a43aa80ea/45e1028dc163/03673189700-p/03673189700-p.jpg?ts=1739867244602&w=750",
+        "url_producto": "https://www.bershka.com/es/top-bandeau-crep%C3%A9-bajo-asim%C3%A9trico-c0p196958153.html?colorId=700",
         "precio_original": "12.99€",
         "precio_final": "5.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga corta contraste print",
-        "imagen": "https://static.bershka.net/assets/public/21df/31de/503942f0932c/333fdb9935b8/02705443251-p/02705443251-p.jpg?ts=1752591531139&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-contraste-print-c0p196952010.html?colorId=251",
-        "precio_original": "9.99€",
-        "precio_final": "3.99€",
+        "nombre": "Camiseta Cars manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/bdae/fe9b/f5654b9c9563/03c64b70bccc/02707033251-p/02707033251-p.jpg?ts=1743675143669&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-cars-manga-corta-print-c0p196951855.html?colorId=251",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes lace lazada",
+        "imagen": "https://static.bershka.net/assets/public/6e6c/d409/4bb04af28923/081f84e5e1a8/03758105250-p/03758105250-p.jpg?ts=1749021382629&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-lace-lazada-c0p196918362.html?colorId=250&stylismId=1",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes blonda",
+        "imagen": "https://static.bershka.net/assets/public/e4d8/0210/1e084b30ba74/4181df53330e/08766692122-p/08766692122-p.jpg?ts=1752739015462&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-blonda-c0p193353404.html?colorId=122",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Blusa manga corta estructura lazadas",
+        "imagen": "https://static.bershka.net/assets/public/a4f5/24a0/30054d4d8161/b77d782cb474/06259105621-p/06259105621-p.jpg?ts=1752496277666&w=750",
+        "url_producto": "https://www.bershka.com/es/blusa-manga-corta-estructura-lazadas-c0p192155816.html?colorId=621",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes volantes",
+        "imagen": "https://static.bershka.net/assets/public/dbce/21af/1597427fadc0/e89483e475d0/08807008100-p/08807008100-p.jpg?ts=1753802132523&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-volantes-c0p192004824.html?colorId=100",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes blonda",
+        "imagen": "https://static.bershka.net/assets/public/4308/fbfe/3ded4095ae49/08cccd61886f/08766692800-p/08766692800-p.jpg?ts=1752742362279&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-blonda-c0p189558400.html?colorId=800",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes blonda",
+        "imagen": "https://static.bershka.net/assets/public/6ec5/61b2/dccc406fadbd/936c38c2d336/08766692712-p/08766692712-p.jpg?ts=1752742231474&w=750",
+        "url_producto": "https://www.bershka.com/es/top-tirantes-blonda-c0p189558399.html?colorId=712",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     }

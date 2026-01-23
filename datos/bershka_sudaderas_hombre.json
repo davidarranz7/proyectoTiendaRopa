@@ -1,46 +1,82 @@
 [
     {
-        "nombre": "Sudadera cremallera boxy crop",
-        "imagen": "https://static.bershka.net/assets/public/97ae/adf9/205146e0ab6e/ce613df18bde/07045732600-p/07045732600-p.jpg?ts=1763644534487&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-crop-c0p202411693.html?colorId=600",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
+        "nombre": "Jersey cuello polo",
+        "imagen": "https://static.bershka.net/assets/public/6518/5d78/d3c54365b30c/f2df29d92fb6/07332376406-p/07332376406-p.jpg?ts=1760444967409&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-c0p198034877.html?colorId=406",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Jersey punto perlado con lana",
-        "imagen": "https://static.bershka.net/assets/public/3101/dc5d/67054a8fbc26/8cc5dc9ce61f/07318623300-p/07318623300-p.jpg?ts=1754908824902&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-punto-perlado-con-lana-c0p193776707.html?colorId=300",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Jersey print",
-        "imagen": "https://static.bershka.net/assets/public/bb27/3e8e/96e241af868e/97255245f84a/07336376629-p/07336376629-p.jpg?ts=1761812966198&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-print-c0p198552054.html?colorId=629",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha print",
-        "imagen": "https://static.bershka.net/assets/public/aa0f/9088/d5c249039644/044a4f0c726b/07412498800-p/07412498800-p.jpg?ts=1765383715544&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p210976617.html?colorId=800",
+        "nombre": "Sudadera cuello cremallera print",
+        "imagen": "https://static.bershka.net/assets/public/8bc4/33ba/1de04213a451/40906c647c49/07388112500-p/07388112500-p.jpg?ts=1756715529267&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cuello-cremallera-print-c0p197459671.html?colorId=500",
         "precio_original": "27.99€",
         "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera boxy capucha print",
-        "imagen": "https://static.bershka.net/assets/public/40c7/b555/31694f6b81b2/8b9c38c03566/07370498500-a4o/07370498500-a4o.jpg?ts=1764779144064&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-print-c0p205222884.html?colorId=500",
-        "precio_original": "22.99€",
-        "precio_final": "13.79€",
+        "nombre": "Polo felpa print",
+        "imagen": "https://static.bershka.net/assets/public/c288/e934/2fbf496fa84d/9d169e76e1e8/06867094409-p/06867094409-p.jpg?ts=1764250004495&w=750",
+        "url_producto": "https://www.bershka.com/es/polo-felpa-print-c0p202411694.html?colorId=409",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey efecto cepillado print",
+        "imagen": "https://static.bershka.net/assets/public/391d/7c6a/bfbb497f9eec/f80b9e0320b1/07342376802-p/07342376802-p.jpg?ts=1763637740073&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-print-c0p200458827.html?colorId=802",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey efecto cepillado",
+        "imagen": "https://static.bershka.net/assets/public/251b/1ac8/d3be4985855a/252081842cd4/07333376710-p/07333376710-p.jpg?ts=1761812934278&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-c0p198409433.html?colorId=710",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey cuello cremallera",
+        "imagen": "https://static.bershka.net/assets/public/cef4/3b82/30b348d7ad1c/49f2a4612f88/07352686802-p/07352686802-p.jpg?ts=1768565658387&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-cremallera-c0p214475321.html?colorId=802",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cuello cremallera print",
+        "imagen": "https://static.bershka.net/assets/public/c8f9/fee7/45c544c7b07e/5c8c9169058e/07388112251-p/07388112251-p.jpg?ts=1756715527476&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cuello-cremallera-print-c0p197459672.html?colorId=251",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera paño",
+        "imagen": "https://static.bershka.net/assets/public/2f51/152e/5a4b41139542/da5dafbb4efe/07380741812-p/07380741812-p.jpg?ts=1760693751129&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-pa%C3%B1o-c0p197716848.html?colorId=812",
+        "precio_original": "39.99€",
+        "precio_final": "23.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey efecto cepillado",
+        "imagen": "https://static.bershka.net/assets/public/8a7c/3a13/d25345858be0/6a54a6629040/07333376401-p/07333376401-p.jpg?ts=1761831047167&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-c0p198409432.html?colorId=401",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
@@ -54,29 +90,47 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera cremallera waffle",
-        "imagen": "https://static.bershka.net/assets/public/c655/046a/064c4ba89b09/50df2e8d74df/07049741800-p/07049741800-p.jpg?ts=1759845925358&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-waffle-c0p197716849.html?colorId=800",
-        "precio_original": "35.99€",
-        "precio_final": "21.59€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Polo felpa rayas",
-        "imagen": "https://static.bershka.net/assets/public/1b20/ba36/bc8849238cda/59b42e99e486/07400112409-p/07400112409-p.jpg?ts=1757931435695&w=750",
-        "url_producto": "https://www.bershka.com/es/polo-felpa-rayas-c0p199767252.html?colorId=409",
+        "nombre": "Jersey efecto cepillado",
+        "imagen": "https://static.bershka.net/assets/public/b8f9/f47e/6a7944eea2ca/dd310d47734d/07333376829-p/07333376829-p.jpg?ts=1761731690532&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-c0p200319621.html?colorId=829",
         "precio_original": "29.99€",
         "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Chaqueta cremallera bordado",
-        "imagen": "https://static.bershka.net/assets/public/b82d/5007/56784053a653/9f3d18c742b5/07040623700-p/07040623700-p.jpg?ts=1761732062916&w=750",
-        "url_producto": "https://www.bershka.com/es/chaqueta-cremallera-bordado-c0p191989454.html?colorId=700",
+        "nombre": "Jersey print",
+        "imagen": "https://static.bershka.net/assets/public/e423/f058/da9c4e71bc0d/6b42357264b7/00924376201-p/00924376201-p.jpg?ts=1764665123325&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-print-c0p210976609.html?colorId=201",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha bordado",
+        "imagen": "https://static.bershka.net/assets/public/8159/6653/599c498bb71a/d12fb09e69de/07425732428-p/07425732428-p.jpg?ts=1765383715380&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-bordado-c0p210976607.html?colorId=428",
         "precio_original": "35.99€",
         "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera Disney cropped print",
+        "imagen": "https://static.bershka.net/assets/public/95d0/f13d/2cc9474fabe0/35198b3562cf/07403732812-p/07403732812-p.jpg?ts=1762355655872&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-disney-cropped-print-c0p199767311.html?colorId=812",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Polo manga larga boxy rayas",
+        "imagen": "https://static.bershka.net/assets/public/2c29/a08c/021f4f0aba1a/534c361bced1/08562190500-p/08562190500-p.jpg?ts=1755179536604&w=750",
+        "url_producto": "https://www.bershka.com/es/polo-manga-larga-boxy-rayas-c0p194827136.html?colorId=500",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
@@ -90,47 +144,65 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera cremallera cropped print",
-        "imagen": "https://static.bershka.net/assets/public/ad95/a944/09594ac0a4b2/e3b2941aea7f/06869003654-p/06869003654-p.jpg?ts=1763050234432&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-cropped-print-c0p201535567.html?colorId=654",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera print efecto lavado",
-        "imagen": "https://static.bershka.net/assets/public/e3c0/7a32/ff5a478ea7a0/7936a1d00f4d/07373732527-p/07373732527-p.jpg?ts=1753973785021&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-print-efecto-lavado-c0p193200755.html?colorId=527",
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/aa0f/9088/d5c249039644/044a4f0c726b/07412498800-p/07412498800-p.jpg?ts=1765383715544&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p210976617.html?colorId=800",
         "precio_original": "27.99€",
         "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Cazadora Ecko Unltd",
-        "imagen": "https://static.bershka.net/assets/public/2e23/8121/eb744ceca8d2/86a469f4fd1f/07322663600-a4o/07322663600-a4o.jpg?ts=1762953032917&w=750",
-        "url_producto": "https://www.bershka.com/es/cazadora-ecko-unltd-c0p195862274.html?colorId=600",
-        "precio_original": "45.99€",
-        "precio_final": "27.59€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Jersey cuello polo print",
-        "imagen": "https://static.bershka.net/assets/public/5ae2/758e/e9f8429aa644/6eda4eeccc2b/07326693401-p/07326693401-p.jpg?ts=1758805759199&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-print-c0p197659262.html?colorId=401",
+        "nombre": "Cazadora cropped capucha print",
+        "imagen": "https://static.bershka.net/assets/public/6123/ca6f/e0944cf98301/cf7bf7d25076/00814003210-p/00814003210-p.jpg?ts=1765296203890&w=750",
+        "url_producto": "https://www.bershka.com/es/cazadora-cropped-capucha-print-c0p210976625.html?colorId=210",
         "precio_original": "35.99€",
         "precio_final": "21.59€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera cremallera boxy cropped",
-        "imagen": "https://static.bershka.net/assets/public/0018/d19d/c2fd42b090ae/6c992ed61b31/07051732428-p/07051732428-p.jpg?ts=1757921904826&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-cropped-c0p197659249.html?colorId=428",
-        "precio_original": "35.99€",
-        "precio_final": "21.59€",
+        "nombre": "Sudadera cremallera print",
+        "imagen": "https://static.bershka.net/assets/public/c37b/a677/5c48481c997f/35ada4bb24dc/07044190710-p/07044190710-p.jpg?ts=1753884008837&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-print-c0p193056319.html?colorId=710",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa",
+        "imagen": "https://static.bershka.net/assets/public/b71e/9e71/e0eb4cfa86bf/0133b0f18c3c/02807190594-p/02807190594-p.jpg?ts=1740496319747&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p196946469.html?colorId=594",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/9adc/50a5/9c8840cbb99b/589275388261/07405732251-p/07405732251-p.jpg?ts=1762427846153&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p199608186.html?colorId=251",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Chaleco efecto lavado",
+        "imagen": "https://static.bershka.net/assets/public/eb41/ad8b/efee49c3887b/474c7cec030a/08631715400-p/08631715400-p.jpg?ts=1751527757342&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-efecto-lavado-c0p189277154.html?colorId=400",
+        "precio_original": "19.99€",
+        "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cuello cremallera print",
+        "imagen": "https://static.bershka.net/assets/public/1bd1/5f79/32ac4980b3f1/703c66e98bca/07410732251-p/07410732251-p.jpg?ts=1763638135376&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cuello-cremallera-print-c0p201096327.html?colorId=251",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
@@ -138,24 +210,6 @@
         "nombre": "Sudadera cuello cremallera print",
         "imagen": "https://static.bershka.net/assets/public/b672/46c3/b6b24e51b6c1/85c7ca28a9d5/07410732717-p/07410732717-p.jpg?ts=1763638135262&w=750",
         "url_producto": "https://www.bershka.com/es/sudadera-cuello-cremallera-print-c0p201096326.html?colorId=717",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera print",
-        "imagen": "https://static.bershka.net/assets/public/240e/ae7b/14064969a612/8ed3329c5885/07387094485-p/07387094485-p.jpg?ts=1757345110123&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-print-c0p197622280.html?colorId=485",
-        "precio_original": "25.99€",
-        "precio_final": "15.59€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Jersey efecto cepillado print",
-        "imagen": "https://static.bershka.net/assets/public/391d/7c6a/bfbb497f9eec/f80b9e0320b1/07342376802-p/07342376802-p.jpg?ts=1763637740073&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-print-c0p200458827.html?colorId=802",
         "precio_original": "29.99€",
         "precio_final": "17.99€",
         "descuento": "-40%",
@@ -171,99 +225,99 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Polo felpa print",
-        "imagen": "https://static.bershka.net/assets/public/c288/e934/2fbf496fa84d/9d169e76e1e8/06867094409-p/06867094409-p.jpg?ts=1764250004495&w=750",
-        "url_producto": "https://www.bershka.com/es/polo-felpa-print-c0p202411694.html?colorId=409",
+        "nombre": "Jersey print",
+        "imagen": "https://static.bershka.net/assets/public/07ef/3d3b/523e4b4bb8b5/71655fbf649b/07327376251-p/07327376251-p.jpg?ts=1757319425800&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-print-c0p197329933.html?colorId=251",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/762c/d104/437843d8b9d9/d7ebb4d29965/07394696250-p/07394696250-p.jpg?ts=1756886720501&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p199125546.html?colorId=250",
         "precio_original": "27.99€",
         "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera oversize print",
-        "imagen": "https://static.bershka.net/assets/public/a7d7/6ad0/44d047a4bfe4/b2940b16484d/07399732717-p/07399732717-p.jpg?ts=1761812218989&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-oversize-print-c0p198656628.html?colorId=717",
-        "precio_original": "25.99€",
-        "precio_final": "15.59€",
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/085c/9432/827f4e0abd1d/127c7e34bf0e/07386696251-p/07386696251-p.jpg?ts=1754909129825&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p195184027.html?colorId=251",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Camiseta manga corta felpa",
-        "imagen": "https://static.bershka.net/assets/public/b71e/9e71/e0eb4cfa86bf/0133b0f18c3c/02807190594-p/02807190594-p.jpg?ts=1740496319747&w=750",
-        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p196946469.html?colorId=594",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha print bordado",
-        "imagen": "https://static.bershka.net/assets/public/6cbf/2f31/78974c8e864b/00aa1f02163d/07393478712-p/07393478712-p.jpg?ts=1760624844090&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-bordado-c0p197659256.html?colorId=712",
+        "nombre": "Jersey Donald Duck jacquard",
+        "imagen": "https://static.bershka.net/assets/public/8b05/a6f4/c73d43e7a1ff/4bb3bc8fb434/07341596251-p/07341596251-p.jpg?ts=1762355659827&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-donald-duck-jacquard-c0p200396059.html?colorId=251",
         "precio_original": "39.99€",
         "precio_final": "23.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Jersey cuello polo",
-        "imagen": "https://static.bershka.net/assets/public/1193/c567/d7ea4150ac47/64959e3f0348/07332376711-p/07332376711-p.jpg?ts=1760444933564&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-c0p198034874.html?colorId=711",
-        "precio_original": "25.99€",
-        "precio_final": "15.59€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera cremallera Disney cropped print",
-        "imagen": "https://static.bershka.net/assets/public/95d0/f13d/2cc9474fabe0/35198b3562cf/07403732812-p/07403732812-p.jpg?ts=1762355655872&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-disney-cropped-print-c0p199767311.html?colorId=812",
+        "nombre": "Jersey efecto cepillado multicolor",
+        "imagen": "https://static.bershka.net/assets/public/be19/a434/4c1e42d3a1ce/e0299579f889/07344693507-p/07344693507-p.jpg?ts=1763632449167&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-multicolor-c0p200458828.html?colorId=507",
         "precio_original": "35.99€",
         "precio_final": "21.59€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Chaleco Demon Slayer",
-        "imagen": "https://static.bershka.net/assets/public/bfb9/0fde/2d2944aeaac6/1e8393f2b592/03621455800-a4o/03621455800-a4o.jpg?ts=1753706742975&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-demon-slayer-c0p189277046.html?colorId=800",
+        "nombre": "Jersey print",
+        "imagen": "https://static.bershka.net/assets/public/87e9/e1e1/96754d6bb556/72072b766b02/07334686711-p/07334686711-p.jpg?ts=1761729146878&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-print-c0p199023279.html?colorId=711",
         "precio_original": "35.99€",
         "precio_final": "21.59€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Jersey cropped jacquard",
-        "imagen": "https://static.bershka.net/assets/public/3b1b/51d7/40064403a896/48a1e101e690/07325596802-a3o/07325596802-a3o.jpg?ts=1756713871670&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-cropped-jacquard-c0p196379421.html?colorId=802",
+        "nombre": "Jersey cuello cremallera",
+        "imagen": "https://static.bershka.net/assets/public/50af/3e8d/e7ff48e096a5/f1c59f4d8c5d/07352686710-p/07352686710-p.jpg?ts=1764777024325&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-cremallera-c0p214475320.html?colorId=710",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey print",
+        "imagen": "https://static.bershka.net/assets/public/5cc5/4376/bd654fbb9202/46c5c3ced39b/07343663251-p/07343663251-p.jpg?ts=1763567468851&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-print-c0p200396055.html?colorId=251",
         "precio_original": "29.99€",
         "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera cremallera piqué efecto lavado",
-        "imagen": "https://static.bershka.net/assets/public/2709/c304/bdf04402909f/3b8e2e175aac/07042498806-p/07042498806-p.jpg?ts=1752135190246&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-piqu%C3%A9-efecto-lavado-c0p189276973.html?colorId=806",
+        "nombre": "Jersey punto perlado con lana",
+        "imagen": "https://static.bershka.net/assets/public/0ca4/6d00/b0114887ace7/c17485a1950f/07318623251-p/07318623251-p.jpg?ts=1756740018992&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-punto-perlado-con-lana-c0p193776709.html?colorId=251",
         "precio_original": "29.99€",
         "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Chaleco efecto lavado",
-        "imagen": "https://static.bershka.net/assets/public/a3f5/5cbc/fe2f4812861e/4f8baa223381/08631715400-13-p/08631715400-13-p.jpg?ts=1752142993755&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-efecto-lavado-c0p199105412.html?colorId=400&stylismId=13",
-        "precio_original": "19.99€",
-        "precio_final": "11.99€",
+        "nombre": "Polo manga larga boxy",
+        "imagen": "https://static.bershka.net/assets/public/f516/e762/808942a1975f/cb1a6a294d46/07423732500-p/07423732500-p.jpg?ts=1764776675314&w=750",
+        "url_producto": "https://www.bershka.com/es/polo-manga-larga-boxy-c0p210976612.html?colorId=500",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Polo manga larga boxy rayas",
-        "imagen": "https://static.bershka.net/assets/public/2c29/a08c/021f4f0aba1a/534c361bced1/08562190500-p/08562190500-p.jpg?ts=1755179536604&w=750",
-        "url_producto": "https://www.bershka.com/es/polo-manga-larga-boxy-rayas-c0p194827136.html?colorId=500",
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/7a0d/78b6/3b3b4c6e8981/9fb69160e31e/07401696251-p/07401696251-p.jpg?ts=1759921389548&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p201239530.html?colorId=251",
         "precio_original": "27.99€",
         "precio_final": "16.79€",
         "descuento": "-40%",
@@ -271,28 +325,55 @@
     },
     {
         "nombre": "Sudadera oversize efecto lavado",
-        "imagen": "https://static.bershka.net/assets/public/0100/14cd/de72453aa398/92d79cbda30d/07378732441-p/07378732441-p.jpg?ts=1754312923922&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-oversize-efecto-lavado-c0p193572860.html?colorId=441",
+        "imagen": "https://static.bershka.net/assets/public/eb96/0bbe/553044e599c6/149e7743224e/07378732441-a4o/07378732441-a4o.jpg?ts=1754384128226&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-oversize-efecto-lavado-c0p201081745.html?colorId=441&stylismId=14",
         "precio_original": "27.99€",
         "precio_final": "16.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera boxy capucha",
-        "imagen": "https://static.bershka.net/assets/public/71da/0316/08584b1ba6b8/6583e2d0103f/07368732711-p/07368732711-p.jpg?ts=1750260253217&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-c0p189277035.html?colorId=711",
-        "precio_original": "27.99€",
-        "precio_final": "16.79€",
+        "nombre": "Jersey jacquard print",
+        "imagen": "https://static.bershka.net/assets/public/76b0/bc24/3bcc41009239/b0a7fa7c20ab/07351693526-p/07351693526-p.jpg?ts=1764776549766&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-jacquard-print-c0p214475317.html?colorId=526",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Pack sudadera y pantalón wide leg",
-        "imagen": "https://static.bershka.net/assets/public/01df/ed8a/67914a668b93/3c37d5c9cb58/07383111003-p/07383111003-p.jpg?ts=1722871479610&w=750",
-        "url_producto": "https://www.bershka.com/es/pack-sudadera-y-pantal%C3%B3n-wide-leg-c0p199105064.html?colorId=003&stylismId=1",
-        "precio_original": "34.99€",
-        "precio_final": "20.99€",
+        "nombre": "Jersey jacquard print",
+        "imagen": "https://static.bershka.net/assets/public/49eb/fc05/658a42cca36b/1cfce355d3b0/07351693710-p/07351693710-p.jpg?ts=1765451544482&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-jacquard-print-c0p214475316.html?colorId=710",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey efecto pelo print",
+        "imagen": "https://static.bershka.net/assets/public/0a05/ba9e/2f864a00b4ad/1a9c605602fe/00021376800-p/00021376800-p.jpg?ts=1764779265216&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-efecto-pelo-print-c0p210976623.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Chaqueta cremallera bordado",
+        "imagen": "https://static.bershka.net/assets/public/f337/3a78/537c414c90b1/a542cc49eacb/07040623700-a4o/07040623700-a4o.jpg?ts=1752748429098&w=750",
+        "url_producto": "https://www.bershka.com/es/chaqueta-cremallera-bordado-c0p205566897.html?colorId=700&stylismId=3",
+        "precio_original": "35.99€",
+        "precio_final": "21.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera cropped print",
+        "imagen": "https://static.bershka.net/assets/public/ad95/a944/09594ac0a4b2/e3b2941aea7f/06869003654-p/06869003654-p.jpg?ts=1763050234432&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-cropped-print-c0p201535567.html?colorId=654",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
@@ -306,11 +387,56 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha",
-        "imagen": "https://static.bershka.net/assets/public/6ff6/44ed/a94749acaf2f/e8a0ad148086/07369498400-p/07369498400-p.jpg?ts=1754314217421&w=750",
-        "url_producto": "https://www.bershka.com/es/sudadera-capucha-c0p202226357.html?colorId=400&stylismId=1",
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/1200/3fea/337c421b9374/d89d3abaad9b/07383133627-p/07383133627-p.jpg?ts=1757931263079&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p194788942.html?colorId=627",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey cuello polo",
+        "imagen": "https://static.bershka.net/assets/public/fadf/47d3/95a248569889/47f04a33241b/07332376811-p/07332376811-p.jpg?ts=1760444920329&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-c0p198034876.html?colorId=811",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Chaleco efecto lavado",
+        "imagen": "https://static.bershka.net/assets/public/6466/117f/e3ab489090d2/db87253dc50c/08631715802-p/08631715802-p.jpg?ts=1755174860319&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-efecto-lavado-c0p189277155.html?colorId=802",
         "precio_original": "19.99€",
         "precio_final": "11.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/ff93/dfa2/48b14ddb99cc/702ba81ae5d7/01165696717-p/01165696717-p.jpg?ts=1764329692369&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p214475315.html?colorId=717",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/6784/0c15/177843d99fd9/d5b53f0dff30/01165696606-p/01165696606-p.jpg?ts=1765787594065&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p214475314.html?colorId=606",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Jersey doble manga print",
+        "imagen": "https://static.bershka.net/assets/public/ad1a/b468/b0a54e9cab4e/ba4be8419600/07426190700-p/07426190700-p.jpg?ts=1765443757434&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-doble-manga-print-c0p212744460.html?colorId=700",
+        "precio_original": "25.99€",
+        "precio_final": "15.59€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
@@ -333,56 +459,155 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Chaqueta punto",
-        "imagen": "https://static.bershka.net/assets/public/25db/389d/08ad484fac30/2819c322d987/07498663829-21-p/07498663829-21-p.jpg?ts=1764169046779&w=750",
-        "url_producto": "https://www.bershka.com/es/chaqueta-punto-c0p208227184.html?colorId=829&stylismId=21",
-        "precio_original": "35.99€",
-        "precio_final": "21.59€",
+        "nombre": "Jersey jacquard print",
+        "imagen": "https://static.bershka.net/assets/public/fdad/7725/0e4b44ac95d0/12d7a156d4a8/07315376902-21-p/07315376902-21-p.jpg?ts=1761146039131&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-jacquard-print-c0p206080640.html?colorId=902&stylismId=21",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Chaqueta Disney cuadros",
-        "imagen": "https://static.bershka.net/assets/public/a1bd/ca2e/015f472ab76d/0456fabd69ac/07499596500-01-p/07499596500-01-p.jpg?ts=1762356024203&w=750",
-        "url_producto": "https://www.bershka.com/es/chaqueta-disney-cuadros-c0p207206745.html?colorId=500&stylismId=1",
-        "precio_original": "49.99€",
-        "precio_final": "29.99€",
+        "nombre": "Jersey trenzado",
+        "imagen": "https://static.bershka.net/assets/public/5bd9/6bba/e0ee42178feb/9ceb913de987/07335693205-p/07335693205-p.jpg?ts=1760599469454&w=750",
+        "url_producto": "https://www.bershka.com/es/jersey-trenzado-c0p206080096.html?colorId=205&stylismId=2",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Jersey Donald Duck jacquard",
-        "imagen": "https://static.bershka.net/assets/public/b29c/2203/2a7746ec872e/28cacf3bffd8/07341596251-01-p/07341596251-01-p.jpg?ts=1762356095165&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-donald-duck-jacquard-c0p207206250.html?colorId=251&stylismId=1",
-        "precio_original": "39.99€",
-        "precio_final": "23.99€",
-        "descuento": "-40%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Chaleco rayas",
-        "imagen": "https://static.bershka.net/assets/public/6467/476d/1ceb4b4ebb39/33133ea5ab20/08628693060-14-p/08628693060-14-p.jpg?ts=1753352528422&w=750",
-        "url_producto": "https://www.bershka.com/es/chaleco-rayas-c0p200309420.html?colorId=060&stylismId=14",
+        "nombre": "Sudadera boxy capucha print",
+        "imagen": "https://static.bershka.net/assets/public/40c7/b555/31694f6b81b2/8b9c38c03566/07370498500-a4o/07370498500-a4o.jpg?ts=1764779144064&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-print-c0p205222884.html?colorId=500",
         "precio_original": "22.99€",
         "precio_final": "13.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Jersey brush print",
-        "imagen": "https://static.bershka.net/assets/public/6dda/168e/2b7b4e829718/bf294a9be097/07331686800-p/07331686800-p.jpg?ts=1761038788142&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-brush-print-c0p198373420.html?colorId=800",
+        "nombre": "Sudadera cremallera",
+        "imagen": "https://static.bershka.net/assets/public/ab48/22a8/43e540e1b781/179a8a949c0a/07381741812-21-p/07381741812-21-p.jpg?ts=1764767874523&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-c0p204042716.html?colorId=812&stylismId=21",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Camiseta felpa manga corta print",
+        "imagen": "https://static.bershka.net/assets/public/8087/a843/d4974a4faf84/5e91bddd08c5/08059222818-p/08059222818-p.jpg?ts=1754909187383&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-felpa-manga-corta-print-c0p202797899.html?colorId=818&stylismId=2",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera boxy capucha print",
+        "imagen": "https://static.bershka.net/assets/public/742e/3da8/b3d64bb3ae55/6152c5a9cd95/07370190800-p/07370190800-p.jpg?ts=1754992854876&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-print-c0p202797399.html?colorId=800&stylismId=1",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera boxy crop",
+        "imagen": "https://static.bershka.net/assets/public/97ae/adf9/205146e0ab6e/ce613df18bde/07045732600-p/07045732600-p.jpg?ts=1763644534487&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-crop-c0p202411693.html?colorId=600",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera piqué efecto lavado",
+        "imagen": "https://static.bershka.net/assets/public/69f7/8de5/5b7f4348a6c9/4667936ac175/07042498810-r/07042498810-r.jpg?ts=1751363463940&w=124",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-piqu%C3%A9-efecto-lavado-c0p202226353.html?colorId=810&stylismId=2",
+        "precio_original": "29.99€",
+        "precio_final": "17.99€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/8291/b305/984946b4ab08/5f6cdb1a7504/07408732800-p/07408732800-p.jpg?ts=1763050710687&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p201096316.html?colorId=800",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera oversize efecto lavado",
+        "imagen": "https://static.bershka.net/assets/public/630f/6dd9/97ab41c09984/3473f6584687/07378732810-a4o/07378732810-a4o.jpg?ts=1754383992364&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-oversize-efecto-lavado-c0p201082234.html?colorId=810&stylismId=13",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera print efecto lavado",
+        "imagen": "https://static.bershka.net/assets/public/1b88/2934/cae94c448403/5e8f760719d1/07373732638-p/07373732638-p.jpg?ts=1753963979205&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-print-efecto-lavado-c0p200309676.html?colorId=638&stylismId=2",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera print efecto lavado",
+        "imagen": "https://static.bershka.net/assets/public/e3c0/7a32/ff5a478ea7a0/7936a1d00f4d/07373732527-p/07373732527-p.jpg?ts=1753973785021&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-print-efecto-lavado-c0p200309189.html?colorId=527&stylismId=1",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha print",
+        "imagen": "https://static.bershka.net/assets/public/001d/3e48/966f4d7787b1/e7613fabe9b5/07394696700-p/07394696700-p.jpg?ts=1756886745832&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p199125545.html?colorId=700",
+        "precio_original": "27.99€",
+        "precio_final": "16.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera boxy capucha print",
+        "imagen": "https://static.bershka.net/assets/public/1e96/ccfd/99ed4b3ba21d/7828c9eb0c7a/07370112800-p/07370112800-p.jpg?ts=1761060145995&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-print-c0p198409447.html?colorId=800",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
+        "descuento": "-40%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa",
+        "imagen": "https://static.bershka.net/assets/public/078e/524b/ae4b44a08e3f/5a54f8d278b8/02807190812-p/02807190812-p.jpg?ts=1740496317698&w=750",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p196946471.html?colorId=812",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Chaleco Demon Slayer",
+        "imagen": "https://static.bershka.net/assets/public/bfb9/0fde/2d2944aeaac6/1e8393f2b592/03621455800-a4o/03621455800-a4o.jpg?ts=1753706742975&w=750",
+        "url_producto": "https://www.bershka.com/es/chaleco-demon-slayer-c0p189277046.html?colorId=800",
         "precio_original": "35.99€",
         "precio_final": "21.59€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Jersey efecto cepillado",
-        "imagen": "https://static.bershka.net/assets/public/b8f9/f47e/6a7944eea2ca/dd310d47734d/07333376829-p/07333376829-p.jpg?ts=1761731690532&w=750",
-        "url_producto": "https://www.bershka.com/es/jersey-efecto-cepillado-c0p200319621.html?colorId=829",
-        "precio_original": "29.99€",
-        "precio_final": "17.99€",
+        "nombre": "Sudadera boxy capucha print",
+        "imagen": "https://static.bershka.net/assets/public/3481/0e35/273a4a11b8f9/318fc5950589/07370498700-p/07370498700-p.jpg?ts=1758093367941&w=750",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-print-c0p189277038.html?colorId=700",
+        "precio_original": "22.99€",
+        "precio_final": "13.79€",
         "descuento": "-40%",
         "categoria": "sudaderas_hombre"
     }

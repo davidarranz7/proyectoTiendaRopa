@@ -17,7 +17,9 @@ def limpiar_precio(texto):
 
 async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
     async with async_playwright() as p:
-        print(f"\n🚀 [PULL] Iniciando con tu configuración de cookies...")
+        print(f"\n🚀 [PULL PRO] Iniciando scraping para: {nombre_tarea}")
+        print(f"🌍 URL: {url}")
+
         browser = await p.chromium.launch(headless=False, slow_mo=300)
         context = await browser.new_context(
             viewport={"width": 1920, "height": 1080},
@@ -26,117 +28,169 @@ async def extraer_categoria_pull(url, nombre_tarea="desconocido"):
         page = await context.new_page()
 
         try:
-            print(f"🌍 [PULL] Entrando en: {url}")
+            print(f"➡️ Entrando en Pull&Bear...")
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
             await asyncio.sleep(5)
 
-            # --- TU BLOQUE DE COOKIES ORIGINAL ---
-            cookies_aceptadas = False
+            # --- COOKIES PULL (TU MÉTODO ORIGINAL) ---
             try:
                 for _ in range(3):
                     await page.keyboard.press("Tab")
                     await asyncio.sleep(0.3)
                 await page.keyboard.press("Enter")
                 await asyncio.sleep(2)
-                cookies_aceptadas = True
                 print("✅ Cookies aceptadas correctamente.")
             except:
-                pass
+                print("⚠️ No se pudieron aceptar cookies automáticamente.")
 
             productos_lista = []
             vistos = set()
             intentos_sin_nuevos = 0
+            vuelta = 0
 
-            # --- RECOLECCIÓN DE PRODUCTOS CON SCROLL MEJORADO ---
+            # ============================================================
+            # 🟦 BUCLE PRINCIPAL DE SCROLL PROFUNDO
+            # ============================================================
+
             while True:
-                elementos = await page.query_selector_all("article, div[class*='product'], div[class*='Product']")
+                vuelta += 1
+                print("\n" + "=" * 80)
+                print(f"🔄 VUELTA DE SCROLL #{vuelta}")
+                print("=" * 80)
+
+                elementos = await page.query_selector_all(
+                    "article, div[class*='product'], div[class*='Product']"
+                )
+
+                print(f"🧩 Elementos detectados en DOM: {len(elementos)}")
+
                 nuevos_en_esta_vuelta = 0
 
                 for el in elementos:
                     try:
+                        # -------------------------------
+                        # NOMBRE
+                        # -------------------------------
                         nombre_el = await el.query_selector("h2, .product-name, [class*='name']")
-                        if not nombre_el: continue
+                        if not nombre_el:
+                            continue
+
                         nombre = (await nombre_el.inner_text()).strip()
+                        if len(nombre) < 5:
+                            continue
 
-                        if len(nombre) < 5 or nombre in vistos: continue
+                        # -------------------------------
+                        # LINK
+                        # -------------------------------
+                        link_el = await el.query_selector("a")
+                        href = await link_el.get_attribute("href") if link_el else None
+                        if not href:
+                            continue
 
+                        url_producto = href if href.startswith("http") else f"https://www.pullandbear.com{href}"
+
+                        # Clave única real
+                        clave = f"{nombre}|{url_producto}"
+                        if clave in vistos:
+                            continue
+
+                        # -------------------------------
                         # PRECIOS
+                        # -------------------------------
                         precios_elementos = await el.query_selector_all("[class*='price'], [class*='Price'], span")
                         valores_numericos = []
+
                         for p_el in precios_elementos:
                             t = await p_el.inner_text()
                             if "€" in t:
                                 val = limpiar_precio(t)
-                                if val: valores_numericos.append(val)
+                                if val:
+                                    valores_numericos.append(val)
 
                         valores_numericos = list(dict.fromkeys(valores_numericos))
-                        precio_original, precio_final, descuento_txt = None, None, None
+
+                        precio_original = None
+                        precio_final = None
+                        descuento_txt = None
 
                         if len(valores_numericos) == 1:
                             precio_final = valores_numericos[0]
                         elif len(valores_numericos) >= 2:
-                            val_max, val_min = max(valores_numericos), min(valores_numericos)
+                            val_max = max(valores_numericos)
+                            val_min = min(valores_numericos)
+
+                            # Filtro anti-ID pegado (regla x6)
                             if val_max > (val_min * 6):
                                 precio_final = val_min
                             else:
-                                precio_original, precio_final = val_max, val_min
+                                precio_original = val_max
+                                precio_final = val_min
                                 pct = round(((precio_original - precio_final) / precio_original) * 100)
                                 descuento_txt = f"-{pct}%"
 
-                        if not precio_final: continue
+                        if not precio_final:
+                            continue
 
-                        # IMAGEN Y LINK
-                        link_el = await el.query_selector("a")
-                        href = await link_el.get_attribute("href")
-
-                        # Forzamos la carga de la imagen haciendo scroll al elemento
+                        # -------------------------------
+                        # IMAGEN (FORZAMOS CARGA REAL)
+                        # -------------------------------
                         await el.scroll_into_view_if_needed()
+                        await asyncio.sleep(0.3)
+
                         img_el = await el.query_selector("img")
                         imagen = await img_el.get_attribute("src") if img_el else None
 
-                        if not imagen or not href: continue
+                        if not imagen:
+                            continue
 
+                        # -------------------------------
+                        # GUARDAR PRODUCTO
+                        # -------------------------------
                         productos_lista.append({
                             "nombre": nombre,
                             "imagen": imagen,
-                            "url_producto": href if href.startswith("http") else f"https://www.pullandbear.com{href}",
+                            "url_producto": url_producto,
                             "precio_original": f"{precio_original:.2f}€" if precio_original else None,
                             "precio_final": f"{precio_final:.2f}€",
                             "descuento": descuento_txt,
                             "categoria": nombre_tarea
                         })
 
-                        vistos.add(nombre)
+                        vistos.add(clave)
                         nuevos_en_esta_vuelta += 1
-                        print(f"📦 [{len(productos_lista)}] {nombre[:20]}.. | {precio_final}€")
+
+                        print(f"📦 [{len(productos_lista)}] {nombre[:30]} | {precio_final}€")
 
                     except:
                         continue
 
-                # LÓGICA DE SALIDA Y SCROLL
+                # ============================================================
+                # 🔥 CONTROL REAL DE FINAL DE PÁGINA (MEJORADO)
+                # ============================================================
+
                 if nuevos_en_esta_vuelta == 0:
                     intentos_sin_nuevos += 1
-                    print(f"⚠️ Esperando nuevos productos... (Intento {intentos_sin_nuevos}/8)")
+                    print(f"⚠️ Sin nuevos productos ({intentos_sin_nuevos}/10)")
                 else:
                     intentos_sin_nuevos = 0
 
-                # Scroll más profundo y espera más larga para carga de red
-                await page.evaluate("window.scrollBy(0, 1000)")
-                await asyncio.sleep(3.5)  # Pausa más larga para que la web respire
+                # Scroll profundo humano
+                await page.evaluate("window.scrollBy(0, 1200)")
+                await asyncio.sleep(3.5)
 
-                # Si llegamos a 8 intentos sin ver nada nuevo, paramos.
-                if intentos_sin_nuevos >= 8:
+                # FINAL REAL
+                if intentos_sin_nuevos >= 10:
+                    print("\n🛑 FINAL REAL DE PULL&BEAR ALCANZADO")
                     break
 
-                # He quitado el límite de 15 para que te coja todos los posibles
-                if len(productos_lista) >= 100:  # Límite de seguridad para que no sea infinito
-                    break
+            print("\n" + "=" * 90)
+            print(f"🏆 FINALIZADO PULL PRO: {len(productos_lista)} productos reales totales")
+            print("=" * 90)
 
-            print(f"🏆 FINALIZADO: {len(productos_lista)} productos reales.")
             await browser.close()
             return productos_lista
 
         except Exception as e:
-            print(f"❌ Error en Pull&Bear: {e}")
+            print(f"❌ ERROR GRAVE EN PULL&BEAR: {e}")
             await browser.close()
             return []

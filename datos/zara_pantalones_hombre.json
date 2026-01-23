@@ -1,7 +1,7 @@
 [
     {
         "nombre": "JEANS FLARE FIT",
-        "imagen": "https://static.zara.net/assets/public/c300/d555/11ae494c939a/de040a4a879a/06688448427-a1/06688448427-a1.jpg?ts=1766414303599&w=326",
+        "imagen": "https://static.zara.net/assets/public/e6d8/4f35/f9884f09be31/b8daafe7c6c1/06688448427-p/06688448427-p.jpg?ts=1766414300201&w=710",
         "url_producto": "https://www.zara.com/es/es/jeans-flare-fit-p06688448.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
@@ -10,7 +10,7 @@
     },
     {
         "nombre": "PANTALÓN BALLOON FIT PANA",
-        "imagen": "https://static.zara.net/assets/public/4364/27eb/27fa4bcd8d1e/93a5fbc6069e/00706171800-a1/00706171800-a1.jpg?ts=1767865200864&w=326",
+        "imagen": "https://static.zara.net/assets/public/de21/ea2d/ab7147acbe2b/29294d11ebe7/00706171505-p/00706171505-p.jpg?ts=1767861590995&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-pana-p00706171.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
@@ -19,7 +19,7 @@
     },
     {
         "nombre": "PANTALÓN REGULAR FIT PANA LIGERA",
-        "imagen": "https://static.zara.net/assets/public/2967/2794/1ce14365980c/ac82504233e4/04227264529-a1/04227264529-a1.jpg?ts=1767873144073&w=326",
+        "imagen": "https://static.zara.net/assets/public/4736/d1f1/50e74d14a4fa/f08580fea99a/04227264400-p/04227264400-p.jpg?ts=1767885015898&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-pana-ligera-p04227264.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
@@ -27,26 +27,17 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN JOGGER WIDE FIT BÁSICO",
-        "imagen": "https://static.zara.net/assets/public/8577/7d78/6c6244d4a63b/cede79e4a34b/00761371052-a1/00761371052-a1.jpg?ts=1761663985302&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-jogger-wide-fit-basico-p00761440.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CINTURA JOGGER CONFORT NON IRON",
-        "imagen": "https://static.zara.net/assets/public/dbef/4980/00fc4182818c/cdca1b3eb939/00706890816-a1/00706890816-a1.jpg?ts=1764334346048&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-confort-non-iron-p00706890.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
+        "nombre": "JEANS FLARE FIT",
+        "imagen": "https://static.zara.net/assets/public/476e/3b2e/10c645a68409/f0c1f5715472/06688442822-p/06688442822-p.jpg?ts=1766403988262&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-flare-fit-p06688442.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "PANTALÓN JOGGER WIDE FIT BANDAS",
-        "imagen": "https://static.zara.net/assets/public/b370/3de3/891d432484fc/394b4bc48cf1/01437345400-a1/01437345400-a1.jpg?ts=1756281210712&w=326",
+        "imagen": "https://static.zara.net/assets/public/11cb/09a2/df874a4eab10/4b582d5481d7/01437345400-p/01437345400-p.jpg?ts=1756281210559&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-jogger-wide-fit-bandas-p01437345.html",
         "precio_original": "29.95€",
         "precio_final": "11.98€",
@@ -54,44 +45,17 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN CON LINO",
-        "imagen": "https://static.zara.net/assets/public/751f/bb3d/27f048b1ae06/1d15bcf0c48f/08574303250-a1/08574303250-a1.jpg?ts=1745336047908&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-con-lino-p08574303.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN STRAIGHT FIT ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/155d/dcaa/3f2a4d8581ba/6688cd7c16b0/06416310800-a1/06416310800-a1.jpg?ts=1760093774094&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-estructura-p06416310.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA LAVADA",
-        "imagen": "https://static.zara.net/assets/public/cab1/b27f/5b554f1796b1/5a6b4b5cb25e/06917365922-a1/06917365922-a1.jpg?ts=1759485677333&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-lavada-p06917365.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CINTURA JOGGER CONFORT",
-        "imagen": "https://static.zara.net/assets/public/a994/d254/1f524340bdbb/85f4d2762f28/06861106251-a1/06861106251-a1.jpg?ts=1746002888626&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-confort-p06861693.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
+        "nombre": "PANTALÓN JOGGER RELAXED FIT BÁSICO",
+        "imagen": "https://static.zara.net/assets/public/f49a/a9e9/5db349b6937e/a89342a0f363/00761440800-p/00761440800-p.jpg?ts=1766487002282&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-jogger-relaxed-fit-basico-p00761440.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "PANTALÓN BALLOON FIT ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/54a6/aa2e/10c24860bc9d/9e255643729c/04676349028-a1/04676349028-a1.jpg?ts=1764676748433&w=326",
+        "imagen": "https://static.zara.net/assets/public/c5d8/9bcd/390a4cd396a1/d1c8f566ca21/04676349028-p/04676349028-p.jpg?ts=1764676748254&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-estampado-abstracto-p04676349.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -99,80 +63,17 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN RELAXED FIT JACQUARD",
-        "imagen": "https://static.zara.net/assets/public/fd00/f02b/51b04a44bcf2/8f32d2cbff05/01538302707-a1/01538302707-a1.jpg?ts=1751472944977&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-jacquard-p01538302.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN SEERSUCKER RAYAS CONFORT",
-        "imagen": "https://static.zara.net/assets/public/0079/3dd8/246c4eafabeb/08cf16b93d32/04092348044-a1/04092348044-a1.jpg?ts=1755162949277&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-seersucker-rayas-confort-p04092348.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TÉCNICO BANDAS",
-        "imagen": "https://static.zara.net/assets/public/56ba/b62c/81be4ece9398/d24b041d4de0/03918326420-a1/03918326420-a1.jpg?ts=1758875853816&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-tecnico-bandas-p03918326.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUIDO RELAXED FIT",
-        "imagen": "https://static.zara.net/assets/public/d332/6ae1/c43e46d7a919/d362411b0d09/09940029505-a1/09940029505-a1.jpg?ts=1764778033385&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-relaxed-fit-p06726029.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUÍDO RAYAS",
-        "imagen": "https://static.zara.net/assets/public/40a9/a07c/3c7d4bbeb261/12c8a5591cad/06861365800-a1/06861365800-a1.jpg?ts=1757061185115&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-rayas-p06861365.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT TEXTURA",
-        "imagen": "https://static.zara.net/assets/public/0e0c/d267/409847d5962b/70ac8bc8b6c4/04514300823-a1/04514300823-a1.jpg?ts=1762511642655&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-textura-p04514300.html",
-        "precio_original": "39.95€",
-        "precio_final": "9.19€",
-        "descuento": "-77%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN PESPUNTES CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/cf6d/c030/38fc4258b217/46026f9cec1b/02342304712-p/02342304712-p.jpg?ts=1755172013233&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-pespuntes-contraste-p02342304.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA ALGODÓN",
-        "imagen": "https://static.zara.net/assets/public/0370/b4df/2faf4563a07c/52e92caa39bd/04391325500-a1/04391325500-a1.jpg?ts=1759413553922&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-algodon-p04391325.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
+        "nombre": "PANTALÓN CINTURA JOGGER CONFORT",
+        "imagen": "https://static.zara.net/assets/public/136e/16b2/3fb749bb8e40/d40b4e5eefdb/05805693828-p/05805693828-p.jpg?ts=1756280343172&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-confort-p06861693.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "PANTALÓN FLARE FIT",
-        "imagen": "https://static.zara.net/assets/public/6430/fd6d/7613450fb25b/bdcaccd95f85/05888659809-a1/05888659809-a1.jpg?ts=1755700210818&w=326",
+        "imagen": "https://static.zara.net/assets/public/470b/ff57/09f140aca8ef/f1dea3182afe/05888659800-p/05888659800-p.jpg?ts=1755612666708&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-flare-fit-p05888659.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -180,71 +81,44 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN CHINO SKINNY FIT",
-        "imagen": "https://static.zara.net/assets/public/2047/44fb/be2344f29705/69acc2ae7446/06786370532-a1/06786370532-a1.jpg?ts=1750861248228&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-chino-skinny-fit-p06786370.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA ESTAMPADO TIE DYE",
-        "imagen": "https://static.zara.net/assets/public/3f14/63b2/549540aea800/dae8b55079e7/01437430027-a1/01437430027-a1.jpg?ts=1751464514531&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-estampado-tie-dye-p01437430.html",
+        "nombre": "PANTALÓN RELAXED FIT JACQUARD",
+        "imagen": "https://static.zara.net/assets/public/a0d9/6fa7/555c4a0a8754/8471c20505cd/01538302805-p/01538302805-p.jpg?ts=1751532231030&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-jacquard-p01538302.html",
         "precio_original": "29.95€",
         "precio_final": "11.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN REGULAR FIT PANA",
-        "imagen": "https://static.zara.net/assets/public/bb42/7613/c5444ca59a21/b9f4cd7ef443/04391440401-a1/04391440401-a1.jpg?ts=1759224117818&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-pana-p04391440.html",
+        "nombre": "PANTALÓN PESPUNTES CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/cf6d/c030/38fc4258b217/46026f9cec1b/02342304712-p/02342304712-p.jpg?ts=1755172013233&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-pespuntes-contraste-p02342304.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN BAGGY FIT ESTAMPADO LAVADO",
-        "imagen": "https://static.zara.net/assets/public/f975/0410/fd8e420bb557/21fde9a29e4f/05862315506-a1/05862315506-a1.jpg?ts=1759156810659&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-estampado-lavado-p05862315.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
+        "nombre": "PANTALÓN CINTURA JOGGER CONFORT NON IRON",
+        "imagen": "https://static.zara.net/assets/public/08a1/d126/fe2c426e90a5/4d640ba07ea4/00706890816-p/00706890816-p.jpg?ts=1764334347530&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-confort-non-iron-p00706890.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN TRAJE CONFORT",
-        "imagen": "https://static.zara.net/assets/public/4644/0ff2/d5d441d69374/29e24ba0c3dc/01564201737-a1/01564201737-a1.jpg?ts=1765537089963&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-confort-p04457999.html",
-        "precio_original": "35.95€",
-        "precio_final": "14.38€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS RAYAS TEXTURA",
-        "imagen": "https://static.zara.net/assets/public/be06/c398/a1de46f4a2f7/72b239e42040/00840367251-a1/00840367251-a1.jpg?ts=1761814782274&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-rayas-textura-p00840367.html",
-        "precio_original": "49.95€",
-        "precio_final": "24.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT RAYAS",
-        "imagen": "https://static.zara.net/assets/public/0ff3/a065/95d0499991d9/225cdf3fdb64/05584344600-a1/05584344600-a1.jpg?ts=1755766288674&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-rayas-p05584344.html",
-        "precio_original": "35.95€",
-        "precio_final": "14.38€",
+        "nombre": "PANTALÓN FLUIDO RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/9e6b/874e/b94f482dadc3/5debdbef80cc/09940029505-p/09940029505-p.jpg?ts=1764778033130&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-relaxed-fit-p06726029.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "PANTALÓN CARPINTERO ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/340e/22ec/304e4448b68f/bd39d14c2829/05862364026-a1/05862364026-a1.jpg?ts=1762863168758&w=326",
+        "imagen": "https://static.zara.net/assets/public/e055/f801/d61e413080d7/91c9ffdab485/05862364026-p/05862364026-p.jpg?ts=1762863168162&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-carpintero-estampado-abstracto-p05862364.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -252,170 +126,8 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN BALLOON FIT PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/eebe/398f/42bb42d9a706/cc6980d211ea/00108323100-a1/00108323100-a1.jpg?ts=1757430815518&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-pliegues-p00108322.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN JACQUARD CALADOS",
-        "imagen": "https://static.zara.net/assets/public/caf9/864d/ce7b48d38c47/2bcb8cb508ce/05584311086-a1/05584311086-a1.jpg?ts=1753866255497&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-jacquard-calados-p05584311.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS BAGGY FIT ROTOS",
-        "imagen": "https://static.zara.net/assets/public/7551/b90a/c40c4a12bf56/6dea23808f97/04048313822-a1/04048313822-a1.jpg?ts=1762182369269&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-baggy-fit-rotos-p04048313.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN PLISADO TERCIOPELO",
-        "imagen": "https://static.zara.net/assets/public/89f2/a614/07f74e25840c/b92c5f72b467/05320711030-a1/05320711030-a1.jpg?ts=1762331770239&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-plisado-terciopelo-p05320711.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN PLIEGUES ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/84be/9c47/18154e1eae44/71247c6c2f94/01034340250-a1/01034340250-a1.jpg?ts=1760700104173&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-estructura-p01034340.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUIDO RAYAS EFECTO ARRUGADO",
-        "imagen": "https://static.zara.net/assets/public/8c42/454a/86ab499eabc5/4b6008ddcb79/06861363712-a1/06861363712-a1.jpg?ts=1753366728382&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-rayas-efecto-arrugado-p06861361.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN JOGGER ENTRENAMIENTO",
-        "imagen": "https://static.zara.net/assets/public/4f15/f0f4/9d0c4289bacb/ba901262dd95/00761306800-e1/00761306800-e1.jpg?ts=1757588531596&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-jogger-entrenamiento-p00761306.html",
-        "precio_original": "35.95€",
-        "precio_final": "17.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TÉCNICO CINTURA JOGGER",
-        "imagen": "https://static.zara.net/assets/public/eb20/d6cf/6f094821ab51/72ebb835c457/05344311700-a1/05344311700-a1.jpg?ts=1758036823722&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-tecnico-cintura-jogger-p05344311.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN REGULAR FIT ALGODÓN",
-        "imagen": "https://static.zara.net/assets/public/3c9a/f053/1450415684f4/ec1aa8ffd460/06508641705-a1/06508641705-a1.jpg?ts=1760023857618&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-algodon-p06508641.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TÉCNICO COMBINADO CINTURÓN",
-        "imagen": "https://static.zara.net/assets/public/5d9b/4704/37f348fa988b/f8e7d7909713/04695308800-a1/04695308800-a1.jpg?ts=1761823140289&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-tecnico-combinado-cinturon-p04695308.html",
-        "precio_original": "49.95€",
-        "precio_final": "24.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CINTURA JOGGER REGULAR FIT",
-        "imagen": "https://static.zara.net/assets/public/a21f/7db0/d3da4d36b644/2857316fec5a/06861955500-a1/06861955500-a1.jpg?ts=1758031520959&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-regular-fit-p06861955.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CARPINTERO BAGGY FIT ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/f577/8d13/2dbd4008ba7e/300aed3fe964/05862361028-a1/05862361028-a1.jpg?ts=1756804978794&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-carpintero-baggy-fit-estampado-abstracto-p05862361.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS RELAXED FIT BOLSILLOS",
-        "imagen": "https://static.zara.net/assets/public/fba1/b209/0bb04f309eb3/45f4ae7d4925/03991328822-a1/03991328822-a1.jpg?ts=1760096411567&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-relaxed-fit-bolsillos-p03991328.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN BAGGY FIT ESTAMPADO BANDANA",
-        "imagen": "https://static.zara.net/assets/public/daf1/1110/112b4f019d09/1ee0232bd692/05862303020-a1/05862303020-a1.jpg?ts=1758271365558&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-estampado-bandana-p05862303.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN STRAIGHT FIT LAVADO",
-        "imagen": "https://static.zara.net/assets/public/f1e7/db77/de08460f862e/3a898da2dc32/06861330700-a1/06861330700-a1.jpg?ts=1755786265381&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-lavado-p06861330.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/8858/7967/55db4f0a9031/6c6c54159a3c/04470308251-a1/04470308251-a1.jpg?ts=1761036337465&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-efecto-vintage-p04470308.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT",
-        "imagen": "https://static.zara.net/assets/public/6955/4fb1/b38c4b67a4aa/1f8fdd8996cf/06861397710-a1/06861397710-a1.jpg?ts=1754405309869&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-p06861397.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS RELAXED FLARE FIT",
-        "imagen": "https://static.zara.net/assets/public/53ef/74af/e0454fa6b22d/53f7b4b4a2c5/00108319700-a1/00108319700-a1.jpg?ts=1755684142327&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-relaxed-flare-fit-p00108319.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
         "nombre": "PANTALÓN JACQUARD RAYAS",
-        "imagen": "https://static.zara.net/assets/public/8198/b7b2/89a947578074/fdba8474ca9a/06917420712-a1/06917420712-a1.jpg?ts=1752218431027&w=326",
+        "imagen": "https://static.zara.net/assets/public/1a64/14a4/e65547a1b646/df60a69bcbda/06917420712-p/06917420712-p.jpg?ts=1752218435151&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-jacquard-rayas-p06917420.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -423,18 +135,99 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN ESTRUCTURA TERCIOPELO",
-        "imagen": "https://static.zara.net/assets/public/2d5d/780e/540645cb973e/c5e78ee98c6a/05070125700-a1/05070125700-a1.jpg?ts=1759479529886&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-terciopelo-p05070125.html",
+        "nombre": "PANTALÓN CARPINTERO ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/95f6/b863/9257409aba68/5afed55501b6/05862336026-p/05862336026-p.jpg?ts=1761663991514&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-carpintero-estampado-abstracto-p05862336.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN JOGGER ESTRUCTURA VERTICAL",
-        "imagen": "https://static.zara.net/assets/public/885f/4399/fea54cb49a18/de197b583f4d/00761398251-000-a1/00761398251-000-a1.jpg?ts=1759763646422&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-jogger-estructura-vertical-p00761398.html",
+        "nombre": "JEANS BAGGY FIT ROTOS",
+        "imagen": "https://static.zara.net/assets/public/ef38/3e64/8ef045c0a182/b2454780b548/04048313822-p/04048313822-p.jpg?ts=1762182368789&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-baggy-fit-rotos-p04048313.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BAGGY FIT ESTAMPADO BANDANA",
+        "imagen": "https://static.zara.net/assets/public/2ff8/b315/bcdb419c8a33/29dac13eecb6/05862303020-p/05862303020-p.jpg?ts=1758271368390&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-estampado-bandana-p05862303.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BALLOON FIT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/ffa1/6ce1/c89145018928/e63171c73467/00108324070-p/00108324070-p.jpg?ts=1757430818665&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-pliegues-p00108322.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARPINTERO BAGGY FIT ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/d5ef/d600/bbd641c69d61/5e320d5ba393/05862361028-p/05862361028-p.jpg?ts=1756804978080&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-carpintero-baggy-fit-estampado-abstracto-p05862361.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTRUCTURA ESTAMPADO TIE DYE",
+        "imagen": "https://static.zara.net/assets/public/033a/8b53/9a924bf2bba2/a780f6ff9a9f/01437430027-p/01437430027-p.jpg?ts=1751464517207&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-estampado-tie-dye-p01437430.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUÍDO RAYAS",
+        "imagen": "https://static.zara.net/assets/public/2fa9/3ca3/518342a8919f/4a33610625c5/06861365800-p/06861365800-p.jpg?ts=1757061187281&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-rayas-p06861365.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/e459/e391/ccec44ce9c26/b846834c5db9/00794121800-p/00794121800-p.jpg?ts=1759479525498&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-jacquard-rayas-p00794121.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT TEXTURA",
+        "imagen": "https://static.zara.net/assets/public/fdd7/0348/0285486daf52/f42abc1890e4/04514300178-p/04514300178-p.jpg?ts=1762431059067&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-textura-p04514300.html",
+        "precio_original": "39.95€",
+        "precio_final": "9.19€",
+        "descuento": "-77%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/7d12/5b1b/058d49d1a0e8/47d0e827d582/06861397710-p/06861397710-p.jpg?ts=1754405315946&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-p06861397.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT RAYAS",
+        "imagen": "https://static.zara.net/assets/public/850e/3906/75334091812d/31c0f693e690/05862390104-p/05862390104-p.jpg?ts=1753860153068&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-rayas-p05862390.html",
         "precio_original": "29.95€",
         "precio_final": "11.98€",
         "descuento": "-60%",
@@ -442,7 +235,7 @@
     },
     {
         "nombre": "PANTALÓN EFECTO ARRUGADO",
-        "imagen": "https://static.zara.net/assets/public/01de/7135/462f484d96a7/2ef985ebe2ae/06103461250-a1/06103461250-a1.jpg?ts=1751623344836&w=326",
+        "imagen": "https://static.zara.net/assets/public/65cf/0456/ebe54d868cfc/cb5e20b4ce0e/06103461250-p/06103461250-p.jpg?ts=1751623347659&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-efecto-arrugado-p06103461.html",
         "precio_original": "29.95€",
         "precio_final": "11.98€",
@@ -450,99 +243,27 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN CARROT FIT ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/e7c9/3cd6/541944d1b56b/bc4057399bac/03046395055-a1/03046395055-a1.jpg?ts=1758027016616&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-carrot-fit-estructura-p03046395.html",
-        "precio_original": "45.95€",
-        "precio_final": "18.38€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TRAJE CONFORT PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/c59b/6f00/f9de4e7dbec7/72a7e14faa4f/09593999800-000-a1/09593999800-000-a1.jpg?ts=1767611732859&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-confort-pliegues-p09593999.html",
-        "precio_original": "35.95€",
-        "precio_final": "14.38€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN BORDADOS FLORALES",
-        "imagen": "https://static.zara.net/assets/public/5501/3db8/167b41e48f97/7db342a11e16/03046320800-a1/03046320800-a1.jpg?ts=1753359514573&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-bordados-florales-p03046320.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN PUNTO ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/4f5f/b65f/41d142a9a8ba/8b55bfd62304/05755316800-a1/05755316800-a1.jpg?ts=1752592466587&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-punto-estructura-p05755316.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN SALPICADURAS PINTURA LIMITED EDITION",
-        "imagen": "https://static.zara.net/assets/public/35dd/54d2/0aee4513919e/e5b15dcba892/05850320711-a1/05850320711-a1.jpg?ts=1753697588053&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-salpicaduras-pintura-limited-edition-p05850320.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUIDO PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/da42/3cf8/2ea84a10a5f3/b53a0e38739e/01195340707-a1/01195340707-a1.jpg?ts=1758270354415&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-pliegues-p01195340.html",
+        "nombre": "PANTALÓN ESTRUCTURA ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/7973/170a/e27d4c0281ef/6dfba883fbea/04470308251-p/04470308251-p.jpg?ts=1761036340391&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-efecto-vintage-p04470308.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN RELAXED FIT ESTRUCTURA ABIERTA",
-        "imagen": "https://static.zara.net/assets/public/0c6c/33fb/6af745dc9079/878e4fecc795/03665313779-a1/03665313779-a1.jpg?ts=1754562543289&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-estructura-abierta-p03665313.html",
+        "nombre": "PANTALÓN RELAXED FIT RAYAS",
+        "imagen": "https://static.zara.net/assets/public/6810/4e6d/9b554e7aab96/8fdd93cca48e/05584344600-p/05584344600-p.jpg?ts=1755766288826&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-rayas-p05584344.html",
         "precio_original": "35.95€",
         "precio_final": "14.38€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS SLIM FIT CONFORT",
-        "imagen": "https://static.zara.net/assets/public/e094/461b/16aa48128c41/25cf4b00559b/03991404405-a1/03991404405-a1.jpg?ts=1764777452032&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-slim-fit-confort-p03991404.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN BALLOON FIT EFECTO NEOPRENO PLIEGUE",
-        "imagen": "https://static.zara.net/assets/public/222e/5f84/74a244af8206/5ab23c980bfd/08054309800-a1/08054309800-a1.jpg?ts=1759133849012&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-efecto-neopreno-pliegue-p08054309.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CARGO BOLSILLOS ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/4d1d/84f3/1fb84d11b074/0cde33fee4cd/06987380020-a1/06987380020-a1.jpg?ts=1754315914038&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-bolsillos-estampado-abstracto-p06987380.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/0e68/07b0/eef1471ab86a/5f1ad79cb04a/05862350020-a1/05862350020-a1.jpg?ts=1755075872750&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-estampado-abstracto-p05862350.html",
+        "nombre": "PANTALÓN BAGGY FIT ESTAMPADO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/a5b3/6977/74e34c939f9c/52d06dc7bd2c/06987315020-p/06987315020-p.jpg?ts=1759156810548&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-estampado-lavado-p05862315.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
@@ -550,7 +271,7 @@
     },
     {
         "nombre": "PANTALÓN JOGGER TÉCNICO CUADROS CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/fc0d/295c/0b1e441fb009/297abdfc0e14/03918491400-a1/03918491400-a1.jpg?ts=1757064820806&w=326",
+        "imagen": "https://static.zara.net/assets/public/b170/e0d8/70fb4f7b88c3/1375bce0e66c/03918491400-p/03918491400-p.jpg?ts=1757064820833&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-jogger-tecnico-cuadros-contraste-p03918491.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -558,35 +279,44 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN REGULAR FIT PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/4e78/cca4/35664db993f8/c7f7f826ba5f/04470307500-a1/04470307500-a1.jpg?ts=1762251552993&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-pliegues-p04470307.html",
+        "nombre": "PANTALÓN ESTRUCTURA ALGODÓN",
+        "imagen": "https://static.zara.net/assets/public/46d3/3119/623a4e38bb65/6cd120e2375d/04391325500-p/04391325500-p.jpg?ts=1759413553242&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-algodon-p04391325.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS STRAIGHT FIT PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/fe24/5018/7ec345598e91/fa8eb5e4ce30/07223317832-a1/07223317832-a1.jpg?ts=1762514274455&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-straight-fit-pliegues-p07223317.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
+        "nombre": "PANTALÓN RELAXED FIT ESTRUCTURA ABIERTA",
+        "imagen": "https://static.zara.net/assets/public/0798/2575/980a49e3969f/2dc656e5c060/03665313779-p/03665313779-p.jpg?ts=1754562543097&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-estructura-abierta-p03665313.html",
+        "precio_original": "35.95€",
+        "precio_final": "14.38€",
+        "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS STRAIGHT FIT",
-        "imagen": "https://static.zara.net/assets/public/60e4/c26b/b23942ed8fcc/c7385d1fadb7/01300350507-a1/01300350507-a1.jpg?ts=1763034831150&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-straight-fit-p01300350.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
+        "nombre": "PANTALÓN PUNTO ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/da1b/dbdd/0c824ee4b7c8/311dd547560b/05755316800-p/05755316800-p.jpg?ts=1752592466700&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-punto-estructura-p05755316.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO RAYAS EFECTO ARRUGADO",
+        "imagen": "https://static.zara.net/assets/public/3cde/3125/eed14740b272/ad5cd14d2967/06861363712-p/06861363712-p.jpg?ts=1753366733871&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-rayas-efecto-arrugado-p06861361.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "JEANS BAGGY FIT",
-        "imagen": "https://static.zara.net/assets/public/def4/a82a/58614263adc1/f0a138700029/05862324027-a1/05862324027-a1.jpg?ts=1758030391139&w=326",
+        "imagen": "https://static.zara.net/assets/public/cc01/d735/32f9405d88b2/c8e08c7e63bd/05862324027-p/05862324027-p.jpg?ts=1758030394044&w=710",
         "url_producto": "https://www.zara.com/es/es/jeans-baggy-fit-p05862321.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -594,413 +324,71 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN RELAXED FIT FLOCADO",
-        "imagen": "https://static.zara.net/assets/public/c8ee/4389/26c44ec690f1/597bd67e102d/03715201422-a1/03715201422-a1.jpg?ts=1764937761181&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-flocado-p03715201.html",
+        "nombre": "JEANS RAYAS TEXTURA",
+        "imagen": "https://static.zara.net/assets/public/8774/03f9/898e4d7e8108/62ba4fcd8b52/00840367251-p/00840367251-p.jpg?ts=1761814782336&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-rayas-textura-p00840367.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS RELAXED FLARE FIT",
+        "imagen": "https://static.zara.net/assets/public/afc6/eace/d01a40d69db5/cb0b5e758cca/03991401405-p/03991401405-p.jpg?ts=1763123231604&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-relaxed-flare-fit-p03991401.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/a30b/aec1/5bd44f77842a/87912d1420e8/05862350020-p/05862350020-p.jpg?ts=1755075871701&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-estampado-abstracto-p05862350.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN TRAJE SLIM FIT",
-        "imagen": "https://static.zara.net/assets/public/35b5/e0e9/b020400a9e65/a5e60704767b/05856888505-a1/05856888505-a1.jpg?ts=1755076695842&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-slim-fit-p04426254.html",
+        "nombre": "PANTALÓN JACQUARD CALADOS",
+        "imagen": "https://static.zara.net/assets/public/d026/2443/598e4df4ba92/0f93a7dfb5e1/05584311086-p/05584311086-p.jpg?ts=1753866255150&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-jacquard-calados-p05584311.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BALLOON COSTURAS GIRADAS",
+        "imagen": "https://static.zara.net/assets/public/4ec3/2798/34b34de9b207/9a376498e713/04087362800-p/04087362800-p.jpg?ts=1761060956581&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-costuras-giradas-p04087362.html",
         "precio_original": "35.95€",
         "precio_final": "14.38€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN 100% LINO",
-        "imagen": "https://static.zara.net/assets/public/11a5/5dd1/951d46f491f9/002b72e44a14/04410010250-a1/04410010250-a1.jpg?ts=1753686201906&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-100-lino-p04410010.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CARGO",
-        "imagen": "https://static.zara.net/assets/public/f54e/c7ab/49a24ea1aa7f/75e46356b782/00108302805-a1/00108302805-a1.jpg?ts=1722445706941&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-p00108302.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA CINTURÓN LIMITED EDITION",
-        "imagen": "https://static.zara.net/assets/public/bea3/37d7/69874e49bf44/87350d41af7d/05691122505-a1/05691122505-a1.jpg?ts=1760466674488&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-cinturon-limited-edition-p05691122.html",
-        "precio_original": "79.95€",
-        "precio_final": "31.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TRAJE ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/8fe4/f536/da844be7b110/c3a67e627de9/05905484730-a1/05905484730-a1.jpg?ts=1756220856868&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-estructura-p05905484.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TRAJE 100% LINO",
-        "imagen": "https://static.zara.net/assets/public/cc26/8aeb/dcf44398be3b/d7775ce32cd0/00706727519-a1/00706727519-a1.jpg?ts=1753720767722&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-100-lino-p00706727.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS WIDE FIT PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/c37e/98dc/d85a4ad6ba5b/732e641c7f01/00774333700-a1/00774333700-a1.jpg?ts=1761120255582&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-wide-fit-pliegues-p07380333.html",
+        "nombre": "JEANS WIDE FIT",
+        "imagen": "https://static.zara.net/assets/public/877a/c2d5/e3d5481f872d/a1ef5c9f4383/04365308822-p/04365308822-p.jpg?ts=1761841065732&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-wide-fit-p04365308.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN BALLOON FIT ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/9d2c/ee03/7bb2418ab197/7b6d01598232/06861900922-a1/06861900922-a1.jpg?ts=1764775203832&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-estructura-p06861900.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUIDO ALGODÓN - LINO",
-        "imagen": "https://static.zara.net/assets/public/679f/9669/b15a4f3594cf/ae290f30bdf2/02599300822-a1/02599300822-a1.jpg?ts=1758696824211&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-algodon---lino-p02599300.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUIDO STRAIGHT FIT",
-        "imagen": "https://static.zara.net/assets/public/efb3/a612/917843f28989/3c6626989a1d/00706362422-a1/00706362422-a1.jpg?ts=1753866167615&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-straight-fit-p00706362.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS SLIM TAPERED FIT",
-        "imagen": "https://static.zara.net/assets/public/45a7/c07e/096f463fbf8c/91b36c417ffe/04060303406-001-a1/04060303406-001-a1.jpg?ts=1753723649740&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-slim-tapered-fit-p04060303.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT LINO",
-        "imagen": "https://static.zara.net/assets/public/ad2b/17ff/4a7f4e92861a/0d2d4d387841/04410234052-a1/04410234052-a1.jpg?ts=1743768424026&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-lino-p04410234.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS TAPERED WIDE FIT",
-        "imagen": "https://static.zara.net/assets/public/88e1/dd55/920e4de3be6f/df66b158f431/09794360406-a1/09794360406-a1.jpg?ts=1755507251177&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-tapered-wide-fit-p09942360.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN WIDE FIT LAVADO",
-        "imagen": "https://static.zara.net/assets/public/e2e9/1f7c/06f2483abc87/9b6878dfb167/08741310102-a1/08741310102-a1.jpg?ts=1760689291260&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-wide-fit-lavado-p08741310.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN LINO",
-        "imagen": "https://static.zara.net/assets/public/bae7/3e00/c4ea44ebb47a/217c63c1ced9/04410010711-000-a1/04410010711-000-a1.jpg?ts=1759763682965&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-100-lino-p04410010.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CHINO ESTRUCTURA CONFORT",
-        "imagen": "https://static.zara.net/assets/public/519f/21ee/95134ed0b5c6/2dad020602c2/00706650809-a1/00706650809-a1.jpg?ts=1756723190093&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-chino-estructura-confort-p00706650.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS BÁSICOS SKINNY FIT",
-        "imagen": "https://static.zara.net/assets/public/f040/76c8/f7f04aeb8009/5d1e37aadcb2/05575445250-a1/05575445250-a1.jpg?ts=1758707274318&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-basicos-skinny-fit-p05575445.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CARGO TWILL",
-        "imagen": "https://static.zara.net/assets/public/99aa/7c20/8cf04034aa66/288229a9a3b3/04302315717-a1/04302315717-a1.jpg?ts=1761214249427&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-twill-p04302315.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTAMPADO ABSTRACTO",
-        "imagen": "https://static.zara.net/assets/public/27e1/f009/c8974f9eb05c/6a6ce610f932/06917335028-a1/06917335028-a1.jpg?ts=1760096427645&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estampado-abstracto-p06917335.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT COSTURA GIRADA",
-        "imagen": "https://static.zara.net/assets/public/f793/4eb1/e17a4738b4f3/11e2370aa4b0/04575329922-a1/04575329922-a1.jpg?ts=1757596681989&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-costura-girada-p04575329.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN BAGGY FIT RAYAS",
-        "imagen": "https://static.zara.net/assets/public/7041/2f35/747746e4955d/5695d3808ca7/06917305104-a1/06917305104-a1.jpg?ts=1751623347922&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-rayas-p06917305.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN LAVADO CINTURA JOGGER",
-        "imagen": "https://static.zara.net/assets/public/6a3d/011e/e60a4f659f4a/29498c7fab11/06786350707-a1/06786350707-a1.jpg?ts=1737541623057&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-lavado-cintura-jogger-p06786350.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CARGO LAVADO",
-        "imagen": "https://static.zara.net/assets/public/5e7c/7b53/16f04e53b1ab/cec012744f2f/04729307700-a1/04729307700-a1.jpg?ts=1761141023136&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-lavado-p04729307.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ALGODÓN - LINO",
-        "imagen": "https://static.zara.net/assets/public/89ce/cacf/e08f4ab68a81/8462dcf3ef71/04575406811-a1/04575406811-a1.jpg?ts=1747663532978&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-algodon---lino-p04575406.html",
-        "precio_original": "29.95€",
-        "precio_final": "7.19€",
-        "descuento": "-76%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN REGULAR FIT ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/3ee4/c4ad/46ed49ecb84f/2cf35232ea35/00706160706-a1/00706160706-a1.jpg?ts=1752649786619&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-estructura-p00706160.html",
-        "precio_original": "39.95€",
-        "precio_final": "9.19€",
-        "descuento": "-77%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN PLIEGUES CINTURÓN",
-        "imagen": "https://static.zara.net/assets/public/beeb/88ad/5dca44bcb72c/c2678beaf6b8/03991350717-a1/03991350717-a1.jpg?ts=1762270634943&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-cinturon-p03991350.html",
-        "precio_original": "59.95€",
-        "precio_final": "29.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CHINO DENIM",
-        "imagen": "https://static.zara.net/assets/public/fbc5/42dd/bc9a4db98b0d/0161e41a2c34/03991302422-a1/03991302422-a1.jpg?ts=1757070967326&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-chino-denim-p03991302.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA CANVAS",
-        "imagen": "https://static.zara.net/assets/public/3a03/145a/4e6c494dbc59/00192816def6/01437465507-a1/01437465507-a1.jpg?ts=1759832896693&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-canvas-p01437465.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN BAGGY FIT PARCHE BORDADO NFL WASHINGTON COMMANDERS",
-        "imagen": "https://static.zara.net/assets/public/d66d/6a19/416a4e87bf49/a90fb1b9f8e2/04302388707-a1/04302388707-a1.jpg?ts=1762257064714&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-parche-bordado-nfl-washington-commanders-p04302388.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "JEANS FLARE FIT ENCERADO",
-        "imagen": "https://static.zara.net/assets/public/eaca/0bca/bd384e62bb26/b724d5a81c7f/00840342700-a1/00840342700-a1.jpg?ts=1764147313307&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-flare-fit-encerado-p00840342.html",
-        "precio_original": "49.95€",
-        "precio_final": "24.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN REGULAR FIT CINTURA JOGGER",
-        "imagen": "https://static.zara.net/assets/public/0955/c28c/9c424c528bf6/49a9e2e0dfd4/06861359712-a1/06861359712-a1.jpg?ts=1750950743433&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-cintura-jogger-p06861359.html",
-        "precio_original": "39.95€",
-        "precio_final": "9.19€",
-        "descuento": "-77%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RAYAS CINTURÓN LIMITED EDITION",
-        "imagen": "https://static.zara.net/assets/public/1968/6643/66964fb8849c/a1114519433c/05617040700-a1/05617040700-a1.jpg?ts=1749543019801&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-rayas-cinturon-limited-edition-p05617040.html",
-        "precio_original": "69.95€",
-        "precio_final": "27.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN BAGY FIT PANA",
-        "imagen": "https://static.zara.net/assets/public/5ed9/53dc/e75541449d9a/7938ea212f2c/04575340700-a1/04575340700-a1.jpg?ts=1761663987873&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-bagy-fit-pana-p04575340.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN JOGGER REGULAR FIT VIVO",
-        "imagen": "https://static.zara.net/assets/public/f041/2dd2/0d2a43d59345/483ca5c2086b/08054332422-a1/08054332422-a1.jpg?ts=1760960687075&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-jogger-regular-fit-vivo-p08054332.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT BOLSILLO CARPINTERO",
-        "imagen": "https://static.zara.net/assets/public/05e8/9511/650f4477a30c/d09a33e9ffa8/04365361700-a1/04365361700-a1.jpg?ts=1764324553440&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-bolsillo-carpintero-p04365361.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN STRAIGHT FIT",
-        "imagen": "https://static.zara.net/assets/public/0111/7f8f/fc7049a4b457/b79dd254a368/06861831712-a1/06861831712-a1.jpg?ts=1761297636974&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-p06861831.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN REGULAR FIT BOLSILLOS",
-        "imagen": "https://static.zara.net/assets/public/5abb/6e73/18e4492388cc/5c63541d441c/06917301700-a1/06917301700-a1.jpg?ts=1755180604221&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-bolsillos-p06917301.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN CHINO STRAIGHT FIT",
-        "imagen": "https://static.zara.net/assets/public/9d5e/5c1d/fe9a408c943f/9c78cfc68c11/04391304710-a1/04391304710-a1.jpg?ts=1756378968754&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-chino-straight-fit-p04391304.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN DENIM CARGO BOLSILLOS",
-        "imagen": "https://static.zara.net/assets/public/134c/d88e/a8e64f389521/4f45ab077aff/08062351700-a1/08062351700-a1.jpg?ts=1758875866801&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-denim-cargo-bolsillos-p08062351.html",
-        "precio_original": "49.95€",
-        "precio_final": "24.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN ESTRUCTURA RAYAS",
-        "imagen": "https://static.zara.net/assets/public/d900/07a6/06b54c0c90af/9fc36b1d3c2d/06917340104-a1/06917340104-a1.jpg?ts=1752230515945&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-rayas-p06917340.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN RELAXED FIT PLIEGUES",
-        "imagen": "https://static.zara.net/assets/public/7bbb/4aa5/e7be48bb8787/9be6b79af467/06318314400-a1/06318314400-a1.jpg?ts=1756380218984&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-pliegues-p06318314.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN PLIEGUES RELAXED FIT",
-        "imagen": "https://static.zara.net/assets/public/5d00/0ff1/2c2d4503b892/4173abebf458/08574338401-a1/08574338401-a1.jpg?ts=1759485067978&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-relaxed-fit-p08574338.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN TRAJE RAYA DIPLOMÁTICA",
-        "imagen": "https://static.zara.net/assets/public/b6a6/0315/f6424dccbb4f/1a058cc69662/06796685422-a1/06796685422-a1.jpg?ts=1759929190613&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-raya-diplomatica-p06796685.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALÓN FLUIDO CREMALLERAS",
-        "imagen": "https://static.zara.net/assets/public/2e7e/5727/964948c9b3c3/4f75cc32316c/04391700800-a1/04391700800-a1.jpg?ts=1758094388757&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-cremalleras-p04391700.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
+        "nombre": "PANTALÓN PANA PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/621c/cc01/5ef441fd8854/e9d02c226ebf/04391350922-p/04391350922-p.jpg?ts=1764932427777&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-pana-pliegues-p04391350.html",
+        "precio_original": "45.95€",
+        "precio_final": "18.38€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "PANTALÓN VISCOSA - YUTE",
-        "imagen": "https://static.zara.net/assets/public/c5c0/c854/12664e9bb9ee/c8f869fbf527/05770100250-a1/05770100250-a1.jpg?ts=1752592471372&w=326",
+        "imagen": "https://static.zara.net/assets/public/aafc/c269/1d084156a472/e5dec2b1c876/05770100250-p/05770100250-p.jpg?ts=1752592471483&w=710",
         "url_producto": "https://www.zara.com/es/es/pantalon-viscosa---yute-p05770100.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
@@ -1008,44 +396,170 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS REGULAR FIT",
-        "imagen": "https://static.zara.net/assets/public/6015/ed60/e2144fc0af01/04cdbaa59dd9/05585376700-a1/05585376700-a1.jpg?ts=1762936735147&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-regular-fit-p05585376.html",
+        "nombre": "JEANS BAGGY FIT",
+        "imagen": "https://static.zara.net/assets/public/da3e/494a/67ab49138f28/f040af3bfe63/01300303712-p/01300303712-p.jpg?ts=1764338496142&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-baggy-fit-p01300303.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS RELAXED FIT FLOCADO TERCIOPELO",
-        "imagen": "https://static.zara.net/assets/public/43c5/24f3/353c4f1ca2d5/a0ae3c3f2aca/00840385700-a1/00840385700-a1.jpg?ts=1763035127668&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-relaxed-fit-flocado-terciopelo-p00840385.html",
-        "precio_original": "59.95€",
-        "precio_final": "29.97€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "PANTALON PLIEGUES ESPIGA",
-        "imagen": "https://static.zara.net/assets/public/d426/0159/eceb4c50ade1/30d0d1934edc/05862508712-a1/05862508712-a1.jpg?ts=1754905361327&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-espiga-p05862508.html",
-        "precio_original": "59.95€",
-        "precio_final": "23.98€",
+        "nombre": "PANTALÓN RAYA DIPLOMÁTICA PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/e700/5f83/95934b94abde/47f9f77d171e/04333308801-p/04333308801-p.jpg?ts=1764255052502&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-raya-diplomatica-pliegues-p04333308.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS CARGO STRAIGHT FIT",
-        "imagen": "https://static.zara.net/assets/public/64d9/fe41/39654d12a202/ee16f5baad85/08062373427-a1/08062373427-a1.jpg?ts=1758207934956&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-cargo-straight-fit-p08062373.html",
+        "nombre": "PANTALÓN CON LINO",
+        "imagen": "https://static.zara.net/assets/public/fa05/fffa/fb5d45f98bb3/332d89917b8f/08574303052-000-p/08574303052-000-p.jpg?ts=1745312042030&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-con-lino-p08574303.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TRAJE SLIM FIT",
+        "imagen": "https://static.zara.net/assets/public/c0b1/d4ce/49014c2a9515/bfc195e958ce/05879253420-p/05879253420-p.jpg?ts=1753720768768&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-traje-slim-fit-p04426254.html",
+        "precio_original": null,
+        "precio_final": "35.95€",
+        "descuento": null,
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARGO",
+        "imagen": "https://static.zara.net/assets/public/39ea/c188/721a42269e0d/85583948c36b/00108302805-p/00108302805-p.jpg?ts=1722445706929&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-p00108302.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT LAVADO",
+        "imagen": "https://static.zara.net/assets/public/293a/4d93/24d04f5994c8/1f0551a84421/07147435507-p/07147435507-p.jpg?ts=1759413562366&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-lavado-p07147435.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/48fe/2ffa/22ca416482c6/d28fa79c63cd/01437330422-p/01437330422-p.jpg?ts=1756386019145&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-relaxed-fit-p01437330.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN 100% LINO",
+        "imagen": "https://static.zara.net/assets/public/1686/b26a/b1684bccadc7/6f18a7e8e152/08281010052-p/08281010052-p.jpg?ts=1753686207177&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-100-lino-p04410010.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN REGULAR FIT CINTURA JOGGER",
+        "imagen": "https://static.zara.net/assets/public/9dec/9121/a405412e9708/328d606dd2c0/06861359711-p/06861359711-p.jpg?ts=1751011128645&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-cintura-jogger-p06861359.html",
+        "precio_original": "39.95€",
+        "precio_final": "9.19€",
+        "descuento": "-77%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTRUCTURA LAVADA",
+        "imagen": "https://static.zara.net/assets/public/3e7e/37b5/c54c4cdd9146/a1406b6b3ff0/06917365700-p/06917365700-p.jpg?ts=1759485675011&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-lavada-p06917365.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS TAPERED WIDE FIT",
+        "imagen": "https://static.zara.net/assets/public/66e1/fd5c/6e7c42dca4ba/7df52174715d/09942360400-p/09942360400-p.jpg?ts=1755188367187&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-tapered-wide-fit-p09942360.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN LAVADO CINTURA JOGGER",
+        "imagen": "https://static.zara.net/assets/public/17d5/8d5b/709340729bcb/83ba3635afaa/06786352505-p/06786352505-p.jpg?ts=1717572473304&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-lavado-cintura-jogger-p06786350.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RAYAS REGULAR FIT",
+        "imagen": "https://static.zara.net/assets/public/7341/882e/81a340209853/9b225b9035f9/06338106251-p/06338106251-p.jpg?ts=1754640366855&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-rayas-regular-fit-p06338106.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS SLIM FIT CONFORT",
+        "imagen": "https://static.zara.net/assets/public/87be/a340/25ae4cffba4a/0fa2064a4dd0/03991404400-p/03991404400-p.jpg?ts=1764777426368&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-slim-fit-confort-p03991404.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
+        "nombre": "PANTALÓN CHINO ESTRUCTURA CONFORT",
+        "imagen": "https://static.zara.net/assets/public/5067/5d64/fa2241638860/767ef668cbaf/00706650409-p/00706650409-p.jpg?ts=1760097752321&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-estructura-confort-p00706650.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/a7b4/5ace/04a24c638de0/6ea766fcc7c1/08062410406-001-p/08062410406-001-p.jpg?ts=1753723273597&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-straight-fit-p08062410.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT ALGODÓN - LINO",
+        "imagen": "https://static.zara.net/assets/public/c396/a6ba/d3da4e39a86c/cd231eb868b5/04470450052-p/04470450052-p.jpg?ts=1740396759923&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-algodon---lino-p01437450.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO ALGODÓN - LINO",
+        "imagen": "https://static.zara.net/assets/public/605f/6ccb/ee2f452ea8a0/54d6d85111a3/02599300707-p/02599300707-p.jpg?ts=1758633882562&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-algodon---lino-p02599300.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
         "nombre": "JEANS LOOSE FIT SALPICADURAS",
-        "imagen": "https://static.zara.net/assets/public/f8b6/7555/20cc47b4a785/cc741bafd382/00840364090-a1/00840364090-a1.jpg?ts=1761728514795&w=326",
+        "imagen": "https://static.zara.net/assets/public/56f1/65a9/ae8a438f9a9e/694df888e8f3/00840364090-p/00840364090-p.jpg?ts=1761728514638&w=710",
         "url_producto": "https://www.zara.com/es/es/jeans-loose-fit-salpicaduras-p00840365.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
@@ -1053,30 +567,768 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "JEANS SKINNY FIT ROTOS",
-        "imagen": "https://static.zara.net/assets/public/af94/7fa0/a2514796a66b/902370aaa1b8/08062388427-a1/08062388427-a1.jpg?ts=1753809540818&w=326",
-        "url_producto": "https://www.zara.com/es/es/jeans-skinny-fit-rotos-p08062388.html",
+        "nombre": "PANTALÓN TÉCNICO BANDAS",
+        "imagen": "https://static.zara.net/assets/public/2d2f/1e2e/42a44b5e9351/5ad88d8a7aa9/03918326420-p/03918326420-p.jpg?ts=1758875856958&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-tecnico-bandas-p03918326.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT LINO",
+        "imagen": "https://static.zara.net/assets/public/9bbd/e700/b4094bf8aef2/1e3ab7133460/04410234052-p/04410234052-p.jpg?ts=1743768426222&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-lino-p04410234.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CHINO SKINNY FIT",
+        "imagen": "https://static.zara.net/assets/public/e5f8/5eca/c5454a5d88ce/d62641a61a0b/06786370500-p/06786370500-p.jpg?ts=1765874745781&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-skinny-fit-p06786370.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ALGODÓN - LINO",
+        "imagen": "https://static.zara.net/assets/public/512d/be2b/ec114944876a/b3a73c7f961b/04575406506-000-p/04575406506-000-p.jpg?ts=1747730032129&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-algodon---lino-p04575406.html",
+        "precio_original": "29.95€",
+        "precio_final": "7.19€",
+        "descuento": "-76%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARPINTERO ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/0548/f951/3f194263bcb4/a30800551471/05862305027-p/05862305027-p.jpg?ts=1756797129116&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-carpintero-estampado-abstracto-p05862305.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTRUCTURA RAYAS",
+        "imagen": "https://static.zara.net/assets/public/2279/ef5c/cf2f45a1a808/c63a9fd722b8/06917340104-p/06917340104-p.jpg?ts=1752230518438&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-rayas-p06917340.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARROT FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/a5a1/d258/a5e9458fbd72/5f3f43998c51/04391340800-p/04391340800-p.jpg?ts=1761908366221&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-carrot-fit-estructura-p04391340.html",
+        "precio_original": "45.95€",
+        "precio_final": "18.38€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS CARGO BAGGY FIT",
+        "imagen": "https://static.zara.net/assets/public/a4a2/d13f/12184bb2afcc/9525bb8ea5d6/09794323427-p/09794323427-p.jpg?ts=1760024876480&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-cargo-baggy-fit-p09794323.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN TRAJE CON LANA",
-        "imagen": "https://static.zara.net/assets/public/61f8/1a55/357c4a999ee7/b763429eb172/01564979716-a1/01564979716-a1.jpg?ts=1762963009679&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-traje-con-lana-p00706977.html",
+        "nombre": "PANTALÓN LINO",
+        "imagen": "https://static.zara.net/assets/public/639f/9ffd/52914b26b71a/d38209225047/05070122052-p/05070122052-p.jpg?ts=1737117968088&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-lino-p05070112.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS BÁSICOS SKINNY FIT",
+        "imagen": "https://static.zara.net/assets/public/1f16/e7c7/db6d4a28bcab/29fe08b7a0bf/05575445250-p/05575445250-p.jpg?ts=1758707277756&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-basicos-skinny-fit-p05575445.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/9daa/552f/da984d7aa16b/a04565539572/06861831712-p/06861831712-p.jpg?ts=1761297639649&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-p06861831.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT TWILL",
+        "imagen": "https://static.zara.net/assets/public/af7b/e5fd/389347cab90c/8902987ea8a9/06786340507-p/06786340507-p.jpg?ts=1756466318137&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-twill-p06786340.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/7ff4/290b/e7fd429fbe8d/cbee5ef95269/02342301700-p/02342301700-p.jpg?ts=1756130623423&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-p02342301.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CINTURA JOGGER SLIM FIT",
+        "imagen": "https://static.zara.net/assets/public/33d0/ae0a/5c1c42e8add2/b755759907fe/06786320506-p/06786320506-p.jpg?ts=1755080368580&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-slim-fit-p06786320.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN DENIM CARGO BOLSILLOS",
+        "imagen": "https://static.zara.net/assets/public/749e/f150/55af4498bbf8/d2b2de7e595b/08062351700-p/08062351700-p.jpg?ts=1758875869202&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-denim-cargo-bolsillos-p08062351.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/3042/495a/deb041449831/0798c9048343/04391311506-p/04391311506-p.jpg?ts=1751457501960&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-relaxed-fit-p04391311.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARGO TWILL",
+        "imagen": "https://static.zara.net/assets/public/0910/132e/dd8d4abd8d70/f170b7ccb367/04302315717-p/04302315717-p.jpg?ts=1761214249439&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-twill-p04302315.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CHINO RELAXED FIT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/554e/0c3d/cf6f4e538266/f62ffec744d1/03286340707-p/03286340707-p.jpg?ts=1758623419798&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-relaxed-fit-pliegues-p03286340.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS SLIM FIT BÁSICO",
+        "imagen": "https://static.zara.net/assets/public/db90/410a/20694b198dc5/874d062627d9/00774350802-p/00774350802-p.jpg?ts=1755006777053&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-slim-fit-basico-p00774350.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS SLIM FIT",
+        "imagen": "https://static.zara.net/assets/public/b4bd/f648/219d4d90b495/aa2b736f9eb3/00774340250-001-p/00774340250-001-p.jpg?ts=1753722891265&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-slim-fit-p00774340.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/5170/0873/d50c4e84a574/5e75e322a7ef/06416310800-p/06416310800-p.jpg?ts=1760093776168&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-estructura-p06416310.html",
         "precio_original": "49.95€",
         "precio_final": "19.98€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "PANTALÓN BAGGY FIT VELOUR",
-        "imagen": "https://static.zara.net/assets/public/be44/93a0/2c9948628c2b/ab728a1fbcac/08281324505-a1/08281324505-a1.jpg?ts=1762863186396&w=326",
-        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-velour-p08281324.html",
+        "nombre": "JEANS SLIM TAPERED FIT",
+        "imagen": "https://static.zara.net/assets/public/a8d7/95b1/fd114f98858b/a90e57b6d6be/04060303406-001-p/04060303406-001-p.jpg?ts=1753723649746&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-slim-tapered-fit-p04060303.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARROT FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/7887/06cb/e03d4f52b171/94b771e83e11/03046395055-p/03046395055-p.jpg?ts=1758027019814&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-carrot-fit-estructura-p03046395.html",
+        "precio_original": "45.95€",
+        "precio_final": "18.38€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTAMPADO CÓMIC",
+        "imagen": "https://static.zara.net/assets/public/3426/fcff/bf8a41679ab0/82fa0d95c06d/05862355028-p/05862355028-p.jpg?ts=1755682085788&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estampado-comic-p05862355.html",
         "precio_original": "39.95€",
         "precio_final": "15.98€",
         "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN REGULAR FIT PANA",
+        "imagen": "https://static.zara.net/assets/public/d9bb/040a/ff7b42fe9aef/a4c5a5923b85/04391440251-p/04391440251-p.jpg?ts=1759238671143&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-pana-p04391440.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TRAJE 100% LINO",
+        "imagen": "https://static.zara.net/assets/public/db48/e73a/45084d4993f6/f09abead49c2/00706175922-000-p/00706175922-000-p.jpg?ts=1753720853636&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-traje-100-lino-p00706175.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CHINO STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/61b6/dd86/d4ba433d9764/dc5db74b36c5/04391304710-p/04391304710-p.jpg?ts=1756378969881&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-straight-fit-p04391304.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT PANA",
+        "imagen": "https://static.zara.net/assets/public/1907/afe5/b7d44ecaa25d/44cc0d9b0845/09621152710-p/09621152710-p.jpg?ts=1764778018551&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-pana-p09621152.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BAGGY FIT PARCHE BORDADO NFL WASHINGTON COMMANDERS",
+        "imagen": "https://static.zara.net/assets/public/5abf/c7c7/6ccb49b9b7cf/0a106879b6ff/04302388707-p/04302388707-p.jpg?ts=1762257067382&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-baggy-fit-parche-bordado-nfl-washington-commanders-p04302388.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CHINO STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/9fbc/2142/56924b9992f7/626930089b19/02342302052-p/02342302052-p.jpg?ts=1755791712144&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-straight-fit-p02342302.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/4e73/7feb/866249e49b29/975f6799b7cf/00774332802-p/00774332802-p.jpg?ts=1755530350400&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-straight-fit-p08062330.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/13e9/1283/30a54704893b/dd07f152c31a/00706662052-p/00706662052-p.jpg?ts=1753881521283&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-pliegues-p00706662.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/62d4/7b7f/bbe149f39872/6691b6042115/06917335028-p/06917335028-p.jpg?ts=1760096429360&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estampado-abstracto-p06917335.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN PLIEGUES RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/dfcc/0b6f/4d384dccbfa9/18d51b396c84/01195301422-p/01195301422-p.jpg?ts=1764756897082&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-relaxed-fit-p01195301.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN WIDE FIT RAYAS LIMITED EDITION",
+        "imagen": "https://static.zara.net/assets/public/5156/7b9f/75ee45f3a74d/bf5228c34c8c/05792052017-p/05792052017-p.jpg?ts=1760466681500&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-wide-fit-rayas-limited-edition-p05792052.html",
+        "precio_original": "89.95€",
+        "precio_final": "35.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/ab8a/3593/24244f4caeee/1e3341cdf6fb/01195432800-p/01195432800-p.jpg?ts=1740486893650&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-relaxed-fit-p01195326.html",
+        "precio_original": "29.95€",
+        "precio_final": "7.19€",
+        "descuento": "-76%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TRAJE CONFORT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/c159/0694/0db144b183b6/0d5aab2882ee/09593999800-p/09593999800-p.jpg?ts=1765814199895&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-traje-confort-pliegues-p09593999.html",
+        "precio_original": "35.95€",
+        "precio_final": "14.38€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN PLISADO TERCIOPELO",
+        "imagen": "https://static.zara.net/assets/public/f875/432b/5321446baff3/40ca3d7eccf2/05320711030-p/05320711030-p.jpg?ts=1762331773911&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-plisado-terciopelo-p05320711.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BALLOON FIT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/3c01/c4f5/6478440fb4be/a7d2a9e2a3ce/05854180505-p/05854180505-p.jpg?ts=1762429586548&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-pliegues-p05854180.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS BAGGY FIT ROTOS",
+        "imagen": "https://static.zara.net/assets/public/de9f/e13e/ab3f4d8ba325/3f25f067f364/06045301406-p/06045301406-p.jpg?ts=1753346070485&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-baggy-fit-rotos-p06045301.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS RELAXED FIT BOLSILLOS",
+        "imagen": "https://static.zara.net/assets/public/fa62/06a1/ded24d0ca678/2687e348a5a5/03991328822-p/03991328822-p.jpg?ts=1760096415829&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-relaxed-fit-bolsillos-p03991328.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS CARGO STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/aa03/b9e2/cc5f47c69b47/57d5b10817f8/08062373427-p/08062373427-p.jpg?ts=1758207935851&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-cargo-straight-fit-p08062373.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN REGULAR FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/d8aa/aecc/9fa743ef929e/4516d65074c3/01063313401-p/01063313401-p.jpg?ts=1753687483426&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-estructura-p01063313.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CINTURA JOGGER REGULAR FIT",
+        "imagen": "https://static.zara.net/assets/public/4113/86bc/7cf14d1d988f/031373801f0b/06861955500-p/06861955500-p.jpg?ts=1758031521040&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cintura-jogger-regular-fit-p06861955.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN REGULAR FIT BOLSILLOS",
+        "imagen": "https://static.zara.net/assets/public/cb59/3918/2f7241df9bb1/835806c3fd75/06917301700-p/06917301700-p.jpg?ts=1755180607200&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-bolsillos-p06917301.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TRAJE CUADROS",
+        "imagen": "https://static.zara.net/assets/public/b4c8/faf8/1c5c47da935b/e5ba17895209/01564351801-p/01564351801-p.jpg?ts=1755171663407&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-traje-cuadros-p01564351.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN SEERSUCKER RAYAS CONFORT",
+        "imagen": "https://static.zara.net/assets/public/0331/6ea0/578547608d91/ede3fd5a2848/04092348044-p/04092348044-p.jpg?ts=1755162951867&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-seersucker-rayas-confort-p04092348.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN PLIEGUES CINTURÓN",
+        "imagen": "https://static.zara.net/assets/public/e4e9/d39e/1d5349c69b91/3884b7fa45d7/03991350717-p/03991350717-p.jpg?ts=1762339585958&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-cinturon-p03991350.html",
+        "precio_original": "59.95€",
+        "precio_final": "29.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN JOGGER ESTRUCTURA VERTICAL",
+        "imagen": "https://static.zara.net/assets/public/1218/21c6/184543fe9aca/ddb2d81104b0/00761398800-000-p/00761398800-000-p.jpg?ts=1759763646247&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-jogger-estructura-vertical-p00761398.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT LAVADO",
+        "imagen": "https://static.zara.net/assets/public/eb0e/47d7/998e44418c3a/80e59dfbe13e/06861330700-p/06861330700-p.jpg?ts=1755786268096&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-lavado-p06861330.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/fdad/9965/28bb44a2bf3a/ef348d7b1547/01195340401-p/01195340401-p.jpg?ts=1758268425437&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-pliegues-p01195340.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN FLUIDO CREMALLERAS",
+        "imagen": "https://static.zara.net/assets/public/df39/2b51/6d2940d4a0ee/2010f29e5ff4/04391700401-p/04391700401-p.jpg?ts=1758037742252&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-fluido-cremalleras-p04391700.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT ABERTURAS",
+        "imagen": "https://static.zara.net/assets/public/c2a6/0969/86014da696a6/5ce2bf849dd9/05665659800-p/05665659800-p.jpg?ts=1753346079471&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-aberturas-p05665659.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/dcf2/5ff7/f875413f9a24/6dd4819512cb/07484144800-p/07484144800-p.jpg?ts=1752592481696&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-pliegues-p07484144.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TRAJE CON LANA",
+        "imagen": "https://static.zara.net/assets/public/96c8/8060/75694a1c8de1/f0c466750af6/05747545401-p/05747545401-p.jpg?ts=1757332132625&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-traje-con-lana-p05747545.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN REGULAR FIT ALGODÓN",
+        "imagen": "https://static.zara.net/assets/public/03a4/66f2/5f8140a7979e/6b836dc79d20/06508641800-p/06508641800-p.jpg?ts=1764260618414&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-algodon-p06508641.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN PLIEGUES TWILL",
+        "imagen": "https://static.zara.net/assets/public/ad3d/9b53/da1243b0acb2/5f4451eca67f/06748816716-p/06748816716-p.jpg?ts=1760023863948&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-pliegues-twill-p06748816.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TRAJE ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/8854/3174/a84f486fbf73/50577e34845d/05675718200-p/05675718200-p.jpg?ts=1753808920109&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-traje-estructura-p05675718.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARGO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/f313/4ff5/d90b4e39a426/7df7cd3b4a33/04729307700-p/04729307700-p.jpg?ts=1761141026765&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-lavado-p04729307.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS SLIM FIT CONFORT",
+        "imagen": "https://static.zara.net/assets/public/6fb2/91a2/e70748eeb0c8/e8fd69e8a482/05585301400-p/05585301400-p.jpg?ts=1758790683265&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-slim-fit-confort-p03991300.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS FLARE FIT CREMALLERAS",
+        "imagen": "https://static.zara.net/assets/public/8f1f/d602/477c45828ffb/bd1847fc1a20/00840311700-p/00840311700-p.jpg?ts=1759843188369&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-flare-fit-cremalleras-p00840310.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CHINO SLIM FIT",
+        "imagen": "https://static.zara.net/assets/public/1413/45d6/f519492ea701/ba0675f3bed2/00706418707-p/00706418707-p.jpg?ts=1755701801877&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-slim-fit-p00706418.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT TEXTURA",
+        "imagen": "https://static.zara.net/assets/public/e288/6016/0c4a4cbc8996/98c1300cc3af/04184153052-p/04184153052-p.jpg?ts=1742212970859&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-textura-p07147400.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN RELAXED FIT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/2338/e474/137044d2a781/a8e35aae73f0/06318314400-p/06318314400-p.jpg?ts=1756380218608&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-relaxed-fit-pliegues-p06318314.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ALGODÓN - LINO PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/369b/a794/d07b41b0aa2a/8c55e7b8c350/06861300052-p/06861300052-p.jpg?ts=1753367646857&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-algodon---lino-pliegues-p06861300.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN STRAIGHT FIT LAVADO",
+        "imagen": "https://static.zara.net/assets/public/40fc/dd25/13da495383b1/7868811194d6/06917306409-p/06917306409-p.jpg?ts=1758102639191&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-straight-fit-lavado-p06917306.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BAGY FIT PANA",
+        "imagen": "https://static.zara.net/assets/public/f785/4fbf/929b486e94e0/74942fd9a68e/04575340700-p/04575340700-p.jpg?ts=1761663988886&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-bagy-fit-pana-p04575340.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN BALLOON FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/9caf/30fa/f756468ab264/52bcf5d82445/06861900922-p/06861900922-p.jpg?ts=1764775203838&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-balloon-fit-estructura-p06861900.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTRUCTURA CANVAS",
+        "imagen": "https://static.zara.net/assets/public/3742/f9d6/de2d4d158e98/3bec88e7d1cb/01437465507-p/01437465507-p.jpg?ts=1759832898804&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-canvas-p01437465.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS REGULAR FIT LAVADO",
+        "imagen": "https://static.zara.net/assets/public/7c05/3c9f/2c8442a7810b/c01039b06da2/02342307731-p/02342307731-p.jpg?ts=1763111560341&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-regular-fit-lavado-p02342307.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARGO PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/d933/d084/300e408883a2/5ab0aaf78841/06638102505-p/06638102505-p.jpg?ts=1760099351706&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-pliegues-p06638102.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN ESTRUCTURA LANA",
+        "imagen": "https://static.zara.net/assets/public/fae1/34bf/afa6495b850f/a35d636b1723/06895638401-p/06895638401-p.jpg?ts=1761309380953&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-estructura-lana-p06746638.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN TÉCNICO CINTURA JOGGER",
+        "imagen": "https://static.zara.net/assets/public/a6c7/c69e/3c924c98b504/54a1747de5ef/05344311422-p/05344311422-p.jpg?ts=1759406096062&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-tecnico-cintura-jogger-p05344311.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN DENIM CHINO STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/0556/6b21/80f749cfb91b/2d95955bffd3/00840316407-p/00840316407-p.jpg?ts=1758696824212&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-denim-chino-straight-fit-p00840316.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS BALLOON FIT COSTURA GIRADA",
+        "imagen": "https://static.zara.net/assets/public/ddc7/981e/c0f0410fbd76/561f89b9d567/06045321802-p/06045321802-p.jpg?ts=1755594781181&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-balloon-fit-costura-girada-p06045321.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS STRAIGHT FIT ACABADO ENCERADO",
+        "imagen": "https://static.zara.net/assets/public/8639/70d9/ff0a4ee2b1cb/e747b0eab790/03991351717-p/03991351717-p.jpg?ts=1762255453444&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-straight-fit-acabado-encerado-p03991351.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS WIDE FIT PLIEGUES",
+        "imagen": "https://static.zara.net/assets/public/d441/c8d1/42884e8ea72b/b889c52b9980/00774333700-p/00774333700-p.jpg?ts=1761120255497&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-wide-fit-pliegues-p07380333.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CHINO STRAIGHT FIT",
+        "imagen": "https://static.zara.net/assets/public/875c/1670/b5584a7d9967/c10df9d44f8d/01820304712-p/01820304712-p.jpg?ts=1758038225817&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-chino-straight-fit-p01820304.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS BOLSILLO CARPINTERO",
+        "imagen": "https://static.zara.net/assets/public/e0ca/c7bb/fa12499ba886/e09db6cfc7cf/06688361400-p/06688361400-p.jpg?ts=1758271374255&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-bolsillo-carpintero-p06688361.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS CARPINTERO EFECTO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/3241/25a9/86f1497bae5a/ab10b3b9debf/04365351407-p/04365351407-p.jpg?ts=1756281245191&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-carpintero-efecto-lavado-p04365350.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN CARGO BOLSILLOS ESTAMPADO ABSTRACTO",
+        "imagen": "https://static.zara.net/assets/public/be66/d75e/e39a404c80b3/f3f6eb82ddbe/06987380020-p/06987380020-p.jpg?ts=1754315913550&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-cargo-bolsillos-estampado-abstracto-p06987380.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN LIGERO RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/69e0/846d/701745d19eb2/9a9ca7edddcc/04391315500-p/04391315500-p.jpg?ts=1753687492321&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-ligero-relaxed-fit-p04391315.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "JEANS BAGGY FIT ROTOS",
+        "imagen": "https://static.zara.net/assets/public/60ba/03a9/ff6a4b408c0c/60cc9665d16c/01538303406-p/01538303406-p.jpg?ts=1753272297671&w=710",
+        "url_producto": "https://www.zara.com/es/es/jeans-baggy-fit-rotos-p01538303.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN 100% LINO BORDADOS",
+        "imagen": "https://static.zara.net/assets/public/ff5a/8540/aee54c1e9f00/50fe1c7bc6b2/01618302251-p/01618302251-p.jpg?ts=1751454869751&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-100-lino-bordados-p01618302.html",
+        "precio_original": "45.95€",
+        "precio_final": "18.38€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "PANTALÓN REGULAR FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/c601/b9d1/5f3c4f0f9f70/36f3211fb66d/00706160706-p/00706160706-p.jpg?ts=1752649790031&w=710",
+        "url_producto": "https://www.zara.com/es/es/pantalon-regular-fit-estructura-p00706160.html",
+        "precio_original": "39.95€",
+        "precio_final": "9.19€",
+        "descuento": "-77%",
         "categoria": "pantalones_hombre"
     }
 ]

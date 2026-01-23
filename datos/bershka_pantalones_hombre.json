@@ -1,6 +1,78 @@
 [
     {
         "nombre": "Jeans baggy print",
+        "imagen": "https://static.bershka.net/assets/public/b083/3b70/4ff3481b816c/8b6281694241/05333156800-p/05333156800-p.jpg?ts=1755850833217&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-baggy-print-c0p193182097.html?colorId=800",
+        "precio_original": "39.99€",
+        "precio_final": "15.99€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans baggy tachas",
+        "imagen": "https://static.bershka.net/assets/public/9580/8074/f0ff4d2ca482/dad684e53d58/05358156428-p/05358156428-p.jpg?ts=1753966351460&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-baggy-tachas-c0p197475606.html?colorId=428",
+        "precio_original": "39.99€",
+        "precio_final": "15.99€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans jogger",
+        "imagen": "https://static.bershka.net/assets/public/ca88/8cf6/35b54091a075/992689a8d07f/05352352800-p/05352352800-p.jpg?ts=1752566788560&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-jogger-c0p193207907.html?colorId=800",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón skater Demon Slayer",
+        "imagen": "https://static.bershka.net/assets/public/9bb1/bdfc/04604c90aae9/4dc4ead49a58/05494455800-a4o/05494455800-a4o.jpg?ts=1753704785243&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-skater-demon-slayer-c0p191708013.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón felpa jogger",
+        "imagen": "https://static.bershka.net/assets/public/01ae/d66b/1dba456baedc/c8ffffd90dda/05488478409-a4o/05488478409-a4o.jpg?ts=1754317182333&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-felpa-jogger-c0p189276760.html?colorId=409",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans mega baggy",
+        "imagen": "https://static.bershka.net/assets/public/f77c/22e5/8291470fbc30/8712a83ece74/05354352800-p/05354352800-p.jpg?ts=1758880474750&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-mega-baggy-c0p192655086.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "14.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón superbaggy flecos",
+        "imagen": "https://static.bershka.net/assets/public/725a/590f/0c31449488aa/06796d1bfedd/05430665800-p/05430665800-p.jpg?ts=1761822881157&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-flecos-c0p206080523.html?colorId=800&stylismId=1",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón superbaggy print",
+        "imagen": "https://static.bershka.net/assets/public/3046/54d2/67294e6eb1ce/2a76d281d0c8/05429388100-p/05429388100-p.jpg?ts=1754314902691&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-print-c0p198552050.html?colorId=100",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans baggy print",
         "imagen": "https://static.bershka.net/assets/public/f7db/1bfc/e7134d74817e/99950992de0c/05337335500-p/05337335500-p.jpg?ts=1755850833620&w=750",
         "url_producto": "https://www.bershka.com/es/jeans-baggy-print-c0p196513953.html?colorId=500",
         "precio_original": "35.99€",
@@ -9,48 +81,21 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Jeans baggy bordado",
-        "imagen": "https://static.bershka.net/assets/public/661b/f269/0196406ab40c/095fcb66f737/05370156401-a2d/05370156401-a2d.jpg?ts=1761571196623&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-baggy-bordado-c0p200396060.html?colorId=401",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans baggy flare",
-        "imagen": "https://static.bershka.net/assets/public/9c1a/ec85/98ad4765ad33/a3fae22e5b1d/05362352400-p/05362352400-p.jpg?ts=1753887513931&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-baggy-flare-c0p198588036.html?colorId=400",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans baggy jaquard",
-        "imagen": "https://static.bershka.net/assets/public/6bc2/7893/aa014729b6f2/ac96186b6878/05327074426-p/05327074426-p.jpg?ts=1751878543113&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-baggy-jaquard-c0p193182121.html?colorId=426",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans straight laser print",
-        "imagen": "https://static.bershka.net/assets/public/f4b1/9dd9/bb3f46739008/c0efc7df9336/05390335800-p/05390335800-p.jpg?ts=1759244128206&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-straight-laser-print-c0p202238179.html?colorId=800",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans straight relaxed",
-        "imagen": "https://static.bershka.net/assets/public/d698/7b45/bbc84b489fec/1b227679edba/05334335428-p/05334335428-p.jpg?ts=1757056540483&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-straight-relaxed-c0p192820818.html?colorId=428",
+        "nombre": "Jeans loose baggy",
+        "imagen": "https://static.bershka.net/assets/public/a1f9/4156/d8d9480aaf42/d8ebdbf36e9d/05355534811-p/05355534811-p.jpg?ts=1754463893890&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-loose-baggy-c0p195311759.html?colorId=811",
         "precio_original": "29.99€",
         "precio_final": "11.99€",
         "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy multicargo acid wash",
+        "imagen": "https://static.bershka.net/assets/public/321b/f807/6bf8453f9086/99fff051f412/00418388700-p/00418388700-p.jpg?ts=1757932604063&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-baggy-multicargo-acid-wash-c0p196946204.html?colorId=700",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
+        "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
@@ -63,63 +108,261 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Jeans baggy jacquard",
-        "imagen": "https://static.bershka.net/assets/public/07a7/6692/a66141229ee8/ac62c695ad8b/05332156775-p/05332156775-p.jpg?ts=1758550208803&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-baggy-jacquard-c0p195311757.html?colorId=775",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans superbaggy rotos",
-        "imagen": "https://static.bershka.net/assets/public/888e/82e0/366043dab308/a33dcbea6074/05356352400-p/05356352400-p.jpg?ts=1755758112309&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-superbaggy-rotos-c0p192659239.html?colorId=400",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans superbaggy strass filtro digital",
-        "imagen": "https://static.bershka.net/assets/public/177f/1613/666a4cf6baeb/f6dce0f61ac8/05378156800-p/05378156800-p.jpg?ts=1764335403016&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-superbaggy-strass-filtro-digital-c0p200524397.html?colorId=800",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans skinny",
-        "imagen": "https://static.bershka.net/assets/public/67b0/5db2/dd2e444e9d59/9105bdff73c7/00339534428-a4o/00339534428-a4o.jpg?ts=1738831073719&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-skinny-c0p196946189.html?colorId=428",
+        "nombre": "Jeans straight",
+        "imagen": "https://static.bershka.net/assets/public/a8d2/7973/72634bec8ffd/8f1cb081e095/05328534800-01-p/05328534800-01-p.jpg?ts=1762520460575&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-straight-c0p196918868.html?colorId=800&stylismId=1",
         "precio_original": "25.99€",
         "precio_final": "10.39€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Jeans baggy balloon",
-        "imagen": "https://static.bershka.net/assets/public/e96c/524f/7faf41cbbf3d/449ed71d6f21/05335352775-p/05335352775-p.jpg?ts=1754292231103&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-baggy-balloon-c0p196946490.html?colorId=775",
+        "nombre": "Pantalón balloon pinzas paño",
+        "imagen": "https://static.bershka.net/assets/public/e11c/6dd3/047449d99ed2/20b7173ee55c/05497741812-p/05497741812-p.jpg?ts=1760693750495&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-pinzas-pa%C3%B1o-c0p197378443.html?colorId=812",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger cargo",
+        "imagen": "https://static.bershka.net/assets/public/ab5c/dd11/f0894c1b8c07/b634b95ef6b7/05417388717-p/05417388717-p.jpg?ts=1761660563413&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-jogger-cargo-c0p201020129.html?colorId=717",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger cargo",
+        "imagen": "https://static.bershka.net/assets/public/ecb2/255c/7a9f4001829f/6791c79eaaa7/05417388711-p/05417388711-p.jpg?ts=1752566944160&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-jogger-cargo-c0p199105092.html?colorId=711&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo técnico",
+        "imagen": "https://static.bershka.net/assets/public/5de1/349c/a4774e4aafd6/5f96554ca9b1/05425053711-p/05425053711-p.jpg?ts=1754314952772&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-cargo-t%C3%A9cnico-c0p194949969.html?colorId=711",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy técnico cargo",
+        "imagen": "https://static.bershka.net/assets/public/b257/d291/b63b46b0898e/d4ab611b171c/00420665800-p/00420665800-p.jpg?ts=1757321669804&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-baggy-t%C3%A9cnico-cargo-c0p196946444.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón superbaggy print",
+        "imagen": "https://static.bershka.net/assets/public/8f70/37fc/e9f14b13a471/91666b205348/05421710712-21-p/05421710712-21-p.jpg?ts=1757504700213&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-print-c0p201081821.html?colorId=712&stylismId=21",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo técnico",
+        "imagen": "https://static.bershka.net/assets/public/3f9b/24a3/b98440579d2e/8916659f764a/05425053800-p/05425053800-p.jpg?ts=1754314952824&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-cargo-t%C3%A9cnico-c0p194949970.html?colorId=800",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans super skinny rotos",
+        "imagen": "https://static.bershka.net/assets/public/a426/0b19/537a41c48ecc/8821ccb5a177/00361335800-p/00361335800-p.jpg?ts=1738060836684&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-super-skinny-rotos-c0p196946166.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "14.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans straight",
+        "imagen": "https://static.bershka.net/assets/public/f1de/4718/0e9f4a239f21/1b22e5619b5a/05328534433-p/05328534433-p.jpg?ts=1748877118914&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-straight-c0p189276648.html?colorId=433",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón flare tachas",
+        "imagen": "https://static.bershka.net/assets/public/4d85/26f4/0a9842ed8146/5bf34f3978de/05437710829-p/05437710829-p.jpg?ts=1764250330918&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-flare-tachas-c0p202680979.html?colorId=829",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón tachas print",
+        "imagen": "https://static.bershka.net/assets/public/f5a8/0892/bfc543c2a3ea/2b29bebaa431/05433335700-a4o/05433335700-a4o.jpg?ts=1759230019140&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-tachas-print-c0p205566681.html?colorId=700&stylismId=1",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón felpa jogger",
+        "imagen": "https://static.bershka.net/assets/public/b00d/423f/3eb747959392/dd718a9d6ee1/05490190250-p/05490190250-p.jpg?ts=1751878682299&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n--felpa-jogger-c0p189277107.html?colorId=250",
+        "precio_original": "17.99€",
+        "precio_final": "8.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón balloon",
+        "imagen": "https://static.bershka.net/assets/public/b8fc/6f60/3d8342d5b2fd/aeaa642cef64/05418054700-01-w/05418054700-01-w.jpg?ts=1751471756359&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p197309021.html?colorId=700&stylismId=1",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón super baggy raya tejida",
+        "imagen": "https://static.bershka.net/assets/public/7d51/d12a/5cdc4f5583d1/9beccdab224f/05413388712-21-p/05413388712-21-p.jpg?ts=1751453242726&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-raya-tejida-c0p197308602.html?colorId=712&stylismId=21",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans straight laser print",
+        "imagen": "https://static.bershka.net/assets/public/f4b1/9dd9/bb3f46739008/c0efc7df9336/05390335800-p/05390335800-p.jpg?ts=1759244128206&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-straight-laser-print-c0p202238179.html?colorId=800",
+        "precio_original": "35.99€",
+        "precio_final": "14.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans super skinny rotos",
+        "imagen": "https://static.bershka.net/assets/public/346d/8439/14dc48cba75b/251ce782e9e1/00333666428-a4o/00333666428-a4o.jpg?ts=1742488722034&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-super-skinny-rotos-c0p196946517.html?colorId=428",
         "precio_original": "29.99€",
         "precio_final": "11.99€",
         "descuento": "-60%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Jeans flare confort",
-        "imagen": "https://static.bershka.net/assets/public/177a/5bf8/f2ad494d99eb/0846c6f0728c/05341089800-p/05341089800-p.jpg?ts=1753971547871&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-flare-confort-c0p194669586.html?colorId=800",
+        "nombre": "Jeans jogger rotos",
+        "imagen": "https://static.bershka.net/assets/public/6546/f2ad/e4e341fab99d/469e78692407/00341534428-p/00341534428-p.jpg?ts=1738235731506&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-jogger-rotos-c0p196946461.html?colorId=428",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón megabaggy encerado",
+        "imagen": "https://static.bershka.net/assets/public/d4d0/b176/34944055b812/1538ee84113d/05434054505-01-p/05434054505-01-p.jpg?ts=1760600257282&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-megabaggy-encerado-c0p205527721.html?colorId=505&stylismId=1",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans straight print",
+        "imagen": "https://static.bershka.net/assets/public/040e/0ac9/eced4b028644/86912a14b1b7/05389335428-a3o/05389335428-a3o.jpg?ts=1759242341403&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-straight-print-c0p204043311.html?colorId=428&stylismId=1",
+        "precio_original": "35.99€",
+        "precio_final": "14.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón superbaggy print",
+        "imagen": "https://static.bershka.net/assets/public/4414/14af/40584715b64a/1cc64f2bcca3/05421710717-21-p/05421710717-21-p.jpg?ts=1757504782758&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-print-c0p201082310.html?colorId=717&stylismId=21",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chenilla superbaggy",
+        "imagen": "https://static.bershka.net/assets/public/8d1a/f3e9/a90c4e0a821f/ab14729e466e/05428073712-p/05428073712-p.jpg?ts=1753974928015&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-chenilla-superbaggy-c0p201081781.html?colorId=712&stylismId=1",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón técnico baggy sport",
+        "imagen": "https://static.bershka.net/assets/public/477f/e9d1/59864a09af9d/afa202b00d32/05419046600-p/05419046600-p.jpg?ts=1752737317858&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-t%C3%A9cnico-baggy-sport-c0p199105712.html?colorId=600&stylismId=1",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans straight",
+        "imagen": "https://static.bershka.net/assets/public/6138/d3ad/8fd14b068712/5ade70ca9245/05328534809-01-p/05328534809-01-p.jpg?ts=1762520283562&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-straight-c0p199105653.html?colorId=809&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans baggy cargo",
+        "imagen": "https://static.bershka.net/assets/public/2dfe/1230/329946c8acea/e2000618f553/05329335426-a4o/05329335426-a4o.jpg?ts=1747994706859&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-baggy-cargo-c0p199105646.html?colorId=426&stylismId=13",
         "precio_original": "29.99€",
         "precio_final": "11.99€",
         "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans baggy jaquard",
+        "imagen": "https://static.bershka.net/assets/public/6bc2/7893/aa014729b6f2/ac96186b6878/05327074426-p/05327074426-p.jpg?ts=1751878543113&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-baggy-jaquard-c0p199105511.html?colorId=426&stylismId=1",
+        "precio_original": "35.99€",
+        "precio_final": "14.39€",
+        "descuento": "-60%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón wide leg",
+        "imagen": "https://static.bershka.net/assets/public/db6a/dd35/77684b70b54e/888222309660/00454190800-01-p/00454190800-01-p.jpg?ts=1741620110382&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-wide-leg-c0p197299766.html?colorId=800&stylismId=1",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy técnico cargo",
+        "imagen": "https://static.bershka.net/assets/public/162f/fa1c/80644cd2bd51/9107a3caa948/00420665809-p/00420665809-p.jpg?ts=1757321669757&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-baggy-t%C3%A9cnico-cargo-c0p196946443.html?colorId=809",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "Jeans loose",
-        "imagen": "https://static.bershka.net/assets/public/a2d7/09c4/633b474cb5a2/1f33f9de0183/05361335800-p/05361335800-p.jpg?ts=1755514239828&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-loose-c0p196661252.html?colorId=800",
+        "imagen": "https://static.bershka.net/assets/public/66f5/0505/22db48ee8591/d90a2694a41f/00363450433-a3f/00363450433-a3f.jpg?ts=1758031276322&w=750",
+        "url_producto": "https://www.bershka.com/es/jeans-loose-c0p196946345.html?colorId=433",
         "precio_original": "25.99€",
         "precio_final": "10.39€",
         "descuento": "-60%",
@@ -135,135 +378,9 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Jeans super skinny rotos",
-        "imagen": "https://static.bershka.net/assets/public/b2eb/cbc7/70fc4b1095e2/609ee8c09c30/00361335428-p/00361335428-p.jpg?ts=1738060836614&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-super-skinny-rotos-c0p197299043.html?colorId=428&stylismId=1",
-        "precio_original": "35.99€",
-        "precio_final": "14.39€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón balloon franela",
-        "imagen": "https://static.bershka.net/assets/public/2102/36d0/631f48169ea8/a6f4a24b7098/05426197800-p/05426197800-p.jpg?ts=1758548085705&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-franela-c0p196665664.html?colorId=800",
-        "precio_original": "35.99€",
-        "precio_final": "17.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans baggy tachas",
-        "imagen": "https://static.bershka.net/assets/public/9580/8074/f0ff4d2ca482/dad684e53d58/05358156428-p/05358156428-p.jpg?ts=1753966351460&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-baggy-tachas-c0p197475606.html?colorId=428",
-        "precio_original": "39.99€",
-        "precio_final": "15.99€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón baggy multicargo acid wash",
-        "imagen": "https://static.bershka.net/assets/public/321b/f807/6bf8453f9086/99fff051f412/00418388700-p/00418388700-p.jpg?ts=1757932604063&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-baggy-multicargo-acid-wash-c0p196946204.html?colorId=700",
-        "precio_original": "39.99€",
-        "precio_final": "19.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón cargo técnico",
-        "imagen": "https://static.bershka.net/assets/public/3f9b/24a3/b98440579d2e/8916659f764a/05425053800-p/05425053800-p.jpg?ts=1754314952824&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-cargo-t%C3%A9cnico-c0p194949970.html?colorId=800",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón felpa jogger",
-        "imagen": "https://static.bershka.net/assets/public/01ae/d66b/1dba456baedc/c8ffffd90dda/05488478409-a4o/05488478409-a4o.jpg?ts=1754317182333&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-felpa-jogger-c0p189276760.html?colorId=409",
-        "precio_original": "19.99€",
-        "precio_final": "9.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón wide leg",
-        "imagen": "https://static.bershka.net/assets/public/b96a/025e/95d3434b8482/ed01fc6a84b2/05495190812-a7o/05495190812-a7o.jpg?ts=1756386031572&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-wide-leg-c0p195307613.html?colorId=812",
-        "precio_original": "19.99€",
-        "precio_final": "9.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón superbaggy flecos",
-        "imagen": "https://static.bershka.net/assets/public/d34b/739e/9b054d1ab56a/25768c8b9f80/05430665800-p/05430665800-p.jpg?ts=1761833699869&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-flecos-c0p199756247.html?colorId=800",
-        "precio_original": "35.99€",
-        "precio_final": "17.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Jeans flare flecos",
-        "imagen": "https://static.bershka.net/assets/public/1569/bc1a/d4e34848969c/230971cab58e/05367352800-p/05367352800-p.jpg?ts=1759138527446&w=750",
-        "url_producto": "https://www.bershka.com/es/jeans-flare-flecos-c0p196830024.html?colorId=800",
-        "precio_original": "39.99€",
-        "precio_final": "15.99€",
-        "descuento": "-60%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón balloon",
-        "imagen": "https://static.bershka.net/assets/public/b3f1/7e27/f6df4283b6c0/ceaf730c0c09/05418054700-p/05418054700-p.jpg?ts=1751025648707&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p191843720.html?colorId=700",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón skater Demon Slayer",
-        "imagen": "https://static.bershka.net/assets/public/9bb1/bdfc/04604c90aae9/4dc4ead49a58/05494455800-a4o/05494455800-a4o.jpg?ts=1753704785243&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-skater-demon-slayer-c0p191708013.html?colorId=800",
-        "precio_original": "35.99€",
-        "precio_final": "17.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón superbaggy print",
-        "imagen": "https://static.bershka.net/assets/public/2cf6/9eff/36b74a848fb9/34c8966ef6b7/05421710800-p/05421710800-p.jpg?ts=1754291056223&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-print-c0p195531365.html?colorId=800",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón super baggy raya tejida",
-        "imagen": "https://static.bershka.net/assets/public/c119/391f/51e64559ae90/a1666474c572/05413388712-p/05413388712-p.jpg?ts=1748609234518&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-raya-tejida-c0p193572872.html?colorId=712",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón baggy técnico cargo",
-        "imagen": "https://static.bershka.net/assets/public/162f/fa1c/80644cd2bd51/9107a3caa948/00420665809-p/00420665809-p.jpg?ts=1757321669757&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-baggy-t%C3%A9cnico-cargo-c0p196946443.html?colorId=809",
-        "precio_original": "35.99€",
-        "precio_final": "17.99€",
-        "descuento": "-50%",
-        "categoria": "pantalones_hombre"
-    },
-    {
-        "nombre": "Pantalón wide leg jogger con lino",
-        "imagen": "https://static.bershka.net/assets/public/a264/dd2a/3e90445e9a19/939b9e662a6c/00409665250-21-p/00409665250-21-p.jpg?ts=1753284287970&w=750",
-        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-wide-leg-jogger-con-lino-c0p197299278.html?colorId=250&stylismId=21",
+        "nombre": "Pantalón jogger cargo",
+        "imagen": "https://static.bershka.net/assets/public/3115/4c40/b59e4ea4b812/d0c2c50f4a4f/05417388800-p/05417388800-p.jpg?ts=1752566944257&w=750",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-jogger-cargo-c0p189276729.html?colorId=800",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",

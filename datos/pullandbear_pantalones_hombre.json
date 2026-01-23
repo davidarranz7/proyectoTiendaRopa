@@ -1,11 +1,20 @@
 [
     {
-        "nombre": "Pantalón jogger cargo",
-        "imagen": "https://static.pullandbear.net/assets/public/5403/bd4f/7008467bb081/6be97fb7f0c3/07674901802-M/07674901802-M.jpg?ts=1752241361499&w=885&f=auto",
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/9d6b/e1a4/6bc84191845f/2e3ec49cdac4/03680508832-M/03680508832-M.jpg?ts=1740746826284&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/hombre-n6228",
-        "precio_original": null,
-        "precio_final": "9.99€",
-        "descuento": null,
+        "precio_original": "35.99€",
+        "precio_final": "7.99€",
+        "descuento": "-78%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/9d6b/e1a4/6bc84191845f/2e3ec49cdac4/03680508832-M/03680508832-M.jpg?ts=1740746826284&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680508?cS=832&pelement=692161537",
+        "precio_original": "35.99€",
+        "precio_final": "7.99€",
+        "descuento": "-78%",
         "categoria": "pantalones_hombre"
     },
     {
@@ -18,18 +27,108 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón jogger con lino",
-        "imagen": "https://static.pullandbear.net/assets/public/9d6b/e1a4/6bc84191845f/2e3ec49cdac4/03680508832-M/03680508832-M.jpg?ts=1740746826284&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680508?cS=832&pelement=692161537",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
+        "nombre": "Pantalón chándal interlock STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/2a34/a9d4/d9af4f39b619/4e6b33a017d7/03680525803-A5M/03680525803-A5M.jpg?ts=1753696383242&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-interlock-stwd-l03680525?cS=803&pelement=694046098",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
         "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/5eeb/80ab/657747499dd6/28220906e56b/03680515807-M/03680515807-M.jpg?ts=1740499417389&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-l03680515?cS=807&pelement=692157457",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger estructura",
+        "imagen": "https://static.pullandbear.net/assets/public/f08e/2031/4b9b484f8320/7c9b40af442e/03680511746-M/03680511746-M.jpg?ts=1741003792319&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-estructura-l03680511?cS=746&pelement=692152266",
+        "precio_original": "25.99€",
+        "precio_final": "7.99€",
+        "descuento": "-69%",
         "categoria": "pantalones_hombre"
     },
     {
         "nombre": "Pantalón jogger cuadros",
         "imagen": "https://static.pullandbear.net/assets/public/b411/fc61/857044888f53/c1f6a73af095/03670501802-A7M/03670501802-A7M.jpg?ts=1764585676153&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-cuadros-l03670501?cS=802&pelement=734980682",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal pinzas",
+        "imagen": "https://static.pullandbear.net/assets/public/a9bd/b927/95ac452dbc73/eb04fbe7f048/07674524803-A7M/07674524803-A7M.jpg?ts=1763371821484&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-pinzas-l07674524?cS=803&pelement=710213809",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/8881/0853/21d74363951b/21d6eefa9d37/03680509505-M/03680509505-M.jpg?ts=1740753731491&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680509?cS=505&pelement=692161534",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal interlock",
+        "imagen": "https://static.pullandbear.net/assets/public/e814/cfc1/6d0a485c894c/bf6b551500a0/03680524251-M/03680524251-M.jpg?ts=1751875195868&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-interlock-l03680524?cS=251&pelement=700653385",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/9232/a44c/fce240baab12/199a9ba497ac/03680515250-M/03680515250-M.jpg?ts=1740493251638&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-l03680515?cS=250&pelement=692157456",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón recto textura",
+        "imagen": "https://static.pullandbear.net/assets/public/ec96/7dab/1d4448369ea6/df289250791f/07674522700-A7M/07674522700-A7M.jpg?ts=1760366271947&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-recto-textura-l07674522?cS=700&pelement=712074262",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo fatigue",
+        "imagen": "https://static.pullandbear.net/assets/public/c30c/f76d/0074493f9e81/1a954147b76e/07674511500-A7M/07674511500-A7M.jpg?ts=1757930291039&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-fatigue-l07674511?cS=500&pelement=701009634",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/ac0d/d004/21a74ae88dd2/c0b21c2024a8/07674528818-A7M/07674528818-A7M.jpg?ts=1763398249143&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-baggy-l07674528?cS=818&pelement=712816112",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/84c3/1580/95a145c284a0/b504fdad3f54/07674506700-M/07674506700-M.jpg?ts=1756722603357&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-baggy-l07674506?cS=700&pelement=698993641",
         "precio_original": "35.99€",
         "precio_final": "17.99€",
         "descuento": "-50%",
@@ -45,9 +144,36 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón chándal baggy básico",
-        "imagen": "https://static.pullandbear.net/assets/public/1478/c7c4/d8b5468bbf66/79df76bdcbb1/07675501501-A7M/07675501501-A7M.jpg?ts=1758022578248&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-baggy-basico-l07675501?cS=501&pelement=693840149",
+        "nombre": "Pantalón jogger cargo",
+        "imagen": "https://static.pullandbear.net/assets/public/5403/bd4f/7008467bb081/6be97fb7f0c3/07674901802-M/07674901802-M.jpg?ts=1752241361499&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-cargo-l07674500?cS=802&pelement=697861749",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger estructura",
+        "imagen": "https://static.pullandbear.net/assets/public/fb64/87d2/da1b4ec5baf1/f433bde16f87/03680511505-M/03680511505-M.jpg?ts=1740991100172&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-estructura-l03680511?cS=505&pelement=692152267",
+        "precio_original": "25.99€",
+        "precio_final": "7.99€",
+        "descuento": "-69%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger cargo",
+        "imagen": "https://static.pullandbear.net/assets/public/795c/74bf/3d2747469541/2b9fc1619793/07674901707-M/07674901707-M.jpg?ts=1752241358954&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-cargo-l07674500?cS=707&pelement=697861750",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/12a5/3e3b/158c4550b7da/8c8668330296/03680515710-M/03680515710-M.jpg?ts=1740493251841&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-l03680515?cS=710&pelement=692157454",
         "precio_original": "22.99€",
         "precio_final": "11.49€",
         "descuento": "-50%",
@@ -63,11 +189,137 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón wide leg cortes",
-        "imagen": "https://static.pullandbear.net/assets/public/1f5b/dd05/d96b444f9a28/2f39021b7199/07674527400-A7M/07674527400-A7M.jpg?ts=1762178134601&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-wide-leg-cortes-l07674527?cS=400&pelement=716245153",
-        "precio_original": "39.99€",
-        "precio_final": "19.99€",
+        "nombre": "Pantalón tailoring wide leg",
+        "imagen": "https://static.pullandbear.net/assets/public/7f1b/7cc7/929d45eaae43/3a817489f3bc/07677509505-M/07677509505-M.jpg?ts=1723623645457&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-tailoring-wide-leg-l07677509?cS=505&pelement=693340451",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal técnico",
+        "imagen": "https://static.pullandbear.net/assets/public/74dc/6862/de2c47489daf/c57fe36c8f2c/07678503800-r/07678503800-r.jpg?ts=1742432022971&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-tecnico-l07678503?cS=800&pelement=700653381",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/1abd/d5a2/31184013b9e5/818003938521/03680508807-M/03680508807-M.jpg?ts=1741003789409&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680508?cS=807&pelement=692161539",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger comfort",
+        "imagen": "https://static.pullandbear.net/assets/public/ed6c/efbd/d39046fdbd9c/bc6f751fe6d3/07674501700-M/07674501700-M.jpg?ts=1754399032419&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-comfort-l07674501?cS=700&pelement=693518292",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/3426/180a/3fb54938b507/3f288498f3e7/07679500803-A7M/07679500803-A7M.jpg?ts=1736441514208&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-baggy-l07679500?cS=803&pelement=700056168",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal técnico",
+        "imagen": "https://static.pullandbear.net/assets/public/867f/0464/82ce4e7caeff/feb0044e913f/07678503807-r/07678503807-r.jpg?ts=1742432023126&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-tecnico-l07678503?cS=807&pelement=700653382",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal interlock",
+        "imagen": "https://static.pullandbear.net/assets/public/3a98/094b/ee314971bb3f/ff949b246dd0/03680524800-M/03680524800-M.jpg?ts=1751875198789&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-interlock-l03680524?cS=800&pelement=700653384",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón baggy cargo",
+        "imagen": "https://static.pullandbear.net/assets/public/488c/520a/2f2a43c299eb/66a59154cef9/07674505500-A7M/07674505500-A7M.jpg?ts=1754314958082&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-baggy-cargo-l07674505?cS=500&pelement=695878848",
+        "precio_original": "29.99€",
+        "precio_final": "9.99€",
+        "descuento": "-67%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger",
+        "imagen": "https://static.pullandbear.net/assets/public/66fa/b531/62f8487eb079/d4bcd2a873e6/03680515800-M/03680515800-M.jpg?ts=1740497181863&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-l03680515?cS=800&pelement=692157455",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/7a2f/d1f1/136c4b89856f/dd37951d1b31/03680508251-M/03680508251-M.jpg?ts=1740746820215&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680508?cS=251&pelement=692161538",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón cargo baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/f394/a325/2f884ba09430/2aa40d058aac/0767450470000-A7M/0767450470000-A7M.jpg?ts=1756132986174&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-baggy-l07674504?cS=700&pelement=695878849",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/c23c/1e7f/8c574eaea46b/2368411d8254/07675500251-M/07675500251-M.jpg?ts=1747387098895&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-rustico-l07675500?cS=251&pelement=692161469",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/f236/d981/6a6c4f77b360/c84ea4bfea0f/03680508710-M/03680508710-M.jpg?ts=1740746821253&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680508?cS=710&pelement=692161536",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal balloon pinzas",
+        "imagen": "https://static.pullandbear.net/assets/public/ebe4/b952/65cd4b6488e2/d840e07aadf8/0767452080300-A7M/0767452080300-A7M.jpg?ts=1761029987217&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-balloon-pinzas-l07674520?cS=803&pelement=712968438",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/563d/b2a1/0a6647c39033/e8722c191bad/07678506807-A7M/07678506807-A7M.jpg?ts=1724398570334&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-stwd-l07678506?cS=807&pelement=701515227",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
@@ -81,9 +333,9 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón jogger rústico",
-        "imagen": "https://static.pullandbear.net/assets/public/c23c/1e7f/8c574eaea46b/2368411d8254/07675500251-M/07675500251-M.jpg?ts=1747387098895&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-rustico-l07675500?cS=251&pelement=692161469",
+        "nombre": "Pantalón cargo baggy",
+        "imagen": "https://static.pullandbear.net/assets/public/ef04/4b50/d2514e05900e/5be36e30a55a/0767450480500-A7M/0767450480500-A7M.jpg?ts=1756140138565&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-cargo-baggy-l07674504?cS=805&pelement=695878851",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
@@ -99,47 +351,119 @@
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón jogger comfort",
-        "imagen": "https://static.pullandbear.net/assets/public/ed6c/efbd/d39046fdbd9c/bc6f751fe6d3/07674501700-M/07674501700-M.jpg?ts=1754399032419&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-comfort-l07674501?cS=700&pelement=693518292",
+        "nombre": "Pantalón jogger lino",
+        "imagen": "https://static.pullandbear.net/assets/public/ef55/b0ce/847f4b0c9804/2fe1409d0ad4/03680510746-M/03680510746-M.jpg?ts=1740746835329&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-lino-l03680510?cS=746&pelement=692152161",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/b097/fe51/cc7d4f938cf2/5c9baa6af972/07675500800-M/07675500800-M.jpg?ts=1747387101370&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-rustico-l07675500?cS=800&pelement=692161468",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón pana flare",
-        "imagen": "https://static.pullandbear.net/assets/public/f1cd/d5b5/8c1a446dbaad/03e09c30690e/07674523700-A7M/07674523700-A7M.jpg?ts=1762781229385&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-pana-flare-l07674523?cS=700&pelement=710213810",
-        "precio_original": "35.99€",
-        "precio_final": "17.99€",
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/cc99/6a8a/3465418ab1f1/cbafa60eb7b8/03680509250-M/03680509250-M.jpg?ts=1741003789504&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680509?cS=250&pelement=692161535",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón jogger",
-        "imagen": "https://static.pullandbear.net/assets/public/9232/a44c/fce240baab12/199a9ba497ac/03680515250-M/03680515250-M.jpg?ts=1740493251638&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-l03680515?cS=250&pelement=692157456",
+        "nombre": "Pantalón baggy pana",
+        "imagen": "https://static.pullandbear.net/assets/public/0c83/1437/20a24969847f/4082fbb9a4af/07674513800-A7M/07674513800-A7M.jpg?ts=1760965085650&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-baggy-pana-l07674513?cS=800&pelement=700380715",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger baggy estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/2160/b0cf/15d8483f85e9/3e4f3a3c281c/07675509922-A7M/07675509922-A7M.jpg?ts=1756126352531&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-baggy-estampado-l07675509?cS=922&pelement=710556443",
         "precio_original": "22.99€",
         "precio_final": "11.49€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pantalón super baggy jacquard",
-        "imagen": "https://static.pullandbear.net/assets/public/eb2c/42ca/933f4972b397/ae4150575bd0/07674507802-A7M/07674507802-A7M.jpg?ts=1756116428070&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pantalon-super-baggy-jacquard-l07674507?cS=802&pelement=697861773",
+        "nombre": "Pantalón jogger lino",
+        "imagen": "https://static.pullandbear.net/assets/public/d685/fd2f/c4dd4710b48b/69e7c0a920e6/03680510700-M/03680510700-M.jpg?ts=1740746831441&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-lino-l03680510?cS=700&pelement=692152160",
         "precio_original": "35.99€",
         "precio_final": "17.99€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     },
     {
-        "nombre": "Pack pantalón y sudadera chándal",
-        "imagen": "https://static.pullandbear.net/assets/public/0a36/fc76/30164532bdce/aa76f170b101/07562901803-M/07562901803-M.jpg?ts=1757073616867&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pack-pantalon-y-sudadera-chandal-l07562901?cS=803&pelement=694223823",
-        "precio_original": "47.99€",
-        "precio_final": "23.99€",
+        "nombre": "Pantalón chándal STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/d982/dff6/f8f4439ebf18/27ab38d5cc8b/07678506800-M/07678506800-M.jpg?ts=1724661498765&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-stwd-l07678506?cS=800&pelement=701515225",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/030f/ef54/28f243e698ff/c86cbfb9922e/03680509800-m/03680509800-m.jpg?ts=1741013757344&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-con-lino-l03680509?cS=800&pelement=692161533",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón wide leg cortes",
+        "imagen": "https://static.pullandbear.net/assets/public/1f5b/dd05/d96b444f9a28/2f39021b7199/07674527400-A7M/07674527400-A7M.jpg?ts=1762178134601&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-wide-leg-cortes-l07674527?cS=400&pelement=716245153",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal gráfico STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/714e/8222/58f44ed2ab61/06e504f3ec00/03671502800-A7M/03671502800-A7M.jpg?ts=1764329673109&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-grafico-stwd-l03671502?cS=800&pelement=733464880",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón jogger cuadros",
+        "imagen": "https://static.pullandbear.net/assets/public/d4ba/333d/cfcd41a4a4a6/86f3a0bd91bd/07674905500-A7M/07674905500-A7M.jpg?ts=1762959589497&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-jogger-cuadros-l07674905?cS=500&pelement=716856336",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Pantalón chándal skater",
+        "imagen": "https://static.pullandbear.net/assets/public/22e2/4d82/dfcf41d593fc/60c33c123c38/07675506700-A7M/07675506700-A7M.jpg?ts=1760348544417&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pantalon-chandal-skater-l07675506?cS=700&pelement=693840132",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "pantalones_hombre"
+    },
+    {
+        "nombre": "Jeans carpenter estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/f746/d702/2bea45aea3e9/0c4b476d3bfe/07674512063-A7M/07674512063-A7M.jpg?ts=1754914087267&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/jeans-carpenter-estampado-l07674512?cS=063&pelement=699518178",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
         "descuento": "-50%",
         "categoria": "pantalones_hombre"
     }

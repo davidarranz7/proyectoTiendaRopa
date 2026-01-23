@@ -1,17 +1,8 @@
 [
     {
-        "nombre": "Vestido midi halter lazada con lino",
-        "imagen": "https://static.bershka.net/assets/public/cc04/28f4/dd634d078a18/98c9a2eaf4f6/00747028306-p/00747028306-p.jpg?ts=1747904247863&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-halter-lazada-con-lino-c0p196958151.html?colorId=306",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi manga larga tul",
-        "imagen": "https://static.bershka.net/assets/public/20ff/0bf6/887f4abb913a/296ca676ae81/05597714605-p/05597714605-p.jpg?ts=1760535012812&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-manga-larga-tul-c0p199850200.html?colorId=605",
+        "nombre": "Vestido mini halter tachas",
+        "imagen": "https://static.bershka.net/assets/public/b4ae/8eb8/e67e4ea5be37/0ebf27146a10/05639187800-p/05639187800-p.jpg?ts=1754902799290&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-halter-tachas-c0p198282757.html?colorId=800",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
         "descuento": "-70%",
@@ -27,54 +18,9 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Mono denim largo",
-        "imagen": "https://static.bershka.net/assets/public/23bf/0262/80dc4e0eba37/e044fa42f82e/08499534800-p/08499534800-p.jpg?ts=1753776448648&w=750",
-        "url_producto": "https://www.bershka.com/es/mono-denim-largo-c0p194337806.html?colorId=800",
-        "precio_original": "39.99€",
-        "precio_final": "11.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi chiffón blonda",
-        "imagen": "https://static.bershka.net/assets/public/26a5/f3fc/a3b346ccb219/0e692356855a/05873692700-p/05873692700-p.jpg?ts=1760619006641&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-chiff%C3%B3n-blonda-c0p202098272.html?colorId=700",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini halter tachas",
-        "imagen": "https://static.bershka.net/assets/public/b4ae/8eb8/e67e4ea5be37/0ebf27146a10/05639187800-p/05639187800-p.jpg?ts=1754902799290&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-halter-tachas-c0p198282757.html?colorId=800",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini tul brillos",
-        "imagen": "https://static.bershka.net/assets/public/43e1/e1a3/35874eee9b9c/a0526e710b6f/06044714462-p/06044714462-p.jpg?ts=1757338219112&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-tul-brillos-c0p199756268.html?colorId=462",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini entallado vuelo bordado",
-        "imagen": "https://static.bershka.net/assets/public/7299/89f3/6e6e4fe1a0ac/93246a96005d/05846494250-p/05846494250-p.jpg?ts=1753175425111&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-entallado-vuelo-bordado-c0p189276658.html?colorId=250",
-        "precio_original": "35.99€",
-        "precio_final": "10.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini tirantes lace",
-        "imagen": "https://static.bershka.net/assets/public/e173/b6fc/b3334033afd6/ed4e3b163348/00045714700-p/00045714700-p.jpg?ts=1764680246801&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-tirantes-lace-c0p213313153.html?colorId=700",
+        "nombre": "Vestido mini manga larga fruncido efecto brillo",
+        "imagen": "https://static.bershka.net/assets/public/b033/0fbf/958946f3a8aa/03d4acb5fbe2/05314326808-p/05314326808-p.jpg?ts=1764251813788&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-manga-larga-fruncido-efecto-brillo-c0p203994694.html?colorId=808",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
         "descuento": "-70%",
@@ -90,56 +36,20 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini fruncido",
-        "imagen": "https://static.bershka.net/assets/public/d6af/5a58/fc7f4a249fec/9000f31c74d3/05852710711-p/05852710711-p.jpg?ts=1754903096039&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-fruncido-c0p191989486.html?colorId=711",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido tirantes satén encaje asimétrico",
-        "imagen": "https://static.bershka.net/assets/public/a306/6112/6fb64b1eaefb/957efeee8951/05874692712-p/05874692712-p.jpg?ts=1763041371734&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-tirantes-sat%C3%A9n-encaje-asim%C3%A9trico-c0p204245232.html?colorId=712",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
         "nombre": "Vestido manga larga bardot soft",
-        "imagen": "https://static.bershka.net/assets/public/7ab0/ed4d/841b42f694ec/18cda848e1f1/05608360812-p/05608360812-p.jpg?ts=1758034941946&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-manga-larga-bardot-soft-c0p200227986.html?colorId=812",
+        "imagen": "https://static.bershka.net/assets/public/b810/45f3/c68e495b8689/06e3b22e2d6d/05608360754-p/05608360754-p.jpg?ts=1758095318600&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-manga-larga-bardot-soft-c0p200227985.html?colorId=754",
         "precio_original": "27.99€",
         "precio_final": "8.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi bandeau bengalina",
-        "imagen": "https://static.bershka.net/assets/public/f322/88d4/2b3b4552a6bd/172a16c00e71/05865741800-p/05865741800-p.jpg?ts=1761056850060&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-bandeau-bengalina-c0p200319625.html?colorId=800",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini tirantes print",
-        "imagen": "https://static.bershka.net/assets/public/b006/6ecc/9af84e858872/d1f7bead4ce7/05603173400-p/05603173400-p.jpg?ts=1755088511450&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-tirantes-print-c0p198552030.html?colorId=400",
+        "nombre": "Vestido midi",
+        "imagen": "https://static.bershka.net/assets/public/a1d1/bc21/ce2a44e8ac16/394cdd8674a8/00558727300-p/00558727300-p.jpg?ts=1747904675692&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-c0p196951727.html?colorId=300",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini lazo",
-        "imagen": "https://static.bershka.net/assets/public/b84a/aad9/d7794eff892a/8031b714a61b/05641187401-p/05641187401-p.jpg?ts=1761119716212&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-lazo-c0p204054389.html?colorId=401",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -153,83 +63,65 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto denim",
-        "imagen": "https://static.bershka.net/assets/public/23be/eb00/22014f6fad84/6e34630d9dc0/00626074428-p/00626074428-p.jpg?ts=1746628801483&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-corto-denim-c0p196958517.html?colorId=428",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini manga larga fruncido efecto brillo",
-        "imagen": "https://static.bershka.net/assets/public/983c/4180/659d4900987d/edc6c5484fcd/05314326800-p/05314326800-p.jpg?ts=1764251461087&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-manga-larga-fruncido-efecto-brillo-c0p203207908.html?colorId=800",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini efecto piel hebilla",
-        "imagen": "https://static.bershka.net/assets/public/6ebf/f2b9/2b2d428c8c13/9e12c4cfcfe7/05760710800-p/05760710800-p.jpg?ts=1761126511191&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-efecto-piel-hebilla-c0p198409431.html?colorId=800",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini manga larga frunces",
-        "imagen": "https://static.bershka.net/assets/public/115f/34b5/250d42a8a164/5e4bcff9ce98/05315187829-p/05315187829-p.jpg?ts=1760433222820&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-manga-larga-frunces-c0p203202112.html?colorId=829",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini halter bengalina",
-        "imagen": "https://static.bershka.net/assets/public/ed1a/0dbc/78e14de38bce/2c168e36122f/05853707710-p/05853707710-p.jpg?ts=1753358528460&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-halter-bengalina-c0p192004829.html?colorId=710",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi fluido blonda",
-        "imagen": "https://static.bershka.net/assets/public/2361/8f1c/c18a442d802e/d4687f30a9df/05640187800-p/05640187800-p.jpg?ts=1764776365126&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-fluido-blonda-c0p198282761.html?colorId=800",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi print",
-        "imagen": "https://static.bershka.net/assets/public/8479/9ebf/295c4c038fcb/b5309f6c06bd/05604777462-p/05604777462-p.jpg?ts=1756200519212&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-print-c0p199767316.html?colorId=462",
+        "nombre": "Vestido mini lazo",
+        "imagen": "https://static.bershka.net/assets/public/b84a/aad9/d7794eff892a/8031b714a61b/05641187401-p/05641187401-p.jpg?ts=1761119716212&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-lazo-c0p204054389.html?colorId=401",
         "precio_original": "27.99€",
         "precio_final": "8.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi tirantes",
-        "imagen": "https://static.bershka.net/assets/public/3be2/cfba/797c4566aea8/488a3e16b682/00543173902-p/00543173902-p.jpg?ts=1748952600290&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-tirantes-c0p196951805.html?colorId=902",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
+        "nombre": "Vestido manga larga bardot soft",
+        "imagen": "https://static.bershka.net/assets/public/7ab0/ed4d/841b42f694ec/18cda848e1f1/05608360812-p/05608360812-p.jpg?ts=1758034941946&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-manga-larga-bardot-soft-c0p200227986.html?colorId=812",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini falda globo",
-        "imagen": "https://static.bershka.net/assets/public/ee56/465a/d87b496b9735/3ceb15cd1152/00758494800-p/00758494800-p.jpg?ts=1749021188448&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-falda-globo-c0p189276722.html?colorId=800",
+        "nombre": "Vestido mini fruncido",
+        "imagen": "https://static.bershka.net/assets/public/d6af/5a58/fc7f4a249fec/9000f31c74d3/05852710711-p/05852710711-p.jpg?ts=1754903096039&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-fruncido-c0p191989486.html?colorId=711",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi manga larga blonda",
+        "imagen": "https://static.bershka.net/assets/public/82e4/0ab1/080e4eaf8f6b/673379220001/05596714800-p/05596714800-p.jpg?ts=1764861276479&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-manga-larga-blonda-c0p198552035.html?colorId=800",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini lentejuelas",
+        "imagen": "https://static.bershka.net/assets/public/da59/3dfc/10244abca668/b40a0556a030/05763710452-p/05763710452-p.jpg?ts=1761224251315&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-lentejuelas-c0p202238173.html?colorId=452",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini entallado vuelo bordado",
+        "imagen": "https://static.bershka.net/assets/public/7299/89f3/6e6e4fe1a0ac/93246a96005d/05846494250-p/05846494250-p.jpg?ts=1753175425111&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-entallado-vuelo-bordado-c0p189276658.html?colorId=250",
         "precio_original": "35.99€",
         "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi",
+        "imagen": "https://static.bershka.net/assets/public/67a9/5534/85f645f497d7/f1210b3ef022/00558727251-p/00558727251-p.jpg?ts=1750860893658&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-c0p196951730.html?colorId=251",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -252,38 +144,110 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi estructura",
-        "imagen": "https://static.bershka.net/assets/public/1248/3558/d71145db8337/b525bea10444/00641376700-p/00641376700-p.jpg?ts=1737031271716&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-estructura-c0p196958271.html?colorId=700",
+        "nombre": "Vestido corto denim",
+        "imagen": "https://static.bershka.net/assets/public/23be/eb00/22014f6fad84/6e34630d9dc0/00626074428-p/00626074428-p.jpg?ts=1746628801483&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-corto-denim-c0p196958517.html?colorId=428",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi print",
+        "imagen": "https://static.bershka.net/assets/public/8479/9ebf/295c4c038fcb/b5309f6c06bd/05604777462-p/05604777462-p.jpg?ts=1756200519212&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-print-c0p199767316.html?colorId=462",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi halter lazada con lino",
+        "imagen": "https://static.bershka.net/assets/public/cc04/28f4/dd634d078a18/98c9a2eaf4f6/00747028306-p/00747028306-p.jpg?ts=1747904247863&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-halter-lazada-con-lino-c0p196958151.html?colorId=306",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini manga larga fruncido efecto brillo",
+        "imagen": "https://static.bershka.net/assets/public/983c/4180/659d4900987d/edc6c5484fcd/05314326800-p/05314326800-p.jpg?ts=1764251461087&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-manga-larga-fruncido-efecto-brillo-c0p203207908.html?colorId=800",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi tirantes",
+        "imagen": "https://static.bershka.net/assets/public/3be2/cfba/797c4566aea8/488a3e16b682/00543173902-p/00543173902-p.jpg?ts=1748952600290&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-tirantes-c0p196951805.html?colorId=902",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini soft manga ancha",
+        "imagen": "https://static.bershka.net/assets/public/bad2/b0cf/b33f42549622/49043f977c7f/05595662814-p/05595662814-p.jpg?ts=1760439485149&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-soft-manga-ancha-c0p199767270.html?colorId=814",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi fluido blonda",
+        "imagen": "https://static.bershka.net/assets/public/2361/8f1c/c18a442d802e/d4687f30a9df/05640187800-p/05640187800-p.jpg?ts=1764776365126&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-fluido-blonda-c0p198282761.html?colorId=800",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini asimétrico bajo rib",
+        "imagen": "https://static.bershka.net/assets/public/de76/304f/e15744c088db/51d5efd4283a/05698693800-p/05698693800-p.jpg?ts=1756281029025&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-asim%C3%A9trico-bajo-rib-c0p194030441.html?colorId=800",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Mono largo ajustado strass",
+        "imagen": "https://static.bershka.net/assets/public/34aa/7d92/06b347ecb25c/5e407baeb661/08521360800-p/08521360800-p.jpg?ts=1761228188203&w=750",
+        "url_producto": "https://www.bershka.com/es/mono-largo-ajustado-strass-c0p203008977.html?colorId=800",
         "precio_original": "35.99€",
         "precio_final": "10.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido tirantes lentejuelas",
-        "imagen": "https://static.bershka.net/assets/public/338b/1582/9cc34920a21d/d494d259bc6e/05605664809-p/05605664809-p.jpg?ts=1764250725807&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-tirantes-lentejuelas-c0p199942358.html?colorId=809",
+        "nombre": "Vestido midi chiffón blonda",
+        "imagen": "https://static.bershka.net/assets/public/018b/54b6/f1d640ed8077/a77d7ebf8a9b/05873692700-p/05873692700-p.jpg?ts=1760017348518&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-chiff%C3%B3n-blonda-c0p205566736.html?colorId=700&stylismId=13",
         "precio_original": "29.99€",
         "precio_final": "8.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini halter cinturón",
-        "imagen": "https://static.bershka.net/assets/public/e8bb/73c3/ac7f44799f6d/cd90efd21f4d/05862710700-p/05862710700-p.jpg?ts=1761302936308&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-halter-cintur%C3%B3n-c0p197573693.html?colorId=700",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
+        "nombre": "Mono tirantes",
+        "imagen": "https://static.bershka.net/assets/public/4293/aa94/78774e1e9a5e/119a47cf2311/08557710100-p/08557710100-p.jpg?ts=1752496476594&w=750",
+        "url_producto": "https://www.bershka.com/es/mono-tirantes-c0p190920600.html?colorId=100",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini tul print velvet",
-        "imagen": "https://static.bershka.net/assets/public/ed7e/4ffa/441341d1ae86/bdabcd992b0f/05586714500-p/05586714500-p.jpg?ts=1754305011804&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-tul-print-velvet-c0p193056316.html?colorId=500",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
+        "nombre": "Vestido midi estructura",
+        "imagen": "https://static.bershka.net/assets/public/3039/bdfa/2279411fa89e/a51f7c5fadbd/00641376712-p/00641376712-p.jpg?ts=1737031220712&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-estructura-c0p196958272.html?colorId=712",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -297,11 +261,38 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido tirantes rústico volantes",
-        "imagen": "https://static.bershka.net/assets/public/7ac1/5646/d7054c5ba949/1021ccf1d38a/05857323250-p/05857323250-p.jpg?ts=1752747056926&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-tirantes-r%C3%BAstico-volantes-c0p192363747.html?colorId=250",
+        "nombre": "Vestido mini bandeau velvet pañuelo",
+        "imagen": "https://static.bershka.net/assets/public/14b4/cab3/370a40af9ae5/df0be7fa9912/05762692605-p/05762692605-p.jpg?ts=1764251195768&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-bandeau-velvet-pa%C3%B1uelo-c0p203014780.html?colorId=605",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi estructura",
+        "imagen": "https://static.bershka.net/assets/public/1248/3558/d71145db8337/b525bea10444/00641376700-p/00641376700-p.jpg?ts=1737031271716&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-estructura-c0p196958271.html?colorId=700",
         "precio_original": "35.99€",
         "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini cinturón",
+        "imagen": "https://static.bershka.net/assets/public/2881/1ef2/c2084e4399d6/22bb6aec55fc/05863008829-p/05863008829-p.jpg?ts=1760535827676&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-cintur%C3%B3n-c0p197322965.html?colorId=829",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini bandeau cinturón",
+        "imagen": "https://static.bershka.net/assets/public/cf2b/788d/eba3406497cb/c69b83339746/05851710406-p/05851710406-p.jpg?ts=1755005154903&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-bandeau-cintur%C3%B3n-c0p191724095.html?colorId=406",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -315,9 +306,36 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini soft manga ancha",
-        "imagen": "https://static.bershka.net/assets/public/bad2/b0cf/b33f42549622/49043f977c7f/05595662814-p/05595662814-p.jpg?ts=1760439485149&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-soft-manga-ancha-c0p199767270.html?colorId=814",
+        "nombre": "Vestido midi rib cuello alto",
+        "imagen": "https://static.bershka.net/assets/public/68d8/4353/0bd94a2985f6/7659e4c546a9/05706777800-p/05706777800-p.jpg?ts=1760439231298&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-rib-cuello-alto-c0p198409436.html?colorId=800",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi fluido",
+        "imagen": "https://static.bershka.net/assets/public/d2e6/722b/e49143a6b78d/897197309d56/05637187610-p/05637187610-p.jpg?ts=1748952446800&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-fluido-c0p193182115.html?colorId=610",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini efecto piel hebilla",
+        "imagen": "https://static.bershka.net/assets/public/6ebf/f2b9/2b2d428c8c13/9e12c4cfcfe7/05760710800-p/05760710800-p.jpg?ts=1761126511191&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-efecto-piel-hebilla-c0p198409431.html?colorId=800",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini tirantes print",
+        "imagen": "https://static.bershka.net/assets/public/b006/6ecc/9af84e858872/d1f7bead4ce7/05603173400-p/05603173400-p.jpg?ts=1755088511450&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-tirantes-print-c0p198552030.html?colorId=400",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
         "descuento": "-70%",
@@ -333,72 +351,27 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini halter cuadros",
-        "imagen": "https://static.bershka.net/assets/public/1d00/4e8c/bbda40baabf9/5991fec8bbba/05868008700-p/05868008700-p.jpg?ts=1761811500212&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-halter-cuadros-c0p201621444.html?colorId=700",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini rústico crochet",
-        "imagen": "https://static.bershka.net/assets/public/f045/d232/1c764fc0a4bf/1e12381dc2e2/00658376712-p/00658376712-p.jpg?ts=1746614023366&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-r%C3%BAstico-crochet-c0p196958251.html?colorId=712",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini tirantes lazada",
-        "imagen": "https://static.bershka.net/assets/public/a66a/b653/536740458c04/e382b11847b8/05694645712-p/05694645712-p.jpg?ts=1753282719566&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-tirantes-lazada-c0p189276825.html?colorId=712",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido mini bandeau cinturón",
-        "imagen": "https://static.bershka.net/assets/public/cf2b/788d/eba3406497cb/c69b83339746/05851710406-p/05851710406-p.jpg?ts=1755005154903&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-bandeau-cintur%C3%B3n-c0p191724095.html?colorId=406",
+        "nombre": "Vestido mini tirantes lace",
+        "imagen": "https://static.bershka.net/assets/public/84a5/97c4/fce44c1b9444/65c70fde7c42/05758360800-p/05758360800-p.jpg?ts=1752741997305&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-tirantes-lace-c0p194788944.html?colorId=800",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi cuello halter volantes",
-        "imagen": "https://static.bershka.net/assets/public/c344/9e59/ab314a9c9245/bdeb8d12a9e6/00730207250-p/00730207250-p.jpg?ts=1743595544514&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-cuello-halter-volantes-c0p196958221.html?colorId=250",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi fluido",
-        "imagen": "https://static.bershka.net/assets/public/d2e6/722b/e49143a6b78d/897197309d56/05637187610-p/05637187610-p.jpg?ts=1748952446800&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-fluido-c0p193182115.html?colorId=610",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido tirantes print",
-        "imagen": "https://static.bershka.net/assets/public/319e/2bfd/428843849f0b/9a35b6ac8c5d/06043360462-03-p/06043360462-03-p.jpg?ts=1754986847281&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-tirantes-print-c0p201082392.html?colorId=462&stylismId=4",
+        "nombre": "Vestido mini cuadros",
+        "imagen": "https://static.bershka.net/assets/public/9b0e/8218/f7ff43e69ed9/0c12917c64ba/06045326807-a4o/06045326807-a4o.jpg?ts=1756795223049&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-cuadros-c0p202797436.html?colorId=807&stylismId=3",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini asimétrico satén encaje",
-        "imagen": "https://static.bershka.net/assets/public/8032/0612/3545499985a9/d6bc1df0cced/05768008700-p/05768008700-p.jpg?ts=1762423604116&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-asim%C3%A9trico-sat%C3%A9n-encaje-c0p203712806.html?colorId=700",
+        "nombre": "Vestido mini halter cinturón",
+        "imagen": "https://static.bershka.net/assets/public/e8bb/73c3/ac7f44799f6d/cd90efd21f4d/05862710700-p/05862710700-p.jpg?ts=1761302936308&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-halter-cintur%C3%B3n-c0p197573693.html?colorId=700",
         "precio_original": "29.99€",
         "precio_final": "8.99€",
         "descuento": "-70%",
@@ -406,37 +379,100 @@
     },
     {
         "nombre": "Vestido mini bandeau velvet pañuelo",
-        "imagen": "https://static.bershka.net/assets/public/14b4/cab3/370a40af9ae5/df0be7fa9912/05762692605-p/05762692605-p.jpg?ts=1764251195768&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-bandeau-velvet-pa%C3%B1uelo-c0p203014780.html?colorId=605",
+        "imagen": "https://static.bershka.net/assets/public/1b5b/c9ba/0fe84e79b8f3/7469fdbd650e/05762692800-p/05762692800-p.jpg?ts=1764251679194&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-bandeau-velvet-pa%C3%B1uelo-c0p203014779.html?colorId=800",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini tul",
-        "imagen": "https://static.bershka.net/assets/public/b537/dd90/53f04b30ab5e/a15753577cec/05624187711-p/05624187711-p.jpg?ts=1757405518356&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-tul-c0p201535564.html?colorId=711",
+        "nombre": "Vestido mini cinturón",
+        "imagen": "https://static.bershka.net/assets/public/50ac/f20c/689d447dae57/867bfab23580/05607173700-p/05607173700-p.jpg?ts=1758034767508&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-cintur%C3%B3n-c0p202797835.html?colorId=700&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido tirantes rústico volantes",
+        "imagen": "https://static.bershka.net/assets/public/7ac1/5646/d7054c5ba949/1021ccf1d38a/05857323250-p/05857323250-p.jpg?ts=1752747056926&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-tirantes-r%C3%BAstico-volantes-c0p192363747.html?colorId=250",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini volantes",
+        "imagen": "https://static.bershka.net/assets/public/c56b/34db/9d5f4a99b0bf/854b26e648c4/05858128100-p/05858128100-p.jpg?ts=1753441519509&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-volantes-c0p192659228.html?colorId=100",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido tirantes lentejuelas",
+        "imagen": "https://static.bershka.net/assets/public/338b/1582/9cc34920a21d/d494d259bc6e/05605664809-p/05605664809-p.jpg?ts=1764250725807&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-tirantes-lentejuelas-c0p199942358.html?colorId=809",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini satén flor",
+        "imagen": "https://static.bershka.net/assets/public/552c/4fd8/f6744a7b8212/835d5e6b967c/05757710649-p/05757710649-p.jpg?ts=1758551532571&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-sat%C3%A9n-flor-c0p190353850.html?colorId=649",
         "precio_original": "27.99€",
         "precio_final": "8.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi efecto velvet drapeado",
-        "imagen": "https://static.bershka.net/assets/public/2e7f/44fb/5f804681a98c/390a981efe5e/05765710802-p/05765710802-p.jpg?ts=1762964458056&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-midi-efecto-velvet-drapeado-c0p201535561.html?colorId=802",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
+        "nombre": "Vestido mini manga larga detalle pañuelo",
+        "imagen": "https://static.bershka.net/assets/public/43e2/40e5/582f4e699242/8264d21263fc/01125777800-01-p/01125777800-01-p.jpg?ts=1764768044744&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-manga-larga-detalle-pa%C3%B1uelo-c0p213616301.html?colorId=800&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido mini bengalina vuelo",
-        "imagen": "https://static.bershka.net/assets/public/a836/1dfd/54154debacbf/967f7f4f96c0/05866692700-a4o/05866692700-a4o.jpg?ts=1754897423874&w=750",
-        "url_producto": "https://www.bershka.com/es/vestido-mini-bengalina-vuelo-c0p201082362.html?colorId=700&stylismId=3",
+        "nombre": "Vestido midi bengalina",
+        "imagen": "https://static.bershka.net/assets/public/d729/591c/88c94e789ddc/6267a2c9ecec/05867710800-p/05867710800-p.jpg?ts=1758620895053&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-bengalina-c0p204043167.html?colorId=800&stylismId=1",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido mini rústico volantes",
+        "imagen": "https://static.bershka.net/assets/public/5a93/8374/673e48fdb946/d9c2cb6cc539/00740207902-03-p/00740207902-03-p.jpg?ts=1745919201760&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-mini-r%C3%BAstico-volantes-c0p197299733.html?colorId=902&stylismId=3",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido pareo mesh tie dye",
+        "imagen": "https://static.bershka.net/assets/public/6cb9/8c44/655e4a1dbf19/03a84079f45f/04714631712-p/04714631712-p.jpg?ts=1744108927708&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-pareo-mesh-tie-dye-c0p196952013.html?colorId=712",
         "precio_original": "22.99€",
-        "precio_final": "6.89€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi tirantes",
+        "imagen": "https://static.bershka.net/assets/public/1b0f/ce9c/97344362877d/1097b1646435/00543173600-p/00543173600-p.jpg?ts=1748952538551&w=750",
+        "url_producto": "https://www.bershka.com/es/vestido-midi-tirantes-c0p196951803.html?colorId=600",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     }

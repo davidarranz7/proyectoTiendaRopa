@@ -1,52 +1,34 @@
 [
     {
-        "nombre": "CAMISETA ESTAMPADOS CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/e936/7e61/36ba4df48050/ecf709fa7893/00495321306-a1/00495321306-a1.jpg?ts=1754986989939&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-contraste-p00495321.html",
+        "nombre": "CAMISETA ACABADOS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/dfe0/f52e/c68f45879d37/247c26b5a4c9/05584328800-p/05584328800-p.jpg?ts=1754410489055&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-acabados-contraste-p05584328.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA RIB LAVADA BORDADO",
-        "imagen": "https://static.zara.net/assets/public/387b/ad28/2d9a4539b4ab/5dac1efe382e/06224300300-a1/06224300300-a1.jpg?ts=1753360974579&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-lavada-bordado-p06224300.html",
+        "nombre": "CAMISETA PUNTO REGULAR FIT",
+        "imagen": "https://static.zara.net/assets/public/ca9c/59f5/67e9438da7fd/b92444b102ae/00304406080-p/00304406080-p.jpg?ts=1749714491813&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-regular-fit-p00304406.html",
+        "precio_original": "22.95€",
+        "precio_final": "6.88€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO BANDERAS",
+        "imagen": "https://static.zara.net/assets/public/af89/4547/d7174cc0bf83/0a212076aaeb/09144300251-p/09144300251-p.jpg?ts=1747839809097&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-banderas-p09144300.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TEXTOS ESTAMPADOS",
-        "imagen": "https://static.zara.net/assets/public/5fed/5dbe/dfa0429490a9/3606df6563f3/06224339250-a1/06224339250-a1.jpg?ts=1753366093758&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-textos-estampados-p06224339.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TEXTOS ESTAMPADOS GUITARRICADELAFUENTE",
-        "imagen": "https://static.zara.net/assets/public/c1d7/d2bc/285d4cb49a79/440e9e8ded6c/04087319712-a1/04087319712-a1.jpg?ts=1748610181198&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-textos-estampados-guitarricadelafuente-p04087319.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA GRÁFICOS HARRY LAMBERT FOR ZARA X DISNEY",
-        "imagen": "https://static.zara.net/assets/public/2173/6908/3ad942618d27/bbc24ed40194/06224356700-a1/06224356700-a1.jpg?ts=1758730469721&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-harry-lambert-for-zara-x-disney-p06224356.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
         "nombre": "CAMISETA TEXTO BORDADO",
-        "imagen": "https://static.zara.net/assets/public/a16e/55ba/12f447ae8f73/1a721057ac19/01165305617-a1/01165305617-a1.jpg?ts=1751988783115&w=326",
+        "imagen": "https://static.zara.net/assets/public/6168/579c/e4704516b248/c2ab85d8e3a4/01165305617-p/01165305617-p.jpg?ts=1751988784630&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-texto-bordado-p01165305.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
@@ -55,7 +37,7 @@
     },
     {
         "nombre": "CAMISETA TEXTO CROQUETAS",
-        "imagen": "https://static.zara.net/assets/public/4cee/d07e/f94e4a7384ec/b5be8d8a2e35/06224382800-a1/06224382800-a1.jpg?ts=1753866187940&w=326",
+        "imagen": "https://static.zara.net/assets/public/0e23/b57e/432e4f658b24/c5f1ce19afba/06224382800-p/06224382800-p.jpg?ts=1753866190143&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-texto-croquetas-p06224382.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
@@ -63,377 +45,17 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA GRÁFICOS TEXTO",
-        "imagen": "https://static.zara.net/assets/public/f4e8/4bf4/824048ea9d94/49c1028d0af7/05644353800-a1/05644353800-a1.jpg?ts=1754386763629&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-texto-p05644353.html",
+        "nombre": "CAMISETA ESTAMPADOS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/6708/ae11/e2e941bfb3f3/9b2bd5ba58bb/05644387250-p/05644387250-p.jpg?ts=1754566968867&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-contraste-p05644387.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA MICKEY + DONALD HARRY LAMBERT FOR ZARA X DISNEY",
-        "imagen": "https://static.zara.net/assets/public/666f/5db4/d90947019e93/737ab9841738/00962336621-a1/00962336621-a1.jpg?ts=1758730349156&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-mickey-donald-harry-lambert-for-zara-x-disney-p00962336.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA RELAXED FIT COLOR BLOCK",
-        "imagen": "https://static.zara.net/assets/public/609e/f9b2/f2104ab18e16/a319b1ef6e52/05644370061-a1/05644370061-a1.jpg?ts=1757502792648&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-color-block-p05644370.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA RAYAS CÁÑAMO - VISCOSA",
-        "imagen": "https://static.zara.net/assets/public/7666/dcae/e60f48c1beaf/06fbd356ee74/04853311075-a1/04853311075-a1.jpg?ts=1753858963595&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rayas-canamo---viscosa-p04853311.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TEXTO SIESTA",
-        "imagen": "https://static.zara.net/assets/public/9931/fbd6/12fb4c54ae90/512849ad39eb/06224384250-a1/06224384250-a1.jpg?ts=1753866190060&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-siesta-p06224384.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA MICKEY + PLUTO HARRY LAMBERT FOR ZARA X DISNEY",
-        "imagen": "https://static.zara.net/assets/public/e37b/66d0/c22f4a0fa09c/b71e9aa6cc0e/00962337403-a1/00962337403-a1.jpg?ts=1758730353141&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-mickey-pluto-harry-lambert-for-zara-x-disney-p00962337.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO RELAXED FIT",
-        "imagen": "https://static.zara.net/assets/public/a3b9/e955/1016490da16e/79a00a474e82/05536431300-a1/05536431300-a1.jpg?ts=1763994463562&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-relaxed-fit-p05536431.html",
-        "precio_original": "29.95€",
-        "precio_final": "8.98€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO ESTAMPADO GRÁFICOS © OTIS KWAME KYE QUAICOE",
-        "imagen": "https://static.zara.net/assets/public/ff94/d73a/cdf74e998561/5c895d12db55/01277316400-a1/01277316400-a1.jpg?ts=1753359487020&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-graficos---otis-kwame-kye-quaicoe-p01277316.html",
-        "precio_original": "35.95€",
-        "precio_final": "10.78€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA CUELLO PANADERO COLOR BLOCK",
-        "imagen": "https://static.zara.net/assets/public/1e1f/d775/91974541baff/252327256a12/00962344712-a1/00962344712-a1.jpg?ts=1755172009877&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-panadero-color-block-p00962344.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ACABADOS CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/e62f/193f/4e044371821c/2cef638492c7/05584328800-a1/05584328800-a1.jpg?ts=1754410485424&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-acabados-contraste-p05584328.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO CALADO",
-        "imagen": "https://static.zara.net/assets/public/b68b/66f5/ded04becb9b6/c44307551ded/05536300406-a1/05536300406-a1.jpg?ts=1751618103308&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-calado-p05536300.html",
-        "precio_original": "29.95€",
-        "precio_final": "8.98€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA CUELLO PANADERO RAYAS",
-        "imagen": "https://static.zara.net/assets/public/13a9/3573/e7674abca67f/58c0550ce4a3/09240301505-a1/09240301505-a1.jpg?ts=1749021980387&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-panadero-rayas-p09240301.html",
-        "precio_original": "22.95€",
-        "precio_final": "11.47€",
-        "descuento": "-50%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA JACQUARD RAYAS",
-        "imagen": "https://static.zara.net/assets/public/17d6/97bb/a1d044709bee/913d6ce36fee/05644344089-a1/05644344089-a1.jpg?ts=1754493072780&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-p05644344.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTRUCTURA IRREGULAR",
-        "imagen": "https://static.zara.net/assets/public/d6ec/40ef/b8ee49ba8b33/2ac235df57a7/05644328803-a1/05644328803-a1.jpg?ts=1751011659940&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-irregular-p05644328.html",
-        "precio_original": "15.95€",
-        "precio_final": "6.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA LOGO STRASS LUDOVIC DE SAINT SERNIN X ZARA",
-        "imagen": "https://static.zara.net/assets/public/b85f/d88f/69ca4a28b1b3/1345d72b9196/05644394250-ult2/05644394250-ult2.jpg?ts=1762880071527&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-logo-strass-ludovic-de-saint-sernin-x-zara-p05644394.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO VARSITY",
-        "imagen": "https://static.zara.net/assets/public/8c34/b6ac/0e634e08b5c4/a59e2f94c358/06224316600-a1/06224316600-a1.jpg?ts=1752593893515&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-varsity-p06224316.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO LAVADO",
-        "imagen": "https://static.zara.net/assets/public/644a/006b/f81846c6b655/838ec15af9a9/01165330411-a1/01165330411-a1.jpg?ts=1755167215372&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-lavado-p01165330.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA LAVADA BOLSILLO",
-        "imagen": "https://static.zara.net/assets/public/4da9/cc53/cc1247bd8d9c/6b895dda90a1/04087312500-a1/04087312500-a1.jpg?ts=1753360964827&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-bolsillo-p04087312.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/1065/314e/2aa34d828f40/4d011b0102de/09240417524-a1/09240417524-a1.jpg?ts=1747395935706&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-p09240417.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO BANDERAS",
-        "imagen": "https://static.zara.net/assets/public/9dd1/e284/f051424bac27/c9829907f407/09144300251-a1/09144300251-a1.jpg?ts=1747839807343&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-banderas-p09144300.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK CANALÉ",
-        "imagen": "https://static.zara.net/assets/public/6e3c/55de/528d4d6784a8/0ba62fa31372/05644393609-a1/05644393609-a1.jpg?ts=1755171663641&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-canale-p05644393.html",
-        "precio_original": "15.95€",
-        "precio_final": "6.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TEXTO ESTAMPADO HARRY LAMBERT FOR ZARA X DISNEY",
-        "imagen": "https://static.zara.net/assets/public/a4a5/33d6/b5224c84a2ac/222c229949cc/00962289615-a1/00962289615-a1.jpg?ts=1764244714213&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-estampado-harry-lambert-for-zara-x-disney-p00962289.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA WAFFLE CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/928d/2f74/730e4c248511/e2c7e0068150/05584337707-a1/05584337707-a1.jpg?ts=1757516070178&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-waffle-contraste-p05584337.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA BRUCE SPRINGSTEEN NEW YORK CITY SERENADE",
-        "imagen": "https://static.zara.net/assets/public/1441/abba/a8494afd80a9/b4309ccd4fa7/00722303250-a1/00722303250-a1.jpg?ts=1753345704756&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-bruce-springsteen-new-york-city-serenade-p00722303.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA LIGERA CUELLO PANADERO",
-        "imagen": "https://static.zara.net/assets/public/c56b/e9c3/6a314b6a8214/35e16af3d510/04442390519-a1/04442390519-a1.jpg?ts=1754562549417&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-ligera-cuello-panadero-p04442390.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA GRÁFICOS MOTOR",
-        "imagen": "https://static.zara.net/assets/public/6357/d66f/b4fe465eb0a6/a9dc10d0eb07/04374300803-a1/04374300803-a1.jpg?ts=1754384563325&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-motor-p04374300.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA RIB TEXTO GUITARRICADELAFUENTE",
-        "imagen": "https://static.zara.net/assets/public/8b89/d761/46504031bf0a/096e48e68eca/06224344600-a1/06224344600-a1.jpg?ts=1748607111701&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-rib-texto-guitarricadelafuente-p06224344.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA MANGA RAYAS",
-        "imagen": "https://static.zara.net/assets/public/dde7/6e51/513c4932b0fd/7b1ca096884e/09240310063-a1/09240310063-a1.jpg?ts=1760625161254&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-rayas-p09240310.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO ESTAMPADO CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/0d9c/24a0/28ff4ffb9d7a/8cc12ccdb877/04805308622-a1/04805308622-a1.jpg?ts=1755179419744&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-contraste-p04805308.html",
-        "precio_original": "25.95€",
-        "precio_final": "7.78€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK ETIQUETAS",
-        "imagen": "https://static.zara.net/assets/public/6bde/5c55/e14d4039b78a/d509064b5851/05584346721-a1/05584346721-a1.jpg?ts=1755083241590&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-etiquetas-p05584346.html",
-        "precio_original": "15.95€",
-        "precio_final": "6.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK LAVADO",
-        "imagen": "https://static.zara.net/assets/public/e878/235a/f52d4ef2a05b/85c0650a61b2/05644357682-a1/05644357682-a1.jpg?ts=1754563787947&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-lavado-p05644357.html",
-        "precio_original": "15.95€",
-        "precio_final": "6.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA COLOR BLOCK CONEJO",
-        "imagen": "https://static.zara.net/assets/public/1608/8156/fcdb430ab03e/cadb8dea5c46/00962379251-a1/00962379251-a1.jpg?ts=1760623929791&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-color-block-conejo-p00962379.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/9ff6/695e/b7c349ef9a51/41d1889e4f49/00962351600-a1/00962351600-a1.jpg?ts=1758269986055&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-contraste-p00962351.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO ANILLOS",
-        "imagen": "https://static.zara.net/assets/public/24f4/b88f/cbf8449181a1/771520371e26/04393307800-a1/04393307800-a1.jpg?ts=1759134119995&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-anillos-p04393307.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO ESTAMPADO LAVADO",
-        "imagen": "https://static.zara.net/assets/public/bb8f/9cc4/d25b49ed8d7a/c52353b0060e/04805317712-a1/04805317712-a1.jpg?ts=1756281253688&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-lavado-p04805317.html",
-        "precio_original": "22.95€",
-        "precio_final": "6.88€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PESPUNTES CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/52b5/6079/777847c3afaa/592c52224961/04805335250-a1/04805335250-a1.jpg?ts=1755167387751&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-pespuntes-contraste-p04805335.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TEXTO RIB",
-        "imagen": "https://static.zara.net/assets/public/20fc/38d4/67b047828c7f/6c0a9d1e378c/00962304707-a1/00962304707-a1.jpg?ts=1747828923721&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-rib-p00962304.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA LAVADA REGULAR FIT",
-        "imagen": "https://static.zara.net/assets/public/9a83/f7fa/117841a19576/77e4424779b9/09240305730-a1/09240305730-a1.jpg?ts=1754988606944&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-regular-fit-p09240305.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA SLIM FIT BOBBY GILLESPIE X ZARA",
-        "imagen": "https://static.zara.net/assets/public/b8cc/15a1/c95640e18d17/af1e2232af65/00722309507-ult21/00722309507-ult21.jpg?ts=1749203041258&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-slim-fit-bobby-gillespie-x-zara-p00722309.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA RELAXED FIT ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/94ec/c9c6/f5284c19b7ea/361db925c793/03992405485-a1/03992405485-a1.jpg?ts=1744716094265&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-estructura-p03992405.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADOS FÚTBOL RETRO",
-        "imagen": "https://static.zara.net/assets/public/07be/a290/0472435fb8a1/1b3a11ef0370/06224337600-a1/06224337600-a1.jpg?ts=1754050654482&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-futbol-retro-p06224337.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
         "nombre": "CAMISETA SLIM FIT TEXTO",
-        "imagen": "https://static.zara.net/assets/public/c40b/4181/437b4ce88354/1568c6cc64b9/01501449803-a1/01501449803-a1.jpg?ts=1753355900996&w=326",
+        "imagen": "https://static.zara.net/assets/public/1583/ab84/b78a43d3a22b/8be124b8daf8/01501449803-p/01501449803-p.jpg?ts=1753355900730&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-slim-fit-texto-p01501449.html",
         "precio_original": "25.95€",
         "precio_final": "10.38€",
@@ -441,8 +63,26 @@
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA CUELLO PANADERO COLOR BLOCK",
+        "imagen": "https://static.zara.net/assets/public/647a/9ce6/c7b244129a5a/976cbe3de584/00962344712-p/00962344712-p.jpg?ts=1755172010106&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-panadero-color-block-p00962344.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO VARSITY",
+        "imagen": "https://static.zara.net/assets/public/2178/59ee/00e144fd94c8/d7c1f7997a9b/06224316600-p/06224316600-p.jpg?ts=1752593895174&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-varsity-p06224316.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA GRÁFICOS CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/3ecc/942a/41864af1a891/0924b144aee5/06224354712-a1/06224354712-a1.jpg?ts=1753360977076&w=326",
+        "imagen": "https://static.zara.net/assets/public/2b39/65f3/4f6344e9b1de/9b1a80f9ddcf/06224354712-p/06224354712-p.jpg?ts=1753360979040&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-graficos-contraste-p06224354.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
@@ -450,18 +90,63 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA GRÁFICOS ESTAMPADOS",
-        "imagen": "https://static.zara.net/assets/public/ce5b/e0a5/9a2b4ac59fd6/f77432554b20/04374361250-a1/04374361250-a1.jpg?ts=1753366081432&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-estampados-p04374361.html",
+        "nombre": "CAMISETA LAVADA BOLSILLO",
+        "imagen": "https://static.zara.net/assets/public/3d80/5628/64324d06b268/c48fc246a5fc/04087312500-p/04087312500-p.jpg?ts=1753360967950&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-bolsillo-p04087312.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA TANK ESTAMPADO RELIEVE",
-        "imagen": "https://static.zara.net/assets/public/cf44/ea0f/15614cf5a3a8/312dfaf80412/01165304301-a1/01165304301-a1.jpg?ts=1751988780694&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-estampado-relieve-p01165304.html",
+        "nombre": "CAMISETA TÉCNICA LAVADA",
+        "imagen": "https://static.zara.net/assets/public/4fb2/472c/67084153a5fe/ed45003a6278/00526908826-p/00526908826-p.jpg?ts=1750937473820&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tecnica-lavada-p00526908.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/090f/1612/4a724c67936e/63bc66c29a40/05372313401-p/05372313401-p.jpg?ts=1753360967931&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-p05372313.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/0159/6111/0cb143eb8702/2fd75b726bbe/06462302700-p/06462302700-p.jpg?ts=1755007647648&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-p06462302.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PUNTO CALADO",
+        "imagen": "https://static.zara.net/assets/public/66e8/24c5/d2304b4bb3ba/690f7c065322/05536300406-p/05536300406-p.jpg?ts=1751618105817&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-calado-p05536300.html",
+        "precio_original": "29.95€",
+        "precio_final": "8.98€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK CANALÉ",
+        "imagen": "https://static.zara.net/assets/public/d1a6/a390/92cf4cb7af19/315980bf26ce/05644393609-p/05644393609-p.jpg?ts=1755171666445&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-canale-p05644393.html",
+        "precio_original": "15.95€",
+        "precio_final": "6.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/c7e4/43b2/f23343538098/63169ed27984/00962351600-p/00962351600-p.jpg?ts=1758269986714&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-contraste-p00962351.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
         "descuento": "-60%",
@@ -469,16 +154,70 @@
     },
     {
         "nombre": "CAMISETA TEXTO ESTAMPADO",
-        "imagen": "https://static.zara.net/assets/public/295a/6682/161f49368e93/f7ebb7e771ce/05644307250-a1/05644307250-a1.jpg?ts=1747750760676&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-estampado-p05644307.html",
+        "imagen": "https://static.zara.net/assets/public/d640/e44e/3b884d8995ff/4771e2e5d32e/00722345251-p/00722345251-p.jpg?ts=1762166952589&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-texto-estampado-p00722345.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA TEXTO SIESTA",
+        "imagen": "https://static.zara.net/assets/public/128d/c49a/244f4860b4ad/20573532f693/06224384250-p/06224384250-p.jpg?ts=1753866191123&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-texto-siesta-p06224384.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA GRÁFICOS MOTOR",
+        "imagen": "https://static.zara.net/assets/public/0ee7/dd89/738e48c8b7be/250bbb9c73b5/04374300803-p/04374300803-p.jpg?ts=1754384562998&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-motor-p04374300.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/1f2e/1ed9/a0584e75b6e9/0da53a33c509/04805330712-p/04805330712-p.jpg?ts=1753866180499&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-contraste-p04805330.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA GRÁFICOS LAVADO",
+        "imagen": "https://static.zara.net/assets/public/d50e/826a/b0d14a13b505/02e92aa2b0c9/00962329428-p/00962329428-p.jpg?ts=1754581721224&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-lavado-p00962329.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/36e4/0fa1/f6f54c938c69/99f998250c4b/06224381717-p/06224381717-p.jpg?ts=1754074925202&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-texto-estampado-p06224381.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA MICKEY + PLUTO HARRY LAMBERT FOR ZARA X DISNEY",
+        "imagen": "https://static.zara.net/assets/public/9bc3/79f8/8a554e85ae7e/280f098e40a5/00962337403-p/00962337403-p.jpg?ts=1758730356976&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-mickey-pluto-harry-lambert-for-zara-x-disney-p00962337.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA GRÁFICOS COMBINADOS",
-        "imagen": "https://static.zara.net/assets/public/46e3/eaae/e3d14de8b379/688cbea26940/06224329800-a1/06224329800-a1.jpg?ts=1753860157264&w=326",
+        "imagen": "https://static.zara.net/assets/public/9576/9ebb/0d3e455e95df/4e914ca91599/06224329800-p/06224329800-p.jpg?ts=1753860158919&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-graficos-combinados-p06224329.html",
         "precio_original": "22.95€",
         "precio_final": "9.18€",
@@ -487,7 +226,7 @@
     },
     {
         "nombre": "CAMISETA COMBINADO TEXTOS",
-        "imagen": "https://static.zara.net/assets/public/d9c5/24cc/33ac4d0eb4ac/aa62e9c4c827/06224330300-a1/06224330300-a1.jpg?ts=1753346067560&w=326",
+        "imagen": "https://static.zara.net/assets/public/765b/6885/82f840389976/2c9c3d891e5e/06224330300-p/06224330300-p.jpg?ts=1753346067530&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-combinado-textos-p06224330.html",
         "precio_original": "22.95€",
         "precio_final": "9.18€",
@@ -495,287 +234,8 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA TANK RIB ALGODÓN - CÁÑAMO",
-        "imagen": "https://static.zara.net/assets/public/3675/95f8/9c434b1f9ade/526ab3f53f7f/04161410807-a1/04161410807-a1.jpg?ts=1753355931289&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-algodon---canamo-p04161410.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO PALMERA",
-        "imagen": "https://static.zara.net/assets/public/b388/2a5b/90c741bb8682/bf85b808c640/01259400250-a1/01259400250-a1.jpg?ts=1753866171012&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-palmera-p01259400.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK PESPUNTE CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/aa77/3a5c/a94e45bd8e48/5cdc8a0b59c3/03665311251-a1/03665311251-a1.jpg?ts=1754493046959&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-pespunte-contraste-p03665311.html",
-        "precio_original": "15.95€",
-        "precio_final": "6.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK RIB BORDADO",
-        "imagen": "https://static.zara.net/assets/public/f2d5/9e48/460e4969b70f/78c8c5d30d30/03665340251-a1/03665340251-a1.jpg?ts=1753860134460&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-bordado-p03665340.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "SUDADERA TEXTO ESTAMPADO",
-        "imagen": "https://static.zara.net/assets/public/b0f5/a07b/16e248f28982/ff9bd3939b8f/06224380311-a1/06224380311-a1.jpg?ts=1754066410545&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-texto-estampado-p06224380.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK LOGO STRASS LUDOVIC DE SAINT SERNIN X ZARA",
-        "imagen": "https://static.zara.net/assets/public/c1e4/76de/45ad4cda8503/b443b2e487aa/T9037078569-p/T9037078569-p.jpg?ts=1763027704879&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-logo-strass-ludovic-de-saint-sernin-x-zara-p05644390.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO MELOCOTÓN",
-        "imagen": "https://static.zara.net/assets/public/8f4d/7dfb/e90449519ec6/90401e91b566/06224383250-a1/06224383250-a1.jpg?ts=1754066410355&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-melocoton-p06224383.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO TANK ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/6948/b640/f1e84df68685/5f99f5d15ed6/05536305406-a1/05536305406-a1.jpg?ts=1753356778997&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-tank-estructura-p05536305.html",
-        "precio_original": "25.95€",
-        "precio_final": "7.78€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA FLUIDA RAYAS",
-        "imagen": "https://static.zara.net/assets/public/4bdd/baeb/6558419483aa/65778865b913/05584336600-a1/05584336600-a1.jpg?ts=1754562549883&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-fluida-rayas-p05584336.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK VISCOSA - LINO",
-        "imagen": "https://static.zara.net/assets/public/7d07/0020/a76d4396bc17/2aea5d62c705/05584301630-a1/05584301630-a1.jpg?ts=1749133990772&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-viscosa---lino-p05584301.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADOS COMBINADOS",
-        "imagen": "https://static.zara.net/assets/public/d8d2/161d/cd69416aa624/71ecad685217/05644360250-a1/05644360250-a1.jpg?ts=1756391287043&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-combinados-p05644360.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO FÚTBOL AMERICANO CHAMPION ® X ZARA",
-        "imagen": "https://static.zara.net/assets/public/eab0/21b9/666540c2b040/e04f020203cb/04374315020-a1/04374315020-a1.jpg?ts=1759221789111&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-futbol-americano-champion---x-zara-p04374315.html",
-        "precio_original": "29.95€",
-        "precio_final": "11.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TEXTO ESTAMPADOS LAVADOS",
-        "imagen": "https://static.zara.net/assets/public/5c9c/4445/7ecb4011bd8d/13ab7b8c8157/06224313251-a1/06224313251-a1.jpg?ts=1747990423205&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-texto-estampados-lavados-p06224313.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA GRÁFICO OLA",
-        "imagen": "https://static.zara.net/assets/public/f2b9/6d77/b29d4d45a126/c4a0c41216cb/06224353600-a1/06224353600-a1.jpg?ts=1753360976849&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-grafico-ola-p06224353.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/20ec/c1e9/1cb74502a759/86bc4400cbea/03992330712-a1/03992330712-a1.jpg?ts=1753866176908&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-estructura-p03992330.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK CALADOS",
-        "imagen": "https://static.zara.net/assets/public/e619/2297/a2634dfe9452/76405273bf90/03992351251-a1/03992351251-a1.jpg?ts=1752230558913&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-calados-p03992351.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK COMBINADO VARSITY",
-        "imagen": "https://static.zara.net/assets/public/6f4a/db92/75e9438388b8/6ece7c70e28b/03665423400-a1/03665423400-a1.jpg?ts=1751632725988&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-combinado-varsity-p03665423.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "SUDADERA TEXTOS BORDADOS",
-        "imagen": "https://static.zara.net/assets/public/db84/2925/dae0403f9ce2/df0a6ae5c567/05039301250-a1/05039301250-a1.jpg?ts=1749033220066&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-textos-bordados-p05039301.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PUNTO TANK RAYAS LIMITED EDITION",
-        "imagen": "https://static.zara.net/assets/public/5e59/705d/98b64d24ab40/dd7c8fd431aa/02142703715-a1/02142703715-a1.jpg?ts=1749541974090&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-punto-tank-rayas-limited-edition-p02142703.html",
-        "precio_original": "29.95€",
-        "precio_final": "8.98€",
-        "descuento": "-70%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTRUCTURA IRREGULAR RAYAS",
-        "imagen": "https://static.zara.net/assets/public/7a8f/470d/678943baafa8/f30605d54747/09240300251-a1/09240300251-a1.jpg?ts=1749021978765&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-irregular-rayas-p09240300.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA GRÁFICOS LAVADO",
-        "imagen": "https://static.zara.net/assets/public/c0d5/c3be/37f043faaf7e/28ae4196f50b/00962329428-a1/00962329428-a1.jpg?ts=1754581721433&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-lavado-p00962329.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA FLUIDA RAYAS LIMITED EDITION",
-        "imagen": "https://static.zara.net/assets/public/acf4/24e7/4983479495cc/9b32eb643b7c/02688706712-a1/02688706712-a1.jpg?ts=1749543721788&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-fluida-rayas-limited-edition-p02688706.html",
-        "precio_original": "49.95€",
-        "precio_final": "19.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TÉCNICA LAVADA",
-        "imagen": "https://static.zara.net/assets/public/a4ca/af3d/80f24c9ba61d/ada37b1dbe4e/00526908826-a1/00526908826-a1.jpg?ts=1750937473890&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tecnica-lavada-p00526908.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTRUCTURA CROCHET",
-        "imagen": "https://static.zara.net/assets/public/63c7/5c02/c4954ba4814d/bcfead7f35e1/05584330712-a1/05584330712-a1.jpg?ts=1753866185574&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-crochet-p05584330.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "KNT TSHRT",
-        "imagen": "https://static.zara.net/assets/public/1ce3/c0ba/1a2c471eba8f/28f9f708f271/T9566151376-a1/T9566151376-a1.jpg?ts=1752575507239&w=326",
-        "url_producto": "https://www.zara.com/es/es/knt-tshrt-p06085700.html",
-        "precio_original": "39.95€",
-        "precio_final": "15.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA FIRMA © OTIS KWAME KYE QUAICOE",
-        "imagen": "https://static.zara.net/assets/public/58b6/7a31/16bb4610bd5c/4d0d27b69041/01277321615-a1/01277321615-a1.jpg?ts=1753359495214&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-firma---otis-kwame-kye-quaicoe-p01277321.html",
-        "precio_original": "19.95€",
-        "precio_final": "7.98€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA CUELLO CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/560e/25f3/2686443fa560/975b091dc172/06224341250-a1/06224341250-a1.jpg?ts=1753860159338&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-contraste-p06224341.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK SEMITRANSPARENTE",
-        "imagen": "https://static.zara.net/assets/public/fc05/8aa4/e7154b058cea/c30aac2acbf1/05039306712-a1/05039306712-a1.jpg?ts=1757407768109&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-semitransparente-p05039306.html",
-        "precio_original": "15.95€",
-        "precio_final": "6.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA RELAXED FIT BOLSILLO",
-        "imagen": "https://static.zara.net/assets/public/bc26/6ce1/dea14783a038/716b92487a51/03992341629-a1/03992341629-a1.jpg?ts=1755160540943&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-bolsillo-p03992341.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA LAVADA MANGA RANGLÁN",
-        "imagen": "https://static.zara.net/assets/public/4f3b/e92f/fabf4d469eac/bdf3d522c893/01887311519-a1/01887311519-a1.jpg?ts=1759392716087&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-manga-ranglan-p01887311.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTRUCTURA LAVADA",
-        "imagen": "https://static.zara.net/assets/public/9a55/6169/f77a4755b111/cc98dbe78f24/04087413922-a1/04087413922-a1.jpg?ts=1765382955546&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-lavada-p04087413.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
-        "descuento": "-60%",
-        "categoria": "camisetas_hombre"
-    },
-    {
         "nombre": "CAMISETA MANGA CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/181c/7874/e1de43fea262/5483dc1a6b53/03992332916-a1/03992332916-a1.jpg?ts=1756290915085&w=326",
+        "imagen": "https://static.zara.net/assets/public/b868/8f50/4ca04b34a570/d6bafeaeda40/03992332916-p/03992332916-p.jpg?ts=1756290915120&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-manga-contraste-p03992332.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
@@ -783,26 +243,341 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA ACABADO IRREGULAR",
-        "imagen": "https://static.zara.net/assets/public/3e45/363a/42c94849853c/2154f2fef8ed/00962376605-a1/00962376605-a1.jpg?ts=1757516532034&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-acabado-irregular-p00962376.html",
-        "precio_original": "22.95€",
-        "precio_final": "9.18€",
+        "nombre": "CAMISETA ESTAMPADO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/8011/04df/c54d47918650/267486a3cd9d/01165310428-p/01165310428-p.jpg?ts=1758281970865&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-lavado-p01165310.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "SUDADERA LAVADA GRÁFICOS ESTAMPADOS",
-        "imagen": "https://static.zara.net/assets/public/2204/9bff/6ae04cbea89c/784264ece758/00962327715-a1/00962327715-a1.jpg?ts=1757596669179&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-graficos-estampados-p00962327.html",
+        "nombre": "SUDADERA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/9f31/6864/c6e34e118b8b/621a89684172/06224380311-p/06224380311-p.jpg?ts=1754066410491&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-texto-estampado-p06224380.html",
         "precio_original": "25.95€",
         "precio_final": "12.97€",
         "descuento": "-50%",
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA PUNTO ESTAMPADO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/99e0/b902/a85049d589d5/69f661e5b356/04805315800-p/04805315800-p.jpg?ts=1754638132905&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-lavado-p04805315.html",
+        "precio_original": "22.95€",
+        "precio_final": "6.88€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/ec88/11b5/49984bf1818f/3908338ae625/05644344089-p/05644344089-p.jpg?ts=1754493072619&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-p05644344.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA CUELLO PANADERO RAYAS",
+        "imagen": "https://static.zara.net/assets/public/97b4/28a1/6d174f14b2d9/8ce0b87d115d/09240301505-p/09240301505-p.jpg?ts=1749021981631&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-panadero-rayas-p09240301.html",
+        "precio_original": "22.95€",
+        "precio_final": "11.47€",
+        "descuento": "-50%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA FLUIDA RAYAS",
+        "imagen": "https://static.zara.net/assets/public/ecc2/6d79/65c14397be75/68f942f1b30d/05584336600-p/05584336600-p.jpg?ts=1754562552102&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-fluida-rayas-p05584336.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/439d/2d68/ec3d4aeb80ff/aa3a76beb76d/06224926800-p/06224926800-p.jpg?ts=1760613888282&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-texto-estampado-p06224926.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO GRÁFICO VARSITY",
+        "imagen": "https://static.zara.net/assets/public/09bb/7495/b98b4b2795d8/b508f95437f9/04374311612-p/04374311612-p.jpg?ts=1755789365816&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-grafico-varsity-p04374311.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PIQUÉ BORDADO",
+        "imagen": "https://static.zara.net/assets/public/9d44/a38f/43dd4888b9ca/7b0ca733fbb5/04092317428-p/04092317428-p.jpg?ts=1753867572658&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-pique-bordado-p04092317.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO FÚTBOL AMERICANO CHAMPION ® X ZARA",
+        "imagen": "https://static.zara.net/assets/public/d8b2/df0b/721d4bbf9eea/0e357a078365/04374315020-p/04374315020-p.jpg?ts=1759221789439&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-futbol-americano-champion---x-zara-p04374315.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK ESTAMPADO RELIEVE",
+        "imagen": "https://static.zara.net/assets/public/a9f9/2c2e/77de4b96a074/72574c264dba/01165304301-p/01165304301-p.jpg?ts=1751988784379&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-estampado-relieve-p01165304.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK RIB BORDADO",
+        "imagen": "https://static.zara.net/assets/public/44ca/43c0/ad15471e83fd/c10769572871/03665340251-p/03665340251-p.jpg?ts=1753860137897&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-bordado-p03665340.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PUNTO ESTAMPADO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/95f4/5c52/ba5a46d4bbc5/92c1e9b1d25e/04805308622-p/04805308622-p.jpg?ts=1755179422433&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-contraste-p04805308.html",
+        "precio_original": "25.95€",
+        "precio_final": "7.78€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA GRÁFICO OLA",
+        "imagen": "https://static.zara.net/assets/public/8b30/8078/114b4070a81b/4121a7a55c2e/06224353600-p/06224353600-p.jpg?ts=1753360976945&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-grafico-ola-p06224353.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK RIB ALGODÓN - CÁÑAMO",
+        "imagen": "https://static.zara.net/assets/public/b127/edf9/132d48048eef/aa855515e585/04161410807-p/04161410807-p.jpg?ts=1753355930964&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-algodon---canamo-p04161410.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA CROPPED FIT",
+        "imagen": "https://static.zara.net/assets/public/071f/1f40/0eb34a6cbaf7/d405f0cf39e3/04805325250-p/04805325250-p.jpg?ts=1753345606546&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cropped-fit-p04805325.html",
+        "precio_original": "15.95€",
+        "precio_final": "6.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PUNTO ESTAMPADO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/c260/14d7/2c4a4c77a0fa/cac1a99316ea/04805322519-p/04805322519-p.jpg?ts=1758030387525&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-lavado-p04805322.html",
+        "precio_original": "22.95€",
+        "precio_final": "6.88€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA RELAXED FIT BOLSILLO",
+        "imagen": "https://static.zara.net/assets/public/cde6/a6fc/a26c4ac081f7/88ce57cd819a/03992341629-p/03992341629-p.jpg?ts=1755160541127&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-bolsillo-p03992341.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA RELAXED FIT ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/a32a/2eb7/c3414781aeeb/63c99399f422/03992405800-p/03992405800-p.jpg?ts=1736866610191&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-estructura-p03992405.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/9527/099a/fdc044898897/c87e06acf086/04231311700-p/04231311700-p.jpg?ts=1757952879666&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-p04231311.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PUNTO ESTAMPADO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/188e/bf7d/5f2c47f7b80e/e6f707b87602/04805307716-p/04805307716-p.jpg?ts=1755179419477&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-contraste-p04805307.html",
+        "precio_original": "25.95€",
+        "precio_final": "7.78€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA BORDADO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/6721/f0c3/d76f492ab1b5/daba2bab628c/00962476251-p/00962476251-p.jpg?ts=1752226042035&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-bordado-combinado-p00962476.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA SLIM FIT BOBBY GILLESPIE X ZARA",
+        "imagen": "https://static.zara.net/assets/public/b82a/b861/1061436fa917/4c5793f5def2/00722309507-e1/00722309507-e1.jpg?ts=1747994342197&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-slim-fit-bobby-gillespie-x-zara-p00722309.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PUNTO ESTAMPADO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/c39b/824f/fc904c66a5a3/bc26f2828b92/04805302800-p/04805302800-p.jpg?ts=1751988793207&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-estampado-lavado-p04805302.html",
+        "precio_original": "22.95€",
+        "precio_final": "6.88€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTRUCTURA IRREGULAR RAYAS",
+        "imagen": "https://static.zara.net/assets/public/6d7e/a880/fc0a42d2954c/af74d9396a38/09240300251-p/09240300251-p.jpg?ts=1749021980132&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-irregular-rayas-p09240300.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA GRÁFICOS TEXTO",
+        "imagen": "https://static.zara.net/assets/public/8dca/fb47/dbb24474b117/8350ac62410e/05644351250-p/05644351250-p.jpg?ts=1754386763316&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-texto-p05644351.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA MICKEY + DONALD HARRY LAMBERT FOR ZARA X DISNEY",
+        "imagen": "https://static.zara.net/assets/public/438a/f549/26954cb290f3/0cf0b2bf9e09/00962336621-p/00962336621-p.jpg?ts=1758730353230&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-mickey-donald-harry-lambert-for-zara-x-disney-p00962336.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA WAFFLE CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/ebd8/e309/36e54d03a505/966946d6705a/05584337707-p/05584337707-p.jpg?ts=1757516070286&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-waffle-contraste-p05584337.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK LAVADO",
+        "imagen": "https://static.zara.net/assets/public/c1a5/f525/b3b64e9e9c19/587126ab8b5f/05644357682-p/05644357682-p.jpg?ts=1754563790922&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-lavado-p05644357.html",
+        "precio_original": "15.95€",
+        "precio_final": "6.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/98c6/a725/bae9418eb714/84b880f3e17d/03992330712-p/03992330712-p.jpg?ts=1753866179748&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-estructura-p03992330.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO PALMERA",
+        "imagen": "https://static.zara.net/assets/public/a47d/a180/60c64fbb9f37/55f5b34e5e1a/01259400250-p/01259400250-p.jpg?ts=1753866173661&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-palmera-p01259400.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADOS FÚTBOL RETRO",
+        "imagen": "https://static.zara.net/assets/public/8997/14fb/927c460aabf8/b4174c5deb58/06224337600-p/06224337600-p.jpg?ts=1754050655447&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-futbol-retro-p06224337.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA LIGERA CUELLO PANADERO",
+        "imagen": "https://static.zara.net/assets/public/439c/8ea5/f0b843b9af2a/ac0809a43202/04442390519-p/04442390519-p.jpg?ts=1754562549652&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-ligera-cuello-panadero-p04442390.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADOS COMBINADOS",
+        "imagen": "https://static.zara.net/assets/public/a9f4/ae60/28ef42c99382/6d0ef525bcf6/05644360250-p/05644360250-p.jpg?ts=1756391286968&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-combinados-p05644360.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA LOGO STRASS LUDOVIC DE SAINT SERNIN X ZARA",
+        "imagen": "https://static.zara.net/assets/public/ee5d/0b19/1cf44bc2a689/9a386c72dd77/05644394250-e1/05644394250-e1.jpg?ts=1762791508570&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-logo-strass-ludovic-de-saint-sernin-x-zara-p05644394.html",
+        "precio_original": "39.95€",
+        "precio_final": "15.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTRUCTURA IRREGULAR",
+        "imagen": "https://static.zara.net/assets/public/675f/d53e/04044a87b356/c353110917ec/05644328251-p/05644328251-p.jpg?ts=1751014136959&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-irregular-p05644328.html",
+        "precio_original": "15.95€",
+        "precio_final": "6.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK COMBINADO VARSITY",
+        "imagen": "https://static.zara.net/assets/public/fa11/43f5/6e9f4609909d/f03cf135bb6c/03665423400-p/03665423400-p.jpg?ts=1751632725909&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-combinado-varsity-p03665423.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA ESTRUCTURA HOCKEY",
-        "imagen": "https://static.zara.net/assets/public/55a2/6290/c29c4c34b34d/55db9f6264e7/04393321800-a1/04393321800-a1.jpg?ts=1761039384007&w=326",
+        "imagen": "https://static.zara.net/assets/public/c31d/d9a6/03cf4f9f8eef/8e221e972364/04393321800-p/04393321800-p.jpg?ts=1761039383827&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-estructura-hockey-p04393321.html",
         "precio_original": "29.95€",
         "precio_final": "11.98€",
@@ -810,8 +585,125 @@
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA ESTAMPADOS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/3725/7017/790b4efdadf7/18c1e4f7d4f6/06224359053-p/06224359053-p.jpg?ts=1754986994677&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-contraste-p06224359.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/ca09/204b/46714931888e/c21276a28642/06224350251-p/06224350251-p.jpg?ts=1754650717296&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-lavado-p06224350.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA HEAVYWEIGHT RIBETE",
+        "imagen": "https://static.zara.net/assets/public/b6a4/5256/d4fb446f8ac2/c42ee1deab25/04087300251-p/04087300251-p.jpg?ts=1762856613824&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-heavyweight-ribete-p04087300.html",
+        "precio_original": "15.95€",
+        "precio_final": "6.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA CUELLO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/8793/918e/9bcc47cb8804/90e81f571252/06224341250-p/06224341250-p.jpg?ts=1753860160400&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-contraste-p06224341.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK VISCOSA - LINO",
+        "imagen": "https://static.zara.net/assets/public/dceb/2a36/d2ed4b3b8123/d9f196dc4a08/03003302712-000-p/03003302712-000-p.jpg?ts=1749722459385&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-viscosa---lino-p05584301.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK SEMITRANSPARENTE",
+        "imagen": "https://static.zara.net/assets/public/2761/d5cc/8da34d8cbb73/ae609f4fcda9/05039306712-p/05039306712-p.jpg?ts=1757407768709&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-semitransparente-p05039306.html",
+        "precio_original": "15.95€",
+        "precio_final": "6.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PUNTO TANK ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/3207/645c/35b54870a2cb/de18b53d113e/05536305406-p/05536305406-p.jpg?ts=1753356780163&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-tank-estructura-p05536305.html",
+        "precio_original": "25.95€",
+        "precio_final": "7.78€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTRUCTURA CROCHET",
+        "imagen": "https://static.zara.net/assets/public/e9ab/852c/38c04e15a9a2/209fd23e8bf1/05584330712-p/05584330712-p.jpg?ts=1753866186765&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-crochet-p05584330.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/e99b/7051/051a4e75891d/d89331207018/05372310030-p/05372310030-p.jpg?ts=1751985260711&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-p05372310.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA FIRMA © OTIS KWAME KYE QUAICOE",
+        "imagen": "https://static.zara.net/assets/public/7d9c/ff5a/e5cc41f89442/16a193aaeeaf/01277321615-p/01277321615-p.jpg?ts=1753359498352&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-firma---otis-kwame-kye-quaicoe-p01277321.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK LOGO STRASS LUDOVIC DE SAINT SERNIN X ZARA",
+        "imagen": "https://static.zara.net/assets/public/c1e4/76de/45ad4cda8503/b443b2e487aa/T9037078569-p/T9037078569-p.jpg?ts=1763027704879&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-logo-strass-ludovic-de-saint-sernin-x-zara-p05644390.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA LAVADA NÚMEROS",
+        "imagen": "https://static.zara.net/assets/public/f7f1/dabc/29b8481fb9e5/d2952032d57f/01165312800-p/01165312800-p.jpg?ts=1757596672059&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-numeros-p01165312.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTRUCTURA WAFFLE",
+        "imagen": "https://static.zara.net/assets/public/1805/a658/a0d64d0f945f/14316b35ea10/00526406700-p/00526406700-p.jpg?ts=1764751350032&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-waffle-p00526406.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA SLIM FIT X SR_A",
-        "imagen": "https://static.zara.net/assets/public/8eec/6ffd/af9148e1b2fb/a24f7903cfff/00722327803-a1/00722327803-a1.jpg?ts=1760958482847&w=326",
+        "imagen": "https://static.zara.net/assets/public/ba7e/e14b/59b440f49a70/4f1bd4fe27c7/00722327800-p/00722327800-p.jpg?ts=1760958482672&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-slim-fit-x-sr-a-p00722327.html",
         "precio_original": "29.95€",
         "precio_final": "11.98€",
@@ -819,17 +711,80 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA ESTAMPADOS LAVADOS",
-        "imagen": "https://static.zara.net/assets/public/f136/ad8a/358f4914a9fb/759e6103216a/00495310712-a1/00495310712-a1.jpg?ts=1747990411885&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampados-lavados-p00495310.html",
+        "nombre": "CAMISETA LAVADA NFL NEW YORK GIANTS",
+        "imagen": "https://static.zara.net/assets/public/64c4/56c7/e4594b578117/507e8b500231/00962521803-p/00962521803-p.jpg?ts=1762245154130&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-nfl-new-york-giants-p00962521.html",
+        "precio_original": "29.95€",
+        "precio_final": "11.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA COMBINADO TEXTOS",
+        "imagen": "https://static.zara.net/assets/public/9fe2/086f/e71747b884b5/387a8ca1e515/04087311250-p/04087311250-p.jpg?ts=1753860138845&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-combinado-textos-p04087311.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA COLOR BLOCK CONEJO",
+        "imagen": "https://static.zara.net/assets/public/6647/74cd/400c4e7d9580/c65a807133da/00962379251-p/00962379251-p.jpg?ts=1760623932598&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-color-block-conejo-p00962379.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTRUCTURA LAVADA",
+        "imagen": "https://static.zara.net/assets/public/b650/44b9/0ea44b549c68/98e3441d9064/04087413922-p/04087413922-p.jpg?ts=1765382953051&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-lavada-p04087413.html",
+        "precio_original": "25.95€",
+        "precio_final": "10.38€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO MELOCOTÓN",
+        "imagen": "https://static.zara.net/assets/public/9849/c35d/420e428bbb39/b6e3fcfccfac/06224383250-p/06224383250-p.jpg?ts=1754066410329&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-melocoton-p06224383.html",
         "precio_original": "19.95€",
         "precio_final": "7.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "SUDADERA LAVADA GRÁFICOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/7d54/87b8/715140d4bfeb/0817b68e93d8/00962327715-p/00962327715-p.jpg?ts=1757596668910&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-graficos-estampados-p00962327.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK PUNTO ESTAMPADO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/6053/aeda/ea1b4d4fa806/e56b0c2dd936/00495316600-p/00495316600-p.jpg?ts=1760427943202&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-punto-estampado-contraste-p00495316.html",
+        "precio_original": "19.95€",
+        "precio_final": "7.98€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "SUDADERA TEXTOS BORDADOS",
+        "imagen": "https://static.zara.net/assets/public/3baa/51a0/95274ae098aa/0e540643495a/05039301250-p/05039301250-p.jpg?ts=1749033220114&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-textos-bordados-p05039301.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA ESTRUCTURA ABIERTA",
-        "imagen": "https://static.zara.net/assets/public/fef7/a7db/37914eaf8edb/ed30a1fcc0dc/03665362643-a1/03665362643-a1.jpg?ts=1754562546876&w=326",
+        "imagen": "https://static.zara.net/assets/public/637d/2abd/b8084a458001/277579be598d/03665362643-p/03665362643-p.jpg?ts=1754562549202&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-estructura-abierta-p03665362.html",
         "precio_original": "22.95€",
         "precio_final": "9.18€",
@@ -837,8 +792,17 @@
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA PUNTO RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/2393/500e/73ed40cf836f/8e883b75eabf/05536431800-p/05536431800-p.jpg?ts=1763994486032&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-punto-relaxed-fit-p05536431.html",
+        "precio_original": "29.95€",
+        "precio_final": "8.98€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "SUDADERA ESTAMPADO ÁRBOLES",
-        "imagen": "https://static.zara.net/assets/public/2f13/56be/6ae045edac7a/3ef52d7bc5f5/04090304506-a1/04090304506-a1.jpg?ts=1754408496210&w=326",
+        "imagen": "https://static.zara.net/assets/public/8a59/bfe0/f3f64c08a81f/76125544ac4f/04090304506-p/04090304506-p.jpg?ts=1754408496313&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-estampado-arboles-p04090304.html",
         "precio_original": "29.95€",
         "precio_final": "14.97€",
@@ -846,17 +810,17 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA LAVADA ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/0ae9/9389/b22d49fb882a/3640d9bf8b8a/00526338800-000-a1/00526338800-000-a1.jpg?ts=1761305358736&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-estructura-p00526338.html",
-        "precio_original": "25.95€",
-        "precio_final": "10.38€",
+        "nombre": "CAMISETA FLUIDA RAYAS LIMITED EDITION",
+        "imagen": "https://static.zara.net/assets/public/9805/c386/50d84a1d9df7/e97cbd93208d/02688706712-p/02688706712-p.jpg?ts=1749543721619&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-fluida-rayas-limited-edition-p02688706.html",
+        "precio_original": "49.95€",
+        "precio_final": "19.98€",
         "descuento": "-60%",
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA CUELLO PANADERO",
-        "imagen": "https://static.zara.net/assets/public/d292/0c79/304443bf8ab8/71156b2f0ac2/00526403104-a1/00526403104-a1.jpg?ts=1767881829827&w=326",
+        "nombre": "CAMISETA CUELLO PANADERO RAYAS",
+        "imagen": "https://static.zara.net/assets/public/c927/96fe/8da04d539bcc/c1bdaafa26f6/00526403104-p/00526403104-p.jpg?ts=1767881832341&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-cuello-panadero-p00526403.html",
         "precio_original": "22.95€",
         "precio_final": "11.47€",
@@ -864,8 +828,17 @@
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA ESTRUCTURA CROCHET",
+        "imagen": "https://static.zara.net/assets/public/972a/62fc/41b545a9969c/8f0ab46f38f3/07200234401-p/07200234401-p.jpg?ts=1753356789938&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-crochet-p07200234.html",
+        "precio_original": "45.95€",
+        "precio_final": "13.78€",
+        "descuento": "-70%",
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA SLIM FIT BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/e333/9dcd/57584c0f8578/7bfec748649f/05584401250-a1/05584401250-a1.jpg?ts=1765295541064&w=326",
+        "imagen": "https://static.zara.net/assets/public/f178/8d09/5fd544fdae1b/a201323ca433/05584401514-p/05584401514-p.jpg?ts=1763484514341&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-slim-fit-basica-p05584401.html",
         "precio_original": null,
         "precio_final": "9.95€",
@@ -873,53 +846,17 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA HEAVYWEIGHT BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/0cc8/7ea3/570b40db81ff/ee7c17fafaae/01887410250-a1/01887410250-a1.jpg?ts=1767021858625&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-heavyweight-basica-p01887410.html",
+        "nombre": "CAMISETA SLIM FIT BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/ce1f/046a/61714c148235/52c2125e493e/05584390826-p/05584390826-p.jpg?ts=1756909747921&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-slim-fit-basica-p06019390.html",
         "precio_original": null,
         "precio_final": "15.95€",
         "descuento": null,
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA RELAXED FIT INTERLOCK",
-        "imagen": "https://static.zara.net/assets/public/71e1/c7c3/b427487296dc/8e8a625008d9/05584471250-a1/05584471250-a1.jpg?ts=1765295600562&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-interlock-p05584471.html",
-        "precio_original": null,
-        "precio_final": "19.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PRIMERA CAPA SKI",
-        "imagen": "https://static.zara.net/assets/public/ae71/6b0e/bee34ab0b008/c036b055837c/04388302800-a1/04388302800-a1.jpg?ts=1763716077904&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-primera-capa-ski-p04388302.html",
-        "precio_original": null,
-        "precio_final": "29.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TANK RIB BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/4d78/6b7d/e5e74b8e9727/23b5c699a3eb/04087450250-a1/04087450250-a1.jpg?ts=1767891121796&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-basica-p04087450.html",
-        "precio_original": null,
-        "precio_final": "12.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "PACK 3 CAMISETA MEDIUM WEIGHT BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/fcbe/14fd/439f465482cf/4faf3ee27895/01887399800-a1/01887399800-a1.jpg?ts=1753858951799&w=326",
-        "url_producto": "https://www.zara.com/es/es/pack-3-camiseta-medium-weight-basica-p01887399.html",
-        "precio_original": null,
-        "precio_final": "35.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
         "nombre": "PACK 3 CAMISETA TANK BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/9206/09d2/3b564dfaacb1/0af5e3e002b6/04087452555-a1/04087452555-a1.jpg?ts=1767112634940&w=326",
+        "imagen": "https://static.zara.net/assets/public/3533/f49f/03e643489d4e/a70a1974173a/04087452555-e1/04087452555-e1.jpg?ts=1767111098943&w=710",
         "url_producto": "https://www.zara.com/es/es/pack-3-camiseta-tank-basica-p04087452.html",
         "precio_original": null,
         "precio_final": "35.95€",
@@ -927,26 +864,35 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA ESTRUCTURA WAFFLE AARON LEVINE X ZARA",
-        "imagen": "https://static.zara.net/assets/public/14b6/3fab/b9a543d68b7e/4f45cf183290/00526398712-a1/00526398712-a1.jpg?ts=1764610207603&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estructura-waffle%C2%A0aaron-levine-x-zara-p00526398.html",
-        "precio_original": null,
-        "precio_final": "29.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA HEAVYWEIGHT MANGA CORTA",
-        "imagen": "https://static.zara.net/assets/public/8c66/95b0/5b9c4374a5b1/65ba0a76154f/00761323250-a1/00761323250-a1.jpg?ts=1768389764975&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-heavyweight-manga-corta-p00761323.html",
+        "nombre": "CAMISETA RELAXED FIT INTERLOCK",
+        "imagen": "https://static.zara.net/assets/public/71f6/81c8/37dc4f148733/cf64a5bd17b6/05584471250-p/05584471250-p.jpg?ts=1765295600594&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-relaxed-fit-interlock-p05584471.html",
         "precio_original": null,
         "precio_final": "19.95€",
         "descuento": null,
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA HEAVYWEIGHT BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/21b9/d278/0bcc488eb5fb/f199aca0fe61/01887410250-p/01887410250-p.jpg?ts=1767021854904&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-heavyweight-basica-p01887410.html",
+        "precio_original": null,
+        "precio_final": "15.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "PACK 3 CAMISETA MEDIUM WEIGHT BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/c03b/bf9d/73bc43aaa3fd/76600321e454/01887399250-e1/01887399250-e1.jpg?ts=1753797180184&w=710",
+        "url_producto": "https://www.zara.com/es/es/pack-3-camiseta-medium-weight-basica-p01887399.html",
+        "precio_original": null,
+        "precio_final": "35.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA MEDIUM WEIGHT BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/e2f8/d018/2ba74424bd76/d1083a89de9e/01887411250-a1/01887411250-a1.jpg?ts=1766479483726&w=326",
+        "imagen": "https://static.zara.net/assets/public/be6f/1686/7f8d4c09b00c/7dc405a53214/01887411920-p/01887411920-p.jpg?ts=1767952189095&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-medium-weight-basica-p01887411.html",
         "precio_original": null,
         "precio_final": "15.95€",
@@ -954,26 +900,8 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA MANGA LARGA REGULAR FIT",
-        "imagen": "https://static.zara.net/assets/public/049d/a91c/87f54126871f/e15eda3daf5b/01887408250-a1/01887408250-a1.jpg?ts=1764924865844&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-manga-larga-regular-fit-p01887408.html",
-        "precio_original": null,
-        "precio_final": "22.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA JACQUARD RAYAS AARON LEVINE X ZARA",
-        "imagen": "https://static.zara.net/assets/public/e724/9a55/6dde4ea9baa8/8a5f2b9770e6/01887324300-a1/01887324300-a1.jpg?ts=1764156913049&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-aaron-levine-x-zara-p01887324.html",
-        "precio_original": null,
-        "precio_final": "25.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
         "nombre": "CAMISETA TÉCNICA BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/23bf/0b6f/a4d84ca4aaba/d2afa8b4dac5/04387400811-a1/04387400811-a1.jpg?ts=1761920398378&w=326",
+        "imagen": "https://static.zara.net/assets/public/24f2/4f8c/f2334637b537/6045f064747e/04387400811-p/04387400811-p.jpg?ts=1761920397682&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-tecnica-basica-p04387400.html",
         "precio_original": null,
         "precio_final": "15.95€",
@@ -981,8 +909,26 @@
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA MANGA LARGA REGULAR FIT",
+        "imagen": "https://static.zara.net/assets/public/1634/6406/8dc944289487/3b713dbc6c5f/01887408807-p/01887408807-p.jpg?ts=1764924863280&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-manga-larga-regular-fit-p01887408.html",
+        "precio_original": "22.95€",
+        "precio_final": "9.18€",
+        "descuento": "-60%",
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TEXTOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/c367/7658/cbfd4e21a0ab/319b3ecb3a19/03665435250-p/03665435250-p.jpg?ts=1768479730909&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-textos-estampados-p03665435.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA TÉCNICA BÁSICA MANGA LARGA",
-        "imagen": "https://static.zara.net/assets/public/b4c3/601d/16694f3b94f1/c6d74d15ec02/04387319800-a1/04387319800-a1.jpg?ts=1759482821381&w=326",
+        "imagen": "https://static.zara.net/assets/public/3190/a0ac/0d5b4e21b84e/deea8a70c401/04387319700-p/04387319700-p.jpg?ts=1759482821698&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-tecnica-basica-manga-larga-p04387319.html",
         "precio_original": null,
         "precio_final": "19.95€",
@@ -991,7 +937,7 @@
     },
     {
         "nombre": "CAMISETA ESTAMPADO COMBINADO",
-        "imagen": "https://static.zara.net/assets/public/156f/88fb/bc71486e8f77/6206e13f4662/00962406791-a1/00962406791-a1.jpg?ts=1764937774073&w=326",
+        "imagen": "https://static.zara.net/assets/public/9be6/be2c/2f0946c98c48/437cd91098f1/00962406791-p/00962406791-p.jpg?ts=1764937774515&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-estampado-combinado-p00962406.html",
         "precio_original": null,
         "precio_final": "19.95€",
@@ -999,62 +945,8 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA CUELLO PICO BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/8c25/fb95/1d8040dc9a6c/b014fcb2e379/05584362250-a1/05584362250-a1.jpg?ts=1767786700448&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-pico-basica-p05584402.html",
-        "precio_original": null,
-        "precio_final": "9.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA RUNNING MANGA LARGA",
-        "imagen": "https://static.zara.net/assets/public/415f/a7c4/f7174bfaaec4/536debbe25c5/04387322615-a1/04387322615-a1.jpg?ts=1762949635391&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-running-manga-larga-p04387322.html",
-        "precio_original": null,
-        "precio_final": "25.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA MUSCLE TEE FIT",
-        "imagen": "https://static.zara.net/assets/public/ccca/244b/17c2409fa653/775cd3a6a3d9/00722404712-a1/00722404712-a1.jpg?ts=1764168400662&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-muscle-tee-fit-p00722404.html",
-        "precio_original": null,
-        "precio_final": "19.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA TÉCNICA MEZCLA ALGODÓN",
-        "imagen": "https://static.zara.net/assets/public/d783/808e/c31e4429b52f/6c7635486682/08054308620-a1/08054308620-a1.jpg?ts=1768383664428&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tecnica-mezcla-algodon-p08054308.html",
-        "precio_original": null,
-        "precio_final": "22.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA LAVADA ESTAMPADOS COMBINADOS",
-        "imagen": "https://static.zara.net/assets/public/7069/d476/55a147d08379/134992dd5139/06224401802-a1/06224401802-a1.jpg?ts=1768292744636&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-lavada-estampados-combinados-p06224401.html",
-        "precio_original": null,
-        "precio_final": "19.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
-        "nombre": "CAMISETA ESTAMPADO NÚMEROS",
-        "imagen": "https://static.zara.net/assets/public/1a7e/0fef/ca8642c289e4/7b26a55795bb/03665438431-a1/03665438431-a1.jpg?ts=1768488303803&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-numeros-p03665438.html",
-        "precio_original": null,
-        "precio_final": "25.95€",
-        "descuento": null,
-        "categoria": "camisetas_hombre"
-    },
-    {
         "nombre": "CAMISETA ESTRUCTURA CUELLO PANADERO",
-        "imagen": "https://static.zara.net/assets/public/eebd/4500/48614533ba95/058cb376247b/06462415401-a1/06462415401-a1.jpg?ts=1766502024155&w=326",
+        "imagen": "https://static.zara.net/assets/public/a63c/a7f5/b39443c9bac9/ad595007c18d/06462415401-p/06462415401-p.jpg?ts=1766502023137&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta%C2%A0estructura%C2%A0cuello-panadero-p06462415.html",
         "precio_original": null,
         "precio_final": "25.95€",
@@ -1062,8 +954,71 @@
         "categoria": "camisetas_hombre"
     },
     {
+        "nombre": "CAMISETA RIB CUELLO PANADERO",
+        "imagen": "https://static.zara.net/assets/public/f50c/21aa/3add438b953b/2d9832d0f85d/05584443800-p/05584443800-p.jpg?ts=1765377445763&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-cuello-panadero-p05584443.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA COMPRESIVA CUELLO CREMALLERA SKI",
+        "imagen": "https://static.zara.net/assets/public/26da/5541/de7c4318a1e5/b829094e84d5/04388304527-p/04388304527-p.jpg?ts=1763716083288&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-compresiva-cuello-cremallera-ski-p04388304.html",
+        "precio_original": null,
+        "precio_final": "49.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA RIB CONTRASTE BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/5932/4ce3/cce941cb8c40/48622e7c10f9/00761414251-p/00761414251-p.jpg?ts=1768482289831&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-rib-contraste-basica-p00761414.html",
+        "precio_original": null,
+        "precio_final": "15.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA COLOR BLOCK",
+        "imagen": "https://static.zara.net/assets/public/01ca/a613/aff742498c08/1222ba15007a/01887407807-p/01887407807-p.jpg?ts=1766403994371&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-color-block-p01887407.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK LAVADA",
+        "imagen": "https://static.zara.net/assets/public/65ab/c750/4f0e42928aa5/401e0f7e2211/00722460250-p/00722460250-p.jpg?ts=1768922142853&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-lavada-p00722460.html",
+        "precio_original": null,
+        "precio_final": "15.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PRIMERA CAPA SKI",
+        "imagen": "https://static.zara.net/assets/public/9388/72f2/18424131b8cc/1ea8ba8af72c/04388302700-p/04388302700-p.jpg?ts=1763716077537&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-primera-capa-ski-p04388302.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA TANK RIB BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/7efb/874d/a36941b68189/5e75a6878856/04087450250-p/04087450250-p.jpg?ts=1767891122063&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-basica-p04087450.html",
+        "precio_original": null,
+        "precio_final": "12.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
         "nombre": "CAMISETA PUNTO PERLADO",
-        "imagen": "https://static.zara.net/assets/public/515f/e1ca/cbd54e2bbde6/ccb6b4e54e6f/02621421717-a1/02621421717-a1.jpg?ts=1768378807653&w=326",
+        "imagen": "https://static.zara.net/assets/public/f3a3/52f1/0ebe46249c40/ce0119d5705a/02621421251-p/02621421251-p.jpg?ts=1768470520695&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-punto-perlado-p02621421.html",
         "precio_original": null,
         "precio_final": "25.95€",
@@ -1071,20 +1026,65 @@
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA MEDIUM WEIGHT MANGA LARGA ORIGINS",
-        "imagen": "https://static.zara.net/assets/public/41b3/c73f/f0e341049f59/95addd8a4f37/04161404251-a1/04161404251-a1.jpg?ts=1768389701640&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-medium-weight-manga-larga-origins-p04161404.html",
+        "nombre": "CAMISETA ESTAMPADO NÚMEROS",
+        "imagen": "https://static.zara.net/assets/public/5f45/c53b/44af49f1bf24/311534da010a/03665438431-p/03665438431-p.jpg?ts=1768488305522&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-numeros-p03665438.html",
         "precio_original": null,
         "precio_final": "25.95€",
         "descuento": null,
         "categoria": "camisetas_hombre"
     },
     {
-        "nombre": "CAMISETA TANK RIB",
-        "imagen": "https://static.zara.net/assets/public/e95b/9c80/2a0d40deaf7c/58b04391c5de/04087451250-a1/04087451250-a1.jpg?ts=1767959207319&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-tank-rib-p04087451.html",
+        "nombre": "CAMISETA MEDIUM WEIGHT REGULAR FIT ORIGINS",
+        "imagen": "https://static.zara.net/assets/public/8047/f71f/0e224c018385/dee1a4f00448/04231430250-p/04231430250-p.jpg?ts=1768389730819&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-medium-weight-regular-fit-p04231430.html",
         "precio_original": null,
-        "precio_final": "12.95€",
+        "precio_final": "25.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA HEAVYWEIGHT MANGA CORTA",
+        "imagen": "https://static.zara.net/assets/public/1f8d/3fb7/506c45d79cc3/bc39201c4c00/00761323250-p/00761323250-p.jpg?ts=1768389764012&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-heavyweight-manga-corta-p00761323.html",
+        "precio_original": null,
+        "precio_final": "19.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA CUELLO PICO BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/227c/2fd0/45e442c7ab3f/ea676e919700/05584362250-p/05584362250-p.jpg?ts=1767786700157&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-cuello-pico-basica-p05584402.html",
+        "precio_original": null,
+        "precio_final": "9.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/9e29/f005/f6174706aa00/38aa768bf336/00722420251-p/00722420251-p.jpg?ts=1764939086680&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-combinado-p00722420.html",
+        "precio_original": null,
+        "precio_final": "19.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/d6e7/219e/b9f44239b0e9/e5690e4366cf/00722413428-p/00722413428-p.jpg?ts=1764941141890&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampado-combinado-p00722413.html",
+        "precio_original": null,
+        "precio_final": "19.95€",
+        "descuento": null,
+        "categoria": "camisetas_hombre"
+    },
+    {
+        "nombre": "CAMISETA JACQUARD RAYAS AARON LEVINE X ZARA",
+        "imagen": "https://static.zara.net/assets/public/621c/6770/aac24a61b07a/8ff27fb6f5c7/01887324049-p/01887324049-p.jpg?ts=1764589386584&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-jacquard-rayas-aaron-levine-x-zara-p01887324.html",
+        "precio_original": null,
+        "precio_final": "25.95€",
         "descuento": null,
         "categoria": "camisetas_hombre"
     }

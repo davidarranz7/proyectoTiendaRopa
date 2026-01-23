@@ -1,74 +1,20 @@
 [
     {
-        "nombre": "Sudadera capucha",
-        "imagen": "https://static.pullandbear.net/assets/public/e28f/2a10/cf14420daa99/5c24f55b7b72/0756052425100-A7M/0756052425100-A7M.jpg?ts=1757932893948&w=885&f=auto",
+        "nombre": "Polo manga larga STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/7d0c/2689/d3ae40f5a547/2192b7810da7/03210500400-A7M/03210500400-A7M.jpg?ts=1764937964372&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/hombre-n6228",
-        "precio_original": null,
-        "precio_final": "5.39€",
-        "descuento": null,
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha 21 Savage",
-        "imagen": "https://static.pullandbear.net/assets/public/c0e6/4357/5bc0425dbdad/4b2b839ea783/03550536809-M/03550536809-M.jpg?ts=1764255822033&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-21-savage-l03550536?cS=809&pelement=736700291",
         "precio_original": "35.99€",
-        "precio_final": "17.99€",
-        "descuento": "-50%",
+        "precio_final": "8.39€",
+        "descuento": "-77%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera polo paneles STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/658f/c112/729d4c7ca192/ef0b6eda3246/07560537501-A7M/07560537501-A7M.jpg?ts=1760963782414&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-polo-paneles-stwd-l07560537?cS=501&pelement=700509266",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera combinada bolsillos laterales",
-        "imagen": "https://static.pullandbear.net/assets/public/4400/b06d/628e4a5895a8/86c523dd8fb5/07560543711-A7M/07560543711-A7M.jpg?ts=1758533319419&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-combinada-bolsillos-laterales-l07560543?cS=711&pelement=700616122",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera roja gráfico STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/ac78/4016/568b480dbb99/409e157e9aae/03550503600-A7M/03550503600-A7M.jpg?ts=1764937361568&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-roja-grafico-stwd-l03550503?cS=600&pelement=736700294",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha Bold Attitude",
-        "imagen": "https://static.pullandbear.net/assets/public/1337/3f58/7b1646508338/f2a91fa9c4e5/07560555711-M/07560555711-M.jpg?ts=1759303227828&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-bold-attitude-l07560555?cS=711&pelement=703079599",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera STWD gráfico edificio",
-        "imagen": "https://static.pullandbear.net/assets/public/604d/a7fe/dfd84c7aa4af/9806c4251b49/07560542611-M/07560542611-M.jpg?ts=1757665917919&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-stwd-grafico-edificio-l07560542?cS=611&pelement=697656539",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera manga corta básica",
-        "imagen": "https://static.pullandbear.net/assets/public/accf/4d38/5d9746eab396/8baa4ab8effd/0756050050500-A7M/0756050050500-A7M.jpg?ts=1750417658514&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-basica-l07560500?cS=505&pelement=692152213",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
+        "nombre": "Polo manga larga STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/7d0c/2689/d3ae40f5a547/2192b7810da7/03210500400-A7M/03210500400-A7M.jpg?ts=1764937964372&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/polo-manga-larga-stwd-l03210500?cS=400&pelement=736700285",
+        "precio_original": "35.99€",
+        "precio_final": "8.39€",
+        "descuento": "-77%",
         "categoria": "sudaderas_hombre"
     },
     {
@@ -81,72 +27,63 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha acabado lavado",
-        "imagen": "https://static.pullandbear.net/assets/public/84f7/b111/85b14578ad2f/badc9ce9a113/07560580807-A7M/07560580807-A7M.jpg?ts=1764329863795&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-acabado-lavado-l07560580?cS=807&pelement=736700284",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
+        "nombre": "Sudadera capucha 21 Savage",
+        "imagen": "https://static.pullandbear.net/assets/public/c0e6/4357/5bc0425dbdad/4b2b839ea783/03550536809-M/03550536809-M.jpg?ts=1764255822033&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-21-savage-l03550536?cS=809&pelement=736700291",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera roja Brooklyn",
-        "imagen": "https://static.pullandbear.net/assets/public/4c7d/a737/98824944814e/2f25b04e3a08/07560589600-A7M/07560589600-A7M.jpg?ts=1763988602929&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-roja-brooklyn-l07560589?cS=600&pelement=736700287",
+        "nombre": "Sudadera capucha",
+        "imagen": "https://static.pullandbear.net/assets/public/e28f/2a10/cf14420daa99/5c24f55b7b72/0756052425100-A7M/0756052425100-A7M.jpg?ts=1757932893948&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-l07560524?cS=251&pelement=696254664",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera Magical Return",
-        "imagen": "https://static.pullandbear.net/assets/public/a0b1/7744/ebe44b018bac/a8e59e3e3085/07560581711-M/07560581711-M.jpg?ts=1763552926508&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-magical-return-l07560581?cS=711&pelement=736700290",
+        "nombre": "Sudadera capucha logo STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/29e3/040e/17a744d29dcc/685d8b9b2d90/07560518400-M/07560518400-M.jpg?ts=1763376141984&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-logo-stwd-l07560518?cS=400&pelement=726990084",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha 21 Savage",
+        "imagen": "https://static.pullandbear.net/assets/public/51d5/4da3/99ea4e62a70c/337dbefb8124/03550537676-A7M/03550537676-A7M.jpg?ts=1764765790226&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-21-savage-l03550537?cS=676&pelement=736700289",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha logo STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/157a/7376/a1664fdda872/ea7eda6d78d8/07560518800-M/07560518800-M.jpg?ts=1754983779156&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-logo-stwd-l07560518?cS=800&pelement=692761888",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha STWD Gallery",
+        "imagen": "https://static.pullandbear.net/assets/public/5fdb/74db/eca5476a99a8/7290d290e871/07560538501-A7M/07560538501-A7M.jpg?ts=1756113912066&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-gallery-l07560538?cS=501&pelement=697656534",
         "precio_original": "27.99€",
         "precio_final": "13.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera básica cuello redondo",
-        "imagen": "https://static.pullandbear.net/assets/public/ac10/073e/b3ab4eadb7cb/71cc2a402f31/07560914712-M/07560914712-M.jpg?ts=1752241318517&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-cuello-redondo-l07560514?cS=712&pelement=692988872",
-        "precio_original": "17.99€",
-        "precio_final": "8.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera básica cuello cremallera",
-        "imagen": "https://static.pullandbear.net/assets/public/983b/2a16/a7434875a7f8/263cafc3e264/07560902807-M/07560902807-M.jpg?ts=1752241299263&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-cuello-cremallera-l07560502?cS=807&pelement=692988876",
-        "precio_original": "22.99€",
-        "precio_final": "11.49€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera cuello redondo STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/e4d6/4afc/34da475cad83/9cabf0dcd271/07560507420-A7M/07560507420-A7M.jpg?ts=1764059527336&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-cuello-redondo-stwd-l07560507?cS=420&pelement=692161608",
-        "precio_original": "27.99€",
-        "precio_final": "13.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera manga corta STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/d1c8/78dc/e320462aa537/50a39da29ac5/03598503620-M/03598503620-M.jpg?ts=1739979963949&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-stwd-l03598503?cS=620&pelement=693840154",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha cremallera STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/eed0/7f5c/1bb7485ba705/94e59aeabc43/03550504400-A7M/03550504400-A7M.jpg?ts=1764937342292&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-stwd-l03550504?cS=400&pelement=733464881",
+        "nombre": "Sudadera capucha acabado lavado",
+        "imagen": "https://static.pullandbear.net/assets/public/84f7/b111/85b14578ad2f/badc9ce9a113/07560580807-A7M/07560580807-A7M.jpg?ts=1764329863795&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-acabado-lavado-l07560580?cS=807&pelement=736700284",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
         "descuento": "-50%",
@@ -162,9 +99,36 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha boxy",
-        "imagen": "https://static.pullandbear.net/assets/public/7cae/bbc6/0d8e49018984/c4978e4fb61c/07560908251-M/07560908251-M.jpg?ts=1763369071974&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-boxy-l07560508?cS=251&pelement=692988885",
+        "nombre": "Sudadera roja Brooklyn",
+        "imagen": "https://static.pullandbear.net/assets/public/4c7d/a737/98824944814e/2f25b04e3a08/07560589600-A7M/07560589600-A7M.jpg?ts=1763988602929&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-roja-brooklyn-l07560589?cS=600&pelement=736700287",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cropped capucha cremallera",
+        "imagen": "https://static.pullandbear.net/assets/public/1df8/bf50/57394e39bd56/96601147d51f/0756052808100-A7M/0756052808100-A7M.jpg?ts=1754924257527&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cropped-capucha-cremallera-l07560528?cS=081&pelement=699323634",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera boxy capucha",
+        "imagen": "https://static.pullandbear.net/assets/public/042f/a401/7d0d44499be0/65910ab9fec5/07560509802-M/07560509802-M.jpg?ts=1752564498620&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-boxy-capucha-l07560509?cS=802&pelement=692161644",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera combinada bolsillos laterales",
+        "imagen": "https://static.pullandbear.net/assets/public/4400/b06d/628e4a5895a8/86c523dd8fb5/07560543711-A7M/07560543711-A7M.jpg?ts=1758533319419&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-combinada-bolsillos-laterales-l07560543?cS=711&pelement=700616122",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
@@ -180,20 +144,83 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera básica con capucha",
-        "imagen": "https://static.pullandbear.net/assets/public/69dd/e198/161a42e4a8fe/4b544ae4b918/0756051370000-A7M/0756051370000-A7M.jpg?ts=1753714832483&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-con-capucha-l07560513?cS=700&pelement=692757306",
+        "nombre": "Sudadera blanca gráfico",
+        "imagen": "https://static.pullandbear.net/assets/public/1708/d7fc/cc204edda453/77376449aa75/07560579251-A7M/07560579251-A7M.jpg?ts=1762781347775&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-blanca-grafico-l07560579?cS=251&pelement=715500670",
+        "precio_original": "19.99€",
+        "precio_final": "9.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera Stranger Things",
+        "imagen": "https://static.pullandbear.net/assets/public/af5f/b4cf/6ae145419141/10fef787f4fe/07561519803-M/07561519803-M.jpg?ts=1762254953815&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-stranger-things-l07561519?cS=803&pelement=718626101",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cropped STWD Studio",
+        "imagen": "https://static.pullandbear.net/assets/public/005d/3668/25754d85aa27/917e753012f4/07560566803-A7M/07560566803-A7M.jpg?ts=1760963345728&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cropped-stwd-studio-l07560566?cS=803&pelement=703079604",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha contraste",
+        "imagen": "https://static.pullandbear.net/assets/public/85a0/0660/d53040d2aae0/0e950d55b832/07560582800-A7M/07560582800-A7M.jpg?ts=1762177316794&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cremallera-capucha-contraste-l07560582?cS=800&pelement=714515643",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cropped STWD Studio",
+        "imagen": "https://static.pullandbear.net/assets/public/4834/0ed7/beaa4ea8a2e9/7b2bf6f4903c/07560566800-A7M/07560566800-A7M.jpg?ts=1760963345076&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cropped-stwd-studio-l07560566?cS=800&pelement=703079603",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cremallera STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/eed0/7f5c/1bb7485ba705/94e59aeabc43/03550504400-A7M/03550504400-A7M.jpg?ts=1764937342292&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-stwd-l03550504?cS=400&pelement=733464881",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera STWD Fresh Codes",
+        "imagen": "https://static.pullandbear.net/assets/public/c061/100d/0ba84e6aa54b/e702c4304993/07560536802-A7M/07560536802-A7M.jpg?ts=1756116595054&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-stwd-fresh-codes-l07560536?cS=802&pelement=700509262",
         "precio_original": "22.99€",
         "precio_final": "11.49€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha STWD Studio",
-        "imagen": "https://static.pullandbear.net/assets/public/7431/c6ca/1fee4b41992e/7553b4b7fb9c/07560533800-M/07560533800-M.jpg?ts=1755591368819&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-studio-l07560533?cS=800&pelement=695907698",
+        "nombre": "Sudadera capucha Bold Attitude",
+        "imagen": "https://static.pullandbear.net/assets/public/1337/3f58/7b1646508338/f2a91fa9c4e5/07560555711-M/07560555711-M.jpg?ts=1759303227828&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-bold-attitude-l07560555?cS=711&pelement=703079599",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera Magical Return",
+        "imagen": "https://static.pullandbear.net/assets/public/a0b1/7744/ebe44b018bac/a8e59e3e3085/07560581711-M/07560581711-M.jpg?ts=1763552926508&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-magical-return-l07560581?cS=711&pelement=736700290",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
@@ -207,56 +234,56 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera cropped capucha cremallera",
-        "imagen": "https://static.pullandbear.net/assets/public/1df8/bf50/57394e39bd56/96601147d51f/0756052808100-A7M/0756052808100-A7M.jpg?ts=1754924257527&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-cropped-capucha-cremallera-l07560528?cS=081&pelement=699323634",
-        "precio_original": "27.99€",
-        "precio_final": "13.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera cuello cremallera bordados",
-        "imagen": "https://static.pullandbear.net/assets/public/69f4/e3aa/d458406c889a/cc94a05f95b4/0756053550100-A7M/0756053550100-A7M.jpg?ts=1759152184083&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-cuello-cremallera-bordados-l07560535?cS=501&pelement=698993669",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/4593/9e75/bc214a48951e/3df820e6a774/07560903712-M/07560903712-M.jpg?ts=1753697826102&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-l07560503?cS=712&pelement=693139301",
-        "precio_original": "29.99€",
-        "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "Sudadera capucha negra Stranger Things",
-        "imagen": "https://static.pullandbear.net/assets/public/6605/adee/69a34234bdf5/ecd62096a58a/07561517807-A7M/07561517807-A7M.jpg?ts=1760014633768&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-negra-stranger-things-l07561517?cS=807&pelement=717415323",
+        "nombre": "Sudadera capucha cremallera bordado",
+        "imagen": "https://static.pullandbear.net/assets/public/da47/0c92/2d0046b49754/df3caddb6608/0756055370000-A7M/0756055370000-A7M.jpg?ts=1759152187294&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-bordado-l07560553?cS=700&pelement=701724482",
         "precio_original": "35.99€",
         "precio_final": "17.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera básica capucha cremallera",
-        "imagen": "https://static.pullandbear.net/assets/public/60f4/07c9/93754c28a4f5/799a38c15b30/07560901802-M/07560901802-M.jpg?ts=1756823973864&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-capucha-cremallera-l07560501?cS=802&pelement=697267109",
+        "nombre": "Sudadera roja gráfico STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/ac78/4016/568b480dbb99/409e157e9aae/03550503600-A7M/03550503600-A7M.jpg?ts=1764937361568&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-roja-grafico-stwd-l03550503?cS=600&pelement=736700294",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha gris texto",
-        "imagen": "https://static.pullandbear.net/assets/public/3491/8d81/a82c4b6eb6a0/b96196ff5dcb/03550518803-A7M/03550518803-A7M.jpg?ts=1762180218437&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-gris-texto-l03550518?cS=803&pelement=717699771",
+        "nombre": "Sudadera capucha STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/062d/ab14/98254918bc16/7a5fb89eb6cc/07560569500-M/07560569500-M.jpg?ts=1750664170583&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-l07590505?cS=500&pelement=695435493",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera STWD Race Winner",
+        "imagen": "https://static.pullandbear.net/assets/public/0e66/6f03/369e40bfb8e0/42c34a190860/07560558922-A7M/07560558922-A7M.jpg?ts=1761561218110&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-stwd-race-winner-l07560558?cS=922&pelement=707385033",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cuello cremallera",
+        "imagen": "https://static.pullandbear.net/assets/public/92a1/e184/0205440eba6b/f450578c6e22/07560597615-A7M/07560597615-A7M.jpg?ts=1764338519082&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cuello-cremallera-l07560597?cS=615&pelement=713497332",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cuello redondo lobos",
+        "imagen": "https://static.pullandbear.net/assets/public/a141/85fb/6e5f488ea342/ec984f6904e7/07560539807-A7M/07560539807-A7M.jpg?ts=1757331462870&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cuello-redondo-lobos-l07560539?cS=807&pelement=700509279",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
@@ -270,11 +297,200 @@
         "categoria": "sudaderas_hombre"
     },
     {
+        "nombre": "Sudadera capucha STWD bordado",
+        "imagen": "https://static.pullandbear.net/assets/public/c82b/96a0/acb7475fa1e6/5023c98718c6/07560559922-A7M/07560559922-A7M.jpg?ts=1761564906714&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-bordado-l07560559?cS=922&pelement=707385032",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
         "nombre": "Sudadera boxy gráfico perro",
         "imagen": "https://static.pullandbear.net/assets/public/a40d/9bbf/375f4fd89cff/d7eca003208e/07560572251-A7M/07560572251-A7M.jpg?ts=1762179145065&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/sudadera-boxy-grafico-perro-l07560572?cS=251&pelement=713100380",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cremallera doble",
+        "imagen": "https://static.pullandbear.net/assets/public/5b0e/8210/4b964f64910f/98f29389c5f9/07560545898-A7M/07560545898-A7M.jpg?ts=1758533318130&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-doble-l07560545?cS=898&pelement=698993633",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha contraste",
+        "imagen": "https://static.pullandbear.net/assets/public/61c9/4835/f5cc4d0db416/f6192c640391/07560582600-A7M/07560582600-A7M.jpg?ts=1763394626993&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cremallera-capucha-contraste-l07560582?cS=600&pelement=714515642",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera verde gráfico STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/3177/db6a/6459403480ea/1840861019a3/07561524500-A7M/07561524500-A7M.jpg?ts=1764328356706&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-verde-grafico-stwd-l07561524?cS=500&pelement=718363680",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera STWD gráfico edificio",
+        "imagen": "https://static.pullandbear.net/assets/public/604d/a7fe/dfd84c7aa4af/9806c4251b49/07560542611-M/07560542611-M.jpg?ts=1757665917919&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-stwd-grafico-edificio-l07560542?cS=611&pelement=697656539",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha gráfico DWF",
+        "imagen": "https://static.pullandbear.net/assets/public/7bfa/2f3b/8f48405fb93c/096d1cfcf1b0/07560576251-A7M/07560576251-A7M.jpg?ts=1762781346418&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-grafico-dwf-l07560576?cS=251&pelement=715814741",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera básica cuello redondo",
+        "imagen": "https://static.pullandbear.net/assets/public/ac10/073e/b3ab4eadb7cb/71cc2a402f31/07560914712-M/07560914712-M.jpg?ts=1752241318517&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-cuello-redondo-l07560514?cS=712&pelement=692988872",
+        "precio_original": "17.99€",
+        "precio_final": "8.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cremallera Toyota",
+        "imagen": "https://static.pullandbear.net/assets/public/7c44/f10a/e9d8444eb1cd/0054275c3d0f/03550522401-A7M/03550522401-A7M.jpg?ts=1763109726420&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-toyota-l03550522?cS=401&pelement=725068024",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera básica con capucha",
+        "imagen": "https://static.pullandbear.net/assets/public/2de0/2fb9/91934730839e/30ccfb000e5e/07562513501-M/07562513501-M.jpg?ts=1752241346361&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-con-capucha-l07560513?cS=501&pelement=692757305",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha lavada STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/93f1/08eb/d5994411b907/cf04fd5fe460/07560517712-M/07560517712-M.jpg?ts=1753692875923&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-lavada-stwd-l07560517?cS=712&pelement=692151908",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera polo paneles STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/b413/50d2/31394b488e5e/d24e701ab44d/07200517401-M/07200517401-M.jpg?ts=1763369220074&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-polo-paneles-stwd-l07200517?cS=401&pelement=733464882",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/4593/9e75/bc214a48951e/3df820e6a774/07560903712-M/07560903712-M.jpg?ts=1753697826102&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-l07560503?cS=712&pelement=693139301",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cuello cremallera",
+        "imagen": "https://static.pullandbear.net/assets/public/9b4f/3cf5/17c94d60a256/9d464e0eaa91/07560523500-M/07560523500-M.jpg?ts=1757594570238&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cuello-cremallera-l07560523?cS=500&pelement=692761877",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha boxy",
+        "imagen": "https://static.pullandbear.net/assets/public/19db/a30f/b79b44568e91/768fd587bb7d/07560908712-M/07560908712-M.jpg?ts=1763369077040&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-boxy-l07560508?cS=712&pelement=692988883",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera azul capucha Snoopy",
+        "imagen": "https://static.pullandbear.net/assets/public/6bdc/da17/4f264dc592d8/46fd10ea7090/07151936401-A7M/07151936401-A7M.jpg?ts=1756730044492&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-azul-capucha-snoopy-l07151936?cS=401&pelement=701974453",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera blanca texto",
+        "imagen": "https://static.pullandbear.net/assets/public/0230/fe02/7ab64280a917/49a6e6a38250/0756092325100-A7M/0756092325100-A7M.jpg?ts=1760366271282&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-blanca-texto-l07560923?cS=251&pelement=705939039",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha One Piece",
+        "imagen": "https://static.pullandbear.net/assets/public/59fa/24bb/9dad4fa69b5c/c99c942199f7/07561919807-M/07561919807-M.jpg?ts=1761842753227&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-one-piece-l07561919?cS=807&pelement=718758465",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera manga corta básica",
+        "imagen": "https://static.pullandbear.net/assets/public/accf/4d38/5d9746eab396/8baa4ab8effd/0756050050500-A7M/0756050050500-A7M.jpg?ts=1750417658514&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-basica-l07560500?cS=505&pelement=692152213",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cremallera pliegues",
+        "imagen": "https://static.pullandbear.net/assets/public/9994/adaa/d10044e28c7f/2fa2c07725ca/07560534803-A7M/07560534803-A7M.jpg?ts=1758537093748&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-pliegues-l07560534?cS=803&pelement=695244999",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha cremallera pliegues",
+        "imagen": "https://static.pullandbear.net/assets/public/5cea/fee9/af314fac8a0b/1b616190327f/0756053480000-A7M/0756053480000-A7M.jpg?ts=1758553184059&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-pliegues-l07560534?cS=800&pelement=695244998",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha STWD strass",
+        "imagen": "https://static.pullandbear.net/assets/public/d251/698b/bc424a41b410/0f3fc4754a98/07561525611-A7M/07561525611-A7M.jpg?ts=1764338147398&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-strass-l07561525?cS=611&pelement=717515959",
+        "precio_original": "39.99€",
+        "precio_final": "19.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
@@ -288,20 +504,74 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera manga corta bordado",
-        "imagen": "https://static.pullandbear.net/assets/public/66d0/ca2d/63394deca5b3/b9915af4697a/07152541251-A7M/07152541251-A7M.jpg?ts=1760366269970&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-bordado-l07152541?cS=251&pelement=703079624",
+        "nombre": "Sudadera capucha gráfico 91",
+        "imagen": "https://static.pullandbear.net/assets/public/c20d/d332/e67a4d5195b8/ab3f932ccce9/07560556501-A7M/07560556501-A7M.jpg?ts=1760963196799&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-grafico-91-l07560556?cS=501&pelement=703079597",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera básica con capucha",
+        "imagen": "https://static.pullandbear.net/assets/public/28d0/5050/15d64b3b9629/d7cad68d88da/07560513620-M/07560513620-M.jpg?ts=1752241280457&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-basica-con-capucha-l07560513?cS=620&pelement=692151622",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha STWD cereza",
+        "imagen": "https://static.pullandbear.net/assets/public/d9a5/d6c1/1f0144d89c21/41421121baf7/07560562251-A7M/07560562251-A7M.jpg?ts=1756112030204&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-cereza-l07560562?cS=251&pelement=701190256",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/bbe8/a43f/64f0473ab7a8/f240ed3a33b7/07561505800-A7M/07561505800-A7M.jpg?ts=1760351615063&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-l07561505?cS=800&pelement=717552869",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera manga corta estructura",
+        "imagen": "https://static.pullandbear.net/assets/public/c967/3ec5/ccbf4915a023/ed113050cbb7/07561900800-M/07561900800-M.jpg?ts=1747986032987&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-estructura-l07561500?cS=800&pelement=692157449",
         "precio_original": "19.99€",
         "precio_final": "5.99€",
         "descuento": "-70%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Camiseta STWD interlock",
-        "imagen": "https://static.pullandbear.net/assets/public/0e9f/d156/23784162993e/61d695680ec4/07150749500-M/07150749500-M.jpg?ts=1761754534192&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-interlock-l07150749?cS=500&pelement=715787475",
-        "precio_original": "22.99€",
-        "precio_final": "11.49€",
+        "nombre": "Sudadera capucha STWD fresa",
+        "imagen": "https://static.pullandbear.net/assets/public/2935/f488/5c3c4efb9bca/b646f0948c06/07560561800-M/07560561800-M.jpg?ts=1755591354468&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-fresa-l07560561?cS=800&pelement=701190257",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha gráfico minerales",
+        "imagen": "https://static.pullandbear.net/assets/public/971f/60bb/02de4944a627/6b4dbe54c8e5/0756054092200-A7M/0756054092200-A7M.jpg?ts=1757071139683&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-grafico-minerales-l07560540?cS=922&pelement=700509278",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera cuello redondo STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/e4d6/4afc/34da475cad83/9cabf0dcd271/07560507420-A7M/07560507420-A7M.jpg?ts=1764059527336&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-cuello-redondo-stwd-l07560507?cS=420&pelement=692161608",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
@@ -315,36 +585,45 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha gráfico 91",
-        "imagen": "https://static.pullandbear.net/assets/public/c20d/d332/e67a4d5195b8/ab3f932ccce9/07560556501-A7M/07560556501-A7M.jpg?ts=1760963196799&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-grafico-91-l07560556?cS=501&pelement=703079597",
+        "nombre": "Sudadera capucha costuras",
+        "imagen": "https://static.pullandbear.net/assets/public/f864/7f59/95114a06a2ae/dda32d893f4a/07561521445-M/07561521445-M.jpg?ts=1762764780690&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-costuras-l07561521?cS=445&pelement=714515650",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "Sudadera capucha Toyota Land Cruiser",
+        "imagen": "https://static.pullandbear.net/assets/public/1da3/63d7/be414204bbc4/7bbe48f419ac/03550523251-M/03550523251-M.jpg?ts=1763109730832&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-toyota-land-cruiser-l03550523?cS=251&pelement=725068020",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera marrón gráfico flores",
-        "imagen": "https://static.pullandbear.net/assets/public/f588/8725/36bf48ab9400/ddb9353641e7/07560925700-A7M/07560925700-A7M.jpg?ts=1762781346865&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-marron-grafico-flores-l07560925?cS=700&pelement=714515645",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
+        "nombre": "Sudadera capucha STWD efecto lavado",
+        "imagen": "https://static.pullandbear.net/assets/public/78c4/4288/caa04065a5d0/47b15c43cbbb/07561520711-A7M/07561520711-A7M.jpg?ts=1762783796059&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-efecto-lavado-l07561520?cS=711&pelement=714515649",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Pack pantalón y sudadera chándal",
-        "imagen": "https://static.pullandbear.net/assets/public/0a36/fc76/30164532bdce/aa76f170b101/07562901803-M/07562901803-M.jpg?ts=1757073616867&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/pack-pantalon-y-sudadera-chandal-l07562901?cS=803&pelement=694223823",
-        "precio_original": "47.99€",
-        "precio_final": "23.99€",
-        "descuento": "-50%",
+        "nombre": "Sudadera manga corta básica",
+        "imagen": "https://static.pullandbear.net/assets/public/26d7/a8ef/183a47f8b05f/cbe03541ce4b/0756050040300-A7M/0756050040300-A7M.jpg?ts=1750417658443&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-basica-l07560500?cS=403&pelement=692152211",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "Sudadera capucha cremallera bordado",
-        "imagen": "https://static.pullandbear.net/assets/public/da47/0c92/2d0046b49754/df3caddb6608/0756055370000-A7M/0756055370000-A7M.jpg?ts=1759152187294&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-bordado-l07560553?cS=700&pelement=701724482",
+        "nombre": "Sudadera capucha STWD cremallera",
+        "imagen": "https://static.pullandbear.net/assets/public/73c4/4f85/ceb4481dbd9b/afab42b332b6/07560710800-M/07560710800-M.jpg?ts=1764174650563&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-cremallera-l07560710?cS=800&pelement=714655498",
         "precio_original": "35.99€",
         "precio_final": "17.99€",
         "descuento": "-50%",

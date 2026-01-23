@@ -1,7 +1,7 @@
 [
     {
-        "nombre": "Body cuello perkins",
-        "imagen": "https://static.pullandbear.net/assets/public/008a/c408/490c49e78c07/7374473aecf7/07153333606-A7M/07153333606-A7M.jpg?ts=1761206532360&w=885&f=auto",
+        "nombre": "Camiseta soft touch frunce lateral",
+        "imagen": "https://static.pullandbear.net/assets/public/e617/742a/2efa4e6e8b26/6981ef9114f7/0715236682700-A7M/0715236682700-A7M.jpg?ts=1756973981549&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/mujer-n6417",
         "precio_original": null,
         "precio_final": "2.99€",
@@ -9,12 +9,12 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Body cut out hebilla",
-        "imagen": "https://static.pullandbear.net/assets/public/0b60/1cd9/54784c969f06/fe2b50d5d11c/07151494700-M/07151494700-M.jpg?ts=1755688486582&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-cut-out-hebilla-l07151394?cS=700&pelement=701760184",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
+        "nombre": "Camiseta soft touch frunce lateral",
+        "imagen": "https://static.pullandbear.net/assets/public/e617/742a/2efa4e6e8b26/6981ef9114f7/0715236682700-A7M/0715236682700-A7M.jpg?ts=1756973981549&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-soft-touch-frunce-lateral-l07152366?cS=827&pelement=711204916",
+        "precio_original": null,
+        "precio_final": "2.99€",
+        "descuento": null,
         "categoria": "camisetas_mujer"
     },
     {
@@ -27,56 +27,20 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta texto",
-        "imagen": "https://static.pullandbear.net/assets/public/2507/5f4e/7f7e40e2a390/461cf7b98af7/07153421427-M/07153421427-M.jpg?ts=1755759358068&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-texto-l07153308?cS=427&pelement=707909018",
-        "precio_original": "9.99€",
-        "precio_final": "2.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/b672/2a8c/2618420cbf25/9f4a590c8574/07152310800-M/07152310800-M.jpg?ts=1755015183531&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-espalda-descubierta-l07152310?cS=800&pelement=704624879",
-        "precio_original": "9.99€",
-        "precio_final": "3.99€",
+        "nombre": "Body cut out hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/ba74/f00f/af0d454ca0b0/dee2077f0068/0715139480000-A7M/0715139480000-A7M.jpg?ts=1760024240478&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-cut-out-hebilla-l07151394?cS=800&pelement=701760185",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta soft touch frunce lateral",
-        "imagen": "https://static.pullandbear.net/assets/public/e617/742a/2efa4e6e8b26/6981ef9114f7/0715236682700-A7M/0715236682700-A7M.jpg?ts=1756973981549&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-soft-touch-frunce-lateral-l07152366?cS=827&pelement=711204916",
-        "precio_original": "15.99€",
-        "precio_final": "2.99€",
-        "descuento": "-81%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta gráfico Sacramento",
-        "imagen": "https://static.pullandbear.net/assets/public/3e57/516b/a55d405a8612/4eb3f5cfe637/07152398805-A7M/07152398805-A7M.jpg?ts=1759907162475&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-sacramento-l07152398?cS=805&pelement=712036896",
-        "precio_original": "12.99€",
-        "precio_final": "3.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter estampado",
-        "imagen": "https://static.pullandbear.net/assets/public/3f95/ab75/6ed24ce0b345/16cd26e64b10/07472422600-M/07472422600-M.jpg?ts=1754313183851&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-estampado-l07472422?cS=600&pelement=699909628",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco tailoring espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/4197/50de/603b45608a0f/a336f69bad78/0780130380000-a7m/0780130380000-a7m.jpg?ts=1757610643618&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/chaleco-tailoring-espalda-descubierta-l07801303?cS=800&pelement=702129751",
-        "precio_original": "25.99€",
-        "precio_final": "10.39€",
+        "nombre": "Chaleco rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/a024/b7b0/e4bc4250af02/c42799bb2ae5/03773308717-M/03773308717-M.jpg?ts=1758113533185&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-rustico-l03773308?cS=717&pelement=692161331",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
@@ -90,56 +54,56 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta doble",
-        "imagen": "https://static.pullandbear.net/assets/public/6821/0dce/66af43f49040/1d0a52e7d86d/07153397805-M/07153397805-M.jpg?ts=1764175640441&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-l07153397?cS=805&pelement=720729519",
-        "precio_original": "25.99€",
-        "precio_final": "10.39€",
+        "nombre": "Chaleco rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/ce96/126b/a97d4efbb620/b671adeb8249/03773308800-A7M/03773308800-A7M.jpg?ts=1750408185863&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-rustico-l03773308?cS=800&pelement=692161330",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top bardot hebilla",
-        "imagen": "https://static.pullandbear.net/assets/public/c138/844b/5ea24168b64e/458968784ad4/07151409700-M/07151409700-M.jpg?ts=1755522883846&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-bardot-hebilla-l07151374?cS=700&pelement=705928795",
+        "nombre": "Top espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/b672/2a8c/2618420cbf25/9f4a590c8574/07152310800-M/07152310800-M.jpg?ts=1755015183531&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-espalda-descubierta-l07152310?cS=800&pelement=704624879",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body halter encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/a615/4e25/855b4813bcd7/063fe2354b34/07153303712-M/07153303712-M.jpg?ts=1756218490869&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-halter-encaje-l07153303?cS=712&pelement=707909027",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top rústico globo",
-        "imagen": "https://static.pullandbear.net/assets/public/4581/9e6e/e9974e8fbea6/031419f15985/03474366605-A7M/03474366605-A7M.jpg?ts=1747385773415&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-rustico-globo-l03474366?cS=605&pelement=693333049",
+        "nombre": "Body manga larga escote cruzado",
+        "imagen": "https://static.pullandbear.net/assets/public/ae78/95d0/e4cc41a798a5/420e9a3c347e/07153340800-A7M/07153340800-A7M.jpg?ts=1763713259564&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-manga-larga-escote-cruzado-l07153340?cS=800&pelement=720499944",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top cruzado punto flores",
+        "imagen": "https://static.pullandbear.net/assets/public/611e/b6a1/8be640a684b5/295d2219eaba/07151395712-A7M/07151395712-A7M.jpg?ts=1755689753909&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-cruzado-punto-flores-l07151395?cS=712&pelement=706402847",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta mesh degradado",
+        "imagen": "https://static.pullandbear.net/assets/public/51d1/488c/768c467ba4ac/fd898b20ce5d/07151355620-A7M/07151355620-A7M.jpg?ts=1755696324196&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-mesh-degradado-l07151355?cS=620&pelement=700847279",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top asimétrico lencero",
-        "imagen": "https://static.pullandbear.net/assets/public/c4c7/e804/4d964fd49f03/af07a88f3846/0715038625000-A7M/0715038625000-A7M.jpg?ts=1752760705021&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-lencero-l07150386?cS=250&pelement=699548203",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes soles",
-        "imagen": "https://static.pullandbear.net/assets/public/e788/b5fa/be9a4782a259/18d3c4da2723/0715130271000-A7M/0715130271000-A7M.jpg?ts=1752758608461&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-soles-l07151302?cS=710&pelement=697267079",
-        "precio_original": "9.99€",
-        "precio_final": "2.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes sol",
-        "imagen": "https://static.pullandbear.net/assets/public/6699/6948/37194ee0a3e4/1ae81be45c59/0715039571000-A7M/0715039571000-A7M.jpg?ts=1752758637742&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-sol-l07150395?cS=710&pelement=696285980",
-        "precio_original": "12.99€",
-        "precio_final": "3.89€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
@@ -153,56 +117,65 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta Digital Pet",
-        "imagen": "https://static.pullandbear.net/assets/public/00ca/a29b/116c42e7a225/767eb517b579/07150356251-A7M/07150356251-A7M.jpg?ts=1753286122623&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-digital-pet-l07150356?cS=251&pelement=696097125",
+        "nombre": "Body poliamida asimétrico",
+        "imagen": "https://static.pullandbear.net/assets/public/84d7/91f1/2d6f49dfa619/a7ba7eee9614/0715038561500-A7M/0715038561500-A7M.jpg?ts=1752824345400&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-poliamida-asimetrico-l07150385?cS=615&pelement=696066052",
         "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top asimétrico frunces",
-        "imagen": "https://static.pullandbear.net/assets/public/3db0/7a03/f6ce4e7fa974/009ba7648ac1/0715230080000-A7M/0715230080000-A7M.jpg?ts=1757600794486&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-frunces-l07152300?cS=800&pelement=707385049",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta fútbol Pacific Republic",
-        "imagen": "https://static.pullandbear.net/assets/public/6ca2/a97e/5e894f2cb5f5/c25b82254cc4/07200354620-M/07200354620-M.jpg?ts=1754324089405&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-pacific-republic-l07200354?cS=620&pelement=701724484",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body manga larga escote cruzado",
-        "imagen": "https://static.pullandbear.net/assets/public/ae78/95d0/e4cc41a798a5/420e9a3c347e/07153340800-A7M/07153340800-A7M.jpg?ts=1763713259564&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-manga-larga-escote-cruzado-l07153340?cS=800&pelement=720499944",
+        "nombre": "Camiseta doble manga",
+        "imagen": "https://static.pullandbear.net/assets/public/6a78/de90/60a14bc3953d/148ad8ee6515/0715231180300-A7M/0715231180300-A7M.jpg?ts=1760626378497&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-manga-l07152311?cS=803&pelement=714550835",
         "precio_original": "22.99€",
         "precio_final": "9.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top punto calado",
-        "imagen": "https://static.pullandbear.net/assets/public/cfd9/6cca/5ae84fec95df/bf895ba6dfa7/07150499401-M/07150499401-M.jpg?ts=1751973761426&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-punto-calado-l07150399?cS=401&pelement=697861813",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
+        "nombre": "Top bardot hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/5539/bcfe/bdad472089c1/d0e483a48fe4/0715137480000-A7M/0715137480000-A7M.jpg?ts=1760026471966&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bardot-hebilla-l07151374?cS=800&pelement=705928796",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta gráfico Sacramento",
+        "imagen": "https://static.pullandbear.net/assets/public/3e57/516b/a55d405a8612/4eb3f5cfe637/07152398805-A7M/07152398805-A7M.jpg?ts=1759907162475&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-sacramento-l07152398?cS=805&pelement=712036896",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top halter rayas",
-        "imagen": "https://static.pullandbear.net/assets/public/6e7c/35ae/bb4b4844b617/f7b791c9f603/07151327712-M/07151327712-M.jpg?ts=1754324046885&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-rayas-l07151327?cS=712&pelement=700380730",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
+        "nombre": "Top cruzado bambula hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/04f7/f739/2d1044c8bc96/d59385ee888e/07152408800-A7M/07152408800-A7M.jpg?ts=1757062560825&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-cruzado-bambula-hebilla-l07152382?cS=800&pelement=707385042",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body cut out hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/0b60/1cd9/54784c969f06/fe2b50d5d11c/07151494700-M/07151494700-M.jpg?ts=1755688486582&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-cut-out-hebilla-l07151394?cS=700&pelement=701760184",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico lencero",
+        "imagen": "https://static.pullandbear.net/assets/public/c4c7/e804/4d964fd49f03/af07a88f3846/0715038625000-A7M/0715038625000-A7M.jpg?ts=1752760705021&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-lencero-l07150386?cS=250&pelement=699548203",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
@@ -216,24 +189,6 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top brillo espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/69a4/13b2/b0d84b0a8f5b/6369050dcb04/07153327800-A7M/07153327800-A7M.jpg?ts=1760026471720&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-brillo-espalda-descubierta-l07153327?cS=800&pelement=715360881",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body poliamida asimétrico",
-        "imagen": "https://static.pullandbear.net/assets/public/84d7/91f1/2d6f49dfa619/a7ba7eee9614/0715038561500-A7M/0715038561500-A7M.jpg?ts=1752824345400&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-poliamida-asimetrico-l07150385?cS=615&pelement=696066052",
-        "precio_original": "15.99€",
-        "precio_final": "6.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "Top halter ajustado",
         "imagen": "https://static.pullandbear.net/assets/public/fd43/c7bc/076e42c298a1/77eb38288ecc/07150317645-A7M/07150317645-A7M.jpg?ts=1753285303069&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/top-halter-ajustado-l07150317?cS=645&pelement=701724472",
@@ -243,18 +198,126 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta mesh degradado",
-        "imagen": "https://static.pullandbear.net/assets/public/51d1/488c/768c467ba4ac/fd898b20ce5d/07151355620-A7M/07151355620-A7M.jpg?ts=1755696324196&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-mesh-degradado-l07151355?cS=620&pelement=700847279",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
+        "nombre": "Top cruzado bambula hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/e068/2000/1b1543ea9c3d/804b73d289ed/07152382802-A7M/07152382802-A7M.jpg?ts=1757062555473&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-cruzado-bambula-hebilla-l07152382?cS=802&pelement=707385043",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/3f95/ab75/6ed24ce0b345/16cd26e64b10/07472422600-M/07472422600-M.jpg?ts=1754313183851&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-estampado-l07472422?cS=600&pelement=699909628",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top estampado frunces",
-        "imagen": "https://static.pullandbear.net/assets/public/8057/9f1c/0bff4cb98175/7d1f7fc1515e/07472444400-A7M/07472444400-A7M.jpg?ts=1753191083937&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-estampado--frunces-l07472444?cS=400&pelement=700056158",
+        "nombre": "Top corset bordado suizo",
+        "imagen": "https://static.pullandbear.net/assets/public/31e6/d6b7/4ded43ff80be/9afd59098dc7/07152361250-M/07152361250-M.jpg?ts=1754388899295&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-bordado-suizo-l07152361?cS=250&pelement=707132797",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta doble",
+        "imagen": "https://static.pullandbear.net/assets/public/6821/0dce/66af43f49040/1d0a52e7d86d/07153397805-M/07153397805-M.jpg?ts=1764175640441&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-l07153397?cS=805&pelement=720729519",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter punto",
+        "imagen": "https://static.pullandbear.net/assets/public/65f3/26f3/619a4734817b/2efa9f2eecf8/07510371746-M/07510371746-M.jpg?ts=1754324106150&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-punto-l07510371?cS=746&pelement=695434693",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta doble manga texto",
+        "imagen": "https://static.pullandbear.net/assets/public/c8b4/1fc6/65d14872aa22/b8b0c1b09b3f/07152355807-A7M/07152355807-A7M.jpg?ts=1755697137641&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-manga-texto-l07152355?cS=807&pelement=704408080",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta fútbol 09 STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/7268/9d96/02bb41a18a7e/7e1bd694a4ad/07152346805-M/07152346805-M.jpg?ts=1756390384607&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-09-stwd-l07152346?cS=805&pelement=707385038",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico frunces",
+        "imagen": "https://static.pullandbear.net/assets/public/5e40/7015/266148d3a028/04980dea2d41/07152300420-M/07152300420-M.jpg?ts=1757340799971&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-frunces-l07152300?cS=420&pelement=707385048",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top manga larga corchetes",
+        "imagen": "https://static.pullandbear.net/assets/public/54a1/7c3d/02774680a7b9/eb77e432b50e/0715335864100-A7M/0715335864100-A7M.jpg?ts=1760022618882&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-manga-larga-corchetes-l07153358?cS=641&pelement=715350206",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top rústico frunce",
+        "imagen": "https://static.pullandbear.net/assets/public/ee99/0ea8/92e3494fa217/2ffca3dd81da/07151407707-A7M/07151407707-A7M.jpg?ts=1752656707209&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-rustico-frunce-l07151326?cS=707&pelement=700808271",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corset bordado suizo",
+        "imagen": "https://static.pullandbear.net/assets/public/bc90/867e/c1bb4e3fa475/ca9a580adec9/07152461300-M/07152461300-M.jpg?ts=1754388914340&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-bordado-suizo-l07152361?cS=300&pelement=707132795",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco tailoring espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/226b/bd7c/741a4b099cd9/8aa93f1e4d6e/07801303104-M/07801303104-M.jpg?ts=1757062583633&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-tailoring-espalda-descubierta-l07801303?cS=104&pelement=701724487",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body bandeau silueta globo",
+        "imagen": "https://static.pullandbear.net/assets/public/8824/c205/fe544ff9b089/23096f0418dd/07153338700-M/07153338700-M.jpg?ts=1762351501762&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-bandeau-silueta-globo-l07153338?cS=700&pelement=717515954",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Lady Gaga MAYHEM",
+        "imagen": "https://static.pullandbear.net/assets/public/5a90/f863/d9e3415cb02d/5b481a4814e3/07154308800-A7M/07154308800-A7M.jpg?ts=1761233520679&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-lady-gaga-mayhem-l07154306?cS=800&pelement=715638003",
         "precio_original": "19.99€",
         "precio_final": "5.99€",
         "descuento": "-70%",
@@ -270,9 +333,225 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "Top asimétrico lencero",
+        "imagen": "https://static.pullandbear.net/assets/public/580e/36f1/4cb540f99e38/f2df8106c835/0715038680000-A7M/0715038680000-A7M.jpg?ts=1752756959584&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-lencero-l07150386?cS=800&pelement=699548202",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bardot hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/c138/844b/5ea24168b64e/458968784ad4/07151409700-M/07151409700-M.jpg?ts=1755522883846&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bardot-hebilla-l07151374?cS=700&pelement=705928795",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corset cropped",
+        "imagen": "https://static.pullandbear.net/assets/public/0ff1/b8ae/193c4af78f9f/ce30a516d7a5/07472395401-M/07472395401-M.jpg?ts=1757595328193&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-cropped-l07472395?cS=401&pelement=700616123",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corset bordado suizo",
+        "imagen": "https://static.pullandbear.net/assets/public/bf4c/d5bb/26cd493fa726/39ebebf47965/07152361800-M/07152361800-M.jpg?ts=1754388903702&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-bordado-suizo-l07152361?cS=800&pelement=707132796",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes asimétrico volante",
+        "imagen": "https://static.pullandbear.net/assets/public/0fcb/33c6/b7b64ba8ac9d/cdec59c53ca3/07152326712-M/07152326712-M.jpg?ts=1754397662822&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-asimetrico-volante-l07152326?cS=712&pelement=703212166",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco cropped lino",
+        "imagen": "https://static.pullandbear.net/assets/public/dd45/52e1/0742410496b2/64313be89a91/07801300832-a7m/07801300832-a7m.jpg?ts=1756370309125&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-cropped-lino-l07801300?cS=832&pelement=693139280",
+        "precio_original": "29.99€",
+        "precio_final": "11.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top punto calado",
+        "imagen": "https://static.pullandbear.net/assets/public/cfd9/6cca/5ae84fec95df/bf895ba6dfa7/07150499401-M/07150499401-M.jpg?ts=1751973761426&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-punto-calado-l07150399?cS=401&pelement=697861813",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/198a/6ca9/244c4ffebeca/197e3bc5f24f/0715330771200-A7M/0715330771200-A7M.jpg?ts=1757601356538&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-encaje-l07153307?cS=712&pelement=709489735",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico lentejuelas",
+        "imagen": "https://static.pullandbear.net/assets/public/4997/82ae/e70d4f919378/8b813e7acc2f/07153332605-a7m/07153332605-a7m.jpg?ts=1761840375816&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-lentejuelas-l07153332?cS=605&pelement=716716879",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco punto rib",
+        "imagen": "https://static.pullandbear.net/assets/public/f290/53b7/31354e3b82ea/2d845816c0b6/07510301809-A7M/07510301809-A7M.jpg?ts=1764323812484&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-punto-rib-l07510301?cS=809&pelement=708689718",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco punto soft botones",
+        "imagen": "https://static.pullandbear.net/assets/public/3ced/6ef2/f34c4baa9bd4/36829ce8ef0f/0751031162000-A7M/0751031162000-A7M.jpg?ts=1756395422451&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-punto-soft-botones-l07510311?cS=620&pelement=697861803",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top manga larga volante",
+        "imagen": "https://static.pullandbear.net/assets/public/2c42/84b6/f51d48c0ab14/391d9c83b5ee/07153360700-A7M/07153360700-A7M.jpg?ts=1760600867292&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-manga-larga-volante-l07153360?cS=700&pelement=716360004",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Daydreamers Club",
+        "imagen": "https://static.pullandbear.net/assets/public/86ea/fbb1/b2ff4d59bb7c/2f73facb63f3/07153380833-M/07153380833-M.jpg?ts=1764166453742&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-daydreamers-club-l07153380?cS=833&pelement=718008663",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "Camiseta texto strass",
         "imagen": "https://static.pullandbear.net/assets/public/ad9c/42c2/847d473fbb0a/df441dc6de7c/07151393821-A7M/07151393821-A7M.jpg?ts=1755696359726&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/camiseta-texto-strass-l07151393?cS=821&pelement=700847270",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco bajo globo",
+        "imagen": "https://static.pullandbear.net/assets/public/a283/5e43/70404abb907a/c574450cc199/07801301700-M/07801301700-M.jpg?ts=1756218432797&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-bajo-globo-l07801301?cS=700&pelement=696254695",
+        "precio_original": "27.99€",
+        "precio_final": "11.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Lady Gaga MAYHEM",
+        "imagen": "https://static.pullandbear.net/assets/public/30df/59d5/77764d7186ca/2c6fa5deb682/07154307805-M/07154307805-M.jpg?ts=1760610796059&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-lady-gaga-mayhem-l07154307?cS=805&pelement=715638004",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bambula manga larga",
+        "imagen": "https://static.pullandbear.net/assets/public/fa72/41fe/91f4468c9170/a23dd62472cb/07151460485-M/07151460485-M.jpg?ts=1757590190234&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bambula-manga-larga-l07151360?cS=485&pelement=711237349",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga doble",
+        "imagen": "https://static.pullandbear.net/assets/public/819d/a86a/db73497d9080/13c7e09e6f8d/07152392826-A7M/07152392826-A7M.jpg?ts=1757576400729&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-doble-l07152392?cS=826&pelement=708126978",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body halter brillo",
+        "imagen": "https://static.pullandbear.net/assets/public/dc4f/1c75/ae5342819023/3dc2c7d10bf2/0715335080200-A7M/0715335080200-A7M.jpg?ts=1762450311948&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-halter-brillo-l07153350?cS=802&pelement=716359987",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco Stranger Things",
+        "imagen": "https://static.pullandbear.net/assets/public/41ac/614e/b6d4495e9858/77270302e2e8/07510399500-M/07510399500-M.jpg?ts=1762431329999&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-stranger-things-l07510399?cS=500&pelement=715636737",
+        "precio_original": "39.99€",
+        "precio_final": "15.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top punto calado",
+        "imagen": "https://static.pullandbear.net/assets/public/5a4f/a469/59144de4a0c9/df4305703edd/0715039971200-A7M/0715039971200-A7M.jpg?ts=1752136900637&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-punto-calado-l07150399?cS=712&pelement=697861814",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau Henri Matisse",
+        "imagen": "https://static.pullandbear.net/assets/public/23b4/cd49/121f4a24bd45/22b357959c79/0755035042000-A7M/0755035042000-A7M.jpg?ts=1752569185781&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bandeau-henri-matisse-l07550350?cS=420&pelement=697494996",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top manga larga corchetes",
+        "imagen": "https://static.pullandbear.net/assets/public/668e/10ca/2c48436989ed/7f21a2352f29/07152343600-M/07152343600-M.jpg?ts=1758113569615&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-manga-larga-corchetes-l07152343?cS=600&pelement=711237345",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta gráfico STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/6fec/ee2c/5d4e4efe968d/56c55c1a3ee5/07153381811-A7M/07153381811-A7M.jpg?ts=1764234445701&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-stwd-l07153381?cS=811&pelement=718008666",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta texto strass",
+        "imagen": "https://static.pullandbear.net/assets/public/bf2b/2e51/e4c54a869bfd/51a4ec0e2acb/07150418406-A7M/07150418406-A7M.jpg?ts=1748437419526&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-texto-strass-l07150418?cS=406&pelement=693870991",
         "precio_original": "15.99€",
         "precio_final": "4.79€",
         "descuento": "-70%",
@@ -288,174 +567,30 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top corset rayas",
-        "imagen": "https://static.pullandbear.net/assets/public/61a5/abf6/db2142248dab/53e75e543c73/0747238540000-A7M/0747238540000-A7M.jpg?ts=1756307625091&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-corset-rayas-l07472385?cS=400&pelement=698661416",
+        "nombre": "Top punto calado",
+        "imagen": "https://static.pullandbear.net/assets/public/5e91/c170/cacc49f6997e/37d191284093/0715039992600-A7M/0715039992600-A7M.jpg?ts=1752136901138&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-punto-calado-l07150399?cS=926&pelement=697861815",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top palabra de honor engomado",
+        "imagen": "https://static.pullandbear.net/assets/public/dd74/493c/fec54b69975f/a641efb4960d/07472399800-A7M/07472399800-A7M.jpg?ts=1763647820386&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-palabra-de-honor-engomado-l07472399?cS=800&pelement=700616155",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top STWD arandelas",
-        "imagen": "https://static.pullandbear.net/assets/public/7731/ef97/124f491d8906/38bf4554aa90/07153371800-M/07153371800-M.jpg?ts=1764321771648&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-stwd-arandelas-l07153371?cS=800&pelement=721333321",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top cruzado bambula hebilla",
-        "imagen": "https://static.pullandbear.net/assets/public/e068/2000/1b1543ea9c3d/804b73d289ed/07152382802-A7M/07152382802-A7M.jpg?ts=1757062555473&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-cruzado-bambula-hebilla-l07152382?cS=802&pelement=707385043",
+        "nombre": "Blusa encaje lazo",
+        "imagen": "https://static.pullandbear.net/assets/public/5fab/3659/48094e74a91d/fa8aa6c535cd/07150346700-A7M/07150346700-A7M.jpg?ts=1748593790470&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/blusa-encaje-lazo-l07150346?cS=700&pelement=692794990",
         "precio_original": "19.99€",
         "precio_final": "7.99€",
         "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body halter encaje",
-        "imagen": "https://static.pullandbear.net/assets/public/a615/4e25/855b4813bcd7/063fe2354b34/07153303712-M/07153303712-M.jpg?ts=1756218490869&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-halter-encaje-l07153303?cS=712&pelement=707909027",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top rústico frunce",
-        "imagen": "https://static.pullandbear.net/assets/public/ee99/0ea8/92e3494fa217/2ffca3dd81da/07151407707-A7M/07151407707-A7M.jpg?ts=1752656707209&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-rustico-frunce-l07151326?cS=707&pelement=700808271",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bambula manga larga",
-        "imagen": "https://static.pullandbear.net/assets/public/fa72/41fe/91f4468c9170/a23dd62472cb/07151460485-M/07151460485-M.jpg?ts=1757590190234&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-bambula-manga-larga-l07151360?cS=485&pelement=711237349",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Lady Gaga MAYHEM",
-        "imagen": "https://static.pullandbear.net/assets/public/30df/59d5/77764d7186ca/2c6fa5deb682/07154307805-M/07154307805-M.jpg?ts=1760610796059&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-lady-gaga-mayhem-l07154307?cS=805&pelement=715638004",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top asimétrico encaje",
-        "imagen": "https://static.pullandbear.net/assets/public/198a/6ca9/244c4ffebeca/197e3bc5f24f/0715330771200-A7M/0715330771200-A7M.jpg?ts=1757601356538&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-encaje-l07153307?cS=712&pelement=709489735",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top corset bordado suizo",
-        "imagen": "https://static.pullandbear.net/assets/public/bf4c/d5bb/26cd493fa726/39ebebf47965/07152361800-M/07152361800-M.jpg?ts=1754388903702&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-corset-bordado-suizo-l07152361?cS=800&pelement=707132796",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta doble manga",
-        "imagen": "https://static.pullandbear.net/assets/public/6a78/de90/60a14bc3953d/148ad8ee6515/0715231180300-A7M/0715231180300-A7M.jpg?ts=1760626378497&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-manga-l07152311?cS=803&pelement=714550835",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter strass drapeado",
-        "imagen": "https://static.pullandbear.net/assets/public/e2a1/e296/2eba478bb5dd/e84e1e23424c/07152354802-A7M/07152354802-A7M.jpg?ts=1760007932371&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-strass-drapeado-l07152354?cS=802&pelement=706506058",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco largo raya diplomática",
-        "imagen": "https://static.pullandbear.net/assets/public/b377/2976/7555421d865b/e611f1211e6e/0780130280700-A7M/0780130280700-A7M.jpg?ts=1757603539665&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/chaleco-largo-raya-diplomatica-l07801302?cS=807&pelement=698305158",
-        "precio_original": "25.99€",
-        "precio_final": "10.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top encaje espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/f22b/17f9/a8b340a1bc9c/a76dd2624d73/0715235260500-A7M/0715235260500-A7M.jpg?ts=1757000193895&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-encaje-espalda-descubierta-l07152352?cS=605&pelement=707385036",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body escote palabra de honor",
-        "imagen": "https://static.pullandbear.net/assets/public/8824/c205/fe544ff9b089/23096f0418dd/07153338700-M/07153338700-M.jpg?ts=1762351501762&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-escote-palabra-de-honor-l07153338?cS=700&pelement=717515954",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes estampado",
-        "imagen": "https://static.pullandbear.net/assets/public/cd24/ec18/75344875b17f/10116ef37fa2/07152319021-M/07152319021-M.jpg?ts=1754313161431&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-estampado-l07152319?cS=021&pelement=702818144",
-        "precio_original": "12.99€",
-        "precio_final": "3.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter punto",
-        "imagen": "https://static.pullandbear.net/assets/public/65f3/26f3/619a4734817b/2efa9f2eecf8/07510371746-M/07510371746-M.jpg?ts=1754324106150&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-punto-l07510371?cS=746&pelement=695434693",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco punto rib",
-        "imagen": "https://static.pullandbear.net/assets/public/f290/53b7/31354e3b82ea/2d845816c0b6/07510301809-A7M/07510301809-A7M.jpg?ts=1764323812484&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/chaleco-punto-rib-l07510301?cS=809&pelement=708689718",
-        "precio_original": "25.99€",
-        "precio_final": "10.39€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top corset cropped",
-        "imagen": "https://static.pullandbear.net/assets/public/0ff1/b8ae/193c4af78f9f/ce30a516d7a5/07472395401-M/07472395401-M.jpg?ts=1757595328193&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-corset-cropped-l07472395?cS=401&pelement=700616123",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta negra texto strass",
-        "imagen": "https://static.pullandbear.net/assets/public/b8ce/2a75/19804e4d9202/cc0b07e2b995/07153328800-A7M/07153328800-A7M.jpg?ts=1763647018711&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-negra-texto-strass-l07153328?cS=800&pelement=719808043",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
     {
@@ -468,18 +603,216 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top tirantes asimétrico volante",
-        "imagen": "https://static.pullandbear.net/assets/public/0fcb/33c6/b7b64ba8ac9d/cdec59c53ca3/07152326712-M/07152326712-M.jpg?ts=1754397662822&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-asimetrico-volante-l07152326?cS=712&pelement=703212166",
+        "nombre": "Camiseta STWD strass",
+        "imagen": "https://static.pullandbear.net/assets/public/49d4/e5d3/cc0b420fae7f/8edec21d0f52/07153368800-M/07153368800-M.jpg?ts=1764253720831&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-strass-l07153368?cS=800&pelement=718040198",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top cruzado bambula hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/9ed0/2073/84e94d8bad4e/4b4535aac724/07152382700-A7M/07152382700-A7M.jpg?ts=1757062555641&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-cruzado-bambula-hebilla-l07152382?cS=700&pelement=707385041",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes crochet",
+        "imagen": "https://static.pullandbear.net/assets/public/b2bc/bf03/66664397a798/46b7f126ce12/0755031171200-A7M/0755031171200-A7M.jpg?ts=1748522474489&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-crochet-l07550311?cS=712&pelement=692151708",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter serpiente efecto piel",
+        "imagen": "https://static.pullandbear.net/assets/public/9fc9/0378/22774b69a1a0/7df653bc4ea8/0747239403800-A7M/0747239403800-A7M.jpg?ts=1760022617101&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-serpiente-efecto-piel-l07472394?cS=038&pelement=700056126",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco terciopelo bordados",
+        "imagen": "https://static.pullandbear.net/assets/public/db3b/f271/d9b64975a6ba/b2b5b10c19b0/07801351700-A7M/07801351700-A7M.jpg?ts=1753965360679&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-terciopelo-bordados-l07801351?cS=700&pelement=692157234",
+        "precio_original": "29.99€",
+        "precio_final": "11.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top lazos efecto arrugado",
+        "imagen": "https://static.pullandbear.net/assets/public/d4cf/b689/798049b8986a/f918058de8ba/07150341406-A7M/07150341406-A7M.jpg?ts=1749133663889&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-lazos-efecto-arrugado-l07150341?cS=406&pelement=693840141",
         "precio_original": "17.99€",
         "precio_final": "5.39€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "Camiseta corbata STWD by PLEASURES",
+        "imagen": "https://static.pullandbear.net/assets/public/af48/c253/82d54585a7c5/4a4d1c0f8425/07154304805-A7M/07154304805-A7M.jpg?ts=1761138740118&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-corbata-stwd-by-pleasures-l07154304?cS=805&pelement=716359984",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body encaje espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/1fdc/a27a/c40a43b097f9/29d408737730/07153305676-A7M/07153305676-A7M.jpg?ts=1757601847103&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-encaje-espalda-descubierta-l07153305?cS=676&pelement=709489736",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes flores",
+        "imagen": "https://static.pullandbear.net/assets/public/e3d6/5134/e67d4d22a513/5561cfb69569/07150330401-A7M/07150330401-A7M.jpg?ts=1751528648197&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-flores-l07150330?cS=401&pelement=694018011",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/60e9/176c/92914c57a20c/a725b32ecf77/0715330767600-A7M/0715330767600-A7M.jpg?ts=1757601356885&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-encaje-l07153307?cS=676&pelement=709489734",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta fútbol mesh STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/46f6/6d48/0a3e448a9f8b/2c8662e4327c/07153383620-A7M/07153383620-A7M.jpg?ts=1763041249992&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-mesh-stwd-l07153383?cS=620&pelement=720718771",
+        "precio_original": "29.99€",
+        "precio_final": "11.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter terciopelo tul",
+        "imagen": "https://static.pullandbear.net/assets/public/4031/1177/eebb474da53b/50453ea22160/07474326922-A7M/07474326922-A7M.jpg?ts=1762429746508&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-terciopelo-tul-l07474326?cS=922&pelement=710556451",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco bajo globo",
+        "imagen": "https://static.pullandbear.net/assets/public/3bfe/eb64/88f44a66b259/2d92858eba87/07801301800-A7M/07801301800-A7M.jpg?ts=1759398270344&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-bajo-globo-l07801301?cS=800&pelement=696254696",
+        "precio_original": "27.99€",
+        "precio_final": "11.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/c45a/1090/f85d441e85fe/0423ca9f76d8/07472365700-A7M/07472365700-A7M.jpg?ts=1751528641337&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-con-lino-l07472365?cS=700&pelement=695092986",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/25f1/7322/880b4f44a16f/01113a2d0e8f/0715039125000-A7M/0715039125000-A7M.jpg?ts=1752145081381&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-encaje-l07150391?cS=250&pelement=698806666",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body corsetero tirantes encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/efbf/8eb2/96c3445fa79b/17e673cac3b9/07153334800-A7M/07153334800-A7M.jpg?ts=1763655559152&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-corsetero-tirantes-encaje-l07153334?cS=800&pelement=712667062",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corsetero denim",
+        "imagen": "https://static.pullandbear.net/assets/public/d6a8/05fe/8f6b494ead9b/43db64005dd3/07474317406-A7M/07474317406-A7M.jpg?ts=1759416581393&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corsetero-denim-l07474317?cS=406&pelement=701974450",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter malla plateado",
+        "imagen": "https://static.pullandbear.net/assets/public/3ea8/c02f/99bd4ff5aeb0/3a5895ec6404/07153306808-M/07153306808-M.jpg?ts=1762450500911&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-malla-plateado-l07153306?cS=808&pelement=709914538",
+        "precio_original": "49.99€",
+        "precio_final": "14.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top cruzado raya diplomática",
+        "imagen": "https://static.pullandbear.net/assets/public/2376/2db5/2bcc4c7faf0d/1e4a807378d1/07801306104-A7M/07801306104-A7M.jpg?ts=1759390880122&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-cruzado-raya-diplomatica-l07801306?cS=104&pelement=708126964",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top crochet rayas",
+        "imagen": "https://static.pullandbear.net/assets/public/48c5/b098/00b44bcc82ee/a9bcd46cc001/07472345649-A7M/07472345649-A7M.jpg?ts=1748522631258&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-crochet-rayas-l07472345?cS=649&pelement=692152188",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter strass drapeado",
+        "imagen": "https://static.pullandbear.net/assets/public/e2a1/e296/2eba478bb5dd/e84e1e23424c/07152354802-A7M/07152354802-A7M.jpg?ts=1760007932371&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-strass-drapeado-l07152354?cS=802&pelement=706506058",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta ajustada poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/3365/c1cd/65794798ba49/06f9ff575f9b/07152407605-M/07152407605-M.jpg?ts=1756915735345&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ajustada-poliamida-l07152307?cS=605&pelement=706632112",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/72e4/f96d/703341ee80de/fad33da2b8ec/07472365250-M/07472365250-M.jpg?ts=1751467910926&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-con-lino-l07472365?cS=250&pelement=695092987",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "Camiseta STWD strass",
-        "imagen": "https://static.pullandbear.net/assets/public/49d4/e5d3/cc0b420fae7f/8edec21d0f52/07153368800-M/07153368800-M.jpg?ts=1764253720831&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-strass-l07153368?cS=800&pelement=718040198",
+        "imagen": "https://static.pullandbear.net/assets/public/dabf/9f46/2eef44d7a9a3/a57bed93777b/07153368250-A7M/07153368250-A7M.jpg?ts=1763041249793&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-strass-l07153368?cS=250&pelement=718040199",
         "precio_original": "19.99€",
         "precio_final": "5.99€",
         "descuento": "-70%",
@@ -495,191 +828,11 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top brillo drapeado flor",
-        "imagen": "https://static.pullandbear.net/assets/public/b40a/546e/035f4b22aac6/5c1a28e075cf/07153324407-M/07153324407-M.jpg?ts=1763125113971&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-brillo-drapeado-flor-l07153324?cS=407&pelement=716359986",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top corsetero denim",
-        "imagen": "https://static.pullandbear.net/assets/public/d6a8/05fe/8f6b494ead9b/43db64005dd3/07474317406-A7M/07474317406-A7M.jpg?ts=1759416581393&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-corsetero-denim-l07474317?cS=406&pelement=701974450",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top crochet rayas",
-        "imagen": "https://static.pullandbear.net/assets/public/48c5/b098/00b44bcc82ee/a9bcd46cc001/07472345649-A7M/07472345649-A7M.jpg?ts=1748522631258&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-crochet-rayas-l07472345?cS=649&pelement=692152188",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes efecto piel cocodrilo",
-        "imagen": "https://static.pullandbear.net/assets/public/a3f0/c056/c47f46a9a423/e826fa7a4140/0747242060000-A7M/0747242060000-A7M.jpg?ts=1760022621790&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-efecto-piel-cocodrilo-l07472420?cS=600&pelement=700056132",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body halter brillo",
-        "imagen": "https://static.pullandbear.net/assets/public/dc4f/1c75/ae5342819023/3dc2c7d10bf2/0715335080200-A7M/0715335080200-A7M.jpg?ts=1762450311948&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-halter-brillo-l07153350?cS=802&pelement=716359987",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta corbata STWD by PLEASURES",
-        "imagen": "https://static.pullandbear.net/assets/public/af48/c253/82d54585a7c5/4a4d1c0f8425/07154304805-A7M/07154304805-A7M.jpg?ts=1761138740118&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-corbata-stwd-by-pleasures-l07154304?cS=805&pelement=716359984",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Tank top Bráulio Amado",
-        "imagen": "https://static.pullandbear.net/assets/public/d613/afab/e74e4c559c39/b2c2652ee932/07150344500-A7M/07150344500-A7M.jpg?ts=1751454371328&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/tank-top-braulio-amado-l07150344?cS=500&pelement=696254694",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body halter drapeado",
-        "imagen": "https://static.pullandbear.net/assets/public/7c1e/3ba1/6bb14aad83c6/2b458f73d86a/0747431380000-A7M/0747431380000-A7M.jpg?ts=1760025411249&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-halter-drapeado-l07474313?cS=800&pelement=702401341",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes con lino",
-        "imagen": "https://static.pullandbear.net/assets/public/72e4/f96d/703341ee80de/fad33da2b8ec/07472365250-M/07472365250-M.jpg?ts=1751467910926&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-con-lino-l07472365?cS=250&pelement=695092987",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter terciopelo tul",
-        "imagen": "https://static.pullandbear.net/assets/public/4031/1177/eebb474da53b/50453ea22160/07474326922-A7M/07474326922-A7M.jpg?ts=1762429746508&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-terciopelo-tul-l07474326?cS=922&pelement=710556451",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Kombucha",
-        "imagen": "https://static.pullandbear.net/assets/public/2246/2188/df5f4b3d8e68/cf6ed6d06a87/07151323519-M/07151323519-M.jpg?ts=1754296971142&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-kombucha-l07151323?cS=519&pelement=698445230",
-        "precio_original": "12.99€",
-        "precio_final": "3.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta gráfico STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/6fec/ee2c/5d4e4efe968d/56c55c1a3ee5/07153381811-A7M/07153381811-A7M.jpg?ts=1764234445701&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-stwd-l07153381?cS=811&pelement=718008666",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter serpiente efecto piel",
-        "imagen": "https://static.pullandbear.net/assets/public/9fc9/0378/22774b69a1a0/7df653bc4ea8/0747239403800-A7M/0747239403800-A7M.jpg?ts=1760022617101&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-serpiente-efecto-piel-l07472394?cS=038&pelement=700056126",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body encaje espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/1fdc/a27a/c40a43b097f9/29d408737730/07153305676-A7M/07153305676-A7M.jpg?ts=1757601847103&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-encaje-espalda-descubierta-l07153305?cS=676&pelement=709489736",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Body manga larga apliques",
-        "imagen": "https://static.pullandbear.net/assets/public/ee53/c13b/14ea464eb3ed/da6ebd47c3b0/07153348700-m/07153348700-m.jpg?ts=1762508622020&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-manga-larga-apliques-l07153348?cS=700&pelement=718907867",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top encaje frunces laterales",
-        "imagen": "https://static.pullandbear.net/assets/public/c419/bcc4/3be6497a9369/dc73592b7520/07150334505-A7M/07150334505-A7M.jpg?ts=1748524661085&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-encaje-frunces-laterales-l07150334?cS=505&pelement=692936111",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
         "nombre": "Top tirantes flores",
-        "imagen": "https://static.pullandbear.net/assets/public/e3d6/5134/e67d4d22a513/5561cfb69569/07150330401-A7M/07150330401-A7M.jpg?ts=1751528648197&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-flores-l07150330?cS=401&pelement=694018011",
+        "imagen": "https://static.pullandbear.net/assets/public/262f/37bf/e8344baaa795/1738c83c6168/07150330251-A7M/07150330251-A7M.jpg?ts=1751528648183&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-flores-l07150330?cS=251&pelement=692161734",
         "precio_original": "15.99€",
         "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Crop top denim tirantes",
-        "imagen": "https://static.pullandbear.net/assets/public/89ff/6cc9/8f4d4c6cb3ed/ec7161738019/0747431040700-A7M/0747431040700-A7M.jpg?ts=1756900404179&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/crop-top-denim-tirantes-l07474310?cS=407&pelement=700808283",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top punto rayas",
-        "imagen": "https://static.pullandbear.net/assets/public/dada/cf4c/74b0410c9b26/145e23bdb932/0755031660500-A7M/0755031660500-A7M.jpg?ts=1748502182164&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-punto-rayas-l07550316?cS=605&pelement=692151771",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Crop top tirantes",
-        "imagen": "https://static.pullandbear.net/assets/public/5b11/b483/e41148b1a17e/65329f54ea9f/07151335300-M/07151335300-M.jpg?ts=1754313150790&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/crop-top-tirantes-l07151335?cS=300&pelement=698806646",
-        "precio_original": "6.99€",
-        "precio_final": "2.09€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta Daydreamers Club",
-        "imagen": "https://static.pullandbear.net/assets/public/86ea/fbb1/b2ff4d59bb7c/2f73facb63f3/07153380833-M/07153380833-M.jpg?ts=1764166453742&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-daydreamers-club-l07153380?cS=833&pelement=718008663",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     },
@@ -693,57 +846,12 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top lazos efecto arrugado",
-        "imagen": "https://static.pullandbear.net/assets/public/d4cf/b689/798049b8986a/f918058de8ba/07150341406-A7M/07150341406-A7M.jpg?ts=1749133663889&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-lazos-efecto-arrugado-l07150341?cS=406&pelement=693840141",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top palabra de honor engomado",
-        "imagen": "https://static.pullandbear.net/assets/public/dd74/493c/fec54b69975f/a641efb4960d/07472399800-A7M/07472399800-A7M.jpg?ts=1763647820386&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-palabra-de-honor-engomado-l07472399?cS=800&pelement=700616155",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes crochet",
-        "imagen": "https://static.pullandbear.net/assets/public/b2bc/bf03/66664397a798/46b7f126ce12/0755031171200-A7M/0755031171200-A7M.jpg?ts=1748522474489&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-crochet-l07550311?cS=712&pelement=692151708",
+        "nombre": "Top mesh estampado hebilla",
+        "imagen": "https://static.pullandbear.net/assets/public/2e7a/6c99/010b47349385/c0449d36e05a/0715335602000-A7M/0715335602000-A7M.jpg?ts=1760022620604&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-mesh-estampado-hebilla-l07153356?cS=020&pelement=715350204",
         "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top corset tirantes",
-        "imagen": "https://static.pullandbear.net/assets/public/4994/a5b8/1ea74d7a862c/b26dd8dc2aff/07152356401-A7M/07152356401-A7M.jpg?ts=1754470143032&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-corset-tirantes-l07152356?cS=401&pelement=706360080",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top denim tachas",
-        "imagen": "https://static.pullandbear.net/assets/public/701b/cee7/6cd64a4285e8/b091413794ee/07472390427-A7M/07472390427-A7M.jpg?ts=1755689784009&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-denim-tachas-l07472390?cS=427&pelement=701944167",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Camiseta oversize",
-        "imagen": "https://static.pullandbear.net/assets/public/5c02/74c6/7c294972adfe/2f3532773d65/03245319711-a7m/03245319711-a7m.jpg?ts=1739530127915&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-oversize-l03245319?cS=711&pelement=692157412",
-        "precio_original": "9.99€",
-        "precio_final": "2.99€",
-        "descuento": "-70%",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
@@ -756,6 +864,159 @@
         "categoria": "camisetas_mujer"
     },
     {
+        "nombre": "Chaleco largo raya diplomática",
+        "imagen": "https://static.pullandbear.net/assets/public/b377/2976/7555421d865b/e611f1211e6e/0780130280700-A7M/0780130280700-A7M.jpg?ts=1757603539665&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-largo-raya-diplomatica-l07801302?cS=807&pelement=698305158",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corsetero encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/ac4c/0733/d1094d17b15e/977af778cce1/07153354819-A7M/07153354819-A7M.jpg?ts=1761819696793&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corsetero-encaje-l07153354?cS=819&pelement=717699775",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body cuello perkins",
+        "imagen": "https://static.pullandbear.net/assets/public/008a/c408/490c49e78c07/7374473aecf7/07153333606-A7M/07153333606-A7M.jpg?ts=1761206532360&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-cuello-perkins-l07153333?cS=606&pelement=713608336",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bambula manga larga",
+        "imagen": "https://static.pullandbear.net/assets/public/7956/75d3/ddec4e938cdd/414dca01e7d6/0715136080000-A7M/0715136080000-A7M.jpg?ts=1757601354591&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bambula-manga-larga-l07151360?cS=800&pelement=711237350",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta doble escote pico",
+        "imagen": "https://static.pullandbear.net/assets/public/09d5/f083/b9b04f278596/f68c62a643f9/0715335780700-A7M/0715335780700-A7M.jpg?ts=1760630684461&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-escote-pico-l07153357?cS=807&pelement=715345206",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top rústico globo",
+        "imagen": "https://static.pullandbear.net/assets/public/4581/9e6e/e9974e8fbea6/031419f15985/03474366605-A7M/03474366605-A7M.jpg?ts=1747385773415&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-rustico-globo-l03474366?cS=605&pelement=693333049",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes sol",
+        "imagen": "https://static.pullandbear.net/assets/public/6699/6948/37194ee0a3e4/1ae81be45c59/0715039571000-A7M/0715039571000-A7M.jpg?ts=1752758637742&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-sol-l07150395?cS=710&pelement=696285980",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico frunces",
+        "imagen": "https://static.pullandbear.net/assets/public/3db0/7a03/f6ce4e7fa974/009ba7648ac1/0715230080000-A7M/0715230080000-A7M.jpg?ts=1757600794486&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-frunces-l07152300?cS=800&pelement=707385049",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top manga larga encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/5cbc/bd53/cbb64d0c82bd/2069fa97558c/07152379800-M/07152379800-M.jpg?ts=1754997532666&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-manga-larga-encaje-l07152379?cS=800&pelement=705982016",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco tailoring espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/4197/50de/603b45608a0f/a336f69bad78/0780130380000-a7m/0780130380000-a7m.jpg?ts=1757610643618&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-tailoring-espalda-descubierta-l07801303?cS=800&pelement=702129751",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/c630/a919/e6224e8daf97/0e20d7f237c4/07150312400-M/07150312400-M.jpg?ts=1746546016107&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-poliamida-l03245364?cS=400&pelement=692157416",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta texto",
+        "imagen": "https://static.pullandbear.net/assets/public/2507/5f4e/7f7e40e2a390/461cf7b98af7/07153421427-M/07153421427-M.jpg?ts=1755759358068&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-texto-l07153308?cS=427&pelement=707909018",
+        "precio_original": "9.99€",
+        "precio_final": "2.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes pespunte",
+        "imagen": "https://static.pullandbear.net/assets/public/effd/3a3a/c35c4c63aaf8/ea035d891174/07150378250-A7M/07150378250-A7M.jpg?ts=1753271925879&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-pespunte-l07150378?cS=250&pelement=698445203",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta STWD piqué",
+        "imagen": "https://static.pullandbear.net/assets/public/f6fc/22fa/ab95474c8d7b/d1293508a8c9/07153313725-A7M/07153313725-A7M.jpg?ts=1758200907342&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-pique-l07153313?cS=725&pelement=707132790",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Chaleco punto rib",
+        "imagen": "https://static.pullandbear.net/assets/public/5f8f/1fcb/5c2b44c391ea/fa35bf081dbb/07510347300-A7M/07510347300-A7M.jpg?ts=1757590013711&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-punto-rib-l07510347?cS=300&pelement=697656584",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top denim tachas",
+        "imagen": "https://static.pullandbear.net/assets/public/701b/cee7/6cd64a4285e8/b091413794ee/07472390427-A7M/07472390427-A7M.jpg?ts=1755689784009&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-denim-tachas-l07472390?cS=427&pelement=701944167",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Crop top tirantes",
+        "imagen": "https://static.pullandbear.net/assets/public/5b11/b483/e41148b1a17e/65329f54ea9f/07151335300-M/07151335300-M.jpg?ts=1754313150790&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/crop-top-tirantes-l07151335?cS=300&pelement=698806646",
+        "precio_original": "6.99€",
+        "precio_final": "2.09€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
         "nombre": "Camiseta ajustada poliamida",
         "imagen": "https://static.pullandbear.net/assets/public/ee0d/01dd/46184cc6aabe/da3a0de8db7b/07152407700-M/07152407700-M.jpg?ts=1757062560555&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/camiseta-ajustada-poliamida-l07152307?cS=700&pelement=706632111",
@@ -765,21 +1026,12 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta poliamida manga corta",
-        "imagen": "https://static.pullandbear.net/assets/public/72d0/01e6/c7dc4bc0bc7d/bda0632b8451/0324531351500-A7M/0324531351500-A7M.jpg?ts=1749112010408&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-poliamida-manga-corta-l03245313?cS=515&pelement=692157425",
-        "precio_original": "8.99€",
-        "precio_final": "2.69€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top halter cruzado nudo",
-        "imagen": "https://static.pullandbear.net/assets/public/f3c4/21b9/58b44a6eb2b2/ab17a21ef71c/07472306914-A7M/07472306914-A7M.jpg?ts=1750164256239&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-halter-cruzado-nudo-l07472306?cS=914&pelement=692157003",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
-        "descuento": "-70%",
+        "nombre": "Chaleco punto botones",
+        "imagen": "https://static.pullandbear.net/assets/public/81ea/3f7c/abe14d18ba7c/fd75452ccc6e/07510306723-A7M/07510306723-A7M.jpg?ts=1762435782339&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/chaleco-punto-botones-l07510306?cS=723&pelement=712816117",
+        "precio_original": "25.99€",
+        "precio_final": "10.39€",
+        "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
@@ -792,72 +1044,9 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta manga larga soft touch",
-        "imagen": "https://static.pullandbear.net/assets/public/3971/2769/6a6c406f9ad8/46fd2ed4d597/07151473809-M/07151473809-M.jpg?ts=1757340804120&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-soft-touch-l07151473?cS=809&pelement=711573788",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Chaleco rústico",
-        "imagen": "https://static.pullandbear.net/assets/public/ce96/126b/a97d4efbb620/b671adeb8249/03773308800-A7M/03773308800-A7M.jpg?ts=1750408185863&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/chaleco-rustico-l03773308?cS=800&pelement=692161330",
-        "precio_original": "22.99€",
-        "precio_final": "9.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bambula",
-        "imagen": "https://static.pullandbear.net/assets/public/2f6f/5590/34114ec7af3c/8b72c96dcff2/07150324700-A7M/07150324700-A7M.jpg?ts=1747990457081&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-bambula-l03248304?cS=700&pelement=692764712",
-        "precio_original": "15.99€",
-        "precio_final": "4.79€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top cruzado punto flores",
-        "imagen": "https://static.pullandbear.net/assets/public/611e/b6a1/8be640a684b5/295d2219eaba/07151395712-A7M/07151395712-A7M.jpg?ts=1755689753909&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-cruzado-punto-flores-l07151395?cS=712&pelement=706402847",
-        "precio_original": "19.99€",
-        "precio_final": "7.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top fluido estampado",
-        "imagen": "https://static.pullandbear.net/assets/public/702e/7fa1/804447ae9a6d/4edc9556580a/0747237640000-A7M/0747237640000-A7M.jpg?ts=1752765051161&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-fluido-estampado-l07472376?cS=400&pelement=695434623",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
-        "descuento": "-70%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bardot canalé",
-        "imagen": "https://static.pullandbear.net/assets/public/4c17/fe05/2c804f92bd0e/f472745a4664/0715230980000-A7M/0715230980000-A7M.jpg?ts=1758830987971&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-bardot-canale-l07152309?cS=800&pelement=703710237",
-        "precio_original": "9.99€",
-        "precio_final": "3.99€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top bambula cuello barco",
-        "imagen": "https://static.pullandbear.net/assets/public/73e0/de99/0c1d41f7a983/092f0eb43f3a/07152411700-M/07152411700-M.jpg?ts=1758208747628&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-bambula-cuello-barco-l07152384?cS=700&pelement=707132770",
-        "precio_original": "17.99€",
-        "precio_final": "7.19€",
-        "descuento": "-60%",
-        "categoria": "camisetas_mujer"
-    },
-    {
-        "nombre": "Top tirantes pespunte",
-        "imagen": "https://static.pullandbear.net/assets/public/effd/3a3a/c35c4c63aaf8/ea035d891174/07150378250-A7M/07150378250-A7M.jpg?ts=1753271925879&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-tirantes-pespunte-l07150378?cS=250&pelement=698445203",
+        "nombre": "Top halter rayas",
+        "imagen": "https://static.pullandbear.net/assets/public/6e7c/35ae/bb4b4844b617/f7b791c9f603/07151327712-M/07151327712-M.jpg?ts=1754324046885&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-rayas-l07151327?cS=712&pelement=700380730",
         "precio_original": "15.99€",
         "precio_final": "4.79€",
         "descuento": "-70%",
@@ -873,29 +1062,650 @@
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Body cut out espalda",
-        "imagen": "https://static.pullandbear.net/assets/public/1530/bc4c/67d74cd2a779/8bf780ab8dcd/07151389681-M/07151389681-M.jpg?ts=1755156073620&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/body-cut-out-espalda-l07151389?cS=681&pelement=703340759",
+        "nombre": "Tank top Bráulio Amado",
+        "imagen": "https://static.pullandbear.net/assets/public/d613/afab/e74e4c559c39/b2c2652ee932/07150344500-A7M/07150344500-A7M.jpg?ts=1751454371328&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/tank-top-braulio-amado-l07150344?cS=500&pelement=696254694",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top encaje manga larga",
+        "imagen": "https://static.pullandbear.net/assets/public/6e51/fe10/9dae49328e2a/e5f49693c9cc/07151362712-M/07151362712-M.jpg?ts=1754388877974&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-encaje-manga-larga-l07151362?cS=712&pelement=698993652",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta ajustada poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/6725/3db7/52b748ef8bb8/073f5fb96a10/07152307250-M/07152307250-M.jpg?ts=1756972120037&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ajustada-poliamida-l07152307?cS=250&pelement=706506062",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top brillo espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/69a4/13b2/b0d84b0a8f5b/6369050dcb04/07153327800-A7M/07153327800-A7M.jpg?ts=1760026471720&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-brillo-espalda-descubierta-l07153327?cS=800&pelement=715360881",
         "precio_original": "17.99€",
         "precio_final": "7.19€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Camiseta STWD flores",
-        "imagen": "https://static.pullandbear.net/assets/public/f8dd/e29b/9ddb4c7ba866/684a81ebb5d3/07153379710-M/07153379710-M.jpg?ts=1762937368508&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-flores-l07153379?cS=710&pelement=718008662",
+        "nombre": "Top tul strass",
+        "imagen": "https://static.pullandbear.net/assets/public/e652/6233/b7da4723a27a/67b8055882b5/07153353800-A7M/07153353800-A7M.jpg?ts=1761209630163&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tul-strass-l07153353?cS=800&pelement=713886256",
+        "precio_original": "15.99€",
+        "precio_final": "6.39€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes soles",
+        "imagen": "https://static.pullandbear.net/assets/public/e788/b5fa/be9a4782a259/18d3c4da2723/0715130271000-A7M/0715130271000-A7M.jpg?ts=1752758608461&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-soles-l07151302?cS=710&pelement=697267079",
+        "precio_original": "9.99€",
+        "precio_final": "2.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta poliamida manga corta",
+        "imagen": "https://static.pullandbear.net/assets/public/076a/7696/34e64fe48e38/96c378bf10a5/03245313746-A7M/03245313746-A7M.jpg?ts=1749109922518&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-poliamida-manga-corta-l03245313?cS=746&pelement=692157424",
+        "precio_original": "8.99€",
+        "precio_final": "2.69€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bardot efecto arrugado",
+        "imagen": "https://static.pullandbear.net/assets/public/c2f8/e46f/7f7f4c429707/696aefbaade4/07152345800-M/07152345800-M.jpg?ts=1755522959689&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bardot-efecto-arrugado-l07152345?cS=800&pelement=707385024",
+        "precio_original": "19.99€",
+        "precio_final": "3.99€",
+        "descuento": "-80%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body escote nudo",
+        "imagen": "https://static.pullandbear.net/assets/public/718b/5f2d/c2ec4592a251/139aae19871e/07152344600-M/07152344600-M.jpg?ts=1758113563464&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-escote-nudo-l07152344?cS=600&pelement=711237343",
+        "precio_original": "17.99€",
+        "precio_final": "7.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta fútbol STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/3c4c/353c/cced42519af8/fa066cebaa03/07152347605-M/07152347605-M.jpg?ts=1756390389310&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-stwd-l07152347?cS=605&pelement=707385037",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes con lino",
+        "imagen": "https://static.pullandbear.net/assets/public/7c9b/ff29/7ecf476782b1/8f61593bf5de/0747234925000-A7M/0747234925000-A7M.jpg?ts=1752765050828&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-con-lino-l07472349?cS=250&pelement=697465469",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top asimétrico bambula",
+        "imagen": "https://static.pullandbear.net/assets/public/20c2/6fb1/a3e4489c8f1e/1c9d78821533/07152377687-M/07152377687-M.jpg?ts=1754997462401&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-asimetrico-bambula-l07152377?cS=687&pelement=705282943",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body manga corta",
+        "imagen": "https://static.pullandbear.net/assets/public/c538/c153/9e284134b301/0a34e74c7762/07152349684-M/07152349684-M.jpg?ts=1754313168733&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-manga-corta-l07152349?cS=684&pelement=704408077",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes efecto piel cocodrilo",
+        "imagen": "https://static.pullandbear.net/assets/public/a3f0/c056/c47f46a9a423/e826fa7a4140/0747242060000-A7M/0747242060000-A7M.jpg?ts=1760022621790&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-efecto-piel-cocodrilo-l07472420?cS=600&pelement=700056132",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/8a78/5464/b896450fbcc3/0c2201b5d882/07472353500-A7M/07472353500-A7M.jpg?ts=1749109864955&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-estampado-l07472353?cS=500&pelement=695244981",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta texto",
+        "imagen": "https://static.pullandbear.net/assets/public/7c5c/d79a/2c15488cac9e/f6ba56b771d1/07153423926-M/07153423926-M.jpg?ts=1756369042956&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-texto-l07153308?cS=926&pelement=707909019",
+        "precio_original": "9.99€",
+        "precio_final": "2.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta ajustada poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/3ce8/5f11/48b249eaa972/151966dadf06/0715230740100-A7M/0715230740100-A7M.jpg?ts=1757002154831&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ajustada-poliamida-l07152307?cS=401&pelement=706506060",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body manga larga apliques",
+        "imagen": "https://static.pullandbear.net/assets/public/ee53/c13b/14ea464eb3ed/da6ebd47c3b0/07153348700-m/07153348700-m.jpg?ts=1762508622020&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-manga-larga-apliques-l07153348?cS=700&pelement=718907867",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corset rayas",
+        "imagen": "https://static.pullandbear.net/assets/public/61a5/abf6/db2142248dab/53e75e543c73/0747238540000-A7M/0747238540000-A7M.jpg?ts=1756307625091&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-rayas-l07472385?cS=400&pelement=698661416",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Crop top denim tirantes",
+        "imagen": "https://static.pullandbear.net/assets/public/89ff/6cc9/8f4d4c6cb3ed/ec7161738019/0747431040700-A7M/0747431040700-A7M.jpg?ts=1756900404179&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/crop-top-denim-tirantes-l07474310?cS=407&pelement=700808283",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta negra texto strass",
+        "imagen": "https://static.pullandbear.net/assets/public/b8ce/2a75/19804e4d9202/cc0b07e2b995/07153328800-A7M/07153328800-A7M.jpg?ts=1763647018711&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-negra-texto-strass-l07153328?cS=800&pelement=719808043",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top crochet flor",
+        "imagen": "https://static.pullandbear.net/assets/public/fa91/01b3/370348e59f83/f5a6d03e17e6/0755030063200-A7M/0755030063200-A7M.jpg?ts=1752758604122&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-crochet-flor-l07550300?cS=632&pelement=692152063",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta tostadas",
+        "imagen": "https://static.pullandbear.net/assets/public/6b53/0453/f84043309379/df4cdcd40191/0715132880500-A7M/0715132880500-A7M.jpg?ts=1755857360227&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-tostadas-l07151328?cS=805&pelement=703959865",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top encaje frunces laterales",
+        "imagen": "https://static.pullandbear.net/assets/public/c419/bcc4/3be6497a9369/dc73592b7520/07150334505-A7M/07150334505-A7M.jpg?ts=1748524661085&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-encaje-frunces-laterales-l07150334?cS=505&pelement=692936111",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body tirantes poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/4462/7a3c/29034bb39b56/8e91f2a54eb9/03239304250-A7M/03239304250-A7M.jpg?ts=1743590987712&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-tirantes-poliamida-l03239304?cS=250&pelement=693840122",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta estampada flores",
+        "imagen": "https://static.pullandbear.net/assets/public/3183/115b/5e9d4ec09672/ba3e7b0c0c11/07151366620-A7M/07151366620-A7M.jpg?ts=1753281226991&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-estampada-flores-l07151366?cS=620&pelement=699518148",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bambula tirantes lazos",
+        "imagen": "https://static.pullandbear.net/assets/public/2747/8d41/0b784de39f4e/9033b97a3e6e/07472391431-A7M/07472391431-A7M.jpg?ts=1753281999325&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bambula-tirantes-lazos-l07472391?cS=431&pelement=699909641",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corsetero encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/4bfe/4ec7/0223487cb79e/218daaf22ed6/07153354681-M/07153354681-M.jpg?ts=1761757256767&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corsetero-encaje-l07153354?cS=681&pelement=717699777",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corset tirantes",
+        "imagen": "https://static.pullandbear.net/assets/public/8702/2f9f/bfed4330ba30/7b01fe3db5dd/07152356700-M/07152356700-M.jpg?ts=1754397658511&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-tirantes-l07152356?cS=700&pelement=706360081",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top corset tirantes",
+        "imagen": "https://static.pullandbear.net/assets/public/4994/a5b8/1ea74d7a862c/b26dd8dc2aff/07152356401-A7M/07152356401-A7M.jpg?ts=1754470143032&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-corset-tirantes-l07152356?cS=401&pelement=706360080",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta Kombucha",
+        "imagen": "https://static.pullandbear.net/assets/public/2246/2188/df5f4b3d8e68/cf6ed6d06a87/07151323519-M/07151323519-M.jpg?ts=1754296971142&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-kombucha-l07151323?cS=519&pelement=698445230",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Crop top tirantes",
+        "imagen": "https://static.pullandbear.net/assets/public/4188/a07c/3a4f4961a457/66f30e377004/07151335644-M/07151335644-M.jpg?ts=1754313154687&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/crop-top-tirantes-l07151335?cS=644&pelement=698806647",
+        "precio_original": "6.99€",
+        "precio_final": "2.09€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter brillo drapeado",
+        "imagen": "https://static.pullandbear.net/assets/public/d998/4262/448a4dc8a158/6d1318fbedc7/07153401015-A7M/07153401015-A7M.jpg?ts=1760628823269&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-brillo-drapeado-l07153401?cS=015&pelement=713458873",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top encaje volantes",
+        "imagen": "https://static.pullandbear.net/assets/public/27a9/f14b/15c540dea3b7/bb04b3df7440/07150383712-A7M/07150383712-A7M.jpg?ts=1754296968910&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-encaje-volantes-l07150383?cS=712&pelement=699518161",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta rosa El Juego del Calamar",
+        "imagen": "https://static.pullandbear.net/assets/public/8f2b/97d3/22264771b6b8/37a0ef72c6d5/07150450620-A7M/07150450620-A7M.jpg?ts=1750685000488&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-rosa-el-juego-del-calamar-l07150450?cS=620&pelement=698993643",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top leopardo volantes",
+        "imagen": "https://static.pullandbear.net/assets/public/57ea/5450/84bb43688cf4/a81aeb4c3abb/07153336020-A7M/07153336020-A7M.jpg?ts=1761827823494&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-leopardo-volantes-l07153336?cS=020&pelement=714029694",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/8fe7/49e7/5c2a4d5082c0/7f090e5fe969/07152353805-A7M/07152353805-A7M.jpg?ts=1755697137445&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-stwd-l07152353?cS=805&pelement=704408079",
+        "precio_original": "19.99€",
+        "precio_final": "7.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top estampado frunces",
+        "imagen": "https://static.pullandbear.net/assets/public/8057/9f1c/0bff4cb98175/7d1f7fc1515e/07472444400-A7M/07472444400-A7M.jpg?ts=1753191083937&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-estampado--frunces-l07472444?cS=400&pelement=700056158",
+        "precio_original": "19.99€",
+        "precio_final": "5.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta El Juego del Calamar",
+        "imagen": "https://static.pullandbear.net/assets/public/b15a/2f70/7327438593b1/ac703bfa4e68/07150451805-A7M/07150451805-A7M.jpg?ts=1750685000280&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-el-juego-del-calamar-l07150451?cS=805&pelement=698993642",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter flores azul",
+        "imagen": "https://static.pullandbear.net/assets/public/18a0/89cf/6f80401696a4/ecf5e87d2808/07150429015-A7M/07150429015-A7M.jpg?ts=1749133664287&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-flores-azul-l07150429?cS=015&pelement=693870983",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga doble STWD",
+        "imagen": "https://static.pullandbear.net/assets/public/5165/1d73/a8c14e15ad33/b1f7c7498e51/07153377737-A7M/07153377737-A7M.jpg?ts=1763041250861&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-doble-stwd-l07153377?cS=737&pelement=720718769",
+        "precio_original": "29.99€",
+        "precio_final": "11.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/7d7c/eb03/1625416ab754/cab98de6bd79/07152357112-A7M/07152357112-A7M.jpg?ts=1754562106082&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-estampado-l07152357?cS=112&pelement=706635153",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body tirantes poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/351f/14bb/70684488a79b/2d6af2be6db9/03239304401-A7M/03239304401-A7M.jpg?ts=1743590953461&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-tirantes-poliamida-l03239304?cS=401&pelement=693840120",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/cc64/a90a/0fc14f5d9cbd/215a5088df49/0747237180000-A7M/0747237180000-A7M.jpg?ts=1752143208676&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-espalda-descubierta-l07472371?cS=800&pelement=695657340",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta STWD Studio",
+        "imagen": "https://static.pullandbear.net/assets/public/9b97/73fa/89d84ce18e19/6fa8114f4599/07153369805-A7M/07153369805-A7M.jpg?ts=1764234446636&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-studio-l07153369?cS=805&pelement=718363679",
         "precio_original": "25.99€",
         "precio_final": "10.39€",
         "descuento": "-60%",
         "categoria": "camisetas_mujer"
     },
     {
-        "nombre": "Top bandeau rayas",
-        "imagen": "https://static.pullandbear.net/assets/public/f24b/bdbc/3b8c4ca1935f/83bc271454f7/07472318400-a7m/07472318400-a7m.jpg?ts=1753271906395&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/top-bandeau-rayas-l07472318?cS=400&pelement=692157586",
-        "precio_original": "19.99€",
-        "precio_final": "5.99€",
+        "nombre": "Top bambula",
+        "imagen": "https://static.pullandbear.net/assets/public/f8ee/5b64/42454c0bb518/9b2485107688/0715236080000-A7M/0715236080000-A7M.jpg?ts=1753943783608&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bambula-l07152360?cS=800&pelement=706360083",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top punto calado lazos",
+        "imagen": "https://static.pullandbear.net/assets/public/3256/073c/5bc24135975e/62a00cc59a94/07150360069-M/07150360069-M.jpg?ts=1748592579729&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-punto-calado-lazos-l07150360?cS=069&pelement=694018003",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Body cuello perkins",
+        "imagen": "https://static.pullandbear.net/assets/public/8b43/69fe/83f345adb18c/bdffc2e26e76/07153333800-A7M/07153333800-A7M.jpg?ts=1761206534591&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/body-cuello-perkins-l07153333?cS=800&pelement=713608335",
+        "precio_original": "12.99€",
+        "precio_final": "5.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau abertura",
+        "imagen": "https://static.pullandbear.net/assets/public/6f66/4e12/d2a8419fbe35/cdd35c5f6b46/03239305671-M/03239305671-M.jpg?ts=1754313147374&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bandeau-abertura-l03239305?cS=671&pelement=706173167",
+        "precio_original": "9.99€",
+        "precio_final": "2.99€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bralette punto",
+        "imagen": "https://static.pullandbear.net/assets/public/4c80/96c5/00224d95b213/873d8f9a3e01/03558360430-A7M/03558360430-A7M.jpg?ts=1744192884007&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bralette-punto-l03558360?cS=430&pelement=696066074",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta escote pico",
+        "imagen": "https://static.pullandbear.net/assets/public/ae67/0823/87964c13bd4e/e1ce6d83c9f2/03245323803-A7M/03245323803-A7M.jpg?ts=1739460449481&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-escote-pico-l03245323?cS=803&pelement=697267068",
+        "precio_original": "6.99€",
+        "precio_final": "2.09€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top tirantes puntilla",
+        "imagen": "https://static.pullandbear.net/assets/public/b226/3121/864c4cd8835b/21d6ae301996/07151331605-A7M/07151331605-A7M.jpg?ts=1753965452394&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-tirantes-puntilla-l07151331?cS=605&pelement=699518147",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/3c36/c661/e0e240a89338/0e527de014d3/07150376615-M/07150376615-M.jpg?ts=1754296950181&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-encaje-l07150376?cS=615&pelement=697075229",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top rústico halter",
+        "imagen": "https://static.pullandbear.net/assets/public/2815/8202/cc674eabbd73/72d1d220b0c4/0715033152600-A7M/0715033152600-A7M.jpg?ts=1749205105872&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-rustico-halter-l07150331?cS=526&pelement=692764747",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/7b06/c890/9c6a44d799b3/51d790b10f96/07152410250-M/07152410250-M.jpg?ts=1755090986862&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-espalda-descubierta-l07152310?cS=250&pelement=704624881",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/7958/a79a/c7d9417db6bc/728bc5226dc0/07151386601-M/07151386601-M.jpg?ts=1752144206239&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-espalda-descubierta-l03248350?cS=601&pelement=700439163",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/3f14/6015/44a94dd5827d/90c44f427f3a/03248350250-A7M/03248350250-A7M.jpg?ts=1750424003205&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-espalda-descubierta-l03248350?cS=250&pelement=698625070",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Tank top poliamida",
+        "imagen": "https://static.pullandbear.net/assets/public/9ec1/0de6/42894e7b8800/ddd48d54b5a3/0324830050000-A7M/0324830050000-A7M.jpg?ts=1748502181389&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/tank-top-poliamida-l03248300?cS=500&pelement=694017975",
+        "precio_original": "8.99€",
+        "precio_final": "2.69€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter crochet lentejuelas",
+        "imagen": "https://static.pullandbear.net/assets/public/66eb/3117/05ba4806a17d/d3b8b15d5a80/07550314800-A7M/07550314800-A7M.jpg?ts=1751548798688&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-crochet-lentejuelas-l07550314?cS=800&pelement=692161528",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top punto bajo calado",
+        "imagen": "https://static.pullandbear.net/assets/public/ab4a/19bf/c7ee43219d37/4bca97b15efd/07550312505-M/07550312505-M.jpg?ts=1748947336551&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-punto-bajo-calado-l07550312?cS=505&pelement=692156927",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top STWD arandelas",
+        "imagen": "https://static.pullandbear.net/assets/public/7731/ef97/124f491d8906/38bf4554aa90/07153371800-M/07153371800-M.jpg?ts=1764321771648&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-stwd-arandelas-l07153371?cS=800&pelement=721333321",
+        "precio_original": "22.99€",
+        "precio_final": "9.19€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Crop top denim textura",
+        "imagen": "https://static.pullandbear.net/assets/public/558d/034d/2f8a45c1b5e1/86fa31e70312/0747431440100-A7M/0747431440100-A7M.jpg?ts=1761237824023&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/crop-top-denim-textura-l07474314?cS=401&pelement=709246507",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta manga larga cuello barco",
+        "imagen": "https://static.pullandbear.net/assets/public/31c5/8b29/243c4b9fb4cd/ef5c6dbdcbcc/03230322800-M/03230322800-M.jpg?ts=1766499332198&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-cuello-barco-l07152401?cS=800&pelement=705051437",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bardot canalé",
+        "imagen": "https://static.pullandbear.net/assets/public/ed7b/6e5a/c8424283b137/0063025f2f33/0715230925000-A7M/0715230925000-A7M.jpg?ts=1758830987263&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bardot-canale-l07152309?cS=250&pelement=703710238",
+        "precio_original": "9.99€",
+        "precio_final": "3.99€",
+        "descuento": "-60%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top vaquero asimétrico pintura",
+        "imagen": "https://static.pullandbear.net/assets/public/b577/ec26/872f4da9baae/e4f168d44456/07474328406-A7M/07474328406-A7M.jpg?ts=1754562106319&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-vaquero-asimetrico-pintura-l07474328?cS=406&pelement=700847285",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Camiseta textura espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/52be/d543/67bf463aaf99/5093c2bf3084/07151304506-A7M/07151304506-A7M.jpg?ts=1753286704030&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-textura-espalda-descubierta-l07151304?cS=506&pelement=698993663",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top punto rayas",
+        "imagen": "https://static.pullandbear.net/assets/public/08cc/b70e/0ebb40a28560/be8a33529ec1/0715131907000-A7M/0715131907000-A7M.jpg?ts=1752136901506&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-punto-rayas-l07151319?cS=070&pelement=698841878",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Pack 2 camisetas manga corta",
+        "imagen": "https://static.pullandbear.net/assets/public/deff/dd94/23ec472ebaf2/1a9a517cb345/07150423670-M/07150423670-M.jpg?ts=1750348159774&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/pack-2-camisetas-manga-corta-l07150423?cS=670&pelement=693870988",
+        "precio_original": "12.99€",
+        "precio_final": "3.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top rústico globo",
+        "imagen": "https://static.pullandbear.net/assets/public/8cbc/56ed/60394cf6b48d/e1fbf7f71859/03474366700-A7M/03474366700-A7M.jpg?ts=1747385784423&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-rustico-globo-l03474366?cS=700&pelement=693333048",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top rústico halter",
+        "imagen": "https://static.pullandbear.net/assets/public/dfcd/cd79/befb41db8234/f9474c4a8e6b/07150331717-A7M/07150331717-A7M.jpg?ts=1748522770542&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-rustico-halter-l07150331?cS=717&pelement=692764748",
+        "precio_original": "15.99€",
+        "precio_final": "4.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top halter leopardo tachas",
+        "imagen": "https://static.pullandbear.net/assets/public/4c3e/f8f5/f7fd4357b386/e22085bb4208/0747430470700-A7M/0747430470700-A7M.jpg?ts=1749656000902&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-halter-leopardo-tachas-l07474304?cS=707&pelement=692161317",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "camisetas_mujer"
+    },
+    {
+        "nombre": "Top bandeau abertura",
+        "imagen": "https://static.pullandbear.net/assets/public/435f/aaf3/df7449689ab2/e304efc4ea16/03239305250-M/03239305250-M.jpg?ts=1754313147104&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/top-bandeau-abertura-l03239305?cS=250&pelement=706173169",
+        "precio_original": "9.99€",
+        "precio_final": "2.99€",
         "descuento": "-70%",
         "categoria": "camisetas_mujer"
     }

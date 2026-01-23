@@ -1,7 +1,7 @@
 [
     {
-        "nombre": "Vestido corto halter textura",
-        "imagen": "https://static.pullandbear.net/assets/public/3ef4/60f3/5ee34e1e9ab4/81938e9d863c/07394442800-M/07394442800-M.jpg?ts=1754313176434&w=885&f=auto",
+        "nombre": "Vestido midi soft touch",
+        "imagen": "https://static.pullandbear.net/assets/public/99e0/88ff/c3ff46d59169/6a1920ac27ee/03380302807-A7M/03380302807-A7M.jpg?ts=1764324170591&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/mujer-n6417",
         "precio_original": null,
         "precio_final": "4.79€",
@@ -9,12 +9,12 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi estampado",
-        "imagen": "https://static.pullandbear.net/assets/public/9512/8269/fae345c49d4c/72b060b3241c/0739437040000-A7M/0739437040000-A7M.jpg?ts=1752765051421&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-estampado-l07394370?cS=400&pelement=695434625",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
+        "nombre": "Vestido midi soft touch",
+        "imagen": "https://static.pullandbear.net/assets/public/99e0/88ff/c3ff46d59169/6a1920ac27ee/03380302807-A7M/03380302807-A7M.jpg?ts=1764324170591&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-soft-touch-l03380302?cS=807&pelement=731569931",
+        "precio_original": null,
+        "precio_final": "4.79€",
+        "descuento": null,
         "categoria": "vestidos_mujer"
     },
     {
@@ -27,65 +27,11 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi tirantes fluido",
-        "imagen": "https://static.pullandbear.net/assets/public/bfc1/3190/810f4582bf14/bbaf410ba1ee/07394429711-M/07394429711-M.jpg?ts=1749050236018&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-tirantes-fluido-l07394319?cS=711&pelement=694017985",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto combinado encaje",
-        "imagen": "https://static.pullandbear.net/assets/public/fb24/ef10/d5734b5da831/a167731116ba/07394372409-M/07394372409-M.jpg?ts=1761832942399&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-combinado-encaje-l07394372?cS=409&pelement=718502440",
+        "nombre": "Vestido midi estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/9512/8269/fae345c49d4c/72b060b3241c/0739437040000-A7M/0739437040000-A7M.jpg?ts=1752765051421&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-estampado-l07394370?cS=400&pelement=695434625",
         "precio_original": "29.99€",
         "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto cut out lazos",
-        "imagen": "https://static.pullandbear.net/assets/public/2414/612b/900d496e8944/e2742c9924cc/07394378800-A7M/07394378800-A7M.jpg?ts=1764335167863&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-cut-out-lazos-l07394378?cS=800&pelement=718008661",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto mangas strass",
-        "imagen": "https://static.pullandbear.net/assets/public/8e51/3426/27844a1383ad/d5224a2f9bd0/07394384800-A7M/07394384800-A7M.jpg?ts=1763647973687&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-mangas-strass-l07394384?cS=800&pelement=717552874",
-        "precio_original": "35.99€",
-        "precio_final": "10.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Mono corto flores textura",
-        "imagen": "https://static.pullandbear.net/assets/public/9c35/e9bb/4ca344ed8301/ac11ca0587d8/07638310021-M/07638310021-M.jpg?ts=1754322646212&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/mono-corto-flores-textura-l07638310?cS=021&pelement=702818114",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi asimétrico frunces",
-        "imagen": "https://static.pullandbear.net/assets/public/5cf4/1ab3/a1ef4b6a844f/252c6c5d0631/0739730580700-A7M/0739730580700-A7M.jpg?ts=1760628131279&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-asimetrico-frunces-l07397305?cS=807&pelement=715345207",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi rústico",
-        "imagen": "https://static.pullandbear.net/assets/public/91a1/1d38/d2454930b236/79e272e40deb/07394330610-M/07394330610-M.jpg?ts=1748947328915&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-rustico-l03397360?cS=610&pelement=694880403",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -99,6 +45,105 @@
         "categoria": "vestidos_mujer"
     },
     {
+        "nombre": "Vestido corto cut out lazos",
+        "imagen": "https://static.pullandbear.net/assets/public/2414/612b/900d496e8944/e2742c9924cc/07394378800-A7M/07394378800-A7M.jpg?ts=1764335167863&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-cut-out-lazos-l07394378?cS=800&pelement=718008661",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi halter",
+        "imagen": "https://static.pullandbear.net/assets/public/0605/5c9c/729445b9a1bb/0bbe0f0627ae/0739433440000-A7M/0739433440000-A7M.jpg?ts=1752756493707&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-l07394334?cS=400&pelement=692151804",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi rústico",
+        "imagen": "https://static.pullandbear.net/assets/public/91a1/1d38/d2454930b236/79e272e40deb/07394330610-M/07394330610-M.jpg?ts=1748947328915&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-rustico-l03397360?cS=610&pelement=694880403",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto mangas strass",
+        "imagen": "https://static.pullandbear.net/assets/public/8e51/3426/27844a1383ad/d5224a2f9bd0/07394384800-A7M/07394384800-A7M.jpg?ts=1763647973687&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-mangas-strass-l07394384?cS=800&pelement=717552874",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter marrón",
+        "imagen": "https://static.pullandbear.net/assets/public/5451/5209/93cd471e8f7b/94500776aacc/07394373700-A7M/07394373700-A7M.jpg?ts=1761900696580&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-marron-l07394373?cS=700&pelement=718906452",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido lentejuelas espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/9c16/e975/1df04da7ad93/12ec0946bcf4/07394369407-M/07394369407-M.jpg?ts=1762967411110&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-lentejuelas-espalda-descubierta-l07394369?cS=407&pelement=717699780",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/4b20/9a46/42d648539a7d/2ae667ccb71a/07394387681-A7M/07394387681-A7M.jpg?ts=1762509556135&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-encaje-l07394387?cS=681&pelement=719808039",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto combinado encaje",
+        "imagen": "https://static.pullandbear.net/assets/public/fb24/ef10/d5734b5da831/a167731116ba/07394372409-M/07394372409-M.jpg?ts=1761832942399&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-combinado-encaje-l07394372?cS=409&pelement=718502440",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto vaquero",
+        "imagen": "https://static.pullandbear.net/assets/public/a1de/0562/afcf442293f3/f5b468504cf8/07397300427-A7M/07397300427-A7M.jpg?ts=1749119715798&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-vaquero-l07397300?cS=427&pelement=692161416",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi drapeado brillo",
+        "imagen": "https://static.pullandbear.net/assets/public/cb37/29bc/5d5a475fa995/7c93254df249/0739437480200-A7M/0739437480200-A7M.jpg?ts=1762450309165&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-drapeado-brillo-l07394374?cS=802&pelement=717515960",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter flecos",
+        "imagen": "https://static.pullandbear.net/assets/public/3210/a64e/1a6f4c2e9b67/c0459838fd5c/0739435680800-A7M/0739435680800-A7M.jpg?ts=1762849750296&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-flecos-l07394356?cS=808&pelement=707944441",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
         "nombre": "Vestido midi doble ribs",
         "imagen": "https://static.pullandbear.net/assets/public/4188/efca/c793481eb6f0/d3c9c82a5d25/0739434460500-A7M/0739434460500-A7M.jpg?ts=1755162611268&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/vestido-midi-doble-ribs-l07394344?cS=605&pelement=707132792",
@@ -108,29 +153,65 @@
         "categoria": "vestidos_mujer"
     },
     {
+        "nombre": "Vestido midi punto rayas",
+        "imagen": "https://static.pullandbear.net/assets/public/1de2/eacb/6e6b4e0ab6fb/2e32d3c7c823/0739433707000-A7M/0739433707000-A7M.jpg?ts=1752136901016&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-punto-rayas-l07394337?cS=070&pelement=698841876",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto flores textura",
+        "imagen": "https://static.pullandbear.net/assets/public/6d2b/75f2/1f514bb1ad6b/694d32af7467/07394339300-M/07394339300-M.jpg?ts=1754313172977&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-flores-textura-l07394339?cS=300&pelement=701190187",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido lentejuelas espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/6dd7/730a/de244f9e865e/499d30ad6432/07394369808-M/07394369808-M.jpg?ts=1762967410250&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-lentejuelas-espalda-descubierta-l07394369?cS=808&pelement=717699779",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
         "nombre": "Vestido corto halter drapeado",
-        "imagen": "https://static.pullandbear.net/assets/public/6ec8/0dfc/4be2404ba0b0/96993a3d9f9c/07394430800-M/07394430800-M.jpg?ts=1752144194127&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-drapeado-l07394430?cS=800&pelement=699518190",
+        "imagen": "https://static.pullandbear.net/assets/public/fd49/d4f9/ec784277b9a5/0a73376d7311/07394430600-M/07394430600-M.jpg?ts=1752144193337&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-drapeado-l07394430?cS=600&pelement=699518189",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi halter drapeado",
-        "imagen": "https://static.pullandbear.net/assets/public/fbcc/c7ac/2e1547a6bc6d/560f298d14c2/0739433361500-A7M/0739433361500-A7M.jpg?ts=1752760307079&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-drapeado-l07394333?cS=615&pelement=697075224",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
+        "nombre": "Vestido midi encaje brillo",
+        "imagen": "https://static.pullandbear.net/assets/public/7132/4c25/2dc54abba666/f6ac99bcd090/0739437180000-A7M/0739437180000-A7M.jpg?ts=1760358119978&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-encaje-brillo-l07394371?cS=800&pelement=712708420",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto combinado volantes",
-        "imagen": "https://static.pullandbear.net/assets/public/1fab/a856/0c2a478886cf/b3e9f5a6b754/07394391807-M/07394391807-M.jpg?ts=1764336022126&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-combinado-volantes-l07394391?cS=807&pelement=720375059",
-        "precio_original": "39.99€",
-        "precio_final": "11.99€",
+        "nombre": "Vestido corto brillo",
+        "imagen": "https://static.pullandbear.net/assets/public/d388/56a7/379e44c3ac9b/98c146f68d29/0739438880000-A7M/0739438880000-A7M.jpg?ts=1762450309251&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-brillo-l07394388?cS=800&pelement=716581539",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto lentejuelas",
+        "imagen": "https://static.pullandbear.net/assets/public/a5e5/533f/e25c419db795/8225870a8b8d/07394363807-M/07394363807-M.jpg?ts=1764172349651&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-lentejuelas-l07394363?cS=807&pelement=710899510",
+        "precio_original": "45.99€",
+        "precio_final": "13.79€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -138,6 +219,15 @@
         "nombre": "Vestido midi halter punto",
         "imagen": "https://static.pullandbear.net/assets/public/57be/86a2/13734b078fb1/a5f31c502eec/07394327527-M/07394327527-M.jpg?ts=1748447621592&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-punto-l07394327?cS=527&pelement=696254670",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter drapeado",
+        "imagen": "https://static.pullandbear.net/assets/public/6ec8/0dfc/4be2404ba0b0/96993a3d9f9c/07394430800-M/07394430800-M.jpg?ts=1752144194127&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-drapeado-l07394430?cS=800&pelement=699518190",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
         "descuento": "-70%",
@@ -171,18 +261,36 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto encaje asimétrico",
-        "imagen": "https://static.pullandbear.net/assets/public/1263/d9c8/bd1d4f12a04f/c58e5baba3af/07394347700-M/07394347700-M.jpg?ts=1754324093025&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-encaje-asimetrico-l07394347?cS=700&pelement=702818101",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
+        "nombre": "Vestido midi halter drapeado",
+        "imagen": "https://static.pullandbear.net/assets/public/a13e/97b3/ac484f4cacec/0986db270588/0739440770000-A7M/0739440770000-A7M.jpg?ts=1749717624199&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-drapeado-l07394407?cS=700&pelement=692156943",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi soft touch",
-        "imagen": "https://static.pullandbear.net/assets/public/99e0/88ff/c3ff46d59169/6a1920ac27ee/03380302807-A7M/03380302807-A7M.jpg?ts=1764324170591&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-soft-touch-l03380302?cS=807&pelement=731569931",
+        "nombre": "Mono vaquero bootcut",
+        "imagen": "https://static.pullandbear.net/assets/public/6f3b/bc97/77ae448da168/2f46b7f8be52/0763830840700-A7M/0763830840700-A7M.jpg?ts=1758206402118&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/mono-vaquero-bootcut-l07638308?cS=407&pelement=698661418",
+        "precio_original": "45.99€",
+        "precio_final": "13.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter textura",
+        "imagen": "https://static.pullandbear.net/assets/public/3ef4/60f3/5ee34e1e9ab4/81938e9d863c/07394442800-M/07394442800-M.jpg?ts=1754313176434&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-textura-l07394342?cS=800&pelement=701760191",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto vaquero globo",
+        "imagen": "https://static.pullandbear.net/assets/public/4a0e/3c16/b40d4510b8a7/45079087cd2a/0739433540700-A7M/0739433540700-A7M.jpg?ts=1752075296541&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-vaquero-globo-l07394335?cS=407&pelement=697267097",
         "precio_original": "29.99€",
         "precio_final": "8.99€",
         "descuento": "-70%",
@@ -198,11 +306,47 @@
         "categoria": "vestidos_mujer"
     },
     {
+        "nombre": "Vestido corto lencero",
+        "imagen": "https://static.pullandbear.net/assets/public/18a0/85a6/55334d0d9079/5730fb2c0ff4/07394304622-A7M/07394304622-A7M.jpg?ts=1748504758614&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-lencero-l07394304?cS=622&pelement=692157271",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi bajo volantes",
+        "imagen": "https://static.pullandbear.net/assets/public/6178/449f/6e6e444a8bd4/d0121aa69b21/03397343700-M/03397343700-M.jpg?ts=1748960224722&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-bajo-volantes-l03397343?cS=700&pelement=692152426",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
         "nombre": "Vestido corto asimétrico paisley",
         "imagen": "https://static.pullandbear.net/assets/public/1e8f/32be/d0324b85ba09/ebf47ede1e16/07394380507-A7M/07394380507-A7M.jpg?ts=1760631052802&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/vestido-corto-asimetrico-paisley-l07394380?cS=507&pelement=716360002",
         "precio_original": "25.99€",
         "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi crochet",
+        "imagen": "https://static.pullandbear.net/assets/public/bf1a/ba95/6cdc49eca8d7/127db6438784/07394303500-M/07394303500-M.jpg?ts=1748592579155&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-crochet-l07394303?cS=500&pelement=692157182",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Mono corto espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/9e4d/30d3/eeae440aabe3/ad654fcb3b6d/07394310600-A7M/07394310600-A7M.jpg?ts=1747905304851&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/mono-corto-espalda-descubierta-l07394310?cS=600&pelement=692156877",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -216,18 +360,72 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto vaquero globo",
-        "imagen": "https://static.pullandbear.net/assets/public/4a0e/3c16/b40d4510b8a7/45079087cd2a/0739433540700-A7M/0739433540700-A7M.jpg?ts=1752075296541&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-vaquero-globo-l07394335?cS=407&pelement=697267097",
+        "nombre": "Vestido corto encaje manga larga",
+        "imagen": "https://static.pullandbear.net/assets/public/1ad7/30d3/05ae49bcad08/d63e826dc82d/0739432671200-A7M/0739432671200-A7M.jpg?ts=1750942953911&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-encaje-manga-larga-l07394326?cS=712&pelement=692794995",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Peto vaquero largo",
+        "imagen": "https://static.pullandbear.net/assets/public/253c/16f8/de6148bd9cec/a4683133bbda/07638302712-A7M/07638302712-A7M.jpg?ts=1750320416190&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/peto-vaquero-largo-l07638302?cS=712&pelement=693139310",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto tirantes lazos",
+        "imagen": "https://static.pullandbear.net/assets/public/43aa/6b66/6974420691b9/e9d169f55458/07394386800-M/07394386800-M.jpg?ts=1762854283480&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-tirantes-lazos-l07394386?cS=800&pelement=715398039",
+        "precio_original": "27.99€",
+        "precio_final": "8.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi asimétrico frunces",
+        "imagen": "https://static.pullandbear.net/assets/public/5cf4/1ab3/a1ef4b6a844f/252c6c5d0631/0739730580700-A7M/0739730580700-A7M.jpg?ts=1760628131279&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-asimetrico-frunces-l07397305?cS=807&pelement=715345207",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi crochet tirantes",
+        "imagen": "https://static.pullandbear.net/assets/public/79d4/33c3/2cbf49818fc1/fe60b5aaee41/07394307712-M/07394307712-M.jpg?ts=1751384784871&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-crochet-tirantes-l07394307?cS=712&pelement=692156969",
         "precio_original": "29.99€",
         "precio_final": "8.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto soft touch",
-        "imagen": "https://static.pullandbear.net/assets/public/9547/643c/8fee4525a657/045f1d8027a7/0739436792200-A7M/0739436792200-A7M.jpg?ts=1758725709752&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-soft-touch-l07394367?cS=922&pelement=711518893",
+        "nombre": "Vestido midi halter",
+        "imagen": "https://static.pullandbear.net/assets/public/79ea/23f2/ef374e099b48/d67444e3962b/07394421402-A7M/07394421402-A7M.jpg?ts=1748437419403&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-l07394421?cS=402&pelement=692928561",
+        "precio_original": "17.99€",
+        "precio_final": "5.39€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Mono corto flores textura",
+        "imagen": "https://static.pullandbear.net/assets/public/1d24/aa27/391a4ce9be80/db82e18c194f/07638310020-M/07638310020-M.jpg?ts=1754322644965&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/mono-corto-flores-textura-l07638310?cS=020&pelement=702818113",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter textura",
+        "imagen": "https://static.pullandbear.net/assets/public/452e/3302/df08477e8de8/79803fd5b37c/07394342300-M/07394342300-M.jpg?ts=1754313175999&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-textura-l07394342?cS=300&pelement=701760190",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
         "descuento": "-70%",
@@ -243,162 +441,9 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto encaje manga larga",
-        "imagen": "https://static.pullandbear.net/assets/public/1ad7/30d3/05ae49bcad08/d63e826dc82d/0739432671200-A7M/0739432671200-A7M.jpg?ts=1750942953911&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-encaje-manga-larga-l07394326?cS=712&pelement=692794995",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi halter",
-        "imagen": "https://static.pullandbear.net/assets/public/0605/5c9c/729445b9a1bb/0bbe0f0627ae/0739433440000-A7M/0739433440000-A7M.jpg?ts=1752756493707&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-l07394334?cS=400&pelement=692151804",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi crochet",
-        "imagen": "https://static.pullandbear.net/assets/public/bf1a/ba95/6cdc49eca8d7/127db6438784/07394303500-M/07394303500-M.jpg?ts=1748592579155&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-crochet-l07394303?cS=500&pelement=692157182",
-        "precio_original": "35.99€",
-        "precio_final": "10.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto lentejuelas",
-        "imagen": "https://static.pullandbear.net/assets/public/4001/d7a5/4c564d8c9d28/2ccfd69c3074/0739436380700-A7M/0739436380700-A7M.jpg?ts=1762450314489&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-lentejuelas-l07394363?cS=807&pelement=710899510",
-        "precio_original": "45.99€",
-        "precio_final": "13.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto pareo aplique",
-        "imagen": "https://static.pullandbear.net/assets/public/e2ed/0539/03bb41a1806c/b06a56716e45/0739436468400-A7M/0739436468400-A7M.jpg?ts=1761839286381&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-pareo-aplique-l07394364?cS=684&pelement=716359978",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto doble asimétrico",
-        "imagen": "https://static.pullandbear.net/assets/public/3e21/601e/6fa84599a3d4/e4031c753d13/07394385802-M/07394385802-M.jpg?ts=1764164824988&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-doble-asimetrico-l07394385?cS=802&pelement=718907870",
-        "precio_original": "35.99€",
-        "precio_final": "10.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto tul tie-dye",
-        "imagen": "https://static.pullandbear.net/assets/public/b51f/1e31/1a424144a457/1ee43e176a1b/07394323120-a7m/07394323120-a7m.jpg?ts=1750345390869&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-tul-tiedye-l07394323?cS=120&pelement=693840160",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi encaje brillo",
-        "imagen": "https://static.pullandbear.net/assets/public/7132/4c25/2dc54abba666/f6ac99bcd090/0739437180000-A7M/0739437180000-A7M.jpg?ts=1760358119978&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-encaje-brillo-l07394371?cS=800&pelement=712708420",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Mono corto espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/9e4d/30d3/eeae440aabe3/ad654fcb3b6d/07394310600-A7M/07394310600-A7M.jpg?ts=1747905304851&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/mono-corto-espalda-descubierta-l07394310?cS=600&pelement=692156877",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto punto calado",
-        "imagen": "https://static.pullandbear.net/assets/public/41be/2e58/d7374ee69a82/a59668ef29f0/07394419402-A7M/07394419402-A7M.jpg?ts=1748437419345&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-punto-calado-l07394419?cS=402&pelement=695060876",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi espalda descubierta",
-        "imagen": "https://static.pullandbear.net/assets/public/8183/0e85/559641bca9c5/c1ff8b65b665/07394410800-A7M/07394410800-A7M.jpg?ts=1751536409681&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-espalda-descubierta-l07394410?cS=800&pelement=692151461",
-        "precio_original": "35.99€",
-        "precio_final": "10.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto strass lazada",
-        "imagen": "https://static.pullandbear.net/assets/public/6bf0/d944/69d441f8838a/9809e7ef26ec/07394352800-A7M/07394352800-A7M.jpg?ts=1760013040972&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-strass-lazada-l07394352?cS=800&pelement=706506055",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi punto rayas",
-        "imagen": "https://static.pullandbear.net/assets/public/1de2/eacb/6e6b4e0ab6fb/2e32d3c7c823/0739433707000-A7M/0739433707000-A7M.jpg?ts=1752136901016&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-punto-rayas-l07394337?cS=070&pelement=698841876",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
         "nombre": "Vestido corto blanco bordados",
         "imagen": "https://static.pullandbear.net/assets/public/789c/d094/fa19410a983f/4b4ce6f1ab5c/0339734125000-A7M/0339734125000-A7M.jpg?ts=1749047121811&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/vestido-corto-blanco-bordados-l03397341?cS=250&pelement=692151599",
-        "precio_original": "27.99€",
-        "precio_final": "8.39€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi drapeado brillo",
-        "imagen": "https://static.pullandbear.net/assets/public/cb37/29bc/5d5a475fa995/7c93254df249/0739437480200-A7M/0739437480200-A7M.jpg?ts=1762450309165&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-drapeado-brillo-l07394374?cS=802&pelement=717515960",
-        "precio_original": "29.99€",
-        "precio_final": "8.99€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto asimétrico volante",
-        "imagen": "https://static.pullandbear.net/assets/public/9c4a/31e9/f2314fcbb0dc/c7938c5d4ac4/0739434671200-A7M/0739434671200-A7M.jpg?ts=1754580583074&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-asimetrico-volante-l07394346?cS=712&pelement=703212165",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto tablas",
-        "imagen": "https://static.pullandbear.net/assets/public/08ca/746a/52ca4230b835/7d7d0c6f9930/07394358800-M/07394358800-M.jpg?ts=1756212950575&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-tablas-l07394358?cS=800&pelement=710675020",
-        "precio_original": "22.99€",
-        "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido corto crochet abalorios",
-        "imagen": "https://static.pullandbear.net/assets/public/58c4/b601/04b04c95a614/eb51bdf23c2e/07394311712-M/07394311712-M.jpg?ts=1751444770162&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-crochet-abalorios-l07394311?cS=712&pelement=692157150",
         "precio_original": "27.99€",
         "precio_final": "8.39€",
         "descuento": "-70%",
@@ -414,20 +459,128 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto asimétrico estampado",
-        "imagen": "https://static.pullandbear.net/assets/public/1e32/eb50/74be463ca623/5b3576927b38/0739435711200-a7m/0739435711200-a7m.jpg?ts=1754582961016&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-asimetrico-estampado-l07394357?cS=112&pelement=706635152",
+        "nombre": "Vestido tirantes detalle strass",
+        "imagen": "https://static.pullandbear.net/assets/public/d5f1/3660/d0634f4c833b/0507dc79c05c/07394362800-M/07394362800-M.jpg?ts=1761149390094&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-tirantes-detalle-strass-l07394362?cS=800&pelement=711109432",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Mono corto flores textura",
+        "imagen": "https://static.pullandbear.net/assets/public/9c35/e9bb/4ca344ed8301/ac11ca0587d8/07638310021-M/07638310021-M.jpg?ts=1754322646212&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/mono-corto-flores-textura-l07638310?cS=021&pelement=702818114",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter drapeado",
+        "imagen": "https://static.pullandbear.net/assets/public/fc07/7dfb/16664286ba59/675715b7a5e4/07394390800-M/07394390800-M.jpg?ts=1761149390873&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-drapeado-l07394390?cS=800&pelement=714029731",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi tirantes fluido",
+        "imagen": "https://static.pullandbear.net/assets/public/bfc1/3190/810f4582bf14/bbaf410ba1ee/07394429711-M/07394429711-M.jpg?ts=1749050236018&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-tirantes-fluido-l07394319?cS=711&pelement=694017985",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi halter drapeado",
+        "imagen": "https://static.pullandbear.net/assets/public/fbcc/c7ac/2e1547a6bc6d/560f298d14c2/0739433361500-A7M/0739433361500-A7M.jpg?ts=1752760307079&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-halter-drapeado-l07394333?cS=615&pelement=697075224",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto combinado volantes",
+        "imagen": "https://static.pullandbear.net/assets/public/1fab/a856/0c2a478886cf/b3e9f5a6b754/07394391807-M/07394391807-M.jpg?ts=1764336022126&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-combinado-volantes-l07394391?cS=807&pelement=720375059",
+        "precio_original": "39.99€",
+        "precio_final": "11.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto halter textura",
+        "imagen": "https://static.pullandbear.net/assets/public/2af7/32d1/54f44d9a9102/0a27b8b20587/07394342250-M/07394342250-M.jpg?ts=1753168653726&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-halter-textura-l07394342?cS=250&pelement=701760192",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido midi tirantes bordados",
+        "imagen": "https://static.pullandbear.net/assets/public/ed47/3fdc/0273405a9008/0b5a213e988d/03397342800-A7M/03397342800-A7M.jpg?ts=1750171574993&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-midi-tirantes-bordados-l03397342?cS=800&pelement=692151542",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto soft touch",
+        "imagen": "https://static.pullandbear.net/assets/public/b1a0/749f/3c6f4710aaf2/61a177240887/03380303807-M/03380303807-M.jpg?ts=1764243382984&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-soft-touch-l03380303?cS=807&pelement=731569932",
+        "precio_original": "25.99€",
+        "precio_final": "7.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Mono super baggy espalda descubierta",
+        "imagen": "https://static.pullandbear.net/assets/public/f152/d5f7/69444264aae4/4f770a70b6ce/03642304707-A2M/03642304707-A2M.jpg?ts=1746715187669&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/mono-super-baggy-espalda-descubierta-l03642304?cS=707&pelement=692152186",
+        "precio_original": "35.99€",
+        "precio_final": "10.79€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto strass lazada",
+        "imagen": "https://static.pullandbear.net/assets/public/a32e/d115/b0f84d959a32/b142d7ff0a71/07394352802-A7M/07394352802-A7M.jpg?ts=1760007933635&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-strass-lazada-l07394352?cS=802&pelement=706506056",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto punto calado",
+        "imagen": "https://static.pullandbear.net/assets/public/41be/2e58/d7374ee69a82/a59668ef29f0/07394419402-A7M/07394419402-A7M.jpg?ts=1748437419345&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-punto-calado-l07394419?cS=402&pelement=695060876",
+        "precio_original": "22.99€",
+        "precio_final": "6.89€",
+        "descuento": "-70%",
+        "categoria": "vestidos_mujer"
+    },
+    {
+        "nombre": "Vestido corto estampado",
+        "imagen": "https://static.pullandbear.net/assets/public/af85/ebf3/96b84d5290d5/4e8ad80cc172/07394338051-M/07394338051-M.jpg?ts=1750841631513&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-estampado-l07394338?cS=051&pelement=697495004",
         "precio_original": "19.99€",
         "precio_final": "5.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido midi poliamida",
-        "imagen": "https://static.pullandbear.net/assets/public/33a4/bcb8/29714d12b52c/80a9215adacd/03397315800-A7M/03397315800-A7M.jpg?ts=1750424060025&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-poliamida-l03397315?cS=800&pelement=692936108",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
+        "nombre": "Vestido corto strass lazada",
+        "imagen": "https://static.pullandbear.net/assets/public/6bf0/d944/69d441f8838a/9809e7ef26ec/07394352800-A7M/07394352800-A7M.jpg?ts=1760013040972&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-strass-lazada-l07394352?cS=800&pelement=706506055",
+        "precio_original": "29.99€",
+        "precio_final": "8.99€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     },
@@ -441,29 +594,11 @@
         "categoria": "vestidos_mujer"
     },
     {
-        "nombre": "Vestido corto paneles",
-        "imagen": "https://static.pullandbear.net/assets/public/f525/b33b/2fe14217b33f/5a084615ff7b/0739430050500-A7M/0739430050500-A7M.jpg?ts=1747921999522&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-corto-paneles-l07394300?cS=505&pelement=692156985",
+        "nombre": "Vestido corto tablas",
+        "imagen": "https://static.pullandbear.net/assets/public/08ca/746a/52ca4230b835/7d7d0c6f9930/07394358800-M/07394358800-M.jpg?ts=1756212950575&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/vestido-corto-tablas-l07394358?cS=800&pelement=710675020",
         "precio_original": "22.99€",
         "precio_final": "6.89€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi hebilla",
-        "imagen": "https://static.pullandbear.net/assets/public/0a8b/c4db/9fa5411cbf08/e13d6202e7fe/0739435480000-A7M/0739435480000-A7M.jpg?ts=1760024358289&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-hebilla-l07394354?cS=800&pelement=706173181",
-        "precio_original": "25.99€",
-        "precio_final": "7.79€",
-        "descuento": "-70%",
-        "categoria": "vestidos_mujer"
-    },
-    {
-        "nombre": "Vestido midi cuello perkins",
-        "imagen": "https://static.pullandbear.net/assets/public/78e8/0ed2/091e4da7b748/6e3a267f8bff/0739434980000-A7M/0739434980000-A7M.jpg?ts=1757579112833&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/vestido-midi-cuello-perkins-l07394349?cS=800&pelement=707626457",
-        "precio_original": "17.99€",
-        "precio_final": "5.39€",
         "descuento": "-70%",
         "categoria": "vestidos_mujer"
     }

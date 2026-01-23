@@ -1,34 +1,7 @@
 [
     {
-        "nombre": "SUDADERA REGULAR FIT TEXTO ESTAMPADO",
-        "imagen": "https://static.zara.net/assets/public/1ffe/7733/1bee4dc4b91e/fd24a9090dab/06462403800-a1/06462403800-a1.jpg?ts=1764751234463&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-regular-fit-texto-estampado-p06462403.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "CHAQUETA CANALÉ INTERLOCK",
-        "imagen": "https://static.zara.net/assets/public/2530/998e/67134f76b476/40f896d970d5/00526415710-a1/00526415710-a1.jpg?ts=1763476657167&w=326",
-        "url_producto": "https://www.zara.com/es/es/chaqueta-canale-interlock-p00526415.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA MINNIE + MICKEY HARRY LAMBERT FOR ZARA X DISNEY",
-        "imagen": "https://static.zara.net/assets/public/0aa5/9fcb/4ba84e8e8cd1/41df9d65f2f1/04087343600-a1/04087343600-a1.jpg?ts=1758730388095&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-minnie-mickey-harry-lambert-for-zara-x-disney-p04087343.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
         "nombre": "SUDADERA INTERLOCK TÉCNICA",
-        "imagen": "https://static.zara.net/assets/public/da1c/4ac7/51a74eb98f6f/7fe0938bf892/00761450251-10-p/00761450251-10-p.jpg?ts=1759938724723&w=326",
+        "imagen": "https://static.zara.net/assets/public/8158/8be8/de3641c18cd0/1258f66fc91b/00761450800-p/00761450800-p.jpg?ts=1735554270922&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-interlock-tecnica-p00761450.html",
         "precio_original": "25.95€",
         "precio_final": "12.97€",
@@ -36,44 +9,8 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CREWNECK CINTAS",
-        "imagen": "https://static.zara.net/assets/public/2d12/d539/30be4110a191/621aef179b93/05584343702-a1/05584343702-a1.jpg?ts=1761134390553&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-cintas-p05584343.html",
-        "precio_original": "35.95€",
-        "precio_final": "17.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA CREW NECK ROLAND CORPORATION ©",
-        "imagen": "https://static.zara.net/assets/public/c344/f019/19244c7496d0/0dc3a1db361b/04087399827-a1/04087399827-a1.jpg?ts=1757931925178&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-crew-neck-roland-corporation---p04087399.html",
-        "precio_original": "49.95€",
-        "precio_final": "24.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA ALGODÓN - LINO",
-        "imagen": "https://static.zara.net/assets/public/9148/a7a1/b6964415843c/13249de7c254/05584384511-a1/05584384511-a1.jpg?ts=1760540108015&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-algodon---lino-p05584384.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA ESTAMPADOS COMBINADOS",
-        "imagen": "https://static.zara.net/assets/public/cdfb/8a0d/90fc4576b7be/243b4431e0d4/09144305805-a1/09144305805-a1.jpg?ts=1755850372467&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estampados-combinados-p09144305.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
         "nombre": "CHAQUETA COLOR BLOCK",
-        "imagen": "https://static.zara.net/assets/public/47cc/6712/e29d4d63b960/2c69cb274beb/04092358066-a1/04092358066-a1.jpg?ts=1760623938824&w=326",
+        "imagen": "https://static.zara.net/assets/public/0e1a/efe4/c0b34a3e8eba/77c170c67226/04092358066-p/04092358066-p.jpg?ts=1760623942737&w=710",
         "url_producto": "https://www.zara.com/es/es/chaqueta-color-block-p04092358.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
@@ -81,53 +18,8 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA BOXY FIT",
-        "imagen": "https://static.zara.net/assets/public/f981/86d8/fe5d456899a0/64ecf9e95962/03992370717-a1/03992370717-a1.jpg?ts=1760448389731&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-boxy-fit-p03992370.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA CUELLO ABERTURA NFL WASHINGTON COMMANDERS",
-        "imagen": "https://static.zara.net/assets/public/10c6/a937/958540419eaa/aa0b9e3d990e/00962507712-a1/00962507712-a1.jpg?ts=1762245150923&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-abertura-nfl-washington-commanders-p00962507.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA LAVADA TEXTO ESTAMPADO",
-        "imagen": "https://static.zara.net/assets/public/a711/efe0/089d4ac7ae1f/740b7a03411a/04374313401-a1/04374313401-a1.jpg?ts=1762330414947&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-texto-estampado-p04374313.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA EFECTO NEOPRENO TACHA",
-        "imagen": "https://static.zara.net/assets/public/0215/2b29/05c44c918585/b50dc5bdf0cd/01437318529-a1/01437318529-a1.jpg?ts=1759489281591&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-efecto-neopreno-tacha-p01437318.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA BANDAS CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/81bb/cfd7/fbcb49368382/0bd23686c010/05584338717-a1/05584338717-a1.jpg?ts=1761134391019&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-bandas-contraste-p05584338.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
         "nombre": "SUDADERA TEXTO ESTAMPADO",
-        "imagen": "https://static.zara.net/assets/public/b0f5/a07b/16e248f28982/ff9bd3939b8f/06224380311-a1/06224380311-a1.jpg?ts=1754066410545&w=326",
+        "imagen": "https://static.zara.net/assets/public/9f31/6864/c6e34e118b8b/621a89684172/06224380311-p/06224380311-p.jpg?ts=1754066410491&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-texto-estampado-p06224380.html",
         "precio_original": "25.95€",
         "precio_final": "12.97€",
@@ -135,44 +27,26 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA BORDADO CONEJO",
-        "imagen": "https://static.zara.net/assets/public/1ba2/0ce5/74614a73bb72/5f2c8ff075b2/04092361251-a1/04092361251-a1.jpg?ts=1760623942395&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-bordado-conejo-p04092361.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA ESTRUCTURA ABIERTA CAPUCHA",
-        "imagen": "https://static.zara.net/assets/public/3d46/12e7/e1114d978a8e/8baf538076a4/03665317609-a1/03665317609-a1.jpg?ts=1754562543412&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-abierta-capucha-p03665317.html",
+        "nombre": "SUDADERA LAVADA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/3e9e/b967/fce94745a610/c094e925f00e/04374313401-p/04374313401-p.jpg?ts=1762330418294&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-texto-estampado-p04374313.html",
         "precio_original": "39.95€",
         "precio_final": "19.97€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA ESTAMPADO ESCUDO",
-        "imagen": "https://static.zara.net/assets/public/95ab/bcb9/ae1e4b8f873d/7c7ab27161e2/00761369250-a1/00761369250-a1.jpg?ts=1757589594157&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-escudo-p00761369.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA TEXTOS BORDADOS",
-        "imagen": "https://static.zara.net/assets/public/db84/2925/dae0403f9ce2/df0a6ae5c567/05039301250-a1/05039301250-a1.jpg?ts=1749033220066&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-textos-bordados-p05039301.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
+        "nombre": "SUDADERA CUELLO ABERTURA NFL WASHINGTON COMMANDERS",
+        "imagen": "https://static.zara.net/assets/public/3972/2e33/3d774245abba/3d3f5e2820b9/00962507712-p/00962507712-p.jpg?ts=1762245151011&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-abertura-nfl-washington-commanders-p00962507.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
         "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
         "nombre": "SUDADERA PARCHE HAMACAS",
-        "imagen": "https://static.zara.net/assets/public/31c9/5956/a86b44679f5f/d978b0dd8f87/06224367251-a1/06224367251-a1.jpg?ts=1755013706743&w=326",
+        "imagen": "https://static.zara.net/assets/public/1fc0/649f/e23a49ca8fe5/0e982905eb6a/06224367251-p/06224367251-p.jpg?ts=1755013704019&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-parche-hamacas-p06224367.html",
         "precio_original": "29.95€",
         "precio_final": "14.97€",
@@ -180,62 +54,8 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA LAVADA GRÁFICOS ESTAMPADOS",
-        "imagen": "https://static.zara.net/assets/public/2204/9bff/6ae04cbea89c/784264ece758/00962327715-a1/00962327715-a1.jpg?ts=1757596669179&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-graficos-estampados-p00962327.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA CREWNECK LAVADA",
-        "imagen": "https://static.zara.net/assets/public/fcdd/1d0c/c2a94d5f9de6/8a3aed3792c4/03443305505-a1/03443305505-a1.jpg?ts=1761138047115&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-lavada-p03443305.html",
-        "precio_original": "39.95€",
-        "precio_final": "19.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA ESTAMPADO RELIEVE",
-        "imagen": "https://static.zara.net/assets/public/0f48/8304/49484a19887d/cd6fd04288b4/03992321250-a1/03992321250-a1.jpg?ts=1752230557430&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-relieve-p03992321.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "CAMISETA PARCHE COMBINADO",
-        "imagen": "https://static.zara.net/assets/public/198d/1f2a/0ae945f891b5/3a045b37f993/03992345802-a1/03992345802-a1.jpg?ts=1761060951072&w=326",
-        "url_producto": "https://www.zara.com/es/es/camiseta-parche-combinado-p03992345.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA ESTAMPADOS CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/32ee/1eed/6ed84470bdf1/bb3dfdd7f421/06224369800-a1/06224369800-a1.jpg?ts=1755526543638&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estampados-contraste-p06224369.html",
-        "precio_original": "25.95€",
-        "precio_final": "12.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA ESTAMPADO ÁRBOLES",
-        "imagen": "https://static.zara.net/assets/public/2f13/56be/6ae045edac7a/3ef52d7bc5f5/04090304506-a1/04090304506-a1.jpg?ts=1754408496210&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-arboles-p04090304.html",
-        "precio_original": "29.95€",
-        "precio_final": "14.97€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_hombre"
-    },
-    {
         "nombre": "SUDADERA REGULAR FIT ESTRUCTURA",
-        "imagen": "https://static.zara.net/assets/public/25e1/c4dd/40684c85acda/b4c2bf17193e/03443300251-a1/03443300251-a1.jpg?ts=1757580978203&w=326",
+        "imagen": "https://static.zara.net/assets/public/1593/6332/2de249c49452/bc6956aaf894/03443300251-p/03443300251-p.jpg?ts=1757580978200&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-regular-fit-estructura-p03443300.html",
         "precio_original": "25.95€",
         "precio_final": "12.97€",
@@ -243,53 +63,152 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA LAVADA CREMALLERA CAPUCHA",
-        "imagen": "https://static.zara.net/assets/public/105d/3ec3/e4f044c0b898/f84c7b8cb0c3/03443334826-a1/03443334826-a1.jpg?ts=1756456938344&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-cremallera-capucha-p03443334.html",
-        "precio_original": null,
-        "precio_final": "35.95€",
-        "descuento": null,
+        "nombre": "SUDADERA CREWNECK LAVADA",
+        "imagen": "https://static.zara.net/assets/public/890f/1e9e/9c8e422fbaf7/b72f9c05b225/03443305505-p/03443305505-p.jpg?ts=1761138046976&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-lavada-p03443305.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CUELLO CREMALLERA BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/d254/31a3/d33745298e69/2ca55728ff8f/00761311800-a1/00761311800-a1.jpg?ts=1762277338727&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-basica-p00761311.html",
-        "precio_original": null,
-        "precio_final": "29.95€",
-        "descuento": null,
+        "nombre": "SUDADERA ESTAMPADOS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/7502/6ff9/51b14f2d8e59/eb5ede7b0a0d/06224369800-p/06224369800-p.jpg?ts=1755526539090&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampados-contraste-p06224369.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA TÉCNICA CREMALLERA CAPUCHA",
-        "imagen": "https://static.zara.net/assets/public/6a25/98c5/5e344dab9e0c/72064405e85b/08574329711-a1/08574329711-a1.jpg?ts=1754564189507&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-tecnica-cremallera-capucha-p08574329.html",
-        "precio_original": null,
-        "precio_final": "39.95€",
-        "descuento": null,
+        "nombre": "SUDADERA ESTAMPADO RELIEVE",
+        "imagen": "https://static.zara.net/assets/public/d7b0/8d53/ac8f43f782ab/c208954ac7e1/03992321250-p/03992321250-p.jpg?ts=1752230557639&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-relieve-p03992321.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CREWNECK ENTRENAMIENTO",
-        "imagen": "https://static.zara.net/assets/public/3600/b2f3/95cd4babbdb1/5dd9d7f759ba/04231308803-a1/04231308803-a1.jpg?ts=1759771104971&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-entrenamiento-p04231308.html",
-        "precio_original": null,
-        "precio_final": "35.95€",
-        "descuento": null,
+        "nombre": "SUDADERA CHALECO INTERLOCK OVERSIZED",
+        "imagen": "https://static.zara.net/assets/public/8f60/026b/32ad46ff97b1/6fd78042cf4a/05584334538-p/05584334538-p.jpg?ts=1756298326095&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-chaleco-interlock-oversized-p05584334.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CUELLO CREMALLERA BOLSILLO COMBINADO",
-        "imagen": "https://static.zara.net/assets/public/aea9/1fb8/2f6342e09610/2f99730a34d3/04387332664-a1/04387332664-a1.jpg?ts=1768315680047&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-bolsillo-combinado-p04387332.html",
-        "precio_original": null,
-        "precio_final": "39.95€",
-        "descuento": null,
+        "nombre": "SUDADERA ESTAMPADO ESCUDO",
+        "imagen": "https://static.zara.net/assets/public/5976/31ee/cbc746c8b877/e5acb2ccdae0/00761369250-p/00761369250-p.jpg?ts=1757589593645&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-escudo-p00761369.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "CAMISETA PARCHE COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/891f/da79/632c42bdafe3/efb728e8c093/03992345802-p/03992345802-p.jpg?ts=1761060953582&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-parche-combinado-p03992345.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA BOXY FIT",
+        "imagen": "https://static.zara.net/assets/public/82e4/38fa/0d6c489d9463/560b8dea0d1c/03992370717-p/03992370717-p.jpg?ts=1760448389223&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-boxy-fit-p03992370.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA GRÁFICOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/7d54/87b8/715140d4bfeb/0817b68e93d8/00962327715-p/00962327715-p.jpg?ts=1757596668910&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-graficos-estampados-p00962327.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA GRÁFICOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/4f00/8adf/382a46b6ae84/5649951384fb/06224803898-p/06224803898-p.jpg?ts=1760518231095&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-graficos-estampados-p06224803.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA TEXTOS BORDADOS",
+        "imagen": "https://static.zara.net/assets/public/3baa/51a0/95274ae098aa/0e540643495a/05039301250-p/05039301250-p.jpg?ts=1749033220114&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-textos-bordados-p05039301.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADO ÁRBOLES",
+        "imagen": "https://static.zara.net/assets/public/8a59/bfe0/f3f64c08a81f/76125544ac4f/04090304506-p/04090304506-p.jpg?ts=1754408496313&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-arboles-p04090304.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA POLO INTERLOCK",
+        "imagen": "https://static.zara.net/assets/public/5bd9/22ca/5d4e4d05849e/c275b98bb9bc/04092444712-p/04092444712-p.jpg?ts=1765442163479&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-polo-interlock-p04092444.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTRUCTURA CORDÓN",
+        "imagen": "https://static.zara.net/assets/public/45c8/be7f/925c4253bc84/9de1986336ba/04087363922-p/04087363922-p.jpg?ts=1761060958967&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-cordon-p04087363.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CUELLO CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/8ac0/f81b/9df841808c2b/ab0a9091b46b/03443312400-p/03443312400-p.jpg?ts=1760623936053&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-p03443312.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CUELLO CREMALLERA TEXTURA",
+        "imagen": "https://static.zara.net/assets/public/cbe9/af0e/f36a4e28b894/d3235f039850/04087366712-p/04087366712-p.jpg?ts=1764927769937&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-textura-p04087366.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA BORDADO CONEJO",
+        "imagen": "https://static.zara.net/assets/public/660a/d6cf/7ed14908bcb6/fe00f2428f58/04092361251-p/04092361251-p.jpg?ts=1760623942382&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-bordado-conejo-p04092361.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
         "categoria": "sudaderas_hombre"
     },
     {
         "nombre": "SUDADERA CAPUCHA BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/f921/74e6/6acb43139aee/a9cf29a1c7b1/00761410800-a1/00761410800-a1.jpg?ts=1765899017769&w=326",
+        "imagen": "https://static.zara.net/assets/public/2dc3/1d05/300a4be1b8e1/9fee14231d4e/00761410898-p/00761410898-p.jpg?ts=1763030550438&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-capucha-basica-p00761370.html",
         "precio_original": null,
         "precio_final": "29.95€",
@@ -297,35 +216,692 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA POLO INTERLOCK CREMALLERA",
-        "imagen": "https://static.zara.net/assets/public/e34d/e524/5c8145098580/22eba9654086/04092380401-a1/04092380401-a1.jpg?ts=1758102917950&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-polo-interlock-cremallera-p04092380.html",
+        "nombre": "SUDADERA SOFT CREWNECK LAVADA",
+        "imagen": "https://static.zara.net/assets/public/900e/5764/ffab4e35ae1b/5e93f6a58c52/01501316428-p/01501316428-p.jpg?ts=1754909509773&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-soft-crewneck-lavada-p01501316.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK CINTAS",
+        "imagen": "https://static.zara.net/assets/public/42e3/ba7a/1ae34f4fb424/b41acbcda7e1/05584343702-p/05584343702-p.jpg?ts=1761134393804&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-cintas-p05584343.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA HOODIE EFECTO LAVADO",
+        "imagen": "https://static.zara.net/assets/public/a2c8/6c8c/4565434ba727/aeeb9dc94b94/04729308925-p/04729308925-p.jpg?ts=1761039390760&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-efecto-lavado-p04729308.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK LAVADA",
+        "imagen": "https://static.zara.net/assets/public/4a2b/2468/4f224a03a870/3c6c6e0882df/05372319691-p/05372319691-p.jpg?ts=1758553551416&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-lavada-p05372319.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA RELAXED FIT",
+        "imagen": "https://static.zara.net/assets/public/dd9c/a741/fe894660a513/4afcaac08a72/04393319803-p/04393319803-p.jpg?ts=1761915244168&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-relaxed-fit-p04393319.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA REGULAR FIT TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/9535/b47e/10af4e169efa/028d417cb0c1/06462402251-p/06462402251-p.jpg?ts=1764751238090&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-regular-fit-texto-estampado-p06462402.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADOS COMBINADOS",
+        "imagen": "https://static.zara.net/assets/public/3ad0/68b1/8a3341c9817c/ea1dd48e27f7/09144305805-p/09144305805-p.jpg?ts=1755850375195&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampados-combinados-p09144305.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/0563/054c/226246628fce/8738c0b1dbd7/09144307811-p/09144307811-p.jpg?ts=1757599796870&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-combinado-p09144307.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA POLO BOXY FIT",
+        "imagen": "https://static.zara.net/assets/public/5f08/33bb/eb9443e3af34/dedf1ef38c2d/04393318803-p/04393318803-p.jpg?ts=1761913278533&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-polo-boxy-fit-p04393318.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREMALLERA ESTRUCTURA CUADRILLÉ",
+        "imagen": "https://static.zara.net/assets/public/0f3c/f675/6312446c96cb/2859b94e8c52/03443307407-p/03443307407-p.jpg?ts=1757509664964&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cremallera-estructura-cuadrille-p03443307.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA FIELTRO CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/fa13/c0ec/7d0d4d889b4b/1653b089f005/02878315401-p/02878315401-p.jpg?ts=1762876374468&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-fieltro-capucha-p02878315.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA EFECTO NEOPRENO TACHA",
+        "imagen": "https://static.zara.net/assets/public/df68/9df7/f49e4b10a820/da198a1672e6/01437318529-p/01437318529-p.jpg?ts=1759489281521&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-efecto-neopreno-tacha-p01437318.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTRUCTURA ABIERTA CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/f3c3/d0fb/8a434bb4808a/f8c95c60a844/03665317609-p/03665317609-p.jpg?ts=1754562546660&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-abierta-capucha-p03665317.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA VELOUR CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/b9c7/4b6c/218549a6ade0/e91c91f94c8e/00526311500-p/00526311500-p.jpg?ts=1758030371770&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-velour-cremallera-p00526311.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA TÉCNICA CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/3125/e042/ed5e46b4a58e/87b39225339e/00761304800-p/00761304800-p.jpg?ts=1747750742789&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-tecnica-capucha-p00761304.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/b384/7a91/d90a42a99690/91492cfb3a81/04374314807-p/04374314807-p.jpg?ts=1762272286625&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-texto-estampado-p04374314.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA RELAXED FIT CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/f7a0/b873/33064ee5a062/f32ef6d83a65/04087381700-p/04087381700-p.jpg?ts=1760960617981&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-relaxed-fit-capucha-p04087381.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA EFECTO ESPIGA",
+        "imagen": "https://static.zara.net/assets/public/b09b/5034/563f47088348/d70d432b6a21/00526341898-p/00526341898-p.jpg?ts=1760520233418&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-efecto-espiga-p00526341.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/03db/6aa0/ed164d7a8a9f/dc6348e350a0/03443360800-1-p/03443360800-1-p.jpg?ts=1759249150399&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-basica-p03443360.html",
+        "precio_original": "25.95€",
+        "precio_final": "7.99€",
+        "descuento": "-69%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA PARCHES BANDAS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/2552/cd06/56404207b002/906af8591615/00962396791-p/00962396791-p.jpg?ts=1759419677773&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-parches-bandas-contraste-p00962396.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CROPPED FIT EFECTO NEOPRENO TACHA",
+        "imagen": "https://static.zara.net/assets/public/d075/0c5a/910d4afaae30/86d23284be06/08054310707-p/08054310707-p.jpg?ts=1759489515244&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cropped-fit-efecto-neopreno-tacha-p08054310.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA BANDAS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/fa9f/00d4/87f6405d9aaa/c89fa950fd30/05584338717-p/05584338717-p.jpg?ts=1761134390258&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-bandas-contraste-p05584338.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA POLAR CUELLO CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/079b/5972/f49046e2bd70/3f50bd59d03a/02878318592-p/02878318592-p.jpg?ts=1763031284454&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-polar-cuello-cremallera-p02878318.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADO SPRAY TEXTOS",
+        "imagen": "https://static.zara.net/assets/public/4a5a/105c/511b47f4a04d/b3072d3987f5/06224544600-p/06224544600-p.jpg?ts=1761123272472&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-spray-textos-p06224544.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA COLOR BLOCK ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/9fd8/3ee9/8375475eab74/022957006592/00962310807-p/00962310807-p.jpg?ts=1758030374970&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-color-block-estampado-p00962310.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA INTERLOCK TÉCNICA",
+        "imagen": "https://static.zara.net/assets/public/034f/28f7/d5bf40f39599/b70a9180d94b/00761365800-p/00761365800-p.jpg?ts=1757407765281&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-interlock-tecnica-p00761365.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTRUCTURA TEXTOS",
+        "imagen": "https://static.zara.net/assets/public/6f6d/8339/9316430eb577/431ca8e0d3e3/03665315430-p/03665315430-p.jpg?ts=1757596675882&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-textos-p03665315.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADO ACUARELAS",
+        "imagen": "https://static.zara.net/assets/public/0078/bec6/1e5b4b9c87ea/59201b64b30c/06224310800-p/06224310800-p.jpg?ts=1748352709992&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-acuarelas-p06224310.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK ACABADO IRREGULAR",
+        "imagen": "https://static.zara.net/assets/public/86ad/7310/33a24138afa6/4154d9d86856/04087383422-p/04087383422-p.jpg?ts=1760960623755&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-acabado-irregular-p04087383.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREW NECK ROLAND CORPORATION ©",
+        "imagen": "https://static.zara.net/assets/public/9e8e/3325/65fd465a9ea0/749aa7ec9229/04087399827-p/04087399827-p.jpg?ts=1757952870122&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crew-neck-roland-corporation---p04087399.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/da80/bbb3/e8a44ab5af45/0319019b390a/00761402807-p/00761402807-p.jpg?ts=1765364179092&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-estampado-p00761402.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK TEXTURA",
+        "imagen": "https://static.zara.net/assets/public/0064/1b24/47044bceaa54/3614578dc8a9/03443311092-p/03443311092-p.jpg?ts=1761304416339&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-textura-p03443311.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA MINNIE + MICKEY HARRY LAMBERT FOR ZARA X DISNEY",
+        "imagen": "https://static.zara.net/assets/public/ead4/956c/59cb4ae7a945/5316a0844804/04087343600-p/04087343600-p.jpg?ts=1758730391092&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-minnie-mickey-harry-lambert-for-zara-x-disney-p04087343.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREMALLERA RIB",
+        "imagen": "https://static.zara.net/assets/public/3170/1bb9/308b42c69adc/10497691778a/04442399251-p/04442399251-p.jpg?ts=1762353550614&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cremallera-rib-p04442399.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK HEAVYWEIGHT",
+        "imagen": "https://static.zara.net/assets/public/3441/9c60/31214cc8ba22/23dd530f853b/04087357800-p/04087357800-p.jpg?ts=1756909735530&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-heavyweight-p04087357.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA GRÁFICOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/94bc/f87c/2e4e4f1fb01f/b9fe79481a10/03665307401-p/03665307401-p.jpg?ts=1752593873594&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-graficos-estampados-p03665307.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/0f8f/3893/ebee4cbeb918/9c628a7ca855/00962324903-p/00962324903-p.jpg?ts=1753369802679&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-texto-estampado-p00962324.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA VIVOS CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/ea38/bdc7/77ca441299a2/f1bc2bbe9091/03665421251-p/03665421251-p.jpg?ts=1752593876154&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-vivos-contraste-p03665421.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA TEXTOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/e367/c5ad/109d4edcb940/dce277c07e4f/00495324519-p/00495324519-p.jpg?ts=1761751793794&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-textos-estampados-p00495324.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREMALLERA CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/26fb/4ba8/98c4417b85b2/678b74953456/04092360401-p/04092360401-p.jpg?ts=1755593547073&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cremallera-capucha-p04092360.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA POLO ALGODÓN - CÁÑAMO",
+        "imagen": "https://static.zara.net/assets/public/0d82/8f6d/ef214a32865a/4085a14b4205/05584335800-a3/05584335800-a3.jpg?ts=1757511344216&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-polo-algodon---canamo-p05584335.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK LAVADA",
+        "imagen": "https://static.zara.net/assets/public/95a3/f7f4/c80d4bae8b26/4564286640b3/04087338407-p/04087338407-p.jpg?ts=1755162940934&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-lavada-p04087338.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA TÉCNICA CREWNECK",
+        "imagen": "https://static.zara.net/assets/public/d665/0641/eab64ddcac00/54a7fb7655c8/08574327711-p/08574327711-p.jpg?ts=1754564141446&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-tecnica-crewneck-p08574327.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CAPUCHA ALAMARES",
+        "imagen": "https://static.zara.net/assets/public/ef01/d50c/bdca4f728acf/715314c823f1/03443308428-p/03443308428-p.jpg?ts=1761132298649&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-alamares-p03443308.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "CAMISETA BORDADO FLOR",
+        "imagen": "https://static.zara.net/assets/public/f49f/9764/3ef8420f8afb/5973f0a3d031/03992336660-p/03992336660-p.jpg?ts=1755160540933&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-bordado-flor-p03992336.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "CAMISETA ESTAMPADA LAVADA",
+        "imagen": "https://static.zara.net/assets/public/ab74/26f5/bc874629a789/cdcda01b5241/06224543406-p/06224543406-p.jpg?ts=1761728518299&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-estampada-lavada-p06224543.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA GRÁFICOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/f32f/2a0d/b5664dc79228/7c007669874c/01165415800-p/01165415800-p.jpg?ts=1747237604623&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-graficos-estampados-p01165415.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA DETALLE ABALORIO",
+        "imagen": "https://static.zara.net/assets/public/2a35/7a74/ab514c078d50/79800e768df3/05584324527-p/05584324527-p.jpg?ts=1756305106257&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-detalle-abalorio-p05584324.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREMALLERA CAPUCHA HEAVYWEIGHT",
+        "imagen": "https://static.zara.net/assets/public/91d1/f542/e1fd4146b03f/dbf355a11840/04087355800-p/04087355800-p.jpg?ts=1756909726599&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cremallera-capucha-heavyweight-p04087355.html",
+        "precio_original": "49.95€",
+        "precio_final": "24.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTRUCTURA",
+        "imagen": "https://static.zara.net/assets/public/96b2/b396/d19c414b82f3/175a554274da/04092318251-p/04092318251-p.jpg?ts=1752230560859&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-p04092318.html",
+        "precio_original": "22.95€",
+        "precio_final": "11.47€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CAPUCHA LAVADO SPRAY",
+        "imagen": "https://static.zara.net/assets/public/89c4/3753/f1c84593b6e8/105ff3bbf374/04729304406-p/04729304406-p.jpg?ts=1756738611924&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-lavado-spray-p04729304.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA BORREGUILLO CUELLO CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/acec/4057/12db4b0ca307/b78d9a6b38ee/04087389716-p/04087389716-p.jpg?ts=1764256618680&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-borreguillo-cuello-cremallera-p04087389.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/697d/da4d/846742068b66/cb08fefe2e36/00761401052-p/00761401052-p.jpg?ts=1764776821610&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-texto-estampado-p00761401.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUADERA POLO CUELLO CONTRASTE",
+        "imagen": "https://static.zara.net/assets/public/45f5/c342/4bef4f999bd8/2f71db2795d0/04092339200-p/04092339200-p.jpg?ts=1757512823488&w=710",
+        "url_producto": "https://www.zara.com/es/es/suadera-polo-cuello-contraste-p04092339.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LIGERA CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/48c2/06e5/d4004f759028/a532d607abe9/04092337592-p/04092337592-p.jpg?ts=1755593544835&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-ligera-cremallera-p04092337.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA PESPUNTES CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/0858/284c/6b1e48cfbbaf/e040b99b3514/05584380800-p/05584380800-p.jpg?ts=1764337099277&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-pespuntes-capucha-p05584380.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA JACQUARD RAYAS",
+        "imagen": "https://static.zara.net/assets/public/4369/442c/34f0425b8130/a187923ae696/04087306405-p/04087306405-p.jpg?ts=1757342611708&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-jacquard-rayas-p04087306.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA TEXTOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/e2e1/403e/f16442c79a7e/26bdcaeb0418/00495322898-p/00495322898-p.jpg?ts=1760455241602&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-textos-estampados-p00495322.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "CAMISETA GRÁFICOS LOGOS",
+        "imagen": "https://static.zara.net/assets/public/cb09/96ab/7836409a90d7/54b155b9f3c1/04374307898-p/04374307898-p.jpg?ts=1756281252837&w=710",
+        "url_producto": "https://www.zara.com/es/es/camiseta-graficos-logos-p04374307.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CAPUCHA NFL WASHINGTON COMMANDERS",
+        "imagen": "https://static.zara.net/assets/public/434d/8663/978948bc8795/2210b9746ee6/00962504600-p/00962504600-p.jpg?ts=1762245146744&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-nfl-washington-commanders-p00962504.html",
+        "precio_original": "45.95€",
+        "precio_final": "22.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTRUCTURA CORDÓN",
+        "imagen": "https://static.zara.net/assets/public/0f10/ef46/d0794c509e8a/080d807cbbd8/05372314712-p/05372314712-p.jpg?ts=1753360970579&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-cordon-p05372314.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK NFL MIAMI DOLPHINS",
+        "imagen": "https://static.zara.net/assets/public/1274/a949/e43f49268707/c955fde16fdd/00962506526-p/00962506526-p.jpg?ts=1762245150344&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-nfl-miami-dolphins-p00962506.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CUELLO CREMALLERA RIB",
+        "imagen": "https://static.zara.net/assets/public/6427/67cd/caee4989b9f7/86864516faa2/04442398717-p/04442398717-p.jpg?ts=1762270638821&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-rib-p04442398.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CAPUCHA LAVADA ENTRENAMIENTO",
+        "imagen": "https://static.zara.net/assets/public/45be/04fb/bb0c4bf6b1d3/a953dd556c59/00761375500-p/00761375500-p.jpg?ts=1764851712656&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-lavada-entrenamiento-p00761375.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA EFECTO NEOPRENO CAPUCHA ETIQUETA",
+        "imagen": "https://static.zara.net/assets/public/8469/0136/2b1e40b09984/f8f8203af737/00761328716-p/00761328716-p.jpg?ts=1754640633465&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-efecto-neopreno-capucha-etiqueta-p00761328.html",
+        "precio_original": "35.95€",
+        "precio_final": "17.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/bae2/6e82/8bd34b298416/ef49b03e78fa/06224528898-p/06224528898-p.jpg?ts=1761292368649&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampado-combinado-p06224528.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREMALLERA CAPUCHA ENTRENAMIENTO",
+        "imagen": "https://static.zara.net/assets/public/a72e/c389/f05c43558554/c0b9864c5245/00761376707-p/00761376707-p.jpg?ts=1764851776327&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cremallera-capucha-entrenamiento-p00761376.html",
+        "precio_original": "45.95€",
+        "precio_final": "22.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA PANA CUELLO CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/ce86/957f/1784419a9a7b/e7d28162b81c/06318323800-000-p/06318323800-000-p.jpg?ts=1764332266690&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-pana-cuello-cremallera-p06318323.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA INTERLOCK TÉCNICA ETIQUETA",
+        "imagen": "https://static.zara.net/assets/public/9bfe/6f06/7cc0438aa64d/ec6aa1abf291/00761377251-p/00761377251-p.jpg?ts=1754405280934&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-interlock-tecnica-etiqueta-p00761377.html",
+        "precio_original": "25.95€",
+        "precio_final": "12.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA REGULAR FIT TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/bce3/9c0d/35ff4ea18b02/a90443d4675c/06462403800-p/06462403800-p.jpg?ts=1764751234767&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-regular-fit-texto-estampado-p06462403.html",
+        "precio_original": "29.95€",
+        "precio_final": "14.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA TÉCNICA CREMALLERA CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/9093/745b/36244f40b115/69f7805334b0/08574329711-p/08574329711-p.jpg?ts=1754564189835&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-tecnica-cremallera-capucha-p08574329.html",
+        "precio_original": null,
+        "precio_final": "39.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA CREMALLERA CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/113f/d445/7099413d9033/85061f1de8c5/03443334826-p/03443334826-p.jpg?ts=1756456938293&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-cremallera-capucha-p03443334.html",
+        "precio_original": null,
+        "precio_final": "35.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CREWNECK ENTRENAMIENTO",
+        "imagen": "https://static.zara.net/assets/public/9eac/f168/7bc646dcab81/c76e7025fbe8/04231308401-p/04231308401-p.jpg?ts=1759771104114&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-crewneck-entrenamiento-p04231308.html",
+        "precio_original": null,
+        "precio_final": "35.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CUELLO CREMALLERA BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/381a/b9cb/d95d424fa6fa/76da2e91cbad/00761311251-p/00761311251-p.jpg?ts=1761212362343&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-basica-p00761311.html",
         "precio_original": null,
         "precio_final": "29.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA TÉCNICA CAPUCHA COMBINADO POLAR",
-        "imagen": "https://static.zara.net/assets/public/2437/a6d1/93904dc39805/b4c49c494a9c/04387330664-a1/04387330664-a1.jpg?ts=1768383658240&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-tecnica-capucha-combinado-polar-p04387330.html",
+        "nombre": "SUDADERA TEXTOS COMBINADOS",
+        "imagen": "https://static.zara.net/assets/public/3c2e/b87a/49e140f7b9e6/8e1f21921f5c/01165402803-p/01165402803-p.jpg?ts=1768918766810&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-textos-combinados-p01165402.html",
         "precio_original": null,
-        "precio_final": "49.95€",
+        "precio_final": "39.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CAPUCHA HEAVYWEIGHT BÁSICA",
-        "imagen": "https://static.zara.net/assets/public/dd94/14f4/35d04f31b8ff/7c748a3f80a3/00761810803-a1/00761810803-a1.jpg?ts=1766487083466&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-heavyweight-basica-p00761810.html",
+        "nombre": "SUDADERA CUELLO CREMALLERA BOLSILLO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/afc9/e233/c9e74762bb78/0caf016250da/04387332664-p/04387332664-p.jpg?ts=1768315675187&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-bolsillo-combinado-p04387332.html",
         "precio_original": null,
-        "precio_final": "29.95€",
+        "precio_final": "39.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     },
     {
         "nombre": "SUDADERA POLO CUELLO CONTRASTE",
-        "imagen": "https://static.zara.net/assets/public/4b13/94ee/10b140a6a696/12cf86392ed2/00526310066-a1/00526310066-a1.jpg?ts=1755073470429&w=326",
+        "imagen": "https://static.zara.net/assets/public/1a94/961e/5e8249fab2a9/733581f2b4d0/00526310087-p/00526310087-p.jpg?ts=1767112011095&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-polo-cuello-contraste-p00526310.html",
         "precio_original": null,
         "precio_final": "29.95€",
@@ -333,26 +909,8 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA LAVADA ESTAMPADO COMBINADO",
-        "imagen": "https://static.zara.net/assets/public/5cb7/83b6/da5e4861a92c/8b78c9e513ec/06224403691-a1/06224403691-a1.jpg?ts=1768232418702&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-estampado-combinado-p06224403.html",
-        "precio_original": null,
-        "precio_final": "39.95€",
-        "descuento": null,
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA CUELLO CREMALLERA CINTA AARON LEVINE X ZARA",
-        "imagen": "https://static.zara.net/assets/public/dec9/f55a/1ef7471d9a2e/83094dca7d71/03443374300-a1/03443374300-a1.jpg?ts=1764582855851&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-cinta-aaron-levine-x-zara-p03443374.html",
-        "precio_original": null,
-        "precio_final": "39.95€",
-        "descuento": null,
-        "categoria": "sudaderas_hombre"
-    },
-    {
         "nombre": "SUDADERA EFECTO NEOPRENO CAPUCHA",
-        "imagen": "https://static.zara.net/assets/public/53eb/c258/134c44a0b1ce/57ab895fdd09/01437360800-a1/01437360800-a1.jpg?ts=1762279232791&w=326",
+        "imagen": "https://static.zara.net/assets/public/fa80/e2ce/c60c4859b768/f9056c5bd105/01437360800-p/01437360800-p.jpg?ts=1762279232959&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-efecto-neopreno-capucha-p01437360.html",
         "precio_original": null,
         "precio_final": "49.95€",
@@ -360,17 +918,17 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CAPUCHA GRÁFICOS POST MALONE™",
-        "imagen": "https://static.zara.net/assets/public/7c7c/1565/ac7b4cdc8121/de43d62c4cc9/01277440800-a1/01277440800-a1.jpg?ts=1768496237040&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-graficos-post-malone--p01277440.html",
+        "nombre": "SUDADERA TÉCNICA CAPUCHA COMBINADO POLAR",
+        "imagen": "https://static.zara.net/assets/public/c8ad/c860/8578471dba16/ea17c22bcbaf/04387330800-p/04387330800-p.jpg?ts=1768315881859&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-tecnica-capucha-combinado-polar-p04387330.html",
         "precio_original": null,
-        "precio_final": "39.95€",
+        "precio_final": "49.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     },
     {
         "nombre": "SUDADERA CREMALLERA CAPUCHA HEAVYWEIGHT ORIGINS",
-        "imagen": "https://static.zara.net/assets/public/e4af/9dde/865d4aad944c/e28c2c82477e/04393400803-a1/04393400803-a1.jpg?ts=1768390525724&w=326",
+        "imagen": "https://static.zara.net/assets/public/bd6d/874a/73f74987987d/9202654794a9/04393400717-p/04393400717-p.jpg?ts=1768389755208&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-cremallera-capucha-heavyweight-origins-p04393400.html",
         "precio_original": null,
         "precio_final": "49.95€",
@@ -378,35 +936,53 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA HEAVYWEIGHT CREMALLERA ORIGINS",
-        "imagen": "https://static.zara.net/assets/public/05a9/09ad/d3294166b5fc/3f3032ef3cf2/04087408800-a1/04087408800-a1.jpg?ts=1768389703777&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-heavyweight-cremallera-origins-p04087408.html",
+        "nombre": "CHAQUETA CANALÉ INTERLOCK",
+        "imagen": "https://static.zara.net/assets/public/c513/72f2/bc9a4ad8917a/378d78336cf2/00526415710-p/00526415710-p.jpg?ts=1763476654479&w=710",
+        "url_producto": "https://www.zara.com/es/es/chaqueta-canale-interlock-p00526415.html",
+        "precio_original": "39.95€",
+        "precio_final": "19.97€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA LAVADA ESTAMPADO COMBINADO",
+        "imagen": "https://static.zara.net/assets/public/b8c3/edaf/e58f41fdacca/616144e47563/06224403691-p/06224403691-p.jpg?ts=1768232418498&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-estampado-combinado-p06224403.html",
         "precio_original": null,
-        "precio_final": "49.95€",
+        "precio_final": "39.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA CUELLO CREMALLERA POLARTEC ©",
-        "imagen": "https://static.zara.net/assets/public/e47b/c36f/6ab145c0821e/b2be0b72be77/04387321707-a1/04387321707-a1.jpg?ts=1762949636621&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-polartec---p04387321.html",
-        "precio_original": null,
-        "precio_final": "59.95€",
-        "descuento": null,
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA LAVADA TEXTOS ESTAMPADOS",
-        "imagen": "https://static.zara.net/assets/public/58d7/ffb0/ed2148b99a41/36cc965c5439/09144400428-a1/09144400428-a1.jpg?ts=1768389517703&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-textos-estampados-p09144400.html",
+        "nombre": "SUDADERA POLO INTERLOCK CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/9352/c9f3/21ab45c89ab3/a7b1b69a8e69/04092380401-p/04092380401-p.jpg?ts=1758102917301&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-polo-interlock-cremallera-p04092380.html",
         "precio_original": null,
         "precio_final": "29.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     },
     {
+        "nombre": "SUDADERA CAPUCHA HEAVYWEIGHT BÁSICA",
+        "imagen": "https://static.zara.net/assets/public/8807/0597/63634c9a84eb/92cfe48de422/00761810800-p/00761810800-p.jpg?ts=1766487061606&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-heavyweight-basica-p00761810.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CUELLO CREMALLERA CINTA AARON LEVINE X ZARA",
+        "imagen": "https://static.zara.net/assets/public/5b2a/d1e7/92f14a7c90d2/1b277ff555bc/03443374300-p/03443374300-p.jpg?ts=1764582856073&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-cuello-cremallera-cinta-aaron-levine-x-zara-p03443374.html",
+        "precio_original": null,
+        "precio_final": "39.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
         "nombre": "CAMISETA COMPRESIVA CUELLO CREMALLERA SKI",
-        "imagen": "https://static.zara.net/assets/public/e75d/435c/93aa479695e5/ad7cbdcaf826/04388304601-a1/04388304601-a1.jpg?ts=1763716083505&w=326",
+        "imagen": "https://static.zara.net/assets/public/26da/5541/de7c4318a1e5/b829094e84d5/04388304527-p/04388304527-p.jpg?ts=1763716083288&w=710",
         "url_producto": "https://www.zara.com/es/es/camiseta-compresiva-cuello-cremallera-ski-p04388304.html",
         "precio_original": null,
         "precio_final": "49.95€",
@@ -414,8 +990,44 @@
         "categoria": "sudaderas_hombre"
     },
     {
+        "nombre": "SUDADERA HEAVYWEIGHT CREMALLERA ORIGINS",
+        "imagen": "https://static.zara.net/assets/public/b51c/c5c5/a7924d358075/802ab80c85e8/04087408800-p/04087408800-p.jpg?ts=1768389704261&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-heavyweight-cremallera-origins-p04087408.html",
+        "precio_original": null,
+        "precio_final": "49.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTAMPADA CUELLO CREMALLERA",
+        "imagen": "https://static.zara.net/assets/public/3905/fb81/d9ea47e1b926/d3ab7df5ee1d/03665407753-p/03665407753-p.jpg?ts=1768922742388&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estampada-cuello-cremallera-p03665407.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA ESTRUCTURA TEXTO ESTAMPADO",
+        "imagen": "https://static.zara.net/assets/public/29a6/e19d/40e145d1ab9a/0d0a64f71b9c/03665405818-p/03665405818-p.jpg?ts=1768918775811&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-texto-estampado-p03665405.html",
+        "precio_original": null,
+        "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA CAPUCHA GRÁFICOS POST MALONE™",
+        "imagen": "https://static.zara.net/assets/public/436a/c1e8/314a46e78e34/aed280ef3419/01277440800-p/01277440800-p.jpg?ts=1768496238987&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-capucha-graficos-post-malone--p01277440.html",
+        "precio_original": null,
+        "precio_final": "39.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
         "nombre": "SUDADERA CAPUCHA ENTRENAMIENTO",
-        "imagen": "https://static.zara.net/assets/public/4c4c/b7fc/f25c47f0b0f4/4d0cf3b5b3a7/04231309803-a1/04231309803-a1.jpg?ts=1758284578993&w=326",
+        "imagen": "https://static.zara.net/assets/public/f870/ab79/538643a785d9/2d0e2c70cce6/04231309803-p/04231309803-p.jpg?ts=1758284578779&w=710",
         "url_producto": "https://www.zara.com/es/es/sudadera-capucha-entrenamiento-p04231309.html",
         "precio_original": null,
         "precio_final": "39.95€",
@@ -423,29 +1035,20 @@
         "categoria": "sudaderas_hombre"
     },
     {
-        "nombre": "SUDADERA ESTRUCTURA WAFFLE ESTAMPADA",
-        "imagen": "https://static.zara.net/assets/public/5d9f/e6f2/2ed74fa29d8b/cbbd560d552d/06224402251-a1/06224402251-a1.jpg?ts=1768299978051&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-estructura-waffle-estampada-p06224402.html",
-        "precio_original": null,
-        "precio_final": "39.95€",
-        "descuento": null,
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA RELAXED FIT INTERLOCK",
-        "imagen": "https://static.zara.net/assets/public/0ff4/ba81/bc8b4de2ae92/3505e7951ec5/00761490800-a1/00761490800-a1.jpg?ts=1767609359896&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-relaxed-fit-interlock-p00761490.html",
-        "precio_original": null,
-        "precio_final": "25.95€",
-        "descuento": null,
-        "categoria": "sudaderas_hombre"
-    },
-    {
-        "nombre": "SUDADERA LAVADA GRÁFICOS POST MALONE ™",
-        "imagen": "https://static.zara.net/assets/public/5656/87a5/a01545d49937/9180d916832d/01277340400-a1/01277340400-a1.jpg?ts=1768491103549&w=326",
-        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-graficos-post-malone---p01277340.html",
+        "nombre": "SUDADERA LAVADA TEXTOS ESTAMPADOS",
+        "imagen": "https://static.zara.net/assets/public/5f46/52b2/244748b295f2/dd35ca055dca/09144400428-p/09144400428-p.jpg?ts=1768389517507&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-lavada-textos-estampados-p09144400.html",
         "precio_original": null,
         "precio_final": "29.95€",
+        "descuento": null,
+        "categoria": "sudaderas_hombre"
+    },
+    {
+        "nombre": "SUDADERA POLAR SKI TEXTURA CAPUCHA",
+        "imagen": "https://static.zara.net/assets/public/24da/0751/809b4c10aef7/0590ebbb66d2/05868304615-p/05868304615-p.jpg?ts=1763716086277&w=710",
+        "url_producto": "https://www.zara.com/es/es/sudadera-polar-ski-textura-capucha-p05868304.html",
+        "precio_original": null,
+        "precio_final": "39.95€",
         "descuento": null,
         "categoria": "sudaderas_hombre"
     }

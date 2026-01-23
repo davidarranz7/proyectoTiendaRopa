@@ -1,35 +1,89 @@
 [
     {
-        "nombre": "Sudadera capucha punto soft",
-        "imagen": "https://static.pullandbear.net/assets/public/08c0/72d2/3c474ea09a50/686f7a2299f3/07560348824-A7M/07560348824-A7M.jpg?ts=1759412749325&w=885&f=auto",
+        "nombre": "Sudadera lisa cuello redondo",
+        "imagen": "https://static.pullandbear.net/assets/public/a998/fe43/9ebb40b2bc8b/1358eabc9c8b/07560403400-M/07560403400-M.jpg?ts=1756811363578&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/mujer-n6417",
-        "precio_original": "39.99€",
+        "precio_original": "35.99€",
         "precio_final": "6.89€",
-        "descuento": "-83%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha STWD",
-        "imagen": "https://static.pullandbear.net/assets/public/e1cf/0cb5/2ca04696b9e4/852e56d11dcf/07560345505-M/07560345505-M.jpg?ts=1764173673599&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-l07560345?cS=505&pelement=718906461",
-        "precio_original": "39.99€",
-        "precio_final": "19.99€",
-        "descuento": "-50%",
+        "descuento": "-81%",
         "categoria": "sudaderas_mujer"
     },
     {
         "nombre": "Sudadera lisa cuello redondo",
         "imagen": "https://static.pullandbear.net/assets/public/a998/fe43/9ebb40b2bc8b/1358eabc9c8b/07560403400-M/07560403400-M.jpg?ts=1756811363578&w=885&f=auto",
         "url_producto": "https://www.pullandbear.com/es/sudadera-lisa-cuello-redondo-l07560307?cS=400&pelement=699323625",
-        "precio_original": "19.99€",
-        "precio_final": "9.99€",
+        "precio_original": "35.99€",
+        "precio_final": "6.89€",
+        "descuento": "-81%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera texto panel",
+        "imagen": "https://static.pullandbear.net/assets/public/0849/9ee4/a41f436d9636/3819a72a1a29/07661301428-A7M/07661301428-A7M.jpg?ts=1758703834842&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-texto-panel-l07661301?cS=428&pelement=711518878",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera capucha STWD mango",
-        "imagen": "https://static.pullandbear.net/assets/public/83f1/7dbb/4b0547a2b2e0/c44cd11e0f03/07560319803-M/07560319803-M.jpg?ts=1754467633290&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-mango-l07560319?cS=803&pelement=702863364",
+        "nombre": "Sudadera rayas cuello polo",
+        "imagen": "https://static.pullandbear.net/assets/public/38ad/b2f4/4ede48e0866b/ee8d5101b67e/07560332104-M/07560332104-M.jpg?ts=1756811354814&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-rayas-cuello-polo-l07560332?cS=104&pelement=707385034",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha STWD frutas",
+        "imagen": "https://static.pullandbear.net/assets/public/03fb/a346/7cf94bedb94b/7de261077fa3/07560301805-M/07560301805-M.jpg?ts=1756811329860&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-frutas-l07560301?cS=805&pelement=707132789",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha Orange Blossom",
+        "imagen": "https://static.pullandbear.net/assets/public/2ffd/7aa3/bca44c099064/8e6c55a1eec3/0756032080200-A7M/0756032080200-A7M.jpg?ts=1752073749381&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-orange-blossom-l07560320?cS=802&pelement=699909639",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha punto soft",
+        "imagen": "https://static.pullandbear.net/assets/public/08c0/72d2/3c474ea09a50/686f7a2299f3/07560348824-A7M/07560348824-A7M.jpg?ts=1759412749325&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-punto-soft-l07560348?cS=824&pelement=712121101",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Henri Matisse",
+        "imagen": "https://static.pullandbear.net/assets/public/d941/b28c/dc7148f28218/1a1d6fd34518/07560318250-M/07560318250-M.jpg?ts=1752747984835&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-henri-matisse-l07560318?cS=250&pelement=698841853",
+        "precio_original": "35.99€",
+        "precio_final": "17.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha cremallera logo",
+        "imagen": "https://static.pullandbear.net/assets/public/6ebe/3321/cda24acfbdb3/0df605a8c41e/07560313620-M/07560313620-M.jpg?ts=1754324129847&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-logo-l07560313?cS=620&pelement=698445228",
+        "precio_original": "29.99€",
+        "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera Après Season",
+        "imagen": "https://static.pullandbear.net/assets/public/d59a/a464/9a7e42d085cf/af8cc3a1cc47/07560369805-A7M/07560369805-A7M.jpg?ts=1762435904767&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-apres-season-l07560369?cS=805&pelement=718008668",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
@@ -45,137 +99,47 @@
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera oversize costuras",
-        "imagen": "https://static.pullandbear.net/assets/public/cc40/d10b/26c0421d95b0/21ffd63218c9/07560402621-M/07560402621-M.jpg?ts=1754650457954&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-oversize-costuras-l07560306?cS=621&pelement=697465487",
-        "precio_original": "17.99€",
-        "precio_final": "8.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha bordado corazones",
-        "imagen": "https://static.pullandbear.net/assets/public/7364/a4c6/bb634f34ad12/b3378c54b6ff/0756035370000-A7M/0756035370000-A7M.jpg?ts=1761238574625&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-bordado-corazones-l07560353?cS=700&pelement=712036894",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera texto panel",
-        "imagen": "https://static.pullandbear.net/assets/public/0849/9ee4/a41f436d9636/3819a72a1a29/07661301428-A7M/07661301428-A7M.jpg?ts=1758703834842&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-texto-panel-l07661301?cS=428&pelement=711518878",
+        "nombre": "Sudadera capucha Bráulio Amado",
+        "imagen": "https://static.pullandbear.net/assets/public/01c5/855e/ca9c44ec8ba8/519e90d8affb/07560380805-A7M/07560380805-A7M.jpg?ts=1751368014504&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-braulio-amado-l07560380?cS=805&pelement=696254665",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera capucha Golden Essence",
-        "imagen": "https://static.pullandbear.net/assets/public/72cf/af89/247747d98f80/1abff96351d1/0756037340100-A7M/0756037340100-A7M.jpg?ts=1761238574907&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-golden-essence-l07560373?cS=401&pelement=717518380",
+        "nombre": "Sudadera capucha STWD mango",
+        "imagen": "https://static.pullandbear.net/assets/public/83f1/7dbb/4b0547a2b2e0/c44cd11e0f03/07560319803-M/07560319803-M.jpg?ts=1754467633290&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-mango-l07560319?cS=803&pelement=702863364",
         "precio_original": "25.99€",
         "precio_final": "12.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera capucha cremallera",
-        "imagen": "https://static.pullandbear.net/assets/public/478f/2fc2/1caf4e969ad7/f89eb2dbd72e/03594358800-M/03594358800-M.jpg?ts=1754324026054&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-l03594358?cS=800&pelement=692161699",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
+        "nombre": "Sudadera capucha punto soft",
+        "imagen": "https://static.pullandbear.net/assets/public/f4e4/9b00/483748a9aace/50cd78910898/07560412827-A7M/07560412827-A7M.jpg?ts=1759412751655&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-punto-soft-l07560348?cS=827&pelement=712121102",
+        "precio_original": "27.99€",
+        "precio_final": "13.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera gráfico weirdly",
-        "imagen": "https://static.pullandbear.net/assets/public/8e14/0e2d/ab964205aee7/fbc0a78f3c26/0756036880300-A7M/0756036880300-A7M.jpg?ts=1758794669698&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-grafico-weirdly-l07560368?cS=803&pelement=714839223",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
+        "nombre": "Sudadera oversize capucha",
+        "imagen": "https://static.pullandbear.net/assets/public/6e40/7020/8c364677b3c3/c1c9e552b9df/07560311711-M/07560311711-M.jpg?ts=1755764929551&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-oversize-capucha-l07560311?cS=711&pelement=698307865",
+        "precio_original": "22.99€",
+        "precio_final": "11.49€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
     {
-        "nombre": "Sudadera capucha gráfico oso",
-        "imagen": "https://static.pullandbear.net/assets/public/7ade/3b04/8f3a4313bf9a/8a7b45f1beff/07560362803-M/07560362803-M.jpg?ts=1762420573738&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-grafico-oso-l07560362?cS=803&pelement=713886255",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera Henri Matisse",
-        "imagen": "https://static.pullandbear.net/assets/public/d941/b28c/dc7148f28218/1a1d6fd34518/07560318250-M/07560318250-M.jpg?ts=1752747984835&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-henri-matisse-l07560318?cS=250&pelement=698841853",
-        "precio_original": "35.99€",
-        "precio_final": "17.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha STWD frutas",
-        "imagen": "https://static.pullandbear.net/assets/public/03fb/a346/7cf94bedb94b/7de261077fa3/07560301805-M/07560301805-M.jpg?ts=1756811329860&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-stwd-frutas-l07560301?cS=805&pelement=707132789",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera lavada capucha STWD by PLEASURES",
-        "imagen": "https://static.pullandbear.net/assets/public/5261/7233/cb1b431faa53/d94d4625ad3c/07560374833-A7M/07560374833-A7M.jpg?ts=1761138740060&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-lavada-capucha-stwd-by-pleasures-l07560374?cS=833&pelement=716360000",
-        "precio_original": "39.99€",
-        "precio_final": "19.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha cerezas",
-        "imagen": "https://static.pullandbear.net/assets/public/e4f3/0d08/6f5d4df3b738/6d1d71be2516/07560342803-M/07560342803-M.jpg?ts=1756306701152&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cerezas-l07560342?cS=803&pelement=707385020",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha cremallera logo",
-        "imagen": "https://static.pullandbear.net/assets/public/6ebe/3321/cda24acfbdb3/0df605a8c41e/07560313620-M/07560313620-M.jpg?ts=1754324129847&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-cremallera-logo-l07560313?cS=620&pelement=698445228",
+        "nombre": "Sudadera capucha Ski Club",
+        "imagen": "https://static.pullandbear.net/assets/public/8167/96c0/d1c64f4fbd77/a04f363db92c/07560372620-A7M/07560372620-A7M.jpg?ts=1762435907783&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-ski-club-l07560372?cS=620&pelement=719388117",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha texto",
-        "imagen": "https://static.pullandbear.net/assets/public/e1d7/3758/c0524e2e997f/e66e2813768a/0756041180500-A7M/0756041180500-A7M.jpg?ts=1756994940242&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-texto-l07560411?cS=805&pelement=708777534",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera capucha Vacation",
-        "imagen": "https://static.pullandbear.net/assets/public/e724/bbab/165543cdaccf/174135e34998/07560324812-M/07560324812-M.jpg?ts=1754322627618&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-vacation-l07560324?cS=812&pelement=701560341",
-        "precio_original": "25.99€",
-        "precio_final": "12.99€",
-        "descuento": "-50%",
-        "categoria": "sudaderas_mujer"
-    },
-    {
-        "nombre": "Sudadera gris gráfico varisty",
-        "imagen": "https://static.pullandbear.net/assets/public/46b2/2249/b2e04e298b5c/38d3066b61aa/07560329803-M/07560329803-M.jpg?ts=1755774046018&w=885&f=auto",
-        "url_producto": "https://www.pullandbear.com/es/sudadera-gris-grafico-varisty-l07560329?cS=803&pelement=707385016",
-        "precio_original": "19.99€",
-        "precio_final": "9.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     },
@@ -185,6 +149,24 @@
         "url_producto": "https://www.pullandbear.com/es/sudadera-primavera-sound-x-pb-tazas-l07013340?cS=833&pelement=698993635",
         "precio_original": "29.99€",
         "precio_final": "14.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha texto",
+        "imagen": "https://static.pullandbear.net/assets/public/aca3/6be7/f47948a886a9/ca3bae7313c7/07560309710-M/07560309710-M.jpg?ts=1752583813105&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-texto-l07560309?cS=710&pelement=693139311",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
+        "descuento": "-50%",
+        "categoria": "sudaderas_mujer"
+    },
+    {
+        "nombre": "Sudadera capucha texto",
+        "imagen": "https://static.pullandbear.net/assets/public/e94e/9ef5/c5df45e1aaa6/67cbbb712506/07560360926-M/07560360926-M.jpg?ts=1754388980906&w=885&f=auto",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-capucha-texto-l07560360?cS=926&pelement=707428632",
+        "precio_original": "25.99€",
+        "precio_final": "12.99€",
         "descuento": "-50%",
         "categoria": "sudaderas_mujer"
     }
