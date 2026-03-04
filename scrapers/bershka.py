@@ -3,193 +3,209 @@ import re
 from playwright.async_api import async_playwright
 
 
+# ==========================================
+# LIMPIAR PRECIO
+# ==========================================
+
 def limpiar_precio(texto):
-    """Extrae el precio numérico evitando pegar números de IDs cercanos."""
+
     try:
         match = re.search(r'(\d+[\.,]\d{2})', texto)
+
         if match:
-            valor = match.group(1).replace(',', '.')
-            return float(valor)
+            return float(match.group(1).replace(",", "."))
+
         return None
+
     except:
         return None
 
 
-async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
-    async with async_playwright() as p:
-        print(f"\n🚀 [BERSHKA PRO] Iniciando scraping para: {nombre_tarea}")
-        print(f"🌍 URL: {url}")
+# ==========================================
+# SCRAPER BERSHKA
+# ==========================================
 
-        browser = await p.chromium.launch(headless=False, slow_mo=300)
+async def extraer_categoria_bershka(url, nombre_tarea="desconocido"):
+
+    async with async_playwright() as p:
+
+        print("\n" + "=" * 70)
+        print("🚀 BERSHKA SCRAPER")
+        print(f"📂 Categoría: {nombre_tarea}")
+        print(f"🌍 URL: {url}")
+        print("=" * 70)
+
+        browser = await p.chromium.launch(headless=False)
+
         context = await browser.new_context(
-            viewport={"width": 1920, "height": 1080},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            viewport={"width": 1920, "height": 1080}
         )
+
         page = await context.new_page()
 
         try:
-            print(f"➡️ Entrando en Bershka...")
-            await page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
-            # --- COOKIES BERSHKA ---
+            await page.goto(url, wait_until="domcontentloaded")
+
+            # ==========================================
+            # COOKIES
+            # ==========================================
+
             try:
-                await page.wait_for_selector("#onetrust-accept-btn-handler", timeout=10000)
-                await page.click("#onetrust-accept-btn-handler", force=True)
-                print("✅ Cookies de Bershka aceptadas")
+                await page.wait_for_selector("#onetrust-accept-btn-handler", timeout=5000)
+                await page.click("#onetrust-accept-btn-handler")
+                print("🍪 Cookies aceptadas")
                 await asyncio.sleep(2)
-            except Exception as e:
-                print(f"⚠️ No se pudieron aceptar cookies automáticamente → {e}")
+            except:
+                pass
 
-            print("\n🚜 Iniciando recolección profunda de productos...\n")
-
-            productos_lista = []
+            productos = []
             vistos = set()
-            intentos_sin_nuevos = 0
+
+            scroll_intentos = 0
+            scroll_max = 10
             vuelta = 0
 
-            # ============================================================
-            # 🟦 BUCLE PRINCIPAL DE SCROLL PROFUNDO
-            # ============================================================
-
             while True:
+
                 vuelta += 1
-                print("\n" + "=" * 80)
-                print(f"🔄 VUELTA DE SCROLL #{vuelta}")
-                print("=" * 80)
 
-                elementos = await page.query_selector_all(
-                    "article, div[class*='product'], div[class*='Product']"
-                )
+                print("\n" + "-" * 60)
+                print(f"🔄 SCROLL #{vuelta}")
+                print("-" * 60)
 
-                print(f"🧩 Elementos detectados en DOM: {len(elementos)}")
+                # ==========================================
+                # PRODUCTOS
+                # ==========================================
 
-                nuevos_en_esta_vuelta = 0
+                items = await page.query_selector_all("div[data-testid='product-card']")
 
-                for el in elementos:
+                print(f"🧩 Productos detectados: {len(items)}")
+
+                nuevos = 0
+
+                for item in items:
+
                     try:
-                        # -------------------------------
+
+                        # ==========================
                         # NOMBRE
-                        # -------------------------------
-                        nombre_el = await el.query_selector("h2, .product-text, .name, [class*='name']")
+                        # ==========================
+
+                        nombre_el = await item.query_selector("[data-testid='product-name']")
+
                         if not nombre_el:
                             continue
 
                         nombre = (await nombre_el.inner_text()).strip()
-                        if len(nombre) < 5:
-                            continue
 
-                        # -------------------------------
+                        # ==========================
                         # LINK
-                        # -------------------------------
-                        link_el = await el.query_selector("a")
-                        href = await link_el.get_attribute("href") if link_el else None
+                        # ==========================
+
+                        link_el = await item.query_selector("a")
+
+                        href = await link_el.get_attribute("href")
+
                         if not href:
                             continue
 
-                        url_producto = href if href.startswith("http") else f"https://www.bershka.com{href}"
+                        if not href.startswith("http"):
+                            href = "https://www.bershka.com" + href
 
-                        # Clave única real
-                        clave = f"{nombre}|{url_producto}"
+                        clave = f"{nombre}|{href}"
+
                         if clave in vistos:
                             continue
 
-                        # -------------------------------
-                        # PRECIOS
-                        # -------------------------------
-                        nodos_precio = await el.query_selector_all("[class*='price'], [class*='Price'], span")
-                        valores_numericos = []
+                        # ==========================
+                        # PRECIO
+                        # ==========================
 
-                        for p_el in nodos_precio:
-                            t = await p_el.inner_text()
-                            if "€" in t:
-                                val = limpiar_precio(t)
-                                if val:
-                                    valores_numericos.append(val)
+                        precio_el = await item.query_selector("[data-testid='product-price']")
 
-                        valores_numericos = list(dict.fromkeys(valores_numericos))
+                        if not precio_el:
+                            continue
 
-                        precio_original = None
-                        precio_final = None
-                        descuento_txt = None
+                        precio_texto = await precio_el.inner_text()
 
-                        if len(valores_numericos) == 1:
-                            precio_final = valores_numericos[0]
-                        elif len(valores_numericos) >= 2:
-                            val_max = max(valores_numericos)
-                            val_min = min(valores_numericos)
-
-                            # Filtro anti-ID pegado (regla x6)
-                            if val_max > (val_min * 6):
-                                precio_final = val_min
-                            else:
-                                precio_original = val_max
-                                precio_final = val_min
-                                pct = round(((precio_original - precio_final) / precio_original) * 100)
-                                descuento_txt = f"-{pct}%"
+                        precio_final = limpiar_precio(precio_texto)
 
                         if not precio_final:
                             continue
 
-                        # -------------------------------
-                        # IMAGEN (FORZAMOS CARGA)
-                        # -------------------------------
-                        await el.scroll_into_view_if_needed()
-                        await asyncio.sleep(0.3)
+                        # ==========================
+                        # IMAGEN
+                        # ==========================
 
-                        img_el = await el.query_selector("img")
-                        imagen = await img_el.get_attribute("src") if img_el else None
+                        img = await item.query_selector("img")
+
+                        imagen = await img.get_attribute("src")
+
+                        if not imagen:
+                            imagen = await img.get_attribute("data-src")
 
                         if not imagen:
                             continue
 
-                        # -------------------------------
-                        # GUARDAR PRODUCTO
-                        # -------------------------------
-                        productos_lista.append({
+                        # ==========================
+                        # GUARDAR
+                        # ==========================
+
+                        producto = {
                             "nombre": nombre,
                             "imagen": imagen,
-                            "url_producto": url_producto,
-                            "precio_original": f"{precio_original:.2f}€" if precio_original else None,
+                            "url_producto": href,
+                            "precio_original": None,
                             "precio_final": f"{precio_final:.2f}€",
-                            "descuento": descuento_txt,
+                            "descuento": None,
                             "categoria": nombre_tarea
-                        })
+                        }
+
+                        productos.append(producto)
 
                         vistos.add(clave)
-                        nuevos_en_esta_vuelta += 1
 
-                        print(f"📦 [{len(productos_lista)}] {nombre[:30]} | {precio_final}€")
+                        nuevos += 1
+
+                        print(f"📦 {len(productos)} | {nombre[:35]} | {precio_final}€")
 
                     except:
                         continue
 
-                # ============================================================
-                # 🔥 CONTROL REAL DE FINAL DE PÁGINA (MEJORADO)
-                # ============================================================
+                # ==========================================
+                # CONTROL FIN
+                # ==========================================
 
-                if nuevos_en_esta_vuelta == 0:
-                    intentos_sin_nuevos += 1
-                    print(f"⚠️ Sin nuevos productos ({intentos_sin_nuevos}/10)")
+                if nuevos == 0:
+
+                    scroll_intentos += 1
+                    print(f"⚠ Sin nuevos productos ({scroll_intentos}/{scroll_max})")
+
                 else:
-                    intentos_sin_nuevos = 0
 
-                # Scroll profundo humano
-                await page.evaluate("window.scrollBy(0, 1200)")
-                await asyncio.sleep(3.5)
+                    scroll_intentos = 0
 
-                # FINAL REAL
-                if intentos_sin_nuevos >= 10:
-                    print("\n🛑 FINAL REAL DE BERSHKA ALCANZADO")
+                await page.mouse.wheel(0, 2500)
+                await asyncio.sleep(3)
+
+                if scroll_intentos >= scroll_max:
+
+                    print("\n🛑 FIN DE LISTADO")
                     break
 
-            print("\n" + "=" * 90)
-            print(f"🏆 FINALIZADO BERSHKA PRO: {len(productos_lista)} productos reales totales")
-            print("=" * 90)
+            print("\n" + "=" * 70)
+            print(f"🏆 TOTAL PRODUCTOS: {len(productos)}")
+            print("=" * 70)
 
             await browser.close()
-            return productos_lista
+
+            return productos
 
         except Exception as e:
-            print(f"❌ ERROR GRAVE EN BERSHKA: {e}")
+
+            print(f"❌ ERROR BERSHKA: {e}")
+
             await browser.close()
+
             return []
