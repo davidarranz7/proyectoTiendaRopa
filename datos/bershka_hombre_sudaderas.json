@@ -1,0 +1,524 @@
+[
+    {
+        "nombre": "Camiseta felpa manga corta print - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/080e/142b/f5224beb96d0/145224d66000/01703538800-p/01703538800-p.jpg?ts=1768816556961&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-felpa-manga-corta-print-c0p210077539.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha cropped print - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/e4b0/a903/4f3b4a99b93c/9290ea69f444/01199732802-p/01199732802-p.jpg?ts=1770109860198&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-cropped-print-c0p215063992.html?colorId=802&stylismId=1",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Polo manga larga boxy print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/420f/47cb/588c4235b937/ddad10a5a668/01074003401-p/01074003401-p.jpg?ts=1769070279585&w=850",
+        "url_producto": "https://www.bershka.com/es/polo-manga-larga-boxy-print-c0p205492583.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/cf01/a459/8a64483b96fd/8237b14819ac/00919478251-p/00919478251-p.jpg?ts=1764666652742&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p209042512.html?colorId=251&stylismId=1",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/a519/1c21/62ea4d92af3f/e8cb15700255/00919478594-p/00919478594-p.jpg?ts=1764666691581&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p204283050.html?colorId=594",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/cded/b9bd/42c64dc68069/627620a66bdf/07369190812-p/07369190812-p.jpg?ts=1766408059832&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-c0p209138922.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/1734/66fe/ae7a478682a5/0fd5bb1a4878/07429741122-p/07429741122-p.jpg?ts=1768466249982&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-print-c0p205631024.html?colorId=122",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa rib - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/bdac/ebeb/9b034218b0cf/28fb4249a070/00903190251-p/00903190251-p.jpg?ts=1768471822668&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-rib-c0p206215741.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera boxy print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/ee2a/fb22/f3be4102aa9f/17035752de35/01520732810-p/01520732810-p.jpg?ts=1772440770705&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-print-c0p209580882.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa rib - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/f545/3c84/6eea418f9141/9dc007c5dda9/00903190800-p/00903190800-p.jpg?ts=1768471822458&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-rib-c0p206215738.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/5f5a/244e/26d44863ba6c/2ce074698976/00947732401-p/00947732401-p.jpg?ts=1769070188397&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p206640517.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha print - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/ef95/bdf1/b5e54191a79b/2b9d04eedac4/07427190818-p/07427190818-p.jpg?ts=1764665918264&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-print-c0p209042484.html?colorId=818&stylismId=1",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha cropped print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/e4b0/a903/4f3b4a99b93c/9290ea69f444/01199732802-p/01199732802-p.jpg?ts=1770109860198&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-cropped-print-c0p208451573.html?colorId=802",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Chaqueta técnica print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/13e0/853c/9b4443b7820b/b63b7e6375b2/01576732700-p/01576732700-p.jpg?ts=1772547243435&w=850",
+        "url_producto": "https://www.bershka.com/es/chaqueta-t%C3%A9cnica-print-c0p210270006.html?colorId=700",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Jersey felpa cuello redondo rayas - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/47ea/b23c/61044cc5b12e/dfa177e40fd2/01389538401-p/01389538401-p.jpg?ts=1770732284741&w=850",
+        "url_producto": "https://www.bershka.com/es/jersey-felpa-cuello-redondo-rayas-c0p210535424.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera Cars capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8d36/0173/ecb14da3a056/f6afba21e48f/07428071800-p/07428071800-p.jpg?ts=1771593770611&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cars-capucha-print-c0p209139144.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera boxy capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/763b/5a39/fc5142f49fc8/f1874aa8b51d/07368732810-p/07368732810-p.jpg?ts=1766410901404&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-c0p209138858.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha print - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/12f8/ff60/8116490b881b/95d43317884c/00947732401-01-p/00947732401-01-p.jpg?ts=1769095725733&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p213616541.html?colorId=401&stylismId=1",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/1a1e/1411/bf34499ea40a/12d577abe19f/07369190250-p/07369190250-p.jpg?ts=1766407930943&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-c0p209138924.html?colorId=250",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa rib - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/683b/2cb6/e39b46888dc0/a9dc41160c1a/00903190717-p/00903190717-p.jpg?ts=1768473783447&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-rib-c0p206215740.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera boxy crop - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/a7f7/64ab/e3bc41898e85/8742612a4646/07045732810-p/07045732810-p.jpg?ts=1766414098993&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-crop-c0p209138954.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "20.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta felpa print - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/89fa/568b/f2884519acee/96ec3833b2ae/00922190323-p/00922190323-p.jpg?ts=1772547582911&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-felpa-print-c0p205631010.html?colorId=323",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera boxy bordado - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/f475/ae91/455441d99dcc/fdbd60267086/01304190805-p/01304190805-p.jpg?ts=1771581054062&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-bordado-c0p209580885.html?colorId=805",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera Cars capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/401d/6e3a/55c844eb9942/8e806cf229cf/07428033812-p/07428033812-p.jpg?ts=1771593770969&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cars-capucha-print-c0p209139145.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/07f4/bd65/fc934b8c9443/89985633107a/01075190818-p/01075190818-p.jpg?ts=1771581053887&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-print-c0p209031813.html?colorId=818",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha efecto neopreno - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/5c5f/e79e/a92d4f4abbc3/8b7d5584d8c7/00847741812-01-p/00847741812-01-p.jpg?ts=1770284761582&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-efecto-neopreno-c0p216376203.html?colorId=812&stylismId=1",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera boxy capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/4185/a988/b05d49768d4e/23103988f3a3/07368732627-p/07368732627-p.jpg?ts=1766410713657&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-c0p209138860.html?colorId=627",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha efecto neopreno - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/96fb/5eb3/1fa44fc9b766/19a9bb017b65/00847741800-p/00847741800-p.jpg?ts=1764685148735&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-efecto-neopreno-c0p204272669.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/687d/a194/b18a4f32ad04/4797cf0afbaf/07043190812-21-p/07043190812-21-p.jpg?ts=1772450459531&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-c0p217315243.html?colorId=812&stylismId=21",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/70e3/10e7/23d44d31a719/5b8620f7e8c6/07043732800-p/07043732800-p.jpg?ts=1766412935656&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-c0p209138874.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/ef95/bdf1/b5e54191a79b/2b9d04eedac4/07427190818-p/07427190818-p.jpg?ts=1764665918264&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-print-c0p204066887.html?colorId=818",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/9832/fe81/4b3b405d8626/9c5deeb1ccbc/07043190812-01-p/07043190812-01-p.jpg?ts=1766411414793&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-c0p209442139.html?colorId=812&stylismId=1",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8748/4948/fe0a425292f5/be2dbc9bc327/00919478800-p/00919478800-p.jpg?ts=1764666755090&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p204283051.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera boxy bordado - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b492/cc87/49454bdaa167/089fd037922b/07424732711-p/07424732711-p.jpg?ts=1765467263544&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-bordado-c0p204067050.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera boxy capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/f743/afb8/aff04b7abd46/138d172e8f2f/07368732803-p/07368732803-p.jpg?ts=1766410829245&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-c0p209138861.html?colorId=803",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/c91c/b13b/c3af4edeba9c/909f3cd7fb06/07429741800-p/07429741800-p.jpg?ts=1768466218600&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-print-c0p204937272.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/376b/2ad7/a4cd47f28c06/04edb0bc7b03/01275732802-p/01275732802-p.jpg?ts=1771933788734&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p209012212.html?colorId=802",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta felpa manga corta print - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/1483/66a1/d8614460bb62/59b2a0e0e65b/01703538711-p/01703538711-p.jpg?ts=1768816575309&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-felpa-manga-corta-print-c0p210077538.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera Spiderman - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/bc6f/d61c/1228402b83e0/e6080eb5a8a1/01259190810-p/01259190810-p.jpg?ts=1772115273610&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-spiderman-c0p209030723.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera boxy capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/5a25/bf9e/a687454a8d52/655d2966903c/07368732627-01-p/07368732627-01-p.jpg?ts=1766410718706&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-c0p209484549.html?colorId=627&stylismId=1",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Polo manga larga boxy print - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/3548/9904/bdd942f4b1a9/37f5262d9e76/01074003401-21-p/01074003401-21-p.jpg?ts=1770895132822&w=850",
+        "url_producto": "https://www.bershka.com/es/polo-manga-larga-boxy-print-c0p216376300.html?colorId=401&stylismId=21",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa print - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/6d74/1067/a22d4bb0832f/576dad700dd3/00946732800-p/00946732800-p.jpg?ts=1770289679774&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-print-c0p205631031.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa print - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/7b92/fa58/b1984820ae96/a9d33858bd14/01404732400-p/01404732400-p.jpg?ts=1771429534086&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-print-c0p209007230.html?colorId=400",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa rib - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b109/d1bb/d52441d0b71f/9fd20b029c5d/00903190802-p/00903190802-p.jpg?ts=1768471823330&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-rib-c0p206215739.html?colorId=802",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2326/04b6/06574b8b8788/42299f5324d5/07369190800-p/07369190800-p.jpg?ts=1766408598046&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-c0p209138921.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Chaqueta cremallera boxy print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/062d/319c/a39640dda1cb/75815ffef176/00951732810-p/00951732810-p.jpg?ts=1768465919832&w=850",
+        "url_producto": "https://www.bershka.com/es/chaqueta-cremallera-boxy-print-c0p205631037.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera boxy print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/659d/04ab/c75946a78825/9e57f13a85b4/01520732805-p/01520732805-p.jpg?ts=1772440770083&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-print-c0p209580883.html?colorId=805",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/71a1/057b/f24e4fcf98cb/005db6112cbb/07050498800-p/07050498800-p.jpg?ts=1759994579507&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-print-c0p209139143.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera print - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/75ab/e60f/a05f4a8888c4/d01af53e1851/07429741122-21-p/07429741122-21-p.jpg?ts=1770893778820&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-print-c0p217315640.html?colorId=122&stylismId=21",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta felpa print - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/34df/25b8/6bec42b192c3/2385e1febce5/00922190802-p/00922190802-p.jpg?ts=1772554172094&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-felpa-print-c0p205631012.html?colorId=802",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera boxy crop - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/e4ee/d1a7/1ac6480f9a7c/45a73206f1ea/07045732810-21-a9o/07045732810-21-a9o.jpg?ts=1757505705987&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-boxy-crop-c0p209484712.html?colorId=810&stylismId=21",
+        "precio_original": null,
+        "precio_final": "20.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Jersey cuello polo print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8d65/6a11/a58548caa776/4bd71f9756b2/00927094810-p/00927094810-p.jpg?ts=1771579749653&w=850",
+        "url_producto": "https://www.bershka.com/es/jersey-cuello-polo-print-c0p204937266.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha efecto neopreno - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/98bb/4e6f/3dae42bfae04/737aa9367ab5/00847741812-p/00847741812-p.jpg?ts=1764684840868&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-efecto-neopreno-c0p204272670.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera capucha print - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/be24/c9f3/35ed4cc3b91f/731501cbf9ec/07386696818-p/07386696818-p.jpg?ts=1754909129531&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-capucha-print-c0p209138975.html?colorId=818",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Camiseta manga corta felpa - Camisetas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/cf01/a459/8a64483b96fd/8237b14819ac/00919478251-p/00919478251-p.jpg?ts=1764666652742&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-felpa-c0p204283052.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/e4df/f1bc/1bff4996bc56/cf1944eb3612/07043190812-p/07043190812-p.jpg?ts=1766411405420&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-c0p209138876.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera cremallera capucha efecto neopreno - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b7e0/1fe5/abbd4520a11f/de07a14e5682/00847741800-01-p/00847741800-01-p.jpg?ts=1770284756698&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-cremallera-capucha-efecto-neopreno-c0p216376713.html?colorId=800&stylismId=1",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    },
+    {
+        "nombre": "Sudadera boxy capucha bordado - Sudaderas - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/936e/f547/c3ad40ffaa08/1c58fac2a4b2/01064498400-p/01064498400-p.jpg?ts=1770732267582&w=850",
+        "url_producto": "https://www.bershka.com/es/sudadera-boxy-capucha-bordado-c0p207810776.html?colorId=400",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_sudaderas"
+    }
+]

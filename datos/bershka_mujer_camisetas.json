@@ -1,0 +1,362 @@
+[
+    {
+        "nombre": "Camiseta manga corta sport print - #bershkastyle - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/cdf0/210f/b3ec4ea5835b/c48552074355/01021152200-28-p1/01021152200-28-p1.jpg?ts=1770900665839&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-sport-print-c0p216376742.html?colorId=200&stylismId=28",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta asimétrica print - COMBO WINS % - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/018b/4400/bc4540f6b007/ae8a85ccad23/01341360300-a4o/01341360300-a4o.jpg?ts=1772193388384&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-asim%C3%A9trica-print-c0p215435561.html?colorId=300",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/6b02/39fd/d94e407484af/c4e4733fe6fd/07802093800-p/07802093800-p.jpg?ts=1754650481617&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-c0p209132521.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "8.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta sport print - #bershkastyle - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/d36a/bd92/e44043b7a9d0/da36cc69ff44/01021152500-28-p/01021152500-28-p.jpg?ts=1770223126112&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-sport-print-c0p216376241.html?colorId=500&stylismId=28",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/31f7/32cf/95254a669c6f/9a2495ac5eb8/07547443712-p/07547443712-p.jpg?ts=1762167260919&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-print-c0p209128235.html?colorId=712",
+        "precio_original": null,
+        "precio_final": "15.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta asimétrica print - COMBO WINS % - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/de8c/6b06/09e84104a26b/6ea0bd939a64/01341360700-p/01341360700-p.jpg?ts=1772550606824&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-asim%C3%A9trica-print-c0p215435562.html?colorId=700",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta sport print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/520f/5dd0/d3eb49c4aead/0d305afce1b0/01021152500-p/01021152500-p.jpg?ts=1768314523482&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-sport-print-c0p206678357.html?colorId=500",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/8281/2d65/fc294c6eb9f6/8626125b3619/07802093462-p/07802093462-p.jpg?ts=1753785034493&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-c0p209132519.html?colorId=462",
+        "precio_original": null,
+        "precio_final": "8.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga - #bershkastyle - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/8627/0319/10e846bbbc1a/c4f5073c25e4/07802152800-28-p/07802152800-28-p.jpg?ts=1760026373626&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-c0p209484590.html?colorId=800&stylismId=28",
+        "precio_original": null,
+        "precio_final": "8.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta sport print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/cd2f/3821/7c52461283fe/3f3594048963/01021152200-p/01021152200-p.jpg?ts=1768318687234&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-sport-print-c0p206678356.html?colorId=200",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga fruncido - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/a527/39c5/2fb740ac9da4/83080b598b5d/07601714800-p/07601714800-p.jpg?ts=1767088843108&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-fruncido-c0p209128239.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/e399/1d95/9b284a8cba09/e9f7a639029e/02666252606-p/02666252606-p.jpg?ts=1769071966841&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121296.html?colorId=606",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/ab3c/1513/a88448a8b3b1/81afde5be1d3/02666252663-p/02666252663-p.jpg?ts=1769085963806&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121287.html?colorId=663",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/f434/8cc0/368b4b509427/cbfd593568a7/07802152251-28-p/07802152251-28-p.jpg?ts=1770897615199&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-c0p209485326.html?colorId=251&stylismId=28",
+        "precio_original": null,
+        "precio_final": "8.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/9d7d/939b/c6ae400d9b7c/9eae2223bef9/02666252273-p/02666252273-p.jpg?ts=1769085924934&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121285.html?colorId=273",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga oversize print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/a5fd/474c/7bab4a53b9e7/26ad5a216928/00988033605-p/00988033605-p.jpg?ts=1763978526681&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-oversize-print-c0p205248251.html?colorId=605",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Jersey capucha cruzado print - #bershkastyle - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/e062/f6a6/5a6c4f18a6a8/5d9dd3625cd2/01545326812-p1/01545326812-p1.jpg?ts=1770987652110&w=850",
+        "url_producto": "https://www.bershka.com/es/jersey-capucha-cruzado-print-c0p210677234.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta asimétrica print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/8243/06d5/247d4f91ae2a/2f1ae85f66e9/01341360250-p/01341360250-p.jpg?ts=1768217675285&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-asim%C3%A9trica-print-c0p208851266.html?colorId=250",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/9e3c/6571/2cb14f8ba204/4b080ba2324a/02666252251-p/02666252251-p.jpg?ts=1769073201664&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121284.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga oversize print - #bershkastyle - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/523f/af31/79684777b5ad/459a1cba5fa5/00988033300-28-p/00988033300-28-p.jpg?ts=1768564629641&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-oversize-print-c0p211378908.html?colorId=300&stylismId=28",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga oversize print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/ae19/b654/908745138ce4/3fa0918beddc/00988033300-p/00988033300-p.jpg?ts=1763978526823&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-oversize-print-c0p205248249.html?colorId=300",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta Selena Gomez manga corta print - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/c53e/3284/e37d40c2afba/1f0b096427ee/01782160906-a4o/01782160906-a4o.jpg?ts=1772200762142&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-selena-gomez-manga-corta-print-c0p215364778.html?colorId=906",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga oversize print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/9e98/024a/234c498fbbe6/c87b96bd9231/00988033800-p/00988033800-p.jpg?ts=1763980944229&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-oversize-print-c0p205248250.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/8692/11c2/c8d445d1b9af/2d04b4d0d312/02666152462-p/02666152462-p.jpg?ts=1769441518077&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121286.html?colorId=462",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/fd4c/82dc/d6a540849642/997236e47033/02666152800-02-p/02666152800-02-p.jpg?ts=1769444100775&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p213616139.html?colorId=800&stylismId=2",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/adc4/3ea2/89ee42c785ca/4b77c905bec3/07802093251-p/07802093251-p.jpg?ts=1753343603122&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-c0p209132527.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "8.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/cff2/40f1/ed9749969f08/8d1bc7dabbaf/02666252800-p/02666252800-p.jpg?ts=1769085933148&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121291.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga asimétrica - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/d0f1/ae7c/52f64904b2f0/5b92823639b0/07545360060-p/07545360060-p.jpg?ts=1768564718225&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-asim%C3%A9trica-c0p209121326.html?colorId=060",
+        "precio_original": null,
+        "precio_final": "15.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/ce0e/896b/dfb342b1bbc1/5d9b2a086979/02666252600-p/02666252600-p.jpg?ts=1769085936744&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121290.html?colorId=600",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/2394/ceb6/4ebd47c5b350/8ffb77e53000/07802152829-p/07802152829-p.jpg?ts=1764861476347&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-c0p209132528.html?colorId=829",
+        "precio_original": null,
+        "precio_final": "8.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/02e2/510a/0a8b442f91c1/7eafc543dfd8/02666252279-p/02666252279-p.jpg?ts=1769073340303&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121289.html?colorId=279",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta Namasenda manga corta sport - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/5bdd/7b86/675b46759a4c/00c58cf338a1/01612033512-p/01612033512-p.jpg?ts=1772544930113&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-namasenda-manga-corta-sport-c0p211529178.html?colorId=512",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/940c/9d18/749843de83fc/f8a094483ce6/07547443605-p/07547443605-p.jpg?ts=1762167251477&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-print-c0p209128236.html?colorId=605",
+        "precio_original": null,
+        "precio_final": "15.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga fruncido - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/415f/1cf7/75154535beb2/1f81655fe334/07601714717-p/07601714717-p.jpg?ts=1760346930815&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-larga-fruncido-c0p209128240.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/9799/56ff/c61c48298071/3d95b5b22d93/02666206812-p/02666206812-p.jpg?ts=1769085916662&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209121295.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta Michael Scott The Office manga corta print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/a320/d9a6/004049aab093/c58c41d8972e/01470256251-p/01470256251-p.jpg?ts=1769069260851&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-michael-scott-the-office-manga-corta-print-c0p210686115.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "15.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta Cardi B. manga corta print - MONTAJE BSKSTYLE - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/3fc5/5976/e9d44ec5affb/f6757f0139f4/01637583251-p/01637583251-p.jpg?ts=1772547172677&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-cardi-b.-manga-corta-print-c0p215364777.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta cuello redondo - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/99a4/6a40/695542e093cf/5897c126eb14/02666152812-28-p/02666152812-28-p.jpg?ts=1772019097681&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-cuello-redondo-c0p209485336.html?colorId=812&stylismId=28",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta asimétrica print - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/0338/a5ad/8c124b0abfa3/99b9e322d96d/01341360800-p/01341360800-p.jpg?ts=1768296509300&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-manga-corta-asim%C3%A9trica-print-c0p208851265.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    },
+    {
+        "nombre": "Camiseta tirantes básica rib - Camisetas - Mujer",
+        "imagen": "https://static.bershka.net/assets/public/88a1/2104/f188447fb60d/bb18c2046d08/01030134251-p/01030134251-p.jpg?ts=1769097683888&w=850",
+        "url_producto": "https://www.bershka.com/es/camiseta-tirantes-b%C3%A1sica-rib-c0p206583298.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "5.99€",
+        "descuento": null,
+        "categoria": "mujer_camisetas"
+    }
+]

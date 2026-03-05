@@ -1,0 +1,776 @@
+[
+    {
+        "nombre": "Camiseta manga larga STWD - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/502/612/3230502612_2_7_1.jpg?t=1770645874725",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-stwd-l03230502",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Cars Rayo McQueen - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/908/250/3230908250_4_1_1.jpg?t=1771511532518",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-cars-rayo-mcqueen-l03230908",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Hellfire Lives Stranger Things - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/521/803/3230521803_2_3_1.jpg?t=1766995855386",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-hellfire-lives-stranger-things-l03230521",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta básica - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7560/500/730/7560500730_4_1_1.jpg?t=1770386203034",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-basica-l07560500",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga raglán - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/510/717/3230510717_2_7_1.jpg?t=1765806878065",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-raglan-l03230510",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta tank rib - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3248/502/250/3248502250_2_1_1.jpg?t=1739437614088",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-tank-rib-l03248502",
+        "precio_original": null,
+        "precio_final": "9.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Sakamoto Days - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/769/712/3230769712_4_1_1.jpg?t=1770385013877",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-sakamoto-days-l03230769",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta contraste - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/712/251/3230712251_4_1_1.jpg?t=1765442878599",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-corta-contraste-l03230712",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta gráfico autobús - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/529/251/3230529251_2_7_1.jpg?t=1769426231644",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-autobus-l03230529",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta hockey STWD paneles - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/755/400/7152755400_4_1_1.jpg?t=1763394184644",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-hockey-stwd-paneles-l07152755",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta 21 Savage manga doble - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/917/922/3230917922_2_7_1.jpg?t=1764765258287",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-21-savage-manga-doble-l03230917",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Hellfire Lives Stranger Things - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/1/p/3230/350/803/3230350803_2_3_1.jpg?t=1766995940251",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-hellfire-lives-stranger-things-l03230350",
+        "precio_original": null,
+        "precio_final": "15.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Outfielders manga corta - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/530/251/3230530251_2_7_1.jpg?t=1772036769770",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-outfielders-manga-corta-l03230530",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta interlock gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/744/711/3230744711_4_1_1.jpg?t=1762271682768",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-interlock-grafico-l03230744",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta zorro - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/789/251/3230789251_4_1_1.jpg?t=1772017903054",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-zorro-l03230789",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta boxy logo STWD - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3232/500/606/3232500606_2_7_1.jpg?t=1769420175497",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-boxy-logo-stwd-l03232500",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta básica manga corta algodón - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/8242/500/250/8242500250_4_1_1.jpg?t=1754305897785",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-basica-manga-corta-algodon-l08242500",
+        "precio_original": null,
+        "precio_final": "7.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Stranger Things HNL - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/916/922/3230916922_2_7_1.jpg?t=1764754299384",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stranger-things-hnl-l03230916",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta Gioconda - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/716/730/3231716730_4_1_1.jpg?t=1770655563698",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-gioconda-l03231716",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga raglán Visitors - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/774/600/3230774600_4_1_1.jpg?t=1771321044084",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-raglan-visitors-l03230774",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta Cars - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/798/800/3230798800_4_1_1.jpg?t=1771945047956",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-cars-l03230798",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta interlock - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/503/251/3231503251_4_1_1.jpg?t=1770632945306",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-interlock-l03231503",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Ford rayas - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/506/700/3230506700_2_7_1.jpg?t=1764777830327",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ford-rayas-l03230506",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta boxy - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3248/501/250/3248501250_4_1_1.jpg?t=1770891579417",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-boxy-l03248501",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta ciudades - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3232/700/800/3232700800_4_1_1.jpg?t=1765472388068",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-corta-ciudades-l03232700",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta rayas manga larga - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/527/403/3230527403_2_7_1.jpg?t=1768897537680",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-rayas-manga-larga-l03230527",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta doble manga gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/558/711/7152558711_4_1_1.jpg?t=1763553160073",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-manga-grafico-l07152558",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD degradado - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/958/711/7152958711_2_7_1.jpg?t=1764329338350",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-degradado-l07152958",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Cars - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/548/800/3230548800_2_7_1.jpg?t=1771593917391",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-cars-l03230548",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta técnica caballos - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/726/600/3230726600_4_1_1.jpg?t=1765442957010",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-tecnica-caballos-l03230726",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga STWD - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/532/305/3230532305_2_7_1.jpg?t=1772104036412",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-stwd-l03230532",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta NFL Philadelphia Eagles - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3248/916/802/3248916802_4_1_1.jpg?t=1769437886751",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-nfl-philadelphia-eagles-l03248916",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta fútbol Toy Story - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/779/700/3230779700_4_1_1.jpg?t=1767959298498",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-toy-story-l03230779",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta premium - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/501/600/3231501600_4_1_1.jpg?t=1772017921807",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-corta-premium-l03231501",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD ositos gominola - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/501/251/3230501251_2_7_1.jpg?t=1770633097789",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-ositos-gominola-l03230501",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta rayas manga larga - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/596/620/7152596620_2_7_1.jpg?t=1762247457853",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-rayas-manga-larga-l07152596",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta AC/DC - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3550/716/251/3550716251_4_1_1.jpg?t=1764173335194",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-acdc-l03550716",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta fotografía - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/712/800/3231712800_4_1_1.jpg?t=1770973330822",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-fotografia-l03231712",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta loose fit - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/507/251/3231507251_2_7_1.jpg?t=1771326418053",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-loose-fit-l03231507",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Ford Bronco - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/907/803/3230907803_4_1_1.jpg?t=1763553058427",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ford-bronco-l03230907",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga rayas - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/586/802/7152586802_4_1_1.jpg?t=1763984302567",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-rayas-l07152586",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Bayside Port - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/511/251/3230511251_2_7_1.jpg?t=1767610639420",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-bayside-port-l03230511",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/520/711/3231520711_4_1_1.jpg?t=1770905560256",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-grafico-l03231520",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta blanca gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/740/251/3230740251_4_1_1.jpg?t=1768495039231",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-blanca-grafico-l03230740",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga Dan Da Dan - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/918/982/3230918982_2_7_1.jpg?t=1765809523874",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-dan-da-dan-l03230918",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta muscle fit - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/9247/599/250/9247599250_2_1_1.jpg?t=1742921056833",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-muscle-fit-l09247599",
+        "precio_original": null,
+        "precio_final": "7.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta lazada Karoline Vitto - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3232/599/819/3232599819_4_1_1.jpg?t=1771260632616",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-lazada-karoline-vitto-l03232599",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta capucha Sakamoto Days - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/777/774/3230777774_4_1_1.jpg?t=1770384977206",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-capucha-sakamoto-days-l03230777",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta roja STWD - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/764/600/3230764600_4_1_1.jpg?t=1766406059635",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-roja-stwd-l03230764",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Ford Bronco - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/707/803/3230707803_4_1_1.jpg?t=1764684087945",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ford-bronco-l03230707",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta fútbol Ford - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/507/401/3230507401_4_1_1.jpg?t=1763553044229",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-ford-l03230507",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta hockey Peanuts - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/522/251/3230522251_2_7_1.jpg?t=1764080824654",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-hockey-peanuts-l03230522",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta Sakamoto Days - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/773/922/3230773922_4_1_1.jpg?t=1770384971976",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-sakamoto-days-l03230773",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Dan Da Dan - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/525/251/3230525251_2_7_1.jpg?t=1765809523384",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-dan-da-dan-l03230525",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/508/800/3230508800_2_7_1.jpg?t=1768897234335",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-grafico-l03230508",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta logo - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3232/501/620/3232501620_4_1_1.jpg?t=1770644208361",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-logo-l03232501",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta gráfico manga larga - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/528/251/3230528251_4_1_1.jpg?t=1768219054381",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-manga-larga-l03230528",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta interlock - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/710/600/3230710600_4_1_1.jpg?t=1765442899385",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-interlock-l03230710",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Pack bermuda y camiseta básica - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3241/999/711/3241999711_2_1_1.jpg?t=1741625684059",
+        "url_producto": "https://www.pullandbear.com/es/pack-bermuda-y-camiseta-basica-l03241999",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Polo rayas 21 Savage - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/524/104/3230524104_2_7_1.jpg?t=1764765306306",
+        "url_producto": "https://www.pullandbear.com/es/polo-rayas-21-savage-l03230524",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Cars Luigi's - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/547/251/3230547251_4_1_1.jpg?t=1771511533739",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-cars-luigis-l03230547",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Ford - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/505/251/3230505251_2_7_1.jpg?t=1764757399861",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-ford-l03230505",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta texto - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/521/250/3231521250_4_1_1.jpg?t=1770905529455",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-texto-l03231521",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta gráfico Retrospective - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/531/251/3230531251_2_7_1.jpg?t=1770633762018",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-grafico-retrospective-l03230531",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD manga raglán - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/534/401/3230534401_2_7_1.jpg?t=1771593734112",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-manga-raglan-l03230534",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta gráfico gato - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/583/251/7152583251_4_1_1.jpg?t=1766506567939",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-grafico-gato-l07152583",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga larga bolsillo - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/513/615/3230513615_2_7_1.jpg?t=1770040142192",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-larga-bolsillo-l03230513",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta béisbol Ford - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/782/800/3230782800_4_1_1.jpg?t=1767959340597",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-beisbol-ford-l03230782",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta tirantes - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7152/710/250/7152710250_4_1_1.jpg?t=1754041075437",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-tirantes-l07152710",
+        "precio_original": null,
+        "precio_final": "7.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta fútbol STWD Studio Archives - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/500/802/3230500802_2_7_1.jpg?t=1768926818925",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-stwd-studio-archives-l03230500",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta heavy weight - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3243/501/800/3243501800_4_1_1.jpg?t=1751875189986",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-heavy-weight-l03243501",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta tirantes - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3232/502/251/3232502251_4_1_1.jpg?t=1772009171043",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-tirantes-l03232502",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga corta bordado - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3232/701/800/3232701800_4_1_1.jpg?t=1771942253502",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-corta-bordado-l03232701",
+        "precio_original": null,
+        "precio_final": "9.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD dados - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/765/250/3230765250_4_1_1.jpg?t=1765989037902",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-dados-l03230765",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta cropped manga corta - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/511/800/3231511800_2_7_1.jpg?t=1769423892397",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-cropped-manga-corta-l03231511",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD Community - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/533/600/3230533600_4_1_1.jpg?t=1769501237759",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-community-l03230533",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta doble logo - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/713/500/3230713500_4_1_1.jpg?t=1770913752352",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-doble-logo-l03230713",
+        "precio_original": null,
+        "precio_final": "9.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta Cars manga raglán - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/920/251/3230920251_4_1_1.jpg?t=1771511533140",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-cars-manga-raglan-l03230920",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta NFL Bills - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/542/251/3230542251_4_1_1.jpg?t=1769437901273",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-nfl-bills-l03230542",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta manga doble gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/514/500/3230514500_2_7_1.jpg?t=1770040140631",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-manga-doble-grafico-l03230514",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta STWD Community - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/775/802/3230775802_4_1_1.jpg?t=1771321059903",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-stwd-community-l03230775",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3231/713/711/3231713711_4_1_1.jpg?t=1772184545651",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-grafico-l03231713",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta punto paneles - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/7550/703/717/7550703717_4_1_1.jpg?t=1756106607598",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-punto-paneles-l07550703",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Camiseta fútbol Sakamoto Days - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/772/800/3230772800_4_1_1.jpg?t=1770384977826",
+        "url_producto": "https://www.pullandbear.com/es/camiseta-futbol-sakamoto-days-l03230772",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/738/251/3230738251_4_1_1.jpg?t=1768487102393",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-grafico-l03230738",
+        "precio_original": null,
+        "precio_final": "19.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    },
+    {
+        "nombre": "Sudadera manga corta gráfico - Pull&Bear España",
+        "imagen": "https://static.pullandbear.net/2/photos/2026/V/0/2/p/3230/758/500/3230758500_4_1_1.jpg?t=1770023604005",
+        "url_producto": "https://www.pullandbear.com/es/sudadera-manga-corta-grafico-l03230758",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_camisetas"
+    }
+]

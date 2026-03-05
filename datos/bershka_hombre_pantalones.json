@@ -1,0 +1,830 @@
+[
+    {
+        "nombre": "Pantalón super baggy tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/5d1d/a1f5/651a420cb636/472d2a965a68/05422710717-p/05422710717-p.jpg?ts=1755156807280&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p209139148.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2253/207b/7d4c42cea920/b9996a35d276/00940710505-02-p/00940710505-02-p.jpg?ts=1771587442672&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p213278972.html?colorId=505&stylismId=2",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón barrel print bajo - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/5bba/4474/1e824f9c8f37/95da543db7a9/00878710829-21-p/00878710829-21-p.jpg?ts=1772026105923&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-barrel-print-bajo-c0p218801669.html?colorId=829&stylismId=21",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/a3bd/abb7/3d994011bb9e/27a5fd6132c7/05491190818-p/05491190818-p.jpg?ts=1768917743907&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209138915.html?colorId=818",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón tailoring cintura cruzada - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/e72c/e5ab/af664080af85/90b6dcc4ba00/00904710829-p/00904710829-p.jpg?ts=1768464680789&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-tailoring-cintura-cruzada-c0p206712959.html?colorId=829",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon animal print - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/bae5/5547/208648b4ac28/90e1b0ccc29f/01076190818-p/01076190818-p.jpg?ts=1771583320037&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-animal-print-c0p209031816.html?colorId=818",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy bordado - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/3bf6/cf09/08934f5d90d7/1dbae74f81b6/01287335800-p/01287335800-p.jpg?ts=1770109784582&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-bordado-c0p207684760.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón  felpa jogger - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/769d/62d4/c49f46d8bb22/d7758430010c/05490190800-p/05490190800-p.jpg?ts=1766413442655&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n--felpa-jogger-c0p209138930.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy con lino - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/0e4e/769d/66fd4ca6bcf2/2b2e9b30ead4/01011053717-p/01011053717-p.jpg?ts=1771488772132&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-con-lino-c0p209975798.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón barrel tailoring cinturón - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8144/b7e4/a15b4caa8268/32c39c6d6b64/01256168800-p/01256168800-p.jpg?ts=1767104086794&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-barrel-tailoring-cintur%C3%B3n-c0p206711766.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/36b1/2aa7/c1c14b51801c/ec5142e48742/00982003401-21-p/00982003401-21-p.jpg?ts=1770973881965&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p216376281.html?colorId=401&stylismId=21",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pinzas fluido - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/c9db/56e1/5fc94ff7be92/9f4bba8656af/00943710401-p/00943710401-p.jpg?ts=1770644349897&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pinzas-fluido-c0p205750035.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón barrel tailoring cortes - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/d0e5/7aa3/62c34935925c/8c3eb468b535/01372168700-p1/01372168700-p1.jpg?ts=1772196990048&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-barrel-tailoring-cortes-c0p209007227.html?colorId=700",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2d4e/5748/54504789a106/c19b5410a622/05422710800-p1/05422710800-p1.jpg?ts=1762506210911&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p209139147.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pana - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/6c8f/d31f/b7aa4f8d9b9a/d6262b083f7e/05424046829-p/05424046829-p.jpg?ts=1758805538762&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pana-c0p209139040.html?colorId=829",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/335b/eb1b/fff542d7b9a1/eb675fad7451/00940710800-p/00940710800-p.jpg?ts=1768464827227&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p205750049.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón supper baggy - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/1e07/f8d8/b7f140629c3e/c4bc3c96980b/0150173280501-p/0150173280501-p.jpg?ts=1770306162240&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-supper-baggy-c0p216376200.html?colorId=805&stylismId=1",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon print - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/a2be/d660/21dc4c82b0d7/76b5b0ea99fd/01302190805-p/01302190805-p.jpg?ts=1771581053982&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-print-c0p209007202.html?colorId=805",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón superbaggy semijogger plisado - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/bc43/a11f/5a4648519a72/f1fae1df0bf0/01106054717-a4o/01106054717-a4o.jpg?ts=1772018242506&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-semijogger-plisado-c0p210332956.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy con lino - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/96cf/003a/166a4d44acd9/54f83744d875/01011053800-p/01011053800-p.jpg?ts=1771488772829&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-con-lino-c0p209975796.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pana - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/a591/6b7f/bf7b4104a5be/f646a786306a/05424046711-p/05424046711-p.jpg?ts=1760099430415&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pana-c0p209139038.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón superbaggy semijogger plisado - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8eb2/6198/a13747f8aa1a/dd053548cf83/01106054711-a4o/01106054711-a4o.jpg?ts=1772035507478&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-semijogger-plisado-c0p210332954.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón supper baggy - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/09fc/8ab4/093248448f2e/52dbecc14fa8/01501732700-p/01501732700-p.jpg?ts=1772546969118&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-supper-baggy-c0p209012217.html?colorId=700",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy técnico - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/6571/a0a6/b1dd4423bece/582776975f46/00811053800-04-p/00811053800-04-p.jpg?ts=1770289557434&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-t%C3%A9cnico-c0p216376765.html?colorId=800&stylismId=4",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/3d52/537c/c3684858bb5c/d147e52a4eae/00940710806-21-p/00940710806-21-p.jpg?ts=1771431593984&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p217315758.html?colorId=806&stylismId=21",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b78b/d4e4/fea145fc9827/8179fa887ff2/05422710800-21-p/05422710800-21-p.jpg?ts=1770218991117&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p209484596.html?colorId=800&stylismId=21",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8328/6087/915f4b249124/26d3f3d27f26/05422710717-21-p/05422710717-21-p.jpg?ts=1761147124077&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p209441865.html?colorId=717&stylismId=21",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pana - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/58c3/ce87/e5d84d40bb3e/fdba53db43ad/05424046829-21-p/05424046829-21-p.jpg?ts=1760534160749&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pana-c0p209485311.html?colorId=829&stylismId=21",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón supper baggy - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/1dbe/03c3/96aa408b9de5/6fd386b9c855/01501732805-p/01501732805-p.jpg?ts=1768917422498&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-supper-baggy-c0p209012219.html?colorId=805",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b065/ca79/0ad5424b9962/60984eb76610/05491190810-p/05491190810-p.jpg?ts=1768917738122&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209138912.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy técnico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/6c08/3e7b/b2a6459eaddf/5c057de27387/00811053401-p/00811053401-p.jpg?ts=1769529255859&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-t%C3%A9cnico-c0p205543179.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón jogger cargo - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/e9ee/1a14/26584a7794b5/782613f0b71d/01004388717-a4o/01004388717-a4o.jpg?ts=1767964620499&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-jogger-cargo-c0p205543175.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pana - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/31a1/a286/365d434d9562/0761282a2deb/05424046711-21-p/05424046711-21-p.jpg?ts=1762505879285&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pana-c0p209484829.html?colorId=711&stylismId=21",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8917/ce76/0f0048729e2e/f18f02428ffc/00940710806-p/00940710806-p.jpg?ts=1768464988573&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p205750051.html?colorId=806",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/03c6/1472/b4d449f18cc2/198382de9938/00909235800-p/00909235800-p.jpg?ts=1768811595376&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-c0p205532530.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy rústico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/01f5/a317/61bd4eb9af1c/0460dc26d8a1/00995721505-p/00995721505-p.jpg?ts=1771428939035&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-r%C3%BAstico-c0p207129250.html?colorId=505",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón tailoring cintura cruzada - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/c9f0/ef67/dce34846a97c/4b0847015fac/00904710829-21-p/00904710829-21-p.jpg?ts=1766489638353&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-tailoring-cintura-cruzada-c0p211378857.html?colorId=829&stylismId=21",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/9e70/743f/c0274a31bb26/bed105be17ad/05491190800-p/05491190800-p.jpg?ts=1768917733687&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209138913.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pinzas - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/9689/4c7e/874e48fca910/3443c07960df/01572168800-p/01572168800-p.jpg?ts=1772546999342&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pinzas-c0p212744470.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón supper baggy - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8376/7f4e/4a9f4d57be04/61c6b8388e21/01501732810-01-p/01501732810-01-p.jpg?ts=1770205266079&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-supper-baggy-c0p216376199.html?colorId=810&stylismId=1",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/afdd/a1ca/631740389a35/a4e456839299/05491190800-01-p/05491190800-01-p.jpg?ts=1768917497837&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209484624.html?colorId=800&stylismId=1",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon interlock - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/9276/f9eb/829b4ee5a7e7/e6bdf5d23e10/01269190812-p/01269190812-p.jpg?ts=1770307176714&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-interlock-c0p209007208.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón slim fit cargo técnico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/7ef5/692e/dd0f42909c2e/70f7e9321ba1/00913053800-p/00913053800-p.jpg?ts=1770283823976&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-slim-fit-cargo-t%C3%A9cnico-c0p205750032.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2fd1/3d46/24204986bde8/3830367dda3b/05422710717-01-p/05422710717-01-p.jpg?ts=1767006511311&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p211379359.html?colorId=717&stylismId=1",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pinzas - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8a05/33fb/380d45f19813/49a1e75c0e9d/01572168829-p/01572168829-p.jpg?ts=1770627666957&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pinzas-c0p211722892.html?colorId=829",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón superbaggy semijogger plisado - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/12f5/76fd/d4f1401d9eee/520806146c43/01106054800-a4o/01106054800-a4o.jpg?ts=1772193403515&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-superbaggy-semijogger-plisado-c0p210332955.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón slim fit cargo técnico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/6341/4883/c8694d4b9feb/819ecf18494d/00913053811-p/00913053811-p.jpg?ts=1770283825386&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-slim-fit-cargo-t%C3%A9cnico-c0p205750031.html?colorId=811",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón técnico pinzas - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/d0b0/16b4/db8147b38706/e814ce46c022/05498707812-21-p/05498707812-21-p.jpg?ts=1764764298468&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-t%C3%A9cnico-pinzas-c0p209484770.html?colorId=812&stylismId=21",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón técnico pinzas - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/f3e4/2563/d34d4dc085fc/16f8906d001a/05498707812-p/05498707812-p.jpg?ts=1754390894544&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-t%C3%A9cnico-pinzas-c0p209138856.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón straight jogger tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/0507/c3ff/a6d24a799df8/9940fcca7a5d/05414710830-p/05414710830-p.jpg?ts=1761147623428&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-straight-jogger-tailoring-c0p209139033.html?colorId=830",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón jogger cargo - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/8bf1/ec7a/a5d64947b89d/b72d8469c115/01004388800-a4o/01004388800-a4o.jpg?ts=1767964619441&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-jogger-cargo-c0p205543173.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy print - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/d66c/0fb8/2cd145e38e3e/3721f5fd127f/00850388809-p/00850388809-p.jpg?ts=1769673792388&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-print-c0p215064402.html?colorId=809&stylismId=2",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy con lino - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/98a2/50a8/bc8a40db9fc6/a83327b9fb9a/01011053251-p/01011053251-p.jpg?ts=1771488779714&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-con-lino-c0p209975800.html?colorId=251",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón straight jogger tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/d2d7/9d47/6b9144d9b9fe/4aabd597c024/05414711717-a2d/05414711717-a2d.jpg?ts=1763633391777&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-straight-jogger-tailoring-c0p209139036.html?colorId=717",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón megabarrel - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/0bdb/3ac8/cd764ab3a8ad/fb078b90e102/01915710711-p/01915710711-p.jpg?ts=1772547109052&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-megabarrel-c0p211722891.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón wide leg - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/a658/99e5/cead49bf8f28/3e787f55878f/01350190800-p/01350190800-p.jpg?ts=1770803288837&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-wide-leg-c0p207855788.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy rústico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/24d2/9ac9/80a8497e8efd/bcf2eeceee80/00995721800-p/00995721800-p.jpg?ts=1771576598298&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-r%C3%BAstico-c0p207129248.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy print - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/d66c/0fb8/2cd145e38e3e/3721f5fd127f/00850388809-p/00850388809-p.jpg?ts=1769673792388&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-print-c0p209139041.html?colorId=809",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy con lino - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2bce/a5ac/f9704e488021/0ade9ad5f4bf/01011053711-p/01011053711-p.jpg?ts=1771576598315&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-con-lino-c0p209975795.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy print - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/5458/3ffb/cd354096910a/3255c447ac48/01003388700-p/01003388700-p.jpg?ts=1768811740159&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-print-c0p206016419.html?colorId=700",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón straight jogger tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/4536/346f/1b6345579902/ee439938d7cf/05414710800-p/05414710800-p.jpg?ts=1761147538348&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-straight-jogger-tailoring-c0p209139035.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "12.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/1eb3/dd18/418144298aee/57d065ae3b66/05491190812-p/05491190812-p.jpg?ts=1768917776971&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209138914.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón técnico pinzas - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/4e54/27fb/c7ad4c5c8110/55dbcaa81263/05498707800-21-p/05498707800-21-p.jpg?ts=1770216324082&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-t%C3%A9cnico-pinzas-c0p209441858.html?colorId=800&stylismId=21",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2953/036f/f1544b2eb452/7647a3c54153/00909235711-p/00909235711-p.jpg?ts=1768811559860&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-c0p205532529.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy técnico sport - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b104/7113/ac3a4d278f70/b09e27d090a1/00805046529-p/00805046529-p.jpg?ts=1769529449377&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-t%C3%A9cnico-sport-c0p204066871.html?colorId=529",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón  felpa jogger - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/ef5c/b1d6/c22747b69422/5cdf87d65185/05490190812-p/05490190812-p.jpg?ts=1766413263187&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n--felpa-jogger-c0p209138931.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "17.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón cargo baggy - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/c0bc/ffc2/6b7f43e98fa6/9016eebf7ea4/01266732802-p/01266732802-p.jpg?ts=1771501404457&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-cargo-baggy-c0p209007199.html?colorId=802",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/52ff/17fa/715d41828643/b24887d910c8/00982003401-p/00982003401-p.jpg?ts=1769070343148&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p205026491.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "27.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy técnico sport - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/475e/c705/317f491c902b/78cc837faa2e/00805046800-p/00805046800-p.jpg?ts=1769588223283&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-t%C3%A9cnico-sport-c0p204066870.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/bcf5/7994/2b00426287e4/b7fd175a0620/00940710505-p/00940710505-p.jpg?ts=1771579675092&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p205750050.html?colorId=505",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón tailoring megabaggy - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/cddb/324b/06aa4d4b947f/f775e6f12569/01210046711-p/01210046711-p.jpg?ts=1771323488273&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-tailoring-megabaggy-c0p217315715.html?colorId=711&stylismId=1",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pinzas fluido - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/84cc/cec2/667e4dcab09d/0b63559b13e9/00943710806-p/00943710806-p.jpg?ts=1770644383896&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pinzas-fluido-c0p205750037.html?colorId=806",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon interlock - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/12eb/29e1/077340d7ab91/dd893f257614/01269190800-p/01269190800-p.jpg?ts=1770307181868&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-interlock-c0p209007207.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón supper baggy - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/af4f/f656/8fae4e22bf9a/60f4b6b08db4/01501732810-p/01501732810-p.jpg?ts=1768917425757&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-supper-baggy-c0p209012218.html?colorId=810",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy rústico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/68d2/0c6a/f6b34250aa0e/a4fba712d8c9/00995721250-p/00995721250-p.jpg?ts=1771430989832&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-r%C3%BAstico-c0p207129251.html?colorId=250",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy pinzas fluido - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/9fa5/2669/04374b5484f6/c1da47f1257f/00943710800-p/00943710800-p.jpg?ts=1770644297597&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-pinzas-fluido-c0p205750036.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/39b8/792b/9dbc461a96c4/3c200aacd1eb/05491190812-21-p/05491190812-21-p.jpg?ts=1770219019450&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209442167.html?colorId=812&stylismId=21",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/7183/bfd9/46004aa3bd96/518e4e01874f/05422710401-p/05422710401-p.jpg?ts=1762246653160&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p209139146.html?colorId=401",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón wide leg - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/11fc/a558/655740d1a43a/3c23610436ee/01350190812-p/01350190812-p.jpg?ts=1770803289874&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-wide-leg-c0p207855789.html?colorId=812",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón jogger cargo - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/c697/75e4/170a41718182/ffbf4aebc42a/01004388711-a4o/01004388711-a4o.jpg?ts=1767964618689&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-jogger-cargo-c0p205543172.html?colorId=711",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy técnico - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/6e3d/fe7a/cece4b619323/243880f7621b/00811053800-p1/00811053800-p1.jpg?ts=1770988052394&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-t%C3%A9cnico-c0p205543180.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/7a2d/35bc/c1f24ed3a87a/b0d7262655af/05491190812-01-p/05491190812-01-p.jpg?ts=1768917510094&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209442165.html?colorId=812&stylismId=1",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón straight jogger tailoring - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/693f/5c64/a57f4e6485a8/a405219da58d/05414710712-p/05414710712-p.jpg?ts=1761147581712&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-straight-jogger-tailoring-c0p209139034.html?colorId=712",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy tailoring - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/ffb1/b717/4c7c43c58401/71c6de79de2c/05422710401-01-p/05422710401-01-p.jpg?ts=1767006230227&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-tailoring-c0p209441237.html?colorId=401&stylismId=1",
+        "precio_original": null,
+        "precio_final": "14.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón técnico pinzas - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/7795/121b/8f5048189508/8b71466a0ef2/05498707800-p1/05498707800-p1.jpg?ts=1760099378336&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-t%C3%A9cnico-pinzas-c0p209138855.html?colorId=800",
+        "precio_original": null,
+        "precio_final": "29.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b149/9569/e6aa44089970/2253237e4fc2/05491190810-21-a1t/05491190810-21-a1t.jpg?ts=1757505701728&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209442071.html?colorId=810&stylismId=21",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón supper baggy - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/979e/2afa/b74f4a058481/e136b9dc60a9/01501732810-21-p/01501732810-21-p.jpg?ts=1771431716769&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-supper-baggy-c0p217315242.html?colorId=810&stylismId=21",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy print - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/49b1/22e3/09ce411b90e6/0b9c2b329e75/01003388500-p/01003388500-p.jpg?ts=1768811740191&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-print-c0p206016418.html?colorId=500",
+        "precio_original": null,
+        "precio_final": "35.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón barrel print bajo - Pantalones - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2f89/1fb4/cfd64c1d8a8f/3dba364cb460/00878710829-p/00878710829-p.jpg?ts=1768391621417&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-barrel-print-bajo-c0p205750048.html?colorId=829",
+        "precio_original": null,
+        "precio_final": "39.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy técnico - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/b91f/1df6/1b414c4db93f/b8a921b41021/00811053401-04-p/00811053401-04-p.jpg?ts=1770290476325&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-t%C3%A9cnico-c0p216376764.html?colorId=401&stylismId=4",
+        "precio_original": null,
+        "precio_final": "22.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón super baggy - #bershkastyle - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/2802/a7d3/41d44af78603/4c6e3ca4aa0d/00909235711-21-p/00909235711-21-p.jpg?ts=1770216893529&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-super-baggy-c0p216376775.html?colorId=711&stylismId=21",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    },
+    {
+        "nombre": "Pantalón balloon - Hombre",
+        "imagen": "https://static.bershka.net/assets/public/387f/bd0c/7d8948c39afc/2d8ba51cfd9c/05491190818-01-p/05491190818-01-p.jpg?ts=1768917502935&w=850",
+        "url_producto": "https://www.bershka.com/es/pantal%C3%B3n-balloon-c0p209485207.html?colorId=818&stylismId=1",
+        "precio_original": null,
+        "precio_final": "25.99€",
+        "descuento": null,
+        "categoria": "hombre_pantalones"
+    }
+]
