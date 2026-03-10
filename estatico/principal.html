@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MODA - Home</title>
+
     <link rel="stylesheet" href="/estilos/menu.css">
     <link rel="stylesheet" href="/estilos/principal.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -15,12 +16,27 @@
     <main class="home-container">
         <section class="hero-zara">
             <div class="hero-content">
-                <h1>NEW IN</h1>
-                <p>DESCUBRE LAS ÚLTIMAS TENDENCIAS DE LA TEMPORADA</p>
-                <div class="hero-links">
-                    <a href="/mujer" class="btn-hero">MUJER</a>
-                    <a href="/hombre" class="btn-hero">HOMBRE</a>
+                <div class="hero-badge">
+                    <i class="fa-solid fa-sparkles"></i>
+                    Nueva colección 2026
                 </div>
+
+                <h1>MODA QUE IMPACTA</h1>
+                <p>
+                    Descubre prendas, tendencias y ofertas en una experiencia visual más premium,
+                    moderna y elegante. Todo tu catálogo en un solo lugar.
+                </p>
+
+                <div class="hero-links">
+                    <a href="/mujer" class="btn-hero">Mujer</a>
+                    <a href="/hombre" class="btn-hero">Hombre</a>
+                </div>
+            </div>
+
+            <div class="hero-floating-card">
+                <small>Selección premium</small>
+                <strong>Estilo, minimalismo y tendencia en una sola home.</strong>
+                <span>Explora Zara, Pull&amp;Bear, Bershka y Mango con una estética mucho más visual.</span>
             </div>
         </section>
 
@@ -29,40 +45,58 @@
                 <a href="/zara">
                     <div class="tienda-info">
                         <h2>ZARA</h2>
-                        <span>VER COLECCIÓN</span>
+                        <span><i class="fa-solid fa-arrow-right"></i> Ver colección</span>
                     </div>
                 </a>
             </div>
+
             <div class="tienda-card pull-bg">
                 <a href="/pullandbear">
                     <div class="tienda-info">
-                        <h2>PULL&BEAR</h2>
-                        <span>EXPLORAR</span>
+                        <h2>PULL&amp;BEAR</h2>
+                        <span><i class="fa-solid fa-arrow-right"></i> Explorar</span>
                     </div>
                 </a>
             </div>
+
             <div class="tienda-card bershka-bg">
                 <a href="/bershka">
                     <div class="tienda-info">
                         <h2>BERSHKA</h2>
-                        <span>NEW STYLE</span>
+                        <span><i class="fa-solid fa-arrow-right"></i> New style</span>
                     </div>
                 </a>
             </div>
+
             <div class="tienda-card mango-bg">
                 <a href="/mango">
                     <div class="tienda-info">
                         <h2>MANGO</h2>
-                        <span>ESSENTIALS</span>
+                        <span><i class="fa-solid fa-arrow-right"></i> Essentials</span>
                     </div>
                 </a>
             </div>
         </section>
 
+        <section class="banner-luxury">
+            <div>
+                <h4>Un diseño mucho más visual y actual</h4>
+                <p>
+                    Ahora la home tiene bloques más elegantes, mejor contraste, tarjetas premium
+                    y una estética mucho más fuerte para que el proyecto entre por los ojos.
+                </p>
+            </div>
+            <div class="banner-pill">Modo premium</div>
+        </section>
+
         <section class="seccion-destacada">
             <div class="destacado-header">
-                <h3>OFERTAS DESTACADAS</h3>
-                <a href="/ofertas" class="ver-todo">VER TODO</a>
+                <div>
+                    <h3>Ofertas destacadas</h3>
+                    <p>Una selección cuidada de productos en tendencia y con mejor presentación visual.</p>
+                </div>
+
+                <a href="/ofertas" class="ver-todo">Ver todo</a>
             </div>
 
             <div class="grid-productos-home">
@@ -75,11 +109,16 @@
                             {% endif %}
                             <img src="{{ producto.imagen }}" alt="{{ producto.nombre }}" loading="lazy">
                         </div>
+
                         <div class="info-producto">
                             <span class="marca-tag">{{ producto.tienda }}</span>
                             <h3 class="nombre-prenda">{{ producto.nombre }}</h3>
+
                             <div class="precios">
                                 <span class="p-final">{{ producto.precio_final }}</span>
+                                <span class="mini-btn">
+                                    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                                </span>
                             </div>
                         </div>
                     </a>

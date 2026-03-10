@@ -31,8 +31,8 @@ TIENDAS = {
     #     # ========================
     #
          "camisetas_mujer": "https://www.zara.com/es/es/mujer-camisetas-l1362.html",
-         "pantalones_mujer": "https://www.zara.com/es/es/mujer-pantalones-l1336.html",
-         "sudadera_mujer": "https://www.zara.com/es/es/mujer-sudaderas-l1375.html",
+         "pantalones_mujer": "https://www.zara.com/es/es/mujer-pantalones-l1335.html?v1=2420795",
+         "sudadera_mujer": "https://www.zara.com/es/es/mujer-sudaderas-l1320.html?v1=2467841",
          "vestidos_mujer": "https://www.zara.com/es/es/mujer-vestidos-l1066.html",
      },
 
@@ -60,12 +60,12 @@ TIENDAS = {
     # ============================================================
     # PULL&BEAR (ACTIVO)
     # ============================================================
-    #"pullandbear": {
+    "pullandbear": {
 
         # ========================
         # HOMBRE
         # ========================
-        #"hombre_camisetas": "https://www.pullandbear.com/es/hombre/ropa/camisetas-n6323",
+        "hombre_camisetas": "https://www.pullandbear.com/es/hombre/ropa/camisetas-n6323",
         # "hombre_pantalones": "PEGA_AQUI_URL_PULLANDBEAR_HOMBRE_PANTALONES",
         # "hombre_sudaderas": "PEGA_AQUI_URL_PULLANDBEAR_HOMBRE_SUDADERAS",
 
@@ -73,10 +73,10 @@ TIENDAS = {
         # MUJER
         # ========================
         #"mujer_camisetas": "PEGA_AQUI_URL_PULLANDBEAR_MUJER_CAMISETAS",
-         #"mujer_pantalones": "https://www.pullandbear.com/es/mujer/ropa/pantalones-n6600",
+        "mujer_pantalones": "https://www.pullandbear.com/es/mujer/ropa/pantalones-n6600",
         # "mujer_sudaderas": "PEGA_AQUI_URL_PULLANDBEAR_MUJER_SUDADERAS",
         # "mujer_vestidos": "PEGA_AQUI_URL_PULLANDBEAR_MUJER_VESTIDOS",
-    #},
+    },
 }
 
 
@@ -136,8 +136,8 @@ async def ejecutar():
             # ==========================
             # PULL&BEAR (ACTIVO)
             # ==========================
-            #if tienda == "pullandbear":
-            #    productos = await extraer_categoria_pull(url, nombre_tarea)
+            if tienda == "pullandbear":
+                productos = await extraer_categoria_pull(url, nombre_tarea)
 
             if not productos:
                 print("⚠ No se encontraron productos")

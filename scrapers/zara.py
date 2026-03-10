@@ -1,9 +1,13 @@
+# scrapers/zara.py
 import asyncio
 import re
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 from playwright.async_api import async_playwright
 
 
+# -----------------------------
+# Helpers
+# -----------------------------
 def _to_float_price(text: str) -> Optional[float]:
     """
     Convierte textos tipo:
@@ -14,14 +18,15 @@ def _to_float_price(text: str) -> Optional[float]:
         return None
     t = text.strip()
     t = t.replace("EUR", "").replace("€", "").strip()
-    # Busca un número con 2 decimales
+
     m = re.search(r"(\d+[\.,]\d{2})", t)
     if not m:
         return None
+
     num = m.group(1).replace(",", ".")
     try:
         return float(num)
-    except:
+    except Exception:
         return None
 
 
@@ -34,11 +39,31 @@ def _clean_url(href: str) -> Optional[str]:
     if href.startswith("/"):
         href = "https://www.zara.com" + href
     if href.startswith("http"):
-        # quitar anchors raros
         return href.split("#")[0]
     return None
 
 
+def _is_product_url(url: str) -> bool:
+    """
+    Zara: ficha real de producto suele acabar con -pNNNNNNNN.html
+    Ej: https://www.zara.com/es/es/camiseta-xxxx-p01234567.html
+    """
+    if not url:
+        return False
+    return bool(re.search(r"-p\d+\.html$", url))
+
+
+def _product_id_from_url(url: str) -> Optional[str]:
+    """
+    Devuelve el id pXXXXXXXX como string, para deduplicar.
+    """
+    m = re.search(r"-p(\d+)\.html$", url or "")
+    return m.group(1) if m else None
+
+
+# -----------------------------
+# Page actions
+# -----------------------------
 async def _aceptar_cookies_zara(page) -> None:
     # Zara suele usar OneTrust, pero no siempre aparece.
     try:
@@ -46,30 +71,30 @@ async def _aceptar_cookies_zara(page) -> None:
         if btn:
             await btn.click()
             await asyncio.sleep(1)
-    except:
+    except Exception:
         pass
 
 
-async def _scroll_hasta_fin(page, max_ciclos: int = 120, sin_cambios_max: int = 12) -> None:
+async def _scroll_hasta_fin(page, max_ciclos: int = 160, sin_cambios_max: int = 14) -> None:
     """
-    Scroll real: se basa en que aumente el número de links/productos detectados en el grid.
+    Scroll real: se basa en que aumente el número de *productos reales* detectados (-pXXXX.html)
     Para cuando no crece durante sin_cambios_max ciclos seguidos.
     """
     prev_count = 0
     sin_cambios = 0
 
-    for ciclo in range(1, max_ciclos + 1):
-        # intenta detectar productos en el grid (tolerante)
+    for _ciclo in range(1, max_ciclos + 1):
+        # Contar SOLO URLs de producto (evita contar categorías -lXXXX.html, preowned -mkt, etc.)
         links = await page.query_selector_all("a[href*='/es/es/'][href*='.html']")
-        # Filtrado básico: que parezca ficha de producto (Zara suele tener *.html)
-        hrefs = []
+        hrefs: List[str] = []
+
         for a in links:
             try:
                 href = await a.get_attribute("href")
                 u = _clean_url(href) if href else None
-                if u and "zara.com" in u and u.endswith(".html"):
+                if u and _is_product_url(u):
                     hrefs.append(u)
-            except:
+            except Exception:
                 continue
 
         count = len(set(hrefs))
@@ -84,7 +109,7 @@ async def _scroll_hasta_fin(page, max_ciclos: int = 120, sin_cambios_max: int = 
         await page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
         await asyncio.sleep(2.2)
 
-        # pequeña segunda bajada para forzar loads intermedios
+        # Segunda bajada para forzar loads intermedios
         await page.evaluate("window.scrollBy(0, 1200)")
         await asyncio.sleep(1.4)
 
@@ -94,24 +119,23 @@ async def _scroll_hasta_fin(page, max_ciclos: int = 120, sin_cambios_max: int = 
 
 async def _extraer_urls_listado(page) -> List[str]:
     """
-    Extrae URLs de producto desde el listado, siendo tolerante a cambios de clases.
+    Extrae URLs de producto desde el listado.
+    IMPORTANTE: solo devuelve fichas reales (-pXXXX.html).
     """
-    # Varias estrategias: a) selector general por href, b) grid link común
-    candidatos = set()
+    candidatos: set[str] = set()
 
-    # a) general
+    # a) general por href
     links = await page.query_selector_all("a[href*='/es/es/'][href*='.html']")
     for a in links:
         try:
             href = await a.get_attribute("href")
             u = _clean_url(href) if href else None
-            if u and u.endswith(".html"):
+            if u and _is_product_url(u):
                 candidatos.add(u)
-        except:
+        except Exception:
             continue
 
-    # b) por patrones conocidos en Zara (por si cambian estructuras)
-    #    (no pasa nada si no encuentra nada)
+    # b) por patrones conocidos (fallback)
     for sel in [
         "a.product-grid-product__link",
         "li.product-grid-product a",
@@ -122,26 +146,34 @@ async def _extraer_urls_listado(page) -> List[str]:
             for a in links2:
                 href = await a.get_attribute("href")
                 u = _clean_url(href) if href else None
-                if u and u.endswith(".html"):
+                if u and _is_product_url(u):
                     candidatos.add(u)
-        except:
+        except Exception:
             pass
 
+    # devuelve como lista
     return list(candidatos)
 
 
+# -----------------------------
+# Product extraction
+# -----------------------------
 async def _extraer_ficha_producto(page, url_prod: str) -> Optional[Dict[str, Any]]:
     """
-    Entra en la ficha y devuelve dict si hay precio_final, si no -> None.
+    Entra en la ficha y devuelve dict si hay precio_final + nombre.
+    Si no -> None.
     """
-    # Reintentos por si hay cargas incompletas
+    # Guardrail: si no es URL de producto, fuera (evita landings coladas)
+    if not _is_product_url(url_prod):
+        return None
+
     for intento in range(1, 4):
         try:
             await page.goto(url_prod, wait_until="domcontentloaded", timeout=60000)
             await asyncio.sleep(2.5)
 
-            # Nombre (Zara suele tener h1 del nombre)
-            nombre = None
+            # Nombre
+            nombre: Optional[str] = None
             for sel in ["h1", "h1.product-detail-info__header-name", "h1[data-qa='product-name']"]:
                 el = await page.query_selector(sel)
                 if el:
@@ -151,8 +183,7 @@ async def _extraer_ficha_producto(page, url_prod: str) -> Optional[Dict[str, Any
                         break
 
             # Imagen principal (mejor esfuerzo)
-            imagen = None
-            # intenta imágenes típicas de Zara
+            imagen: Optional[str] = None
             for sel in [
                 "img.media-image__image",
                 "img[data-qa='product-image']",
@@ -171,12 +202,11 @@ async def _extraer_ficha_producto(page, url_prod: str) -> Optional[Dict[str, Any
                             break
                     if imagen:
                         break
-                except:
+                except Exception:
                     continue
 
-            # Precio(s): estrategia robusta
-            # 1) Busca nodos típicos de precio
-            textos_precio = []
+            # Precio(s)
+            textos_precio: List[str] = []
             for sel in [
                 "span.money-amount__main",
                 "span[data-qa='price-current']",
@@ -190,46 +220,43 @@ async def _extraer_ficha_producto(page, url_prod: str) -> Optional[Dict[str, Any
                         t = (await e.inner_text()).strip()
                         if "€" in t or "EUR" in t or re.search(r"\d+[\.,]\d{2}", t):
                             textos_precio.append(t)
-                except:
+                except Exception:
                     continue
 
-            # 2) Deduce valores numéricos únicos
-            valores = []
+            # Deducir valores
+            valores: List[float] = []
             for t in textos_precio:
                 val = _to_float_price(t)
                 if val is not None:
                     valores.append(val)
+
             # únicos preservando orden
             vistos = set()
-            valores_u = []
+            valores_u: List[float] = []
             for v in valores:
                 if v not in vistos:
                     vistos.add(v)
                     valores_u.append(v)
 
-            precio_original = None
-            precio_final = None
-            descuento_txt = None
+            precio_original: Optional[float] = None
+            precio_final: Optional[float] = None
+            descuento_txt: Optional[str] = None
 
             if len(valores_u) == 1:
                 precio_final = valores_u[0]
             elif len(valores_u) >= 2:
-                # Muchas veces aparece final y original (rebajas)
                 precio_original = max(valores_u)
                 precio_final = min(valores_u)
 
-                # Si por algún motivo ambos son iguales, no hay descuento real
                 if precio_original and precio_final and precio_original > precio_final:
                     pct = round(((precio_original - precio_final) / precio_original) * 100)
                     descuento_txt = f"-{pct}%"
                 else:
                     precio_original = None
 
-            # ✅ Filtro duro: si no hay precio_final, NO GUARDAR
+            # Filtros duros
             if not precio_final:
                 return None
-
-            # ✅ Filtro adicional: si no hay nombre, lo descartamos (para evitar basura)
             if not nombre:
                 return None
 
@@ -243,18 +270,20 @@ async def _extraer_ficha_producto(page, url_prod: str) -> Optional[Dict[str, Any
             }
 
         except Exception:
-            # Espera incremental y reintenta
             await asyncio.sleep(1.2 * intento)
 
     return None
 
 
+# -----------------------------
+# Public API (NO CAMBIAR NOMBRE)
+# -----------------------------
 async def extraer_categoria_zara(url: str, nombre_tarea: str = "desconocido") -> List[Dict[str, Any]]:
     """
-    Scraper robusto de Zara:
-    - Scroll hasta el final midiendo crecimiento real
-    - Recoge todas las URLs del listado
-    - Entra en cada producto y SOLO guarda si hay precio_final
+    Scraper Zara:
+    - Scroll hasta el final midiendo crecimiento real (solo productos -pXXXX.html)
+    - Recoge URLs de producto reales
+    - Entra en cada producto y SOLO guarda si hay precio_final y nombre
     """
     async with async_playwright() as p:
         print(f"\n🚀 [ZARA ROBUSTO] Scraping: {nombre_tarea}")
@@ -283,15 +312,19 @@ async def extraer_categoria_zara(url: str, nombre_tarea: str = "desconocido") ->
             print("\n🟦 SCROLL PROFUNDO HASTA FINAL (con control real)")
             await _scroll_hasta_fin(page, max_ciclos=160, sin_cambios_max=14)
 
-            # Extraer URLs del listado
+            # Extraer URLs del listado (solo productos)
             urls = await _extraer_urls_listado(page)
-            # Filtrar un poco: algunas urls pueden ser de editorial/otras cosas
-            # nos quedamos con las que parezcan fichas de producto
-            urls = [u for u in urls if u.startswith("https://www.zara.com/") and u.endswith(".html")]
+            urls = [u for u in urls if _is_product_url(u)]
 
-            # Dedup
-            urls = list(dict.fromkeys(urls))
-            print(f"\n🏁 TOTAL URLS DETECTADAS: {len(urls)}")
+            # Dedup por product id (mejor que dedup por url literal)
+            dedup: Dict[str, str] = {}
+            for u in urls:
+                pid = _product_id_from_url(u) or u
+                if pid not in dedup:
+                    dedup[pid] = u
+            urls = list(dedup.values())
+
+            print(f"\n🏁 TOTAL URLS PRODUCTO DETECTADAS: {len(urls)}")
 
             # Entrar uno por uno y leer ficha
             print("\n🟦 LEYENDO FICHAS (solo guarda si hay precio)")
@@ -306,7 +339,7 @@ async def extraer_categoria_zara(url: str, nombre_tarea: str = "desconocido") ->
                 ficha = await _extraer_ficha_producto(page, url_prod)
                 if not ficha:
                     descartados += 1
-                    print("❌ DESCARTADO (sin precio o sin nombre)")
+                    print("❌ DESCARTADO (sin precio o sin nombre / o no era producto real)")
                     continue
 
                 ficha["categoria"] = nombre_tarea
@@ -315,7 +348,7 @@ async def extraer_categoria_zara(url: str, nombre_tarea: str = "desconocido") ->
                 print(f"✅ GUARDADO: {ficha['nombre'][:60]} | {ficha['precio_final']} | {ficha.get('descuento')}")
 
             print("\n" + "=" * 90)
-            print(f"🏆 ZARA ROBUSTO COMPLETADO")
+            print("🏆 ZARA ROBUSTO COMPLETADO")
             print(f"✅ Guardados : {guardados}")
             print(f"❌ Descartados: {descartados}")
             print("=" * 90)
